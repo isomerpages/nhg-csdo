@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Hero title
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
