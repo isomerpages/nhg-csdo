@@ -7,7 +7,7 @@ permalink: /
 notification: This Site is currently under construction.
 sections:
   - hero:
-      title: Hero title
+      title: Clinician-Scientist
       background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
