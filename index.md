@@ -7,7 +7,7 @@ permalink: /
 notification: This Site is currently under construction.
 sections:
   - hero:
-      title: Clinician-Scientist Development Office
+      title: Clinician-Scientist Development Office (CSDO)
       background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
