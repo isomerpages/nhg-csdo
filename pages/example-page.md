@@ -3,7 +3,7 @@ title: Example Page
 permalink: /example-page/
 variant: tiptap
 ---
-<h4><strong>THis is how it looks like.</strong></h4>
+<h2><strong>THis is how it looks like.</strong></h2>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>sad</p>
+<h4>sad</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p>asdasd</p>
