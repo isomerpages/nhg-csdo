@@ -4,7 +4,7 @@ title: NHG Clinician-Scientist Development Office (CSDO)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: This Site is currently under construction.
+notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: Clinician-Scientist Development Office (CSDO)
