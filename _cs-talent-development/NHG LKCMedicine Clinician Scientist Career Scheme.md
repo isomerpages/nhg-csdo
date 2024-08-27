@@ -209,14 +209,17 @@ to junior investigators or peers.</p>
 <p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
 the CSCS Secretariat at NHG Group Research through their Institution’s
 Clinical Research Unit (CRU)/Clinical Research and Innovation Office (CRIO).</p>
+<p></p>
 </li>
 <li>
 <p>The Institution’s CRU/CRIO will set respective internal deadlines for
 the above submissions. Please check with your institutions for these deadlines.</p>
+<p></p>
 </li>
 <li>
 <p>The Institution’s CRU/CRIO will ensure that the respective documents reach
 the CSCS Secretariat by the stipulated deadlines.</p>
+<p></p>
 </li>
 <li>
 <p>Applications submitted after the call closing date and time will not be
