@@ -2,5 +2,6 @@ collections:
   cs-talent-development:
     output: true
     order:
+      - NHG LKCMedicine Clinician Scientist Career Scheme.md
       - Recipients of the National Talent Development Award (Clinician
         Scientists).md
