@@ -336,6 +336,31 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The CSCS Forms &amp; Template Package consists of the following documents:</p>
+<p>
+<br>1. CSCS Variation Forms
+<br>
+<br>(a) Request for Budget Variation Form
+<br>(b) Request to fund Unbudgeted Item Form
+<br>(c) Request for Time Extension Form
+<br>(d) Request for Change of Research Scope
+<br>
+<br>2. CSCS Interim Report Template
+<br>3. CSCS Final Report Template
+<br>4. Annex for CSCS Interim &amp; Final Report Template
+<br>5. CSCS Research Protected Time Logsheet
+<br>6. NHG Research Funding Guidelines</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the CSCS Forms &amp; Template Package here.</p>
+</li>
+</ul>
+<p></p>
 </div>
 </details>
 </div>
