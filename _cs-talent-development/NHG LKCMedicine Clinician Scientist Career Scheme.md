@@ -160,8 +160,86 @@ CSCS award.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mentorship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Each applicant is required to nominate a mentor from NHG and a mentor
+from LKCMedicine (subject to approval by the review committee) to guide
+them in their research career and project.</p>
 <p></p>
+</li>
+<li>
+<p>The CSCS Secretariat may assist in the nomination of appropriate mentor(s)
+where required.</p>
+<p></p>
+</li>
+<li>
+<p>The mentor should be an established clinician scientist or clinical scientist
+who:
+<br>
+<br>(a) Is involved in research with significant impact on clinical care;
+<br>
+</p>
+<p>(b) Has had experience as Principal investigator (PI) in a relevant area
+of research;</p>
+<p>(c) Has strong foundation and knowledge in research methodology and conduct;</p>
+<p>(d) Has obtained intramural/extramural grant(s) during the past 5 years;</p>
+<p>(e) Has an established research track record; and</p>
+<p>(f) Has had experience in supervising or providing research mentorship
+to junior investigators or peers.</p>
+</li>
+</ol>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Application Period</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<h4>Resources</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>FY2024 NHG-LKCMedicine CSCS Information Sheet</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>FY2024 NHG-LKCMedicine CSCS Application Package</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CSCS Forms &amp; Templates</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>Past CSCS Awardees</h4>
+<p>Click here for the list of our past CSCS awardees</p>
+<p></p>
+<h4>Contact information</h4>
+<h4></h4>
 <p></p>
 <p></p>
 <p></p>
