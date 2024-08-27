@@ -15,7 +15,7 @@ for the National Medical Research Council (NMRC) Transition Award (TA)/Clinician
 Scientist Award (CSA) within the next 2-3 years and further build his/her
 research career.</p>
 <p></p>
-<h4>Award Components</h4>
+<h4><strong>Award Components</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Project funding quantum up to S$180,000, for up to 3 years; and</p>
@@ -91,7 +91,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Application</h4>
+<h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Eligibility</strong>
@@ -206,7 +206,7 @@ to junior investigators or peers.</p>
 </div>
 </details>
 </div>
-<h4>Resources</h4>
+<h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>FY2024 NHG-LKCMedicine CSCS Information Sheet</strong>
@@ -234,12 +234,24 @@ to junior investigators or peers.</p>
 </div>
 </details>
 </div>
-<p></p>
-<h4>Past CSCS Awardees</h4>
+<h4><strong>Past CSCS Awardees</strong></h4>
 <p>Click here for the list of our past CSCS awardees</p>
+<h4><strong>Contact information</strong></h4>
+<p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
+<p><strong>Ms Nicole Yap</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research and Innovation
+<br>Tel: (65) 6038 3632
+<br>Email: <a href="mailto:Nicole_YX_YAP@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nicole_YX_YAP@nhg.com.sg</a>
+</p>
 <p></p>
-<h4>Contact information</h4>
-<h4></h4>
+<p><strong>Mr Muhammad Syakir</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research and Innovation
+<br>Tel: (65) 6038 3632
+<br>Email: <a href="mailto:muhammad_s_mnajid@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_s_mnajid@nhg.com.sg</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
