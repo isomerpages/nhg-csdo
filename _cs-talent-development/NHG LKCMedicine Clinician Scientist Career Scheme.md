@@ -250,7 +250,6 @@ considered.</p>
 <p><strong>Letter of Intent Submission Deadline</strong>
 <br>(a) Letter of Intent (LOI);
 <br>(b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7 May 2024 (Tuesday), 12pm (SGT)</p>
@@ -259,11 +258,10 @@ considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline</strong>
-<br>(c) Application Form;</p>
-<p>(d) Budget Breakdown Form;</p>
-<p>(e) Other Supporting Documents (e.g., Academic Transcripts etc.);</p>
-<p>(f) Research Team Members and Mentors’ CVs</p>
-<p>&nbsp;</p>
+<br>(c) Application Form;
+<br>(d) Budget Breakdown Form;
+<br>(e) Other Supporting Documents (e.g., Academic Transcripts etc.);
+<br>(f) Research Team Members and Mentors’ CVs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 May 2024 (Tuesday), 12pm (SGT)</p>
@@ -271,7 +269,6 @@ considered.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 </div>
 </details>
