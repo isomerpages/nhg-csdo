@@ -283,6 +283,13 @@ considered.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>This document contains important information about the objective of the
+scheme, award components, eligibility, application procedure, evaluation
+criteria and expected deliverables etc., and should be read carefully before
+proceeding to apply.</p>
+<p></p>
+<p>Download the CSCS Information Sheet here.</p>
+<p></p>
 </div>
 </details>
 </div>
