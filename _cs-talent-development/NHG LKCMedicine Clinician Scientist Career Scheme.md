@@ -204,6 +204,74 @@ to junior investigators or peers.</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
+the CSCS Secretariat at NHG Group Research through their Institution’s
+Clinical Research Unit (CRU)/Clinical Research and Innovation Office (CRIO).</p>
+</li>
+<li>
+<p>The Institution’s CRU/CRIO will set respective internal deadlines for
+the above submissions. Please check with your institutions for these deadlines.</p>
+</li>
+<li>
+<p>The Institution’s CRU/CRIO will ensure that the respective documents reach
+the CSCS Secretariat by the stipulated deadlines.</p>
+</li>
+<li>
+<p>Applications submitted after the call closing date and time will not be
+considered.</p>
+</li>
+</ol>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Table 2. FY2024 Call for Applications I Timeline</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Call Opening</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 April 2024 (Tuesday)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Letter of Intent Submission Deadline</strong>
+<br>(a) Letter of Intent (LOI);
+<br>(b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 May 2024 (Tuesday), 12pm (SGT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Full Application Submission Deadline</strong>
+<br>(c) Application Form;</p>
+<p>(d) Budget Breakdown Form;</p>
+<p>(e) Other Supporting Documents (e.g., Academic Transcripts etc.);</p>
+<p>(f) Research Team Members and Mentors’ CVs</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 May 2024 (Tuesday), 12pm (SGT)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 </div>
 </details>
