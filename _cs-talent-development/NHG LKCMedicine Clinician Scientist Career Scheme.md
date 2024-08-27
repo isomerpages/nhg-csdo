@@ -294,7 +294,7 @@ proceeding to apply.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the CSCS Information Sheet here.</p>
+<p>Download the <a href="/files/CSCS Files/CSCS_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">CSCS Information Sheet here</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -321,7 +321,7 @@ proceeding to apply.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the CSCS Application Package here.</p>
+<p>Download the <a href="https://for.sg/cscs-application-package" rel="noopener nofollow" target="_blank">CSCS Application Package here</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -353,7 +353,7 @@ proceeding to apply.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Download the CSCS Forms &amp; Template Package here.</p>
+<p>Download the <a href="https://for.sg/cscs-resources" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Template Package here</a>.</p>
 </li>
 </ul>
 <p></p>
@@ -361,7 +361,7 @@ proceeding to apply.</p>
 </details>
 </div>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Download the list of our past CSCS awardees here.</p>
+<p>Download the list of our <a href="/files/CSCS Files/CSCS_page_CSCS_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSCS awardees here</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
