@@ -2,6 +2,7 @@ collections:
   clinician-scientist:
     output: true
     order:
+      - Clinician Scientist (CS) Talent Development.md
       - NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP).md
       - NHG LKCMedicine Clinician Scientist Preparatory Programme Plus (CSPP
         Plus).md
