@@ -2,9 +2,13 @@ logo: /images/Logo/NHGlogo.jpg
 links:
   - title: About
     collection: about
-  - title: Clinician Scientist
+  - title: Clinician-Scientist
     collection: clinician-scientist
   - title: Clinician-Innovator
-    collection: about
+    collection: clinician-innovator
+  - title: Training
+    collection: training
+  - title: Resources
+    collection: resources
   - title: Contact Us
     url: /contact-us/
