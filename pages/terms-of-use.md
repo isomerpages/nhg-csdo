@@ -18,4 +18,3 @@ variant: markdown
     *   The contents are accurate, authentic, adequate, applicable, timely, complete or reliable.
         
 4.  None of the contents or any statement made on or obtained through this Site or any oral or written communication between you and NHG (including email or any other electronic communication) shall create or give rise to any warranty unless expressly stated otherwise).
-    
