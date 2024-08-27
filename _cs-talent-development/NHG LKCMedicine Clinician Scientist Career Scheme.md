@@ -7,13 +7,12 @@ description: ""
 <h4><strong>NHG-LKCMedicine Clinician-Scientist Career Scheme (CSCS)</strong></h4>
 <p></p>
 <p>The <strong>Clinician-Scientist Career Scheme (CSCS)</strong> is a research
-manpower development programme jointly offered by NHG and Lee Kong Chian
-School of Medicine (LKCMedicine).</p>
+manpower development programme jointly offered by the <strong>National Healthcare Group (NHG)</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
 <p>It aims to develop research capabilities of clinicians to transform patient
 care through competitive research and enable them to compete successfully
-for the National Medical Research Council (NMRC) Transition Award (TA)/Clinician
-Scientist Award (CSA) within the next 2-3 years and further build his/her
-research career.</p>
+for the <strong>National Medical Research Council (NMRC)</strong> Transition
+Award (TA)/Clinician Scientist Award (CSA) within the next 2-3 years and
+further build his/her research career.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
 <ul data-tight="true" class="tight">
