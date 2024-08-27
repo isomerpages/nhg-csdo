@@ -1,4 +1,5 @@
 collections:
   cs-talent-development:
     output: true
-    order: []
+    order:
+      - National Talent Development Award recipients (Clinician Scientists).md
