@@ -2,7 +2,9 @@ logo: /images/Logo/NHGlogo.jpg
 links:
   - title: About
     collection: about
-  - title: Contact Us
-    url: /contact-us/
   - title: Clinician-Scientist
     collection: cs-talent-development
+  - title: Clinician-Innovator
+    collection: about
+  - title: Contact Us
+    url: /contact-us/
