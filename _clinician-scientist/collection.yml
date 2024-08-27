@@ -1,5 +1,5 @@
 collections:
-  cs-talent-development:
+  clinician-scientist:
     output: true
     order:
       - NHG LKCMedicine Clinician Scientist Fellowship (CSF).md
