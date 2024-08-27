@@ -118,14 +118,14 @@ qualification would be an advantage.</p>
 <br>(a) Has a research PhD
 <br>(b) Has a good publication track record in peer-reviewed journals
 <br>(c) The CSCS research project should be relevant to the research themes
-of NHG and LKCMedicine. (Eligible applicants who do not meet this criteria
+of NHG and LKCMedicine. (Eligible applicants who do not meet these criteria
 may contact the CSCS Secretariat for further discussion on suitability
 of the scheme.)</p>
 <p></p>
 </li>
 <li>
 <p>On an exceptional basis, an applicant without a PhD could be considered
-if he/she is committed to enrol into the LKCMedicine PhD programme during
+if he/she is committed to enroll into the LKCMedicine PhD programme during
 the CSCS award period.</p>
 <p></p>
 </li>
@@ -151,7 +151,7 @@ professions listed on MOH’s website only) and Director of Research (DOR).</p>
 </li>
 <li>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
-research commitments during the CSCS award period (if awarded), and continue
+research commitments during the CSCS award period (if awarded) and continue
 to facilitate his/her career pathway as a clinician-scientist beyond the
 CSCS award.</p>
 <p></p>
@@ -194,6 +194,8 @@ of research;</p>
 to junior investigators or peers.</p>
 </li>
 </ol>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
