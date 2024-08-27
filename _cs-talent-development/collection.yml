@@ -2,7 +2,7 @@ collections:
   cs-talent-development:
     output: true
     order:
-      - NHG LKCMedicine Clinician Scientist Fellowship.md
+      - NHG LKCMedicine Clinician Scientist Fellowship (CSF).md
       - NHG LKCMedicine Clinician Scientist Career Scheme.md
       - Recipients of the National Talent Development Award (Clinician
         Scientists).md
