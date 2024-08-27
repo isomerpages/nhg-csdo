@@ -283,12 +283,20 @@ considered.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
+</li>
+</ul>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Download the CSCS Information Sheet here.</p>
+</li>
+</ul>
 <p></p>
 </div>
 </details>
@@ -298,6 +306,26 @@ proceeding to apply.</p>
 <summary><strong>FY2024 NHG-LKCMedicine CSCS Application Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The CSCS Application Package consists of templates for the following documents:
+<br>
+<br>1. Information Sheet
+<br>2. Letter of Intent (LOI)
+<br>3. Application Form
+<br>4. Budget Breakdown Form
+<br>5. Application Checklist (For reference only); and
+<br>6. NHG Research Funding Guidelines (For reference only).</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download the CSCS Application Package here.</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 </div>
 </details>
