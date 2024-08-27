@@ -310,7 +310,6 @@ proceeding to apply.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The CSCS Application Package consists of templates for the following documents:
-<br>
 <br>1. Information Sheet
 <br>2. Letter of Intent (LOI)
 <br>3. Application Form
@@ -338,20 +337,17 @@ proceeding to apply.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The CSCS Forms &amp; Template Package consists of the following documents:</p>
-<p>
-<br>1. CSCS Variation Forms
-<br>
-<br>(a) Request for Budget Variation Form
-<br>(b) Request to fund Unbudgeted Item Form
-<br>(c) Request for Time Extension Form
-<br>(d) Request for Change of Research Scope
-<br>
-<br>2. CSCS Interim Report Template
-<br>3. CSCS Final Report Template
-<br>4. Annex for CSCS Interim &amp; Final Report Template
-<br>5. CSCS Research Protected Time Logsheet
-<br>6. NHG Research Funding Guidelines</p>
+<p>The CSCS Forms &amp; Template Package consists of the following documents:
+<br>(1) CSCS Variation Forms
+<br>a. Request for Budget Variation Form
+<br>b. Request to fund Unbudgeted Item Form
+<br>c. Request for Time Extension Form
+<br>d. Request for Change of Research Scope
+<br>(2) CSCS Interim Report Template
+<br>(3) CSCS Final Report Template
+<br>(4) Annex for CSCS Interim &amp; Final Report Template
+<br>(5) CSCS Research Protected Time Logsheet
+<br>(6) NHG Research Funding Guidelines</p>
 </li>
 </ul>
 <p></p>
@@ -365,7 +361,7 @@ proceeding to apply.</p>
 </details>
 </div>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Click here for the list of our past CSCS awardees</p>
+<p>Download the list of our past CSCS awardees here.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
