@@ -19,10 +19,8 @@ Scientists).</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-<p><em>(by Alphabetic order)</em>
-</p>
+<p><strong>Name </strong>
+<br>(by Alphabetic order)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Institution</strong>
