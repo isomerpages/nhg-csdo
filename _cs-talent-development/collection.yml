@@ -2,4 +2,5 @@ collections:
   cs-talent-development:
     output: true
     order:
-      - National Talent Development Award recipients (Clinician Scientists).md
+      - Recipients of the National Talent Development Award (Clinician
+        Scientists).md
