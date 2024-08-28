@@ -110,13 +110,13 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3631
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a> 
+<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a>
 </p>
 <p><strong>Ms Nicole Yap</strong>
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3632
-<br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a> 
+<br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a>
 </p>
 <p></p>
 <p></p>
