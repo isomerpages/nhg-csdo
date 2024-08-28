@@ -2,5 +2,6 @@ collections:
   training:
     output: true
     order:
+      - Research Methodology Courses/.keep
       - GCP Course.md
       - Other Courses.md
