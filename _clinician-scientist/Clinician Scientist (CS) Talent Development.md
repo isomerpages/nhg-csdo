@@ -4,12 +4,14 @@ permalink: /cs-talent-development/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Introduction</strong></h4>
 <p>Guided by a comprehensive development roadmap, the <strong>National Healthcare Group (NHG)</strong> builds
 up clinicians’ research capabilities through curated resources, training,
 and guidance from experts, supporting them at different stages of their
 clinical / research career.</p>
-<p>The CS Development programmes are administered by the <strong>NHG Clinician Scientist Development Office (CSDO)</strong>,
-jointly supported by LKCMedicine.</p>
+<p>The Clinician-Scientist (CS) Talent Development programmes are administered
+by the <strong>NHG Clinician Scientist Development Office (CSDO)</strong>,
+jointly supported by <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
 <p></p>
 <h4><strong>Clinician-Scientist Development Roadmap</strong></h4>
 <p></p>
@@ -31,7 +33,8 @@ the joint efforts between NHG and LKCMedicine in grooming our Clinician
 Scientists.</p>
 <p>Special Thanks To:
 <br>Clinician Scientist Development Office (CSDO), NHG Group Research &amp;
-Innovation &amp; LKCMedicine, Nanyang Technological University</p>
+Innovation &amp; Lee Kong Chian School of Medicine (LKCMedicine), Nanyang
+Technological University.</p>
 <p>YouTube: <a href="https://youtu.be/8OkRUYZH9KA" rel="noopener nofollow" target="_blank">NHG-LKCMedicine Clinician-Scientist Talent Development</a>
 </p>
 <p></p>
