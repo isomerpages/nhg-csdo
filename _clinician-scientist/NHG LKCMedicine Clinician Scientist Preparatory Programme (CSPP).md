@@ -128,7 +128,7 @@ after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>FY2024 NHG-LKCMedicine CSPP Information Sheet</strong>
+<summary><strong>NHG-LKCMedicine CSPP Information Sheet - FY2024 </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -141,7 +141,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>FY2024 NHG-LKCMedicine CSPP Application Package</strong>
+<summary><strong>NHG-LKCMedicine CSPP Application Package - FY2024 </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package contains the following documents:
