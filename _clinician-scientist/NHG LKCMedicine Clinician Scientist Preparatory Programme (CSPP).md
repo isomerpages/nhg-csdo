@@ -131,6 +131,10 @@ after the call closing date and time will not be considered.</p>
 <summary><strong>FY2024 NHG-LKCMedicine CSPP Information Sheet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This document contains important information about the objective of the
+scheme, award components, eligibility, application procedure, and evaluation
+criteria, etc., and should be read carefully before proceeding to apply.</p>
+<p>Download the <a href="/files/CS Clinician Scientist/CSPP Files/1__CSPP_Information_Sheet_FY2024_Call_I.pdf" rel="noopener noreferrer nofollow" target="_blank">CSPP Information Sheet FY2024 Call-1 here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -140,6 +144,13 @@ after the call closing date and time will not be considered.</p>
 <summary><strong>FY2024 NHG-LKCMedicine CSPP Application Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The CSPP Application package contains the following documents:
+<br>(1) Information Sheet;
+<br>(2) Letter of Intent (LOI);
+<br>(3) Application Form;
+<br>(4) Application Checklist (for reference only); and
+<br>(5) NHG Funding Guidelines (CSPP)</p>
+<p>Download the CSPP Application Package FY2024 Call-1 here.</p>
 <p></p>
 </div>
 </details>
