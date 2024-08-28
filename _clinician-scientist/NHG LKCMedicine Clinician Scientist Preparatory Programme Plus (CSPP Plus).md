@@ -103,6 +103,29 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <summary><strong>Eligibility</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>(a) Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
+– Senior Residents enrolled in the NHG Residency Programme with indication
+of continuation with NHG or Associate Consultants or Consultants (no more
+than 5 years post-residency exit) with primary appointments at NHG institutions.
+<br><strong>OR</strong>
+<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+degrees, such as nurses, pharmacists and other allied health professions
+(as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
+in clinical practice, with primary appointments at NHG institutions and
+at least 3 years of clinical or relevant experience. Others may contact
+the CSPP Secretariat for discussion on suitability of the programme.</p>
+<p>Applicants should have attained at least Bachelors (Hons)/Masters with
+an Upper Second, preferably First class honours degree in a relevant field.
+Experience as first or co-author of research publications is preferred
+but not required.</p>
+<p>All applicants should also fulfil the following criteria:</p>
+<p>(a) Have completed the <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme (CSPP) with good outcomes</strong>;
+<br>(b) Able to commit <strong>up to 0.3FTE</strong> to complete their research
+project within the award period, with the approval of their Reporting Officer;
+<br>(c) Demonstrates commitment <strong>to pursue the LKCMedicine PhD by Research Programme</strong>.</p>
+<p>Interested clinicians are strongly encouraged to contact the CSPP Secretariat
+for discussion on suitability of the Programme prior to submitting a Letter
+of Intent (LOI).</p>
 <p></p>
 </div>
 </details>
