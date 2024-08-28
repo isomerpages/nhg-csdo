@@ -29,7 +29,7 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 <p></p>
 <p><strong>(a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
 enrolled in the NHG Residency Programme; or with primary appointments as
-Associate Consultants at NHG institutions;
+Associate Consultants at NHG institutions.
 <br>OR
 <br><strong>(b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
@@ -100,7 +100,7 @@ of Intent (LOI).</p>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission:</strong>
 <br>(c) Application Form
-<br>d)&nbsp;Mentors’ CVs.</p>
+<br>(d)&nbsp;Mentors’ CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>21 May 2024 (Tue), 12pm (SGT)</strong>
@@ -150,7 +150,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>(3) Application Form;
 <br>(4) Application Checklist (for reference only); and
 <br>(5) NHG Funding Guidelines (CSPP)</p>
-<p>Download the CSPP Application Package FY2024 Call-1 here.</p>
+<p>Download the <a href="https://for.sg/cspp-application-package-fy2024call1" rel="noopener nofollow" target="_blank">CSPP Application Package FY2024 Call-1</a> here.</p>
 <p></p>
 </div>
 </details>
@@ -160,13 +160,26 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The CSPP Forms &amp; Templates Package contains the following documents.
+<br>(1) CSPP Variation Forms
+<br>a. Request for Budget Variation Form
+<br>b. Request to fund Unbudgeted Item Form
+<br>c. Request for Time Extension Form
+<br>d. Request for Change of Scope Form</p>
+<p>(2) CSPP Interim Report Template
+<br>(3) CSPP Final Report Template
+<br>(4) Annex for CSPP Interim &amp; Final Report Template (Research Outcomes
+Tracking)
+<br>(5) NHG Research Funding Guidelines – CSPP
+<br>(6) CSPP Acknowledgement for Supplementary Readings</p>
+<p>Download the <a href="https://for.sg/cspp-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package here</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSPP Awardees</strong></h4>
-<p>Download the list of our past CSPP Awardees here.</p>
+<p>Download the list of our <a href="/files/CS Clinician Scientist/CSPP Files/2024_04_03_CSPP_Awardees_For_Website_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP Awardees here</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p><strong>Ms Caslyn Chen</strong>
