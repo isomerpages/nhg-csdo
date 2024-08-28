@@ -76,7 +76,19 @@ PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Bond Period</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students are required to serve a bond of up to 5 years with their respective
+NHG Host Institution upon completion of the Fellowship. Bond duration will
+be commensurate with amount of salary support provided by the Fellowship. <s><br></s>
+<br>Please refer to NHG HR Policy (NHG-HR-H5 Training Bond &amp; Minimum Service
+Period (MSP)) for guidelines.</p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
