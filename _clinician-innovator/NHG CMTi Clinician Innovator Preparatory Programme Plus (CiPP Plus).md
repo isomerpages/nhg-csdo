@@ -15,18 +15,23 @@ further build his/her career in HealthTech innovation.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Each awardee will receive a <strong>funding quantum up to S$40,000, for up to 2 years</strong> to
-cover:
-<br>
-</p>
+cover:</p>
 <p>(a) Salary support for innovation of up to 0.1 FTE, with an applicable
 annual salary cap by clinician’s clinical designation (Table 1);
 <br>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>NHG Host Institution will need to top up the difference if the awardee’s
 salary exceeds the applicable annual salary cap.</p>
-<p></p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
 <p>Salary support will cover the total annual compensation, inclusive of
 salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
+</li>
+</ul>
 <p></p>
 <p>(b) Local or overseas conferences/ trainings and related travel expenses;</p>
 <p></p>
@@ -92,9 +97,7 @@ bioinformatics, data analysis and management; and/or</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 </li>
 <li>
 <p>The C<strong>i</strong>PP+ funding is not applicable to cover any direct
@@ -103,11 +106,18 @@ costs related to the innovation project or routine clinical care or services.</p
 <li>
 <p>There should be an ongoing innovation project for the C<strong>i</strong>PP+
 award to apply. At point of C<strong>i</strong>PP+ award announcement:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>For projects that are ongoing/have started, awardees may determine the
 preferred start date within 3 months from award announcement;</p>
-<p></p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
 <p>For projects pending grant application outcomes, award commencement will
 be aligned with subsequent start date of collaboration / project agreement.</p>
+</li>
+</ul>
 <p></p>
 </li>
 <li>
