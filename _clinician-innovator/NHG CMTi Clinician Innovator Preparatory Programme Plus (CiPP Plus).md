@@ -175,29 +175,44 @@ respective programme.</p>
 commitments towards HealthTech innovation during the C<strong>i</strong>PP+
 award period (if awarded) and continue to facilitate his/her career pathway
 as a Clinician Innovator beyond the C<strong>i</strong>PP+ award.</p>
-</li>
-<li>
-<p>d</p>
-</li>
-<li>
-<p>d</p>
-</li>
-<li>
-<p>d</p>
-</li>
-<li>
-<p>d</p>
-</li>
-<li>
-<p>d</p>
-</li>
-<li>
-<p>d</p>
-</li>
-<li>
-<p>d</p>
+<p></p>
 </li>
 </ol>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>[1]</strong>: <em>Examples of eligible funding sources, not limited to but including:</em>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Health Innovation Centre Singapore (NHIC) – Innovation to Develop
+(I2D), Innovation to Industry (I2I), Innovation to Startup (I2Start)</p>
+</li>
+<li>
+<p>Agency of Science, Technology &amp; Research (A*STAR) – Biomedical Engineering
+Programme (BEP)</p>
+</li>
+<li>
+<p>Singapore-MIT Alliance for Research &amp; Technology (SMART) – Innovation
+Grant</p>
+</li>
+<li>
+<p>Enterprise Singapore (ESG) – Startup SG Tech (SSG Tech), Enterprise Development
+Grant (EDG)</p>
+</li>
+<li>
+<p>NHG Joint Grants e.g., NHG-LKCMedicine ALIVE Serious Games Grant (SSG),
+NHG CMTi-NHIC Joint MedTech Grant</p>
+</li>
+<li>
+<p>Other Cluster/ Institutional-level Grants e.g., NHG CMTi MedTech Grant,
+Ng Teng Fong Healthcare Innovation Programme (NTF HIP) Funding, Rapid Prototyping
+Grant, Small PROjects Utilising Teams (SPROUTS) Grant, etc.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
 </div>
 </details>
 </div>
