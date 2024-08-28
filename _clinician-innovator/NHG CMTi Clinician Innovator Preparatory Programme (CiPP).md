@@ -233,7 +233,7 @@ not be considered.</p>
 programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
-<p>Download the CiPP Information Sheet - FY2024 here</p>
+<p>Download the <a href="/files/CI Clinician Innovator/CIPP Files/CiPP_Info_Sheet_Apr24.pdf" rel="noopener noreferrer nofollow" target="_blank">CiPP Information Sheet - FY2024 here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -248,7 +248,7 @@ proceeding to apply.</p>
 <br>(2) Application Form
 <br>(3) Application Checklist (for reference only)
 <br>(4) Funding Guidelines (for reference only)</p>
-<p>Download the CiPP Application Package - FY2024 here</p>
+<p>Download the <a href="https://for.sg/cipp-application-package" rel="noopener nofollow" target="_blank">CiPP Application Package - FY2024 here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -269,7 +269,7 @@ proceeding to apply.</p>
 <br>(4) Annex for CiPP Interim &amp; Final Report Template (Research &amp;
 Innovation Outcomes Tracking)
 <br>(5) CiPP Funding Guidelines</p>
-<p>Download the NHG CMTi CiPP Forms &amp; Templates Package here.</p>
+<p>Download the <a href="https://for.sg/cipp-forms-templates" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates Package here</a>.</p>
 <p></p>
 </div>
 </details>
