@@ -242,11 +242,42 @@ be subsequently facilitated by NHG CMTi.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Application Period</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Call for Applications is <u>open throughout the year</u>. Please contact
+the CiPP Secretariat to indicate your interest in applying for the CiPP+
+and to obtain the application package.</p>
+<p>Interested clinicians are strongly encouraged to contact the CiPP Secretariat
+for discussion on suitability of the programme prior to applying.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
+<h4><strong>CiPP+ Information Sheet</strong></h4>
+<p>This document contains important information about the objective of the
+programme, award components, eligibility, application procedure, evaluation
+criteria and expected deliverables etc., and should be read carefully before
+proceeding to apply.</p>
+<p>Download the <a href="/files/CI Clinician Innovator/CIPP Plus Files/CiPP__Info_Sheet_Jul24.pdf" rel="noopener noreferrer nofollow" target="_blank">CiPP+ Information Sheet - FY2024 here</a>.</p>
 <p></p>
-<p></p>
-<p></p>
+<h4><strong>Contact information</strong></h4>
+<p>For more information and further enquiries, please contact the CiPP Secretariat:</p>
+<p><strong>Ms Adeline Chan</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research and Innovation
+<br>Tel: (65) 6038 3631
+<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
+</p>
+<p><strong>Ms Valerie Yeo</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research and Innovation
+<br>Tel: (65) 6038 3628
+<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_mh_yeo@nhg.com.sg</u></a>
+</p>
 <p></p>
 <p></p>
 <p></p>
