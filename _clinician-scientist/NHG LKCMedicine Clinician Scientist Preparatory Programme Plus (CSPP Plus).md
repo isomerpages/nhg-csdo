@@ -98,6 +98,79 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </tbody>
 </table>
 <p></p>
+<h4><strong>Application</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Eligibility</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Application Period</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Resources</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NHG-LKCMedicine CSPP+ Information Sheet - FY2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NHG-LKCMedicine CSPP+ Forms &amp; Templates Package</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4><strong>Past CSPP+ Awardees</strong></h4>
+<p>Download the list of our pass CSPP+ Awardees here.</p>
+<p></p>
+<h4><strong>Contact information</strong></h4>
+<p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
+<p><strong>Ms Caslyn Chen</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research &amp; Innovation
+<br>Tel: (65) 6038 3630
+<br>Email: <a href="mailto:caslyn_yx_chen@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>caslyn_yx_chen@nhg.com.sg</u></a>
+</p>
+<p></p>
+<p><strong>Ms Syarafina Hasan</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research &amp; Innovation
+<br>Tel: (65) 6038 3634
+<br>Email: <a href="mailto:caslyn_yx_chen@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Syarafina_HASAN@nhg.com.sg</u></a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
