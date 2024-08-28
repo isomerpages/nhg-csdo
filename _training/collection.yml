@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Training Calendar.md
+      - Research Methodology Training/About Research Methodology Training.md
       - Research Methodology Training/Research Preparatory and Study Design
         Seminar.md
       - Research Methodology Training/Biostatistics Workshop (Basic and
