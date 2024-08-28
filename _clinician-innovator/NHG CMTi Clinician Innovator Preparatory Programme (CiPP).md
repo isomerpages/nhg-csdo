@@ -180,15 +180,31 @@ in softcopy to the CiPP Secretariat at NHG Group Research <u>through their Insti
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Application Submission</strong>
-<br>(a) Application Form
-<br>(b) Applicant’s Curriculum Vitae (CV)
-<br>(c) Mentor’s CV (<em>applicable only if he/she is not from the NHG CMTi Committee)</em>
-<br>(d) Screenshot of completed e-learn module on Digital Health Applications
-(DHA) Clinic (<em>applicable only if project encompasses software/digital technology component)</em>;
-and
-<br>(e) Written proof of intent to collaborate from Collaborator(s) (i.e.,
-email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Application Form</p>
+</li>
+<li>
+<p>Applicant’s Curriculum Vitae (CV)</p>
+</li>
+<li>
+<p>Mentor’s CV
+<br>(<em>applicable only if he/she is not from the NHG CMTi Committee)</em>
+</p>
+</li>
+<li>
+<p>Screenshot of completed e-learn module on Digital Health Applications
+(DHA) Clinic
+<br>(<em>applicable only if project encompasses software/digital technology component)</em>;
+and</p>
+</li>
+<li>
+<p>Written proof of intent to collaborate from Collaborator(s)
+<br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 May 2024 (Tue), 12pm (SGT)</p>
@@ -197,13 +213,11 @@ email or letter of intent) (<em>applicable only if project requires collaborator
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p>The Institution’s CRU/ CRIO will set an <strong><u>internal deadline</u></strong> for
 the above submission and ensure that the documents reach the CiPP Secretariat
 by the stipulated deadline. Please check with your institutions for the
 deadline. Applications submitted after the call closing date and time will
 not be considered.</p>
-<p></p>
 <p></p>
 </div>
 </details>
