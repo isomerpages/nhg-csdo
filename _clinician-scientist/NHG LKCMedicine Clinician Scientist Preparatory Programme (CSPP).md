@@ -7,7 +7,9 @@ description: ""
 <h4><strong>Introduction</strong></h4>
 <p>The <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme (CSPP)</strong> is
 a joint programme between the <strong>National Healthcare Group (NHG)</strong> and
-the Lee Kong Chian School of Medicine (LKCMedicine) that aims to provide <strong>clinicians with an exposure to research in the early phase of their career</strong> through <strong>research training</strong> and <strong>project experience</strong>.</p>
+the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
+aims to provide clinicians with an exposure to research in the early phase
+of their career through research training and project experience.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
 <p></p>
@@ -128,7 +130,7 @@ after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Information Sheet - FY2024 </strong>
+<summary><strong>NHG-LKCMedicine CSPP Information Sheet - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -141,7 +143,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Application Package - FY2024 </strong>
+<summary><strong>NHG-LKCMedicine CSPP Application Package - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package contains the following documents:
