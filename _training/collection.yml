@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Registering for our Courses/.keep
-      - Registering for our Courses/Training Calendar.md
       - Registering for our Courses/Frequently Asked Questions.md
       - Research Methodology Courses/.keep
       - GCP Course.md
