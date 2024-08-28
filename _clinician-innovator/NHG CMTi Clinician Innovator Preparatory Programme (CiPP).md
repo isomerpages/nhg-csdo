@@ -224,6 +224,62 @@ not be considered.</p>
 </div>
 <p></p>
 <h4><strong>Resources</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NHG CMTi CiPP Information Sheet - FY2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This document contains important information about the objective of the
+programme, award components, eligibility, application procedure, evaluation
+criteria and expected deliverables etc., and should be read carefully before
+proceeding to apply.</p>
+<p>Download the CiPP Information Sheet - FY2024 here</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NHG CMTi CiPP Application Package - FY2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The CiPP Application Package contains the following documents:
+<br>(1) Information Sheet
+<br>(2) Application Form
+<br>(3) Application Checklist (for reference only)
+<br>(4) Funding Guidelines (for reference only)</p>
+<p>Download the CiPP Application Package - FY2024 here</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>NHG CMTi CiPP Forms &amp; Templates Package</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The CiPP Forms &amp; Templates Package contains the following documents:
+<br>(1) CiPP Variation Forms
+<br>a. Request for Budget Variation Form
+<br>b. Request to fund Unbudgeted Item Form
+<br>c. Request for Time Extension Form
+<br>d. Request for Change of Project Scope Form
+<br>(2) CiPP Interim Report Template
+<br>(3) CiPP Final Report Template
+<br>(4) Annex for CiPP Interim &amp; Final Report Template (Research &amp;
+Innovation Outcomes Tracking)
+<br>(5) CiPP Funding Guidelines</p>
+<p>Download the NHG CMTi CiPP Forms &amp; Templates Package here.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
