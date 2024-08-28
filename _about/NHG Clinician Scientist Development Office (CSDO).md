@@ -4,12 +4,13 @@ permalink: /nhg-clinician-scientist-development-office-csdo/
 variant: tiptap
 description: ""
 ---
-<p>The <strong>NHG Clinician Scientist Development Office (CSDO)</strong> facilitates
-and supports research in the <strong>National Healthcare Group (NHG)</strong> by
-providing holistic support to nurture and develop clinician scientists
-and innovators, clinical researchers and research administrators in NHG;
-cultivate research culture through a critical mass of talents; and groom
-the next generation of research leaders and mentors.</p>
+<p>The <strong>Clinician Scientist Development Office (CSDO)</strong>,<strong> </strong>under
+the <strong>Group Research &amp; Innovation (GRI)</strong> in the<strong> National Healthcare Group (NHG)</strong>,
+facilitates and supports research in NHG by providing holistic support
+to nurture and develop clinician scientists and innovators, clinical researchers
+and research administrators in NHG; cultivate research culture through
+a critical mass of talents; and groom the next generation of research leaders
+and mentors.</p>
 <p>Collaborating with academic and research institutions, our efforts strengthen
 the national pool of clinician scientists and innovators who in turn bring
 scientific research from the bench to beside.</p>
