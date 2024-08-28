@@ -43,6 +43,17 @@ an Upper Second, preferably First class honours degree in a relevant field.
 Experience as first or co-author of research publications is preferred
 but not required.</p>
 <p></p>
+<p>All applicants should also fulfil the following criteria:
+<br>(a)&nbsp;Is interested in research but have little or no research experience;
+and
+<br>(b) Able to commit time to complete the required CSPP research training.
+<br>(c) Applicants are recommended to commit an <strong>estimated 0.1FTE</strong> to
+complete their research project within the award period, with the approval
+from their Reporting Officer.</p>
+<p>Interested clinicians are strongly encouraged to contact the CSPP Secretariat
+for discussion on suitability of the Programme prior to submitting a Letter
+of Intent (LOI).</p>
+<p></p>
 </div>
 </details>
 </div>
@@ -51,6 +62,64 @@ but not required.</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Table 1: CSPP Application Timeline</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Call Opening</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9 April 2024 (Tue)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Letter of Intent Submission Deadline:</strong>
+<br>a) Letter of Intent (LOI); and
+<br>b)&nbsp;Applicant’s Curriculum Vitae (CV).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 May 2024 (Tue), 12pm (SGT)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Full Application Submission:</strong>
+<br>(c) Application Form
+<br>d)&nbsp;Mentors’ CVs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>21 May 2024 (Tue), 12pm (SGT)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Applicants are required to submit all application documents (Table 1)
+in softcopy to the CSPP Secretariat at NHG Group Research &amp; Innovation
+through their Institution’s Clinical Research Unit (CRU) / Clinical Research
+and Innovation Office (CRIO).</p>
+<p>The Institution’s CRU / CRIO will set respective internal deadlines for
+the above submissions. Please check with your institutions for these deadlines.
+The Institution’s CRU/ CRIO will ensure that the respective documents reach
+the CSPP Secretariat by the stipulated deadlines. Applications submitted
+after the call closing date and time will not be considered.</p>
+<p></p>
 <p></p>
 </div>
 </details>
