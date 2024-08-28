@@ -223,7 +223,7 @@ not be considered.</p>
 </details>
 </div>
 <p></p>
-<p></p>
+<h4><strong>Resources</strong></h4>
 <p></p>
 <p></p>
 <p></p>
