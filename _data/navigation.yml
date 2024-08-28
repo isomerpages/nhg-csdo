@@ -8,7 +8,7 @@ links:
     collection: clinician-innovator
   - title: Training
     collection: training
-  - title: Resources
-    collection: resources
+  - title: Newsroom
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
