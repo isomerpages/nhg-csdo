@@ -279,10 +279,3 @@ proceeding to apply.</p>
 <br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_mh_yeo@nhg.com.sg</u></a>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
