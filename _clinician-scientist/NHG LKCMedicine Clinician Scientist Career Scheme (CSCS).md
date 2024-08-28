@@ -330,19 +330,19 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSCS Forms &amp; Templates</strong>
+<summary><strong>CSCS Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The CSCS Forms &amp; Template Package consists of the following documents:
+<p>The CSCS Forms &amp; Templates Package consists of the following documents:
 <br>(1) CSCS Variation Forms
 <br>a. Request for Budget Variation Form
 <br>b. Request to fund Unbudgeted Item Form
 <br>c. Request for Time Extension Form
-<br>d. Request for Change of Research Scope
-<br>(2) CSCS Interim Report Template
+<br>d. Request for Change of Research Scope</p>
+<p>(2) CSCS Interim Report Template
 <br>(3) CSCS Final Report Template
 <br>(4) Annex for CSCS Interim &amp; Final Report Template
 <br>(5) CSCS Research Protected Time Logsheet
