@@ -148,7 +148,66 @@ be subsequently facilitated by NHG CMTi.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Application Period</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Applicants are required to submit all application documents (Table 1)
+in softcopy to the CiPP Secretariat at NHG Group Research <u>through their Institution’s Clinical Research Unit / Clinical Research and Innovation Office (CRU/ CRIO)</u>.</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Table 1: CiPP Application Timeline</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Call Opening</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>09 Apr 2024 (Tue)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Application Submission</strong>
+<br>(a) Application Form
+<br>(b) Applicant’s Curriculum Vitae (CV)
+<br>(c) Mentor’s CV (<em>applicable only if he/she is not from the NHG CMTi Committee)</em>
+<br>(d) Screenshot of completed e-learn module on Digital Health Applications
+(DHA) Clinic (<em>applicable only if project encompasses software/digital technology component)</em>;
+and
+<br>(e) Written proof of intent to collaborate from Collaborator(s) (i.e.,
+email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 May 2024 (Tue), 12pm (SGT)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>The Institution’s CRU/ CRIO will set an <strong><u>internal deadline</u></strong> for
+the above submission and ensure that the documents reach the CiPP Secretariat
+by the stipulated deadline. Please check with your institutions for the
+deadline. Applications submitted after the call closing date and time will
+not be considered.</p>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
