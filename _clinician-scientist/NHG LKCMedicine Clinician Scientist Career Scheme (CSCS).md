@@ -281,7 +281,6 @@ considered.</p>
 <summary><strong>FY2024 NHG-LKCMedicine CSCS Information Sheet</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
@@ -297,7 +296,6 @@ proceeding to apply.</p>
 <summary><strong>FY2024 NHG-LKCMedicine CSCS Application Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>The CSCS Application Package consists of templates for the following documents:
 <br>1. Information Sheet
 <br>2. Letter of Intent (LOI)
@@ -308,7 +306,6 @@ proceeding to apply.</p>
 <p></p>
 <p>Download the <a href="https://for.sg/cscs-application-package" rel="noopener nofollow" target="_blank">CSCS Application Package here</a>.</p>
 <p></p>
-<p></p>
 </div>
 </details>
 </div>
@@ -317,7 +314,6 @@ proceeding to apply.</p>
 <summary><strong>CSCS Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>The CSCS Forms &amp; Templates Package consists of the following documents:
 <br>(1) CSCS Variation Forms
 <br>a. Request for Budget Variation Form
