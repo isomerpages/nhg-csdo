@@ -113,9 +113,7 @@ of Intent (LOI).</p>
 </table>
 <p></p>
 <p>Applicants are required to submit all application documents (Table 1)
-in softcopy to the CSPP Secretariat at NHG Group Research &amp; Innovation
-through their Institution’s Clinical Research Unit (CRU) / Clinical Research
-and Innovation Office (CRIO).</p>
+in softcopy to the CSPP Secretariat at NHG Group Research &amp; Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p>The Institution’s CRU / CRIO will set respective internal deadlines for
 the above submissions. Please check with your institutions for these deadlines.
 The Institution’s CRU/ CRIO will ensure that the respective documents reach
