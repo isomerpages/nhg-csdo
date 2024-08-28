@@ -278,7 +278,7 @@ considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>FY2024 NHG-LKCMedicine CSCS Information Sheet</strong>
+<summary><strong>NHG-LKCMedicine CSCS Information Sheet - FY2024 </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -293,7 +293,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>FY2024 NHG-LKCMedicine CSCS Application Package</strong>
+<summary><strong>NHG-LKCMedicine CSCS Application Package - FY2024 </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
@@ -311,7 +311,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSCS Forms &amp; Templates Package</strong>
+<summary><strong>NHG-LKCMedicine CSCS Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates Package consists of the following documents:
