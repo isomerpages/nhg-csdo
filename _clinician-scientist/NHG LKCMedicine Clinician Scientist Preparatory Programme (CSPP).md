@@ -10,8 +10,10 @@ a joint programme between the <strong>National Healthcare Group (NHG)</strong> a
 the Lee Kong Chian School of Medicine (LKCMedicine) that aims to provide <strong>clinicians with an exposure to research in the early phase of their career</strong> through <strong>research training</strong> and <strong>project experience</strong>.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
-<p>&lt;CSPP page_Award Components.png&gt;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_page_Award_Components.png">
+</div>
 <p>Awardees are required to complete the programme within <strong>2 years</strong>.</p>
 <p>Residents are also required to complete the programme within the duration
 of their Residency. They are recommended to discuss with their Residency
