@@ -4,7 +4,6 @@ permalink: /nhg-lkcmedicine-clinician-scientist-preparatory-programme-plus-cspp-
 variant: tiptap
 description: ""
 ---
-<p></p>
 <p>The <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme Plus (CSPP+)</strong> is
 a joint programme between NHG and the Lee Kong Chian School of Medicine
 (LKCMedicine) that aims to prepare clinicians to embark on formal research
@@ -124,6 +123,10 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Information Sheet - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>This document contains important information about the objective of the
+scheme, award components, eligibility, application procedure, and evaluation
+criteria, etc., and should be read carefully before proceeding to apply.</p>
+<p>Download the <a href="/files/CS Clinician Scientist/CSPP Plus Files/1__CSPP__Information_Sheet_FY2024_Call_I.pdf" rel="noopener noreferrer nofollow" target="_blank">CSPP+ Information Sheet - FY2024 Call-1 here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -133,6 +136,15 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>The application package contains the following documents:</p>
+<p>(1) Information Sheet;</p>
+<p>(2) Letter of Intent (LOI);</p>
+<p>(3) Application Form;</p>
+<p>(4) Budget Breakdown Form;</p>
+<p>(5) Application Checklist (for reference only); and</p>
+<p>(6) NHG Funding Guidelines (CSPP+)</p>
+<p>Download the CSPP+ Application Package - FY2024 Call-1 here.</p>
 <p></p>
 </div>
 </details>
@@ -148,7 +160,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </div>
 <p></p>
 <h4><strong>Past CSPP+ Awardees</strong></h4>
-<p>Download the list of our pass CSPP+ Awardees here.</p>
+<p>Download the list of our <a href="/files/CS Clinician Scientist/CSPP Plus Files/2024_04_03_CSPP__Awardees_For_Website_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP+ Awardees here</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
