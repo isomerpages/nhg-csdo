@@ -4,6 +4,7 @@ permalink: /nhg-lkcmedicine-clinician-scientist-preparatory-programme-plus-cspp-
 variant: tiptap
 description: ""
 ---
+<h4><strong>Introduction</strong></h4>
 <p>The <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme Plus (CSPP+)</strong> is
 a joint programme between <strong>National Healthcare Group (NHG)</strong> and
 the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
