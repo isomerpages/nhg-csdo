@@ -122,7 +122,32 @@ to the coaching session for a more fruitful discussion.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mentorship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each applicant is required to nominate a mentor who is an institution
+representative on the NHG CMTi Committee (refer to Information Sheet).
+The CiPP Secretariat may help to facilitate the matching of appropriate
+mentor if required.</p>
+<p>Each applicant will receive mentorship in the following areas:
+<br>(a) Guidance in their clinician innovator career development
+<br>(b) Advice on their innovation project
+<br>(c) Navigation to appropriate innovation resources
+<br>(d) Engagement in institution or NHG cluster level innovation activities
+and initiatives</p>
+<p>Applicants may propose other qualified NHG mentor(s) that is not part
+of the NHG CMTi Committee, with justifications and, subject to approval.</p>
+<p>During the award, awardees will be granted access to the subject matter
+experts on an adhoc basis in area(s) of their own interest. Proposed topic
+areas may include venture building, medical technology development cycle,
+medical device regulatory affairs, intellectual property, etc. This will
+be subsequently facilitated by NHG CMTi.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
