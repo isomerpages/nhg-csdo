@@ -278,7 +278,7 @@ considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Information Sheet - FY2024 </strong>
+<summary><strong>NHG-LKCMedicine CSCS Information Sheet - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -286,14 +286,14 @@ scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the <a href="/files/CSCS Files/CSCS_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">CSCS Information Sheet here</a>.</p>
+<p>Download the <a href="/files/CSCS Files/CSCS_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">CSCS Information Sheet FY2024 here</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Application Package - FY2024 </strong>
+<summary><strong>NHG-LKCMedicine CSCS Application Package - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
@@ -304,7 +304,7 @@ proceeding to apply.</p>
 <br>5. Application Checklist (For reference only); and
 <br>6. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the <a href="https://for.sg/cscs-application-package" rel="noopener nofollow" target="_blank">CSCS Application Package here</a>.</p>
+<p>Download the <a href="https://for.sg/cscs-application-package" rel="noopener nofollow" target="_blank">CSCS Application Package FY2024 here</a>.</p>
 <p></p>
 </div>
 </details>
