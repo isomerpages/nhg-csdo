@@ -127,7 +127,80 @@ renewal is generally not allowable.</p>
 </li>
 </ol>
 <p></p>
-<p></p>
+<h4><strong>Application</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Eligibility</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should be:
+<br><strong>(a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
+with primary appointments at NHG institutions;
+<br>OR
+<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+degrees, such as nurses, pharmacists and other allied health professions
+with primary appointments at NHG institutions.</p>
+</li>
+<li>
+<p>All applicants should also fulfil the following criteria:</p>
+<p>(a) Have completed the NHG Clinician Innovator Preparatory Programme (CiPP)
+or demonstrate equivalent level of competency in foundational training
+in HealthTech innovation.
+<br>(b) Is a clinician Principal Investigator (PI), Co-PI or Co-Investigator
+(Co-I) of an ongoing or new HealthTech innovation project that has been
+awarded or pending outcomes of competitive grant funding<sup>1</sup>; and/or
+is in collaboration with industry partner(s).
+<br>The project or grant term must have at least one year remaining at the
+point of CiPP+ application without a request for grant extension.</p>
+<p>(c) Demonstrate interest in HealthTech innovation and intention to develop
+himself/herself as a Clinician Innovator (CI).</p>
+</li>
+<li>
+<p>Awardees and applicants of NMRC Human Capital Awards and Talent Development
+Programmes such as Transition Award (TA), Clinician Innovator Award (CIA),
+Clinician Scientist Award (CSA), HPHSR CSA (HCSA) and Singapore Translational
+Research Investigator Award (STaR), will not be eligible for the C<strong>i</strong>PP+.</p>
+</li>
+<li>
+<p>As awardees are expected to apply for the Singapore Biodesign (SB) Innovation
+Fellowship Programme or equivalent, NMRC TA or CIA within one year from
+the end of their C<strong>i</strong>PP+ award period, applicants should
+ensure they are able to fulfil the latest eligibility criteria for the
+respective programme.</p>
+</li>
+<li>
+<p>The applicant’s Department should be able to make provisions for the applicant’s
+commitments towards HealthTech innovation during the C<strong>i</strong>PP+
+award period (if awarded) and continue to facilitate his/her career pathway
+as a Clinician Innovator beyond the C<strong>i</strong>PP+ award.</p>
+</li>
+<li>
+<p>d</p>
+</li>
+<li>
+<p>d</p>
+</li>
+<li>
+<p>d</p>
+</li>
+<li>
+<p>d</p>
+</li>
+<li>
+<p>d</p>
+</li>
+<li>
+<p>d</p>
+</li>
+<li>
+<p>d</p>
+</li>
+</ol>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
