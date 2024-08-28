@@ -136,15 +136,14 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>The application package contains the following documents:</p>
-<p>(1) Information Sheet;</p>
-<p>(2) Letter of Intent (LOI);</p>
-<p>(3) Application Form;</p>
-<p>(4) Budget Breakdown Form;</p>
-<p>(5) Application Checklist (for reference only); and</p>
-<p>(6) NHG Funding Guidelines (CSPP+)</p>
-<p>Download the CSPP+ Application Package - FY2024 Call-1 here.</p>
+<p>The CSPP+ Application Package contains the following documents:</p>
+<p>(1) Information Sheet;
+<br>(2) Letter of Intent (LOI);
+<br>(3) Application Form;
+<br>(4) Budget Breakdown Form;
+<br>(5) Application Checklist (for reference only); and
+<br>(6) NHG Funding Guidelines (CSPP+)</p>
+<p>Download the <a href="https://for.sg/cspp-plus-application-package" rel="noopener nofollow" target="_blank">CSPP+ Application Package - FY2024 Call-1 here</a>.</p>
 <p></p>
 </div>
 </details>
