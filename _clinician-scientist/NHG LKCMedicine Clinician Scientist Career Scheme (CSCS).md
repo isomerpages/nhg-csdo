@@ -282,20 +282,12 @@ considered.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Download the <a href="/files/CSCS Files/CSCS_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">CSCS Information Sheet here</a>.</p>
-</li>
-</ul>
 <p></p>
 </div>
 </details>
@@ -306,8 +298,6 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>The CSCS Application Package consists of templates for the following documents:
 <br>1. Information Sheet
 <br>2. Letter of Intent (LOI)
@@ -315,14 +305,8 @@ proceeding to apply.</p>
 <br>4. Budget Breakdown Form
 <br>5. Application Checklist (For reference only); and
 <br>6. NHG Research Funding Guidelines (For reference only).</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Download the <a href="https://for.sg/cscs-application-package" rel="noopener nofollow" target="_blank">CSCS Application Package here</a>.</p>
-</li>
-</ul>
 <p></p>
 <p></p>
 </div>
@@ -334,8 +318,6 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>The CSCS Forms &amp; Templates Package consists of the following documents:
 <br>(1) CSCS Variation Forms
 <br>a. Request for Budget Variation Form
@@ -347,14 +329,8 @@ proceeding to apply.</p>
 <br>(4) Annex for CSCS Interim &amp; Final Report Template
 <br>(5) CSCS Research Protected Time Logsheet
 <br>(6) NHG Research Funding Guidelines</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Download the <a href="https://for.sg/cscs-resources" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Template Package here</a>.</p>
-</li>
-</ul>
 <p></p>
 </div>
 </details>
