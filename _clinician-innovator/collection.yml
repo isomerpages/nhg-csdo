@@ -1,4 +1,6 @@
 collections:
   clinician-innovator:
     output: true
-    order: []
+    order:
+      - Recipients of the National Talent Development Award (Clinician
+        Innovators).md
