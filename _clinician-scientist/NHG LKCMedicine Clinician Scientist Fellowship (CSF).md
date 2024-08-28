@@ -101,8 +101,23 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 </details>
 </div>
 <p></p>
+<h4><strong>Past CSF Awardees</strong></h4>
+<p>Download the list of our <a href="/files/CS Clinician Scientist/CSF Files/CSF_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSF Awardees here</a>.</p>
 <p></p>
-<p></p>
+<h4><strong>Contact information</strong></h4>
+<p>For more information and further enquiries, please contact the CSF Secretariat:</p>
+<p><strong>Ms Adeline Chan</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research and Innovation
+<br>Tel: (65) 6038 3631
+<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a> 
+</p>
+<p><strong>Ms Nicole Yap</strong>
+<br>Clinician Scientist Development Office
+<br>NHG Group Research and Innovation
+<br>Tel: (65) 6038 3632
+<br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a> 
+</p>
 <p></p>
 <p></p>
 <p></p>
