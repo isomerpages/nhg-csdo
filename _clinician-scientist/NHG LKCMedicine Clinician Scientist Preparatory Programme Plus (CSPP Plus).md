@@ -38,7 +38,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </ul>
 </li>
 </ul>
-<p><strong>*</strong>  <sup><sub>Annual salary cap by awardee’s clinical designation (Table 1) will apply. NHG Host institution will need to top up the difference if the awardee’s salary exceeds the applicable annual salary cap. </sub></sup>
+<p><strong>*</strong>  <sup><sub>Annual salary cap by awardee’s clinical designation (Table 1) will apply. NHG Host institution will need to top up the difference if the awardee’s salary exceeds the applicable annual salary cap.</sub></sup>
 </p>
 <p></p>
 <table style="minWidth: 50px">
