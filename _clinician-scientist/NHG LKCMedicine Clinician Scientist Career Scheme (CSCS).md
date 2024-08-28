@@ -4,10 +4,9 @@ permalink: /cscs/
 variant: tiptap
 description: ""
 ---
-<h4><strong>NHG-LKCMedicine Clinician-Scientist Career Scheme (CSCS)</strong></h4>
-<p></p>
-<p>The <strong>Clinician-Scientist Career Scheme (CSCS)</strong> is a research
-manpower development programme jointly offered by the <strong>National Healthcare Group (NHG)</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
+<h4><strong>Introduction</strong></h4>
+<p>The <strong>NHG-LKCMedicine Clinician-Scientist Career Scheme (CSCS)</strong> is
+a research manpower development programme jointly offered by the <strong>National Healthcare Group (NHG)</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
 <p>It aims to develop research capabilities of clinicians to transform patient
 care through competitive research and enable them to compete successfully
 for the <strong>National Medical Research Council (NMRC)</strong> Transition
