@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Training Calendar.md
       - Registering for our Courses/.keep
       - Registering for our Courses/Frequently Asked Questions.md
       - Research Methodology Courses/.keep
