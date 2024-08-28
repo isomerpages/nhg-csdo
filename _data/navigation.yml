@@ -1,7 +1,7 @@
 logo: /images/Logo/NHGlogo.jpg
 links:
   - title: About Us
-    collection: about
+    collection: about-us
   - title: Clinician-Scientist (CS)
     collection: clinician-scientist
   - title: Clinician-Innovator (CI)
