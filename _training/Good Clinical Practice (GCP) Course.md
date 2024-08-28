@@ -4,14 +4,13 @@ permalink: /gcp-course/
 variant: tiptap
 description: ""
 ---
-<p># Good Clinical Practice (GCP)</p>
-<p>&nbsp;</p>
-<p>Based on the ICH GCP E6(R2) guidelines and incorporating local regulatory
+<h4><strong>Good Clinical Practice (GCP)</strong></h4>
+<p>&nbsp;Based on the ICH GCP E6(R2) guidelines and incorporating local regulatory
 requirements, the GCP course seeks to equip participants with basic knowledge
 and understanding of how GCP principles may be applied to the conduct of
-clinical trials. Experienced speakers from various clinical research-related
-sectors will deliver a series of lectures covering the following broad
-elements:</p>
+clinical trials.</p>
+<p>Experienced speakers from various clinical research-related sectors will
+deliver a series of lectures covering the following broad elements:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Core principles of Good Clinical Practice and ethical research;&nbsp;</p>
