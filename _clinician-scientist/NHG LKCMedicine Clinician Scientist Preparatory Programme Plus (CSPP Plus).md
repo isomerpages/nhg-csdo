@@ -121,10 +121,18 @@ an Upper Second, preferably First class honours degree in a relevant field.
 Experience as first or co-author of research publications is preferred
 but not required.</p>
 <p>All applicants should also fulfil the following criteria:</p>
-<p>(a) Have completed the <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme (CSPP) with good outcomes</strong>;
-<br>(b) Able to commit <strong>up to 0.3FTE</strong> to complete their research
-project within the award period, with the approval of their Reporting Officer;
-<br>(c) Demonstrates commitment <strong>to pursue the LKCMedicine PhD by Research Programme</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Have completed the <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme (CSPP) with good outcomes</strong>;</p>
+</li>
+<li>
+<p>Able to commit <strong>up to 0.3FTE</strong> to complete their research
+project within the award period, with the approval of their Reporting Officer;</p>
+</li>
+<li>
+<p>Demonstrates commitment <strong>to pursue the LKCMedicine PhD by Research Programme</strong>.</p>
+</li>
+</ul>
 <p>Interested clinicians are strongly encouraged to contact the CSPP Secretariat
 for discussion on suitability of the Programme prior to submitting a Letter
 of Intent (LOI).</p>
