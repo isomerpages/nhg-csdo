@@ -66,7 +66,16 @@ for further discussion on suitability of the scheme.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Duration of LKCMedicine PhD by Research Programme</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students are expected to complete their PhD programme in 4 years. The
+PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
