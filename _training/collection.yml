@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Training Calendar.md
+      - Research Methodology Courses/Research Preparatory and Study Design
+        Seminar.md
       - Research Methodology Courses/Biostatistics Workshop (Basic and
         Intermediate).md
       - Research Methodology Courses/Manuscript Writing and Poster Presentation
