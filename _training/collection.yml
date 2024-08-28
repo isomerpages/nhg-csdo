@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Training Calendar.md
+      - Research Methodology Courses/Questionnaire Design.md
       - Research Methodology Courses/Prognostic Modelling.md
       - Research Methodology Courses/.keep
       - Good Clinical Practice (GCP) Course.md
