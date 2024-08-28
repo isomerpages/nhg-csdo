@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>The <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme Plus (CSPP+)</strong> is
-a joint programme between NHG and the Lee Kong Chian School of Medicine
-(LKCMedicine) that aims to prepare clinicians to embark on formal research
-training leading to PhD in the early phase of their research careers.</p>
+a joint programme between <strong>National Healthcare Group (NHG)</strong> and
+the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
+aims to prepare clinicians to embark on formal research training leading
+to PhD in the early phase of their research careers.</p>
 <p>The programme would also help them to build up their research experience
 and generate preliminary data in preparation for competitive research.</p>
 <h4><strong>Award Components</strong></h4>
