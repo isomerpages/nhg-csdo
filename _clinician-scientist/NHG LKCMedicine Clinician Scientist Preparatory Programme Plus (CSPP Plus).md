@@ -116,7 +116,6 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -136,8 +135,8 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CSPP+ Application Package contains the following documents:</p>
-<p>(1) Information Sheet;
+<p>The CSPP+ Application Package contains the following documents:
+<br>(1) Information Sheet;
 <br>(2) Letter of Intent (LOI);
 <br>(3) Application Form;
 <br>(4) Budget Breakdown Form;
@@ -153,6 +152,15 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>The CSPP+ Forms &amp; Templates Package contains the following documents:
+<br>(1) CSPP+ Variation Forms
+<br>a. Request for Budget Variation Form
+<br>b. Request to fund Unbudgeted Item Form
+<br>c. Request for Change of Scope Form</p>
+<p>(2) CSPP+ Final Report Template
+<br>(3) Annex for CSPP+ Final Report Template (Research Outcomes Tracking)
+<br>(4) NHG Research Funding Guidelines – CSPP+</p>
+<p>Download the <a href="https://for.sg/cspp-plus-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
 <p></p>
 </div>
 </details>
