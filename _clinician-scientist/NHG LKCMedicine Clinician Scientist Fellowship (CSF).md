@@ -89,7 +89,17 @@ Period (MSP)) for guidelines.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Application Period</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Call for Applications is open throughout the year . Please contact
+the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 <p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
