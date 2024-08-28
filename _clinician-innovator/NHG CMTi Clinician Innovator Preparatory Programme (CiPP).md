@@ -90,7 +90,38 @@ for discussion on suitability of the programme prior to applying.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Coaching Session</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To provide support for applicants in scoping their projects and for feedback
+on their proposals, there will be coaching sessions held during the Call
+period.</p>
+<p>All applicants are encouraged to register for this session with NHG CMTi
+as soon as there is interest to apply and at least 2 weeks prior to the
+call deadline.</p>
+<p>Registration is on a first-come-first serve basis and timeslots are subjected
+to the coaches’ availabilities. Register for a <a href="https://form.gov.sg/61cbdc6bfb72b00012b89839" rel="noopener nofollow" target="_blank">coaching session here</a> or
+scan the QR code below.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Pics/CiPP_Coaching_QR_code.png">
+</div>
+<p></p>
+<p>If the proposed project encompasses a software/digital technology component,
+applicants are required to complete the e-learn module on eLEARN prior
+to the coaching session for a more fruitful discussion.</p>
+<p>Please follow the steps to access the module:
+<br>(1) Log into your <a href="https://elearn.sg/nhg/Login" rel="noopener nofollow" target="_blank">NHG eLEARN Account here</a>.
+<br>(2) Select “Marketplace”
+<br>(3) Search “Digital Health Applications (DHA) Clinic”
+<br>(4) Select “Register” to enrol and complete the module.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
 <p></p>
