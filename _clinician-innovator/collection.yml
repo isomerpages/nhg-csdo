@@ -2,5 +2,6 @@ collections:
   clinician-innovator:
     output: true
     order:
+      - NHG CMTi Clinician Innovator Preparatory Programme (CiPP).md
       - Recipients of the National Talent Development Award (Clinician
         Innovators).md
