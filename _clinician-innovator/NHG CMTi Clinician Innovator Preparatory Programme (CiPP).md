@@ -284,11 +284,11 @@ Innovation Outcomes Tracking)
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3631
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a> 
+<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a>
 </p>
 <p><strong>Ms Valerie Yeo</strong>
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:valerie_mh_yeo@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_mh_yeo@nhg.com.sg</a> 
+<br>Email: <a href="mailto:valerie_mh_yeo@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_mh_yeo@nhg.com.sg</a>
 </p>
