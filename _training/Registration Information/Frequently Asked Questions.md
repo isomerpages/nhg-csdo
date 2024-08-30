@@ -98,4 +98,23 @@ not offer group discounts.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Can you register for me? I am very busy.</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>We are unable to register on behalf of participants. Participants are
+required to register through the course’s FormSG registration link.</p>
+<p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
