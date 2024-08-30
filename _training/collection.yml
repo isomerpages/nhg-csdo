@@ -2,7 +2,11 @@ collections:
   training:
     output: true
     order:
+      - Registration Information/.keep
+      - Registration Information/Course Fees.md
+      - Registration Information/Frequently Asked Questions.md
       - Training Calendar.md
+      - Research Methodology Training/.keep
       - Research Methodology Training/About Research Methodology Training.md
       - Research Methodology Training/Research Preparatory and Study Design
         Seminar.md
@@ -15,9 +19,5 @@ collections:
         Evidence Care (Chatbot Technology) Workshop.md
       - Research Methodology Training/Questionnaire Design.md
       - Research Methodology Training/Prognostic Modelling.md
-      - Research Methodology Training/.keep
       - Good Clinical Practice (GCP) Course.md
       - Other Courses & Seminars.md
-      - Registration Information/Course Fees.md
-      - Registration Information/.keep
-      - Registration Information/Frequently Asked Questions.md
