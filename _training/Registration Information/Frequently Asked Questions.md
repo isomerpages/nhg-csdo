@@ -111,10 +111,30 @@ required to register through the course’s FormSG registration link.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Can I reserve a seat for an event via phone/email because I don’t have time to register online?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>No. Registration is on a first come-first-serve basis, via FormSG course
+registration link.</p>
 <p></p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>I am from NUH, am I considered an NHG participant?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No. NUH is not an NHG institution.</p>
+<p>Please refer to the <a href="/link/" rel="noopener nofollow" target="_blank">Registration Fee Category Classifications (here)</a> for
+the list of organizations under the respective categories.</p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
