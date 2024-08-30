@@ -9,7 +9,7 @@ third_nav_title: Registration Information
 <h4><strong>Registration FAQs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. I have registered for a course but I’m not able to attend it anymore. What should I do?</strong>
+<summary><strong>I have registered for a course but I’m not able to attend it anymore. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please email us with your name, contact number, institution and the full
@@ -28,8 +28,9 @@ title and date of the event that you had registered for.</p>
 arrange for a one-for-one substitution, and relevant justifications.</p>
 <p><strong>Course Withdrawal</strong>
 <br>Refer to chart below for the respective refund amounts:</p>
-<p></p>
-<p>&lt;Course+Fees+_Refund+Amount.jpg&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/Registration_FAQ_Course_Fees_Refund_Amount.jpg">
+</div>
 <p></p>
 <p>No-Shows’ will not qualify for refunds and the Institution or participants
 whom has registered and provided the information prior remains liable for
