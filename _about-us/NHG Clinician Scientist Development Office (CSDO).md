@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Establishment &amp; Scope</strong></h4>
-<p>The <strong>Clinician Scientist Development Office (CSDO)</strong>,<strong> </strong>under
-the <strong>Group Research &amp; Innovation (GRI)</strong> in the<strong> National Healthcare Group (NHG)</strong>,
+<p>The <strong>Clinician Scientist Development Office (CSDO)</strong>,<strong> </strong>part
+of the <strong>Group Research &amp; Innovation (GRI)</strong> in the<strong> National Healthcare Group (NHG)</strong>,
 facilitates and supports research in NHG by providing holistic support
 to nurture and develop clinician scientists and innovators, clinical researchers
 and research administrators in NHG; cultivate research culture through
