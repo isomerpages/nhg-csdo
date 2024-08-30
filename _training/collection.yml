@@ -6,18 +6,15 @@ collections:
       - Registration Information/.keep
       - Registration Information/Course Fees & Fee Categories.md
       - Registration Information/Registration FAQs.md
-      - Research Methodology Training/.keep
-      - Research Methodology Training/About Research Methodology Training.md
-      - Research Methodology Training/Research Preparatory and Study Design
-        Seminar.md
-      - Research Methodology Training/Biostatistics Workshop (Basic and
-        Intermediate).md
-      - Research Methodology Training/Manuscript Writing and Poster Presentation
-        Seminar.md
-      - Research Methodology Training/Grant Writing and Management Seminar.md
-      - Research Methodology Training/Introduction to Information Literacy in
-        Evidence Care (Chatbot Technology) Workshop.md
-      - Research Methodology Training/Questionnaire Design.md
-      - Research Methodology Training/Prognostic Modelling.md
+      - Courses/.keep
+      - Courses/About Research Methodology Training.md
+      - Courses/Research Preparatory and Study Design Seminar.md
+      - Courses/Biostatistics Workshop (Basic and Intermediate).md
+      - Courses/Manuscript Writing and Poster Presentation Seminar.md
+      - Courses/Grant Writing and Management Seminar.md
+      - Courses/Introduction to Information Literacy in Evidence Care (Chatbot
+        Technology) Workshop.md
+      - Courses/Questionnaire Design.md
+      - Courses/Prognostic Modelling.md
       - Good Clinical Practice (GCP) Course.md
       - Other Courses & Seminars.md
