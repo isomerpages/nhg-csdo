@@ -16,7 +16,7 @@ different research studies.
 <br>
 </p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <strong>Agenda for the Research Preparatory and Study Design Seminar here</strong>.</p>
+<p>Download the <strong><a href="/files/Training/Research_Preparatory_Study_Design_Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Research Preparatory and Study Design Seminar here</a></strong>.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is currently closed.
 <br>
