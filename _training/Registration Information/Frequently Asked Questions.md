@@ -70,4 +70,21 @@ fee of $15 (before GST).</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Would there be any Continuing Professional Educations points awarded for the courses that I attend?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Relevant training courses conducted by the NHG Group Research &amp; Innovation
+will be submitted to the Singapore Medical Council (SMC), Singapore Nursing
+Board (SNB) and Singapore Pharmacy Council (SPC) for CME / CNE / CPE points
+respectively. All applications for CME / CNE / CPE points are subjected
+to approval by the respective councils.</p>
+<p>All attendees are required to submit their professional registration number
+(e.g. MCR) via the registration portal in order for us to apply for CPE
+points.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
