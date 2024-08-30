@@ -87,4 +87,15 @@ points.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>My colleagues and I are interested in an event. Can we register as a group? Will we be eligible for a group discount?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No. The FormSG system only accepts individual registrations. NHG does
+not offer group discounts.</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
