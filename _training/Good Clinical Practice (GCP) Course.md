@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Synopsis</strong></h4>
-<p>&nbsp;Based on the ICH GCP E6(R2) guidelines and incorporating local regulatory
-requirements, the Good Clinical Practice (GCP) course seeks to equip participants
-with basic knowledge and understanding of how GCP principles may be applied
-to the conduct of clinical trials.</p>
+<p>Based on the ICH GCP E6(R2) guidelines and incorporating local regulatory
+requirements, the Good Clinical Practice (GCP) Online Course seeks to equip
+participants with basic knowledge and understanding of how GCP principles
+may be applied to the conduct of clinical trials.</p>
+<h4><strong>Agenda</strong></h4>
 <p>Experienced speakers from various clinical research-related sectors will
 deliver a series of lectures covering the following broad elements:</p>
 <ul data-tight="true" class="tight">
@@ -25,9 +26,7 @@ deliver a series of lectures covering the following broad elements:</p>
 <p>Procedures related to the operationalization and conduct of clinical trials.</p>
 </li>
 </ul>
-<p></p>
-<h4><strong>Course Delivery</strong></h4>
-<p>The GCP (Online) Course will comprise the following components:</p>
+<p>The GCP Online Course will comprise the following components:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Online Lectures</strong>
@@ -68,20 +67,15 @@ a minimum passing score of 75%.</p>
 </div>
 </details>
 </div>
-<p>
+<p></p>
+<h4><strong>Schedule</strong></h4>
+<p>The GCP Online Course is available on a continuous basis (via E-Learning).
 <br>
-<br>
-<br><strong>b) Assessment</strong>
-<br>Participants are required to complete an online quiz comprising 53 questions
-after completing the online and supplementary lectures. The online quiz
-will incorporate information from both the online and supplementary lectures.&nbsp;&nbsp;</p>
-<p><strong>When a participant is confirmed, he/she will be given 1 month access to complete the online lectures and assessment.</strong>
-<br>
-<br>A e-Certificate of Achievement will be awarded to participants who achieve
-a minimum passing score of 75%.</p>
-<p>&nbsp;</p>
-<p>Click&nbsp;[<strong>here</strong>](<a rel="noopener noreferrer nofollow" target="_blank">https://for.sg/gcponlinecoursereg</a>)
-to register.</p>
-<p>&nbsp;</p>
-<p>For further assistance, pls contact us at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a></strong>&nbsp;or
-+65 6038 3634.</p>
+</p>
+<h4><strong>Registration</strong></h4>
+<p>Registration for this Course is currently open. Go to the<strong> <a href="https://form.gov.sg/65d83d15623fb2fc7df0f07c" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
