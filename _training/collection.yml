@@ -2,9 +2,8 @@ collections:
   training:
     output: true
     order:
-      - Proper Conduct of Research Course.md
-      - Registration Information/Course Calendar.md
       - Registration Information/.keep
+      - Registration Information/Course Calendar.md
       - Registration Information/Course Fees & Fee Categories.md
       - Registration Information/Registration FAQs.md
       - Research Methodology Courses/.keep
@@ -21,4 +20,5 @@ collections:
       - Research Methodology Courses/Questionnaire Design Workshop.md
       - Research Methodology Courses/Prognostic Modelling Course.md
       - Good Clinical Practice (GCP) Course.md
+      - Proper Conduct of Research Course.md
       - Other Courses & Seminars.md
