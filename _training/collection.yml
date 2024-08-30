@@ -2,7 +2,7 @@ collections:
   training:
     output: true
     order:
-      - pcr course.md
+      - Proper Conduct of Research Course.md
       - Registration Information/Course Calendar.md
       - Registration Information/.keep
       - Registration Information/Course Fees & Fee Categories.md
