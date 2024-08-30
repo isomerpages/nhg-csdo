@@ -21,7 +21,7 @@ research methodology.</p>
 <p>Download the <strong><a href="/files/Training/Intro_Information_Literacy_in_Evidence_Care__140324__Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Introduction to Information Literacy in Evidence Care (Chatbot Technology) Workshop here</a></strong>.</p>
 <h4><strong>Schedule</strong></h4>
 <p>The NHG Introduction to Information Literacy in Evidence Care (Chatbot
-Technology) will be held on <strong>28 October 2024 from 9am - 5pm</strong>.</p>
+Technology) Workshop will be held on <strong>28 October 2024 from 9am - 5pm</strong>.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is <strong>currently open</strong>. Go to
 the <strong><a href="https://form.gov.sg/6694c513d0bdcd1a3667da71" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
