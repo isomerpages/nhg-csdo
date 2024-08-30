@@ -8,7 +8,7 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: NHG Clinician-Scientist Development Office (CSDO)
-      background: /images/hero-banner.png
+      background: /images/Hero Banner/hero-banner.png
       variant: center
   - resources:
       title: Announcements, Events, News & more
