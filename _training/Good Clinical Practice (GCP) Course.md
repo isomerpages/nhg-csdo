@@ -75,7 +75,20 @@ a minimum passing score of 75%.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is currently open. Go to the<strong> <a href="https://form.gov.sg/65d83d15623fb2fc7df0f07c" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
 <p></p>
+<h4><strong>Contact information </strong></h4>
+<p>Please contact the GCP Online Course organizers at <a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a> or
+(+65) 6038 3634.</p>
 <p></p>
+<h4><strong>eLEARN Support</strong></h4>
+<p>If you have registered for the GCP Online Course and are experiencing
+issues with logging in to the NHG eLEARN platform or require any assistance,
+please contact the NHG eLEARN Helpdesk at:</p>
+<p>Email: <a href="mailto:Lmssupport@wizlearn.com" rel="noopener noreferrer nofollow" target="_blank">Lmssupport@wizlearn.com</a> 
+<br>Tel: (+65) 3129 2592
+<br>Operating hours: 7am - 7pm (Monday to Friday); 7am - 2pm (Saturday), Excluding
+Public Holidays</p>
+<p>Please provide your name, employee id, username, institution / company
+and a brief description of your enquiry.</p>
 <p></p>
 <p></p>
 <p></p>
