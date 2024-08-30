@@ -13,7 +13,7 @@ specialty centres, and community-based ambulatory care centres.</p>
 <p>With more than 20,000 healthcare professionals in NHG, we are committed
 towards building healthier and resilient communities, and Adding Years
 of Healthy Life to the people we serve.​</p>
-<p>Learn more about the <a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank"><u>National Healthcare Group (NHG)</u></a> here.</p>
+<p>Learn more about the <strong><a href="https://corp.nhg.com.sg/AboutNHG/Pages/Mission,-Vision-and-Values.aspx" rel="noopener nofollow" target="_blank"><u>National Healthcare Group (NHG)</u></a></strong> here.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -58,7 +58,7 @@ of innovative MedTech solutions that can address unmet healthcare needs
 and contribute to improved patient and healthcare outcomes. This is achieved
 through a structured framework that includes funding, talent development,
 and partnerships with academic and industry leaders.</p>
-<p>Learn more about CMTi here.</p>
+<p>Learn <strong><a href="https://innovation.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about CMTi here</a></strong>.</p>
 <p></p>
 </div>
 </details>
@@ -73,7 +73,7 @@ of talents; and groom the next generation of research leaders and mentors.</p>
 <p>Collaborating with academic and research institutions, our efforts strengthen
 the national pool of clinician scientists and innovators who in turn bring
 scientific research from the bench to beside.</p>
-<p>Learn more about CSDO here.</p>
+<p>Learn <strong><a href="https://talentdev.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about CSDO here</a></strong>.</p>
 <p></p>
 </div>
 </details>
@@ -88,7 +88,8 @@ maintaining high standards through international accreditation. OHRPP also
 engages in public outreach to promote awareness and understanding of participant
 rights in research. This commitment supports the ethical and effective
 conduct of research within NHG.</p>
-<p>Learn more about OHRPP here.</p>
+<p>Learn <strong><a href="https://ethics.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about OHRPP here</a></strong>.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -101,7 +102,8 @@ cluster's notable research and innovation KPIs/achievements; facilitating
 Clinical Trial (CT) related functions with internal and external stakeholders;
 serving as Secretariat for strategic committees; and providing technology
 support to develop digital solutions to enhance productive and efficiency.&nbsp;</p>
-<p>Learn more about RAO here.</p>
+<p>Learn <strong><a href="https://admin.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about RAO here</a></strong>.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -111,11 +113,10 @@ support to develop digital solutions to enhance productive and efficiency.&nbsp;
 ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
 dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies
 nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
-<p>Learn more about TRO here.</p>
+<p>Learn <strong><a href="https://research.gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about TRO here</a></strong>.</p>
+<p></p>
 </div>
 </details>
 </div>
 <p></p>
-<p></p>
-<p>Learn more about NHG Group Research &amp; Innovation (GRI) and what we
-do here.</p>
+<p>Learn <strong><a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about NHG Group Research &amp; Innovation (GRI) and what we do here</a></strong>.</p>
