@@ -126,7 +126,7 @@ registration link.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>No. NUH is not an NHG institution.</p>
-<p>Please refer to the <a href="/link/" rel="noopener nofollow" target="_blank">Registration Fee Category Classifications (here)</a> for
+<p>Please refer to the <a href="/course-fees-categories/" rel="noopener nofollow" target="_blank">Registration Fee Category Classifications (here)</a> for
 the list of organizations under the respective categories.</p>
 <p></p>
 </div>
@@ -148,12 +148,12 @@ Programme.</p>
 <summary><strong>I have registered for the event but did not receive any confirmation. What should I do?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>For Proper Conduct of Research courses: </strong>
+<p><strong>For Proper Conduct of Research courses:</strong>
 </p>
 <p>Please email <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">research_courseadmin@nhg.com.sg</a> with
 your name, contact number, institution and the full title of the event
 that you had registered for.</p>
-<p><strong>For all other training courses: </strong>
+<p><strong>For all other training courses:</strong>
 </p>
 <p>Please email <a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a> with
 your name, contact number, institution and the full title of the event
