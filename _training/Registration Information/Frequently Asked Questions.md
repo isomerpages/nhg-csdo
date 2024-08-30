@@ -52,4 +52,22 @@ right to cancel the course and will fully refund all paid fees.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>I have attended a course. Would I receive a Certificate of Attendance?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Below are the minimum requirements to obtain the E-Certificate of Attendance
+/ Achievement respectively.</p>
+<p>&nbsp;</p>
+<p>&lt;Course+Attendance_Table.jpg&gt;</p>
+<p>The e-certificates would be sent to you via email after course completion.</p>
+<p>&nbsp;</p>
+<p>All requests for re-issuance of e-certificates for courses that were conducted
+more than 1 year before the date of request would be subjected to an administrative
+fee of $15 (before GST).</p>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
