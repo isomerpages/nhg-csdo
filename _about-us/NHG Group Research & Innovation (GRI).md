@@ -129,4 +129,7 @@ vision and mission.</p>
 </details>
 </div>
 <p></p>
-<p>Learn <strong><a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about NHG Group Research &amp; Innovation (GRI) and what we do here</a></strong>.</p>
+<p>Learn <strong><a href="https://gri.nhg.com.sg/" rel="noopener nofollow" target="_blank">more about NHG Group Research &amp; Innovation (GRI) and what we do.</a></strong>
+</p>
+<p></p>
+<p></p>
