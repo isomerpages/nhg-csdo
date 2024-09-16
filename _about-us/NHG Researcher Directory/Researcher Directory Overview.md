@@ -12,10 +12,39 @@ life, partnerships between clinical researchers, innovators&nbsp;and basic
 scientists, and engineers contribute tremendously towards more efficient
 and effective prevention, diagnosis and treatment of diseases while improving
 quality of life.&nbsp;</p>
-<p><strong>To know more about our people in research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below. </strong>
+<p></p>
+<h4><strong>NHG Institutions</strong></h4>
+<p><strong>To know more about our people in research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below.</strong>
 </p>
-<p>Names are categorized by institution and listed in alphabetical order.&nbsp;The
-list above is non-exhaustive and we would continue to update the Directory.</p>
+<p>Names are categorized by Institution and listed in alphabetical order.&nbsp;The
+list above is non-exhaustive and we will continue to update the Directory.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Institute of Mental Health (IMH)</p>
+</li>
+<li>
+<p>National Centre for Infectious Diseases (NCID)</p>
+</li>
+<li>
+<p>National Healthcare Group Polyclinics (NHGP)</p>
+</li>
+<li>
+<p>National Skin Centre (NSC)</p>
+</li>
+<li>
+<p>Tan Tock Seng Hospital (TTSH)</p>
+</li>
+<li>
+<p>Woodlands Health (WH)</p>
+</li>
+<li>
+<p>Yishun Health Campus (YHC)</p>
+</li>
+<li>
+<p>Health Services &amp; Outcomes Research (HSOR)</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>Contact&nbsp;Information</strong></h4>
 <p>For more information and further enquiries, please email us at <a href="mailto:TRO@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TRO@nhg.com.sg</u></a>.</p>
