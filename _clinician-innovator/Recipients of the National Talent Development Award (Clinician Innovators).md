@@ -19,7 +19,8 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name</strong>
-<br>(by Alphabetic order)</p>
+<br><em>(by Alphabetic order)</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Institution</strong>
@@ -28,7 +29,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>Clinician Innovator Award (CIA-INV)</strong>
+<p><strong>Clinician</strong>
+<br><strong>Innovator</strong>
+<br><strong>Award</strong>
+<br><strong>(CIA-INV)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
