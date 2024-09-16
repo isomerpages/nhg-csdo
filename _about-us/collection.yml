@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - NHG Researcher Directory/directory yhc.md
       - NHG Researcher Directory/Health Services & Outcomes Research (HSOR).md
       - NHG Researcher Directory/Researcher Directory Overview.md
       - NHG Researcher Directory/.keep
