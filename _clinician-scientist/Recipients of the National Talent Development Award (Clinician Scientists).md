@@ -20,7 +20,8 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Name </strong>
-<br>(by Alphabetic order)</p>
+<br><em>(by Alphabetic order)</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Institution</strong>
@@ -29,7 +30,10 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Singapore Translational Research Investigator Award (STaR)</strong>
+<p><strong>Singapore Translational</strong>
+<br><strong>Research Investigator</strong>
+<br><strong>Award (STaR)</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,7 +45,9 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Clinician Scientist Award (CSA-SI)</strong>
+<p><strong>Clinician Scientist</strong>
+<br><strong>Award (CSA-SI)</strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +67,8 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="15" colspan="1">
-<p><strong>Clinician Scientist Award (CSA-INV)</strong>
+<p><strong>Clinician Scientist</strong>
+<br><strong>Award (CSA-INV)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +192,9 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HPHSR Clinician Scientist Award (HCSA-INV)</strong>
+<p><strong>HPHSR Clinician </strong>
+<br><strong>Scientist Award</strong>
+<br><strong>(HCSA-INV)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
