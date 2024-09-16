@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: NHG Researcher Directory
 ---
+<h4><strong>NHG Researcher Directory -<br>Health Services &amp; Outcomes Research (HSOR)</strong></h4>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
