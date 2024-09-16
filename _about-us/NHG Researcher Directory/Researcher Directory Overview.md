@@ -17,34 +17,44 @@ quality of life.&nbsp;</p>
 <p><strong>To know more about our people in research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below.</strong>
 </p>
 <p>Names are categorized by Institution and listed in alphabetical order.&nbsp;The
-list above is non-exhaustive and we will continue to update the Directory.</p>
+directory is non-exhaustive, and we will continue to update the Directory.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Institute of Mental Health (IMH)</p>
+<p><a href="/directory-imh/" rel="noopener nofollow" target="_blank">Institute of Mental Health (IMH)</a>
+</p>
 </li>
 <li>
-<p>National Centre for Infectious Diseases (NCID)</p>
+<p><a href="/directory-ncid/" rel="noopener nofollow" target="_blank">National Centre for Infectious Diseases (NCID)</a>
+</p>
 </li>
 <li>
-<p>National Healthcare Group Polyclinics (NHGP)</p>
+<p><a href="/directory-nhgp/" rel="noopener nofollow" target="_blank">National Healthcare Group Polyclinics (NHGP)</a>
+</p>
 </li>
 <li>
-<p>National Skin Centre (NSC)</p>
+<p><a href="/directory-nsc/" rel="noopener nofollow" target="_blank">National Skin Centre (NSC)</a>
+</p>
 </li>
 <li>
-<p>Tan Tock Seng Hospital (TTSH)</p>
+<p><a href="/directory-ttsh/" rel="noopener nofollow" target="_blank">Tan Tock Seng Hospital (TTSH)</a>
+</p>
 </li>
 <li>
-<p>Woodlands Health (WH)</p>
+<p><a href="/directory-wh/" rel="noopener nofollow" target="_blank">Woodlands Health (WH)</a>
+</p>
 </li>
 <li>
-<p>Yishun Health Campus (YHC)</p>
+<p><a href="/directory-yhc/" rel="noopener nofollow" target="_blank">Yishun Health Campus (YHC)</a>
+</p>
 </li>
 <li>
-<p>Health Services &amp; Outcomes Research (HSOR)</p>
+<p><a href="/directory-hsor/" rel="noopener nofollow" target="_blank">Health Services &amp; Outcomes Research (HSOR)</a>
+</p>
 </li>
 </ul>
 <p></p>
 <h4><strong>Contact&nbsp;Information</strong></h4>
-<p>For more information and further enquiries, please email us at <a href="mailto:TRO@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TRO@nhg.com.sg</u></a>.</p>
+<p>For more information and further enquiries, please contact us at <a href="mailto:TRO@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>TRO@nhg.com.sg</u></a>.</p>
+<p></p>
+<p></p>
