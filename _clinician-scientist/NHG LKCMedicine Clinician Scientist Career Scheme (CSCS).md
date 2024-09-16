@@ -330,8 +330,10 @@ proceeding to apply.</p>
 </div>
 </details>
 </div>
+<p></p>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Download the list of our <a href="/files/CSCS Files/CSCS_page_CSCS_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSCS awardees here</a>.</p>
+<p>Download the list of our <a href="/files/CS Clinician Scientist/CSCS Files/CSCS_page_CSCS_Past_Awardees.pdf" rel="noopener nofollow" target="_blank">past CSCS awardees here</a>.</p>
+<p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
