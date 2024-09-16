@@ -5,3 +5,450 @@ variant: tiptap
 description: ""
 third_nav_title: NHG Researcher Directory
 ---
+<h4><strong>NHG Researcher Directory -<br>Tan Tock Seng Hospital (TTSH)</strong></h4>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Research&nbsp;&amp; Innovation&nbsp;Focus Areas/Interests</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ashton Neoh Eng Chuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rehabilitation, Orthopedic and Musculoskeletal, Digital Health Apps &amp;
+Telehealth, Innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alvin Tan Wai Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diabetes Mellitus in the elderly, hypoglycaemia, vascular complications,
+inpatient hyperglycaemia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alvin Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diagnostic Radiology, Head and Neck Radiology, Artificial Intelligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angela Chow Li Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Antimicrobial resistance, Infection Prevention &amp; Control, Infectious
+disease surveillance and epidemiology, Socio-behavioural and Implementation
+Research</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Augustine Laude</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Macula diseases, Low vision and cataract surgery, technological innovations
+in fields of eye gaze tracking and image processing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aung Mynt Oo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Minimally invasive surgery, Upper GI, Bariatric Surgery, Surgical innovations,
+Medical informatics, Serious games, 3D printing, AI, EduTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bryan Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Glaucoma Surgery, Minimally Invasive Glaucoma Surgery, Glaucoma Diagnostics,
+Intraocular Pressure Monitoring</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Ee Yuee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caregiving and Aged Care, Health Activation, Digital Health, Implementation
+Science, Population Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Lai Gwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neuropsychiatry of Stroke, Neuropsychiatry of Traumatic Brain Injury,
+Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chen Kok Pun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Medical devices, Gastroenterology, Liver, Endoscopy, Digital health, Sustainability</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Lay Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurorehabilitation, Upper limb Stroke Rehabilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chloe Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parkinson’s Disease, Technology-enabled Healthcare, Non-invasive Brain
+Stimulation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chng Pey Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurodebilitating disease, Parkinson disease, Technology innovation for
+education, Food innovation and R&amp;D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Christopher Kuah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurorehabilitation, Upper limb robotics, Telerehabilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Danson Yeo Xue Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obesity and Metabolic Syndrome, Oesophageal Cancer, Gastric Cancer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Delphine Chen Yu Mei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rehabilitation Medicine, Chronic Disease Management, Telemedicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ding Yew Yoong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health Services Research, Frailty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eugene Fan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thrombosis and Haemostasis, Haematology, Artificial Intelligence, Medical
+Devices&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>George Glass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health Digitalization, Artificial Intelligence, Caregivers of older persons,
+Health activation in older persons, Clinical epidemiology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Grace Hoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Covid-19 therapeutics, Antimicrobial pharmacotherapy and resistance, HIV
+Medicine, Quality improvement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jeremy Hu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vision performance, Ophthalmic diagnostics and treatment medical technology
+innovations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>John Abisheganaden Arputhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respiratory/Chronic Disease, Lung cancer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Karen Chua Sui Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurorehabilitation, Brain injury rehabilitation, Rehabilitation robotics
+and technology, Brain computer interfaces</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kelvin Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Development and implementation of Artificial Intelligence in both medicine
+and health systems, Tele-ophthalmology&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kong Keng He</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurorehabilitation-Related Research, Acupuncture, and its integration
+with Western Medicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Khai Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leong Kwong Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Extended reality and medical devices for perioperative medicine, Chronic
+pain and regional anaesthesia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Wee Shiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarcopenia and related disorders, Frailty and Intrinsic Capacity, Dementia
+&amp; Cognitive Disorders, Caregiving Evidence Based Medicine, Health Professions
+Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Loh Yong Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Serious Games in Healthcare, Neurorehabilitation-Related Research, Assistive
+Technology, Tele-rehabilitation, Virtual Reality</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Matthew Tay Rong Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ultrasound guided musculoskeletal interventions, Musculoskeletal rehabilitation,
+Cancer rehabilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Melvin Leow Khee Shing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thyroid Physiology, Adipocyte biology, Insulin resistance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Michael Yam Gui Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health services research particularly in the field of musculoskeletal
+medicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mucheli Sharavan Sadasiv</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Effect of interruptions on diagnostic reasoning; neuroscientific basis
+of diagnostic reasoning; health professions educational interventions;
+teaching clinical reasoning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng Tat Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Antimicrobial stewardship, Antimicrobial pharmacokinetics, Pharmacy practice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Poo Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amputee Rehabilitation, Trauma Rehabilitation, Robotics and Assistive
+technology in rehabilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rinkoo Dalan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vascular Complications, Cardio-Metabolic risk factors, Endocrinology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rupesh Agrawal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ocular Imaging, Ocular Inflammation, Ocular Infection, Biomarkers, Sustained
+drug delivery for back of the eye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sanjay Haresh Chotirmall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Respiratory &amp; Infectious Diseases, Microbiome medicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Hui Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Cher Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diagnostic Radiology, MedTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Ern Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Breast cancer &amp; biomarkers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Timothy Barkham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Foodborne Streptococcus agalactiae, Outbreaks, epidemiology, diagnostics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Trevor Binedell</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prosthetics and Orthotics, 3D Printing and Digital Technology, Design
+and Innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Violet Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heart failure, Cardiac rehabilitation, Preventive cardiology, Cardiac
+hemodynamics, Medtech, Digital health and Point of care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wee Seng Kwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neurorehabilitation, Vestibular Rehabilitation, Rehabilitation Technology
+- Robotics, Virtual Reality, Brain-Computer Interface, Wearable Sensors</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wendy Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Contactless patient monitoring for nursing productivity, Falls prediction
+and prevention, Nursing innovations for better clinical outcomes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yew Kuo Chao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hepatology, Health-Care Modelling, Health-Care information and analytics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yong Enming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wounds, Vascular Access, Innovation / MedTech devices</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zenne Tng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dysphagia, Modified food and beverage invention, Artificial intelligence,
+Telehealth, New pedagogy in healthcare education, Workforce transformation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
