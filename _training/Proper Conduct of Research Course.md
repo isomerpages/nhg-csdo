@@ -16,7 +16,11 @@ professionals with the knowledge and skills in the proper conduct of research.
 topics covered under each module. Participants are encouraged to sign up
 for all 4 modules to obtain a holistic appreciation of all the aspects
 of PCR. There are no pre-requisites to be fulfilled for taking each PCR
-Modules.
+Modules.</p>
+<p></p>
+<h4><strong>Registration</strong></h4>
+<p>For the Course Schedule, Registration and more details, please <a href="https://ethics.gri.nhg.com.sg/pcr-overview/" rel="noopener nofollow" target="_blank">see the PCR Course page here</a>.</p>
+<h4><strong>Contact information</strong></h4>
+<p>For any enquiries, please contact the PCR Course Admin at <a href="mailto:research_courseadmin@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>research_courseadmin@nhg.com.sg</u></a>.
 <br>
 </p>
-<p>For more details and course registration, please <a href="https://ethics.gri.nhg.com.sg/pcr-overview/" rel="noopener nofollow" target="_blank">see here</a>.</p>
