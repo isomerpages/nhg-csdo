@@ -4,6 +4,8 @@ collections:
     order:
       - NHG Clinician Scientist Development Office (CSDO).md
       - Academy of Clinician Scientists and Innovators (ACSI).md
+      - NHG Researcher Directory/.keep
+      - NHG Researcher Directory/Researcher Directory Overview.md
       - NHG Researcher Directory/Institute of Mental Health (IMH).md
       - NHG Researcher Directory/National Centre for Infectious Diseases
         (NCID).md
@@ -11,8 +13,6 @@ collections:
       - NHG Researcher Directory/National Skin Centre (NSC).md
       - NHG Researcher Directory/Tan Tock Seng Hospital (TTSH).md
       - NHG Researcher Directory/Woodlands Health (WH).md
-      - NHG Researcher Directory/.keep
       - NHG Researcher Directory/Yishun Health Campus (YHC).md
       - NHG Researcher Directory/Health Services & Outcomes Research (HSOR).md
-      - NHG Researcher Directory/Researcher Directory Overview.md
       - NHG Group Research & Innovation (GRI).md
