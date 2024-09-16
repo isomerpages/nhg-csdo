@@ -53,8 +53,10 @@ advantageous.</p>
 <br>(a) Have at least 2 years of research experience and well-equipped with
 knowledge of the fundamentals of clinical research;
 <br>(b) Able to commit at least 0.5FTE to research during the course of study;
-<br>(c) Must apply for NMRC Research Training Fellowship (RTF); and
-<br>(d) Must fulfil LKCMedicine PhD admission requirements.</p>
+<br>(c) Must apply for NMRC Research Training Fellowship (RTF) (<a href="https://www.nmrc.gov.sg/grants/talent-development/nmrc-rtf" rel="noopener nofollow" target="_blank">See here</a>);
+and
+<br>(d) Must fulfil LKCMedicine PhD admission requirements (<a href="https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme/admissions-applications" rel="noopener nofollow" target="_blank">See here</a>)
+and NTU/LKCMedicine Research Scholarship eligibility criteria (<a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss" rel="noopener nofollow" target="_blank">See here</a>).</p>
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
 research commitments during the CSF award period (if awarded) and continue
