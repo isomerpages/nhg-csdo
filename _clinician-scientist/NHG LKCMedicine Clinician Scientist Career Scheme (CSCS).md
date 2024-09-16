@@ -343,11 +343,11 @@ proceeding to apply.</p>
 <br>Email: <a href="mailto:Nicole_YX_YAP@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nicole_YX_YAP@nhg.com.sg</a>
 </p>
 <p></p>
-<p><strong>Mr Muhammad Syakir</strong>
+<p><strong>Ms Adeline Chan</strong>
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
-<br>Tel: (65) 6038 3632
-<br>Email: <a href="mailto:muhammad_s_mnajid@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_s_mnajid@nhg.com.sg</a>
+<br>Tel: (65) 6038 3631
+<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
 </p>
 <p></p>
 <p></p>
