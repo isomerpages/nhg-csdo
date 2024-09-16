@@ -19,4 +19,4 @@ of PCR. There are no pre-requisites to be fulfilled for taking each PCR
 Modules.
 <br>
 </p>
-<p>For more details and registration, please see here.</p>
+<p>For more details and course registration, please <a href="https://ethics.gri.nhg.com.sg/pcr-overview/" rel="noopener nofollow" target="_blank">see here</a>.</p>
