@@ -309,7 +309,8 @@ Cancer rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Melvin Leow Khee Shing</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Melvin_Leow_Khee_Shing_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvin Leow Khee Shing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thyroid Physiology, Adipocyte biology, Insulin resistance</p>
