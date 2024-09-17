@@ -6,6 +6,9 @@ description: ""
 third_nav_title: NHG Researcher Directory
 ---
 <h4><strong>NHG Researcher Directory -<br>National Healthcare Group Polyclinics (NHGP)</strong></h4>
+<p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
+</p>
+<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -25,7 +28,8 @@ third_nav_title: NHG Researcher Directory
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Darren Seah Ee-Jin</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Darren_Seah_Ee_Jin_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Darren Seah Ee-Jin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic Disease Management, Endocrinology &amp; Metabolic Disorders</p>
@@ -33,7 +37,8 @@ third_nav_title: NHG Researcher Directory
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>De Roza Jacqueline Giovanna</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___De_Roza_Jacqueline_Giovanna_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">De Roza Jacqueline Giovanna</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic Disease Management, Care of Older Adults, Primary Care Nursing</p>
@@ -41,7 +46,7 @@ third_nav_title: NHG Researcher Directory
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Donna Tan</p>
+<p>Donna Tan*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Metabolic Health (in particular Obesity), MSK Health &amp; Physical activity,
@@ -50,7 +55,7 @@ DM Foot care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fong Qi Wei</p>
+<p>Fong Qi Wei*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic disease management, Application of Artificial Intelligence/Machine
@@ -76,7 +81,7 @@ Health/Illness belief</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Richard Low</p>
+<p>Richard Low*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Application of AI in Primary Care, Medical Device UI design and integration,
@@ -109,7 +114,7 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Valerie Teo</p>
+<p>Valerie Teo*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Artificial Intelligence, Med Tech, Primary Care, Analytics</p>
@@ -117,7 +122,7 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Ong</p>
+<p>Wendy Ong*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patient Safety, Medical Device UI design and integration, Vaccination</p>
@@ -125,4 +130,8 @@ Vaccination</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p>* <sub>Profile is currently unavailable.</sub>
+</p>
 <p></p>
