@@ -162,7 +162,7 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Xin Ling</p>
+<p>Ong Xin Ling*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ageing, Dementia, Mental Health, Long Term Care, Gerotechnology&nbsp;</p>
@@ -238,6 +238,6 @@ blue in tertiary mental health institution&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-<p>*<sub> Profile currently unavailable.</sub>
+<p>*<sub> Profile is currently unavailable.</sub>
 </p>
 <p></p>
