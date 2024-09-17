@@ -76,7 +76,8 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ernest Kwek Beng Kee</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Ernest_Kwek_Beng_Kee_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Ernest Kwek Beng Kee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orthopaedic Trauma, Hip Fractures, Musculoskeletal Research</p>
@@ -84,7 +85,8 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gilbert Yeo Tian Seng</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Gilbert_Yeo_Tian_Seng_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Gilbert Yeo Tian Seng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Palliative Care in Multimorbidity, Transitional Care, Qualitative Health
