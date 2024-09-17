@@ -8,7 +8,7 @@ notification: THIS SITE IS CURRENTLY UNDER CONSTRUCTION.
 sections:
   - hero:
       title: NHG Clinician-Scientist Development Office (CSDO)
-      background: /images/Hero Banner/hero-banner.png
+      background: /images/Hero Banner/Fabric_of_Life_Design.png
       variant: center
       key_highlights:
         - title: Clinician Scientist (CS) Talent Development Programmes
