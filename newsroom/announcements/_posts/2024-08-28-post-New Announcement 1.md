@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>ACSI Awards - Call for Nominations</strong></h4>
+<h4><strong>ACSI Awards 2024 - Call for Nominations</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/ACSI_Awards_2024.png">
