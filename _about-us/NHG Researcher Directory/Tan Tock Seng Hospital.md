@@ -63,7 +63,7 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Augustine Laude</p>
+<p>Augustine Laude*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Macula diseases, Low vision and cataract surgery, technological innovations
@@ -72,7 +72,7 @@ in fields of eye gaze tracking and image processing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aung Mynt Oo</p>
+<p>Aung Mynt Oo*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minimally invasive surgery, Upper GI, Bariatric Surgery, Surgical innovations,
@@ -81,7 +81,7 @@ Medical informatics, Serious games, 3D printing, AI, EduTech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Ang</p>
+<p>Bryan Ang*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Glaucoma Surgery, Minimally Invasive Glaucoma Surgery, Glaucoma Diagnostics,
@@ -108,7 +108,7 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Kok Pun</p>
+<p>Chen Kok Pun*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical devices, Gastroenterology, Liver, Endoscopy, Digital health, Sustainability</p>
@@ -133,7 +133,7 @@ Stimulation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chng Pey Ling</p>
+<p>Chng Pey Ling*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurodebilitating disease, Parkinson disease, Technology innovation for
@@ -142,7 +142,7 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christopher Kuah</p>
+<p>Christopher Kuah*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Upper limb robotics, Telerehabilitation</p>
@@ -174,7 +174,7 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eugene Fan</p>
+<p>Eugene Fan*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thrombosis and Haemostasis, Haematology, Artificial Intelligence, Medical
@@ -201,7 +201,7 @@ Medicine, Quality improvement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jeremy Hu</p>
+<p>Jeremy Hu*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vision performance, Ophthalmic diagnostics and treatment medical technology
@@ -227,7 +227,7 @@ and technology, Brain computer interfaces</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kelvin Li</p>
+<p>Kelvin Li*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Development and implementation of Artificial Intelligence in both medicine
@@ -253,7 +253,7 @@ with Western Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leong Kwong Ming</p>
+<p>Leong Kwong Ming*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Extended reality and medical devices for perioperative medicine, Chronic
@@ -400,7 +400,7 @@ and Innovation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Violet Hoon</p>
+<p>Violet Hoon*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heart failure, Cardiac rehabilitation, Preventive cardiology, Cardiac
@@ -443,7 +443,7 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zenne Tng</p>
+<p>Zenne Tng*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dysphagia, Modified food and beverage invention, Artificial intelligence,
