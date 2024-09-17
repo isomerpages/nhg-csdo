@@ -318,7 +318,8 @@ Cancer rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Michael Yam Gui Jie</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Michael_Yam_Gui_Jie_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Michael Yam Gui Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health services research particularly in the field of musculoskeletal
@@ -327,7 +328,8 @@ medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mucheli Sharavan Sadasiv</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Mucheli_Sharavan_Sadasiv_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Mucheli Sharavan Sadasiv</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Effect of interruptions on diagnostic reasoning; neuroscientific basis
@@ -337,7 +339,8 @@ teaching clinical reasoning</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Tat Ming</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Ng_Tat_Ming_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng Tat Ming</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Antimicrobial stewardship, Antimicrobial pharmacokinetics, Pharmacy practice</p>
@@ -345,7 +348,8 @@ teaching clinical reasoning</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Poo Lee</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Ong_Poo_Lee_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Poo Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Amputee Rehabilitation, Trauma Rehabilitation, Robotics and Assistive
@@ -354,7 +358,8 @@ technology in rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rinkoo Dalan</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Rinkoo_Dalan_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Rinkoo Dalan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vascular Complications, Cardio-Metabolic risk factors, Endocrinology</p>
@@ -362,7 +367,8 @@ technology in rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rupesh Agrawal</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Rupesh_Agrawal_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Rupesh Agrawal</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ocular Imaging, Ocular Inflammation, Ocular Infection, Biomarkers, Sustained
@@ -371,7 +377,8 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sanjay Haresh Chotirmall</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Sanjay_Haresh_Chotirmall_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Sanjay Haresh Chotirmall</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Respiratory &amp; Infectious Diseases, Microbiome medicine</p>
