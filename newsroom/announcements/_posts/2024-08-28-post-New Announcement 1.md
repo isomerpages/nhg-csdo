@@ -12,6 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/ACSI_Awards_2024.png">
 </div>
+<p><strong>ACSI Website:</strong>  <a href="https://www.ntu.edu.sg/medicine/ACSI/announcements" rel="noopener noreferrer nofollow" target="_blank">https://www.ntu.edu.sg/medicine/ACSI/announcements</a>
+</p>
 <p></p>
 <p><strong>Click below for the nomination form of each award:</strong>
 </p>
