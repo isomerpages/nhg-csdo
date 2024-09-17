@@ -64,7 +64,8 @@ Learning in healthcare</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Julia Zhu</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Julia_Zhu_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Julia Zhu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wound Care, Diabetic Foot Care, Person-Centred Care in Chronic Wound Care,
@@ -73,7 +74,8 @@ Health/Illness belief</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Eng Sing</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Lee_Eng_Sing_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lee Eng Sing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic Disease Management, Multi-morbidity, Epidemiology</p>
@@ -90,7 +92,8 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sabrina Wong Kay Wye</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Sabrina_Wong_Kay_Wye_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Sabrina Wong Kay Wye</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic Disease Management, Innovative models of care</p>
@@ -98,7 +101,8 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Shu Yun</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Tan_Shu_Yun_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Shu Yun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic Disease Management, Multimorbidity</p>
@@ -106,7 +110,8 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tang Wern Ee</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Tang_Wern_Ee_v210817.pdf" rel="noopener noreferrer nofollow" target="_blank">Tang Wern Ee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic Disease Management, Respiratory; Health Literacy</p>
