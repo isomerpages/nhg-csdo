@@ -27,7 +27,8 @@ third_nav_title: NHG Researcher Directory
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Balachandran Jayachandran</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Balachandran_Jayachandran_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Balachandran Jayachandran</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Early Mobilisation for intubated patients in ICU, Early Mobilisation in
@@ -38,7 +39,7 @@ in hospitalised patients</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Benjamin Ding</p>
+<p>Benjamin Ding*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orthopaedic Surgery, Musculoskeletal Health, Digital Innovation, Enhanced
@@ -47,7 +48,8 @@ Recovery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Tan Yijia</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Bryan_Tan_Yijia_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Bryan Tan Yijia</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Musculoskeletal Health, Health Services Research, Models of Care and Implementation
@@ -56,7 +58,8 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caroline Hoong Wei Shan</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Caroline_Hoong_Wei_Shan_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Caroline Hoong Wei Shan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Calcium and Bone Disorders, Metabolic Medicine, Diabetology, General Endocrinology</p>
@@ -64,7 +67,8 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Er Chaozer</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Er_Chaozer_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Er Chaozer</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Venous thromboembolism</p>
