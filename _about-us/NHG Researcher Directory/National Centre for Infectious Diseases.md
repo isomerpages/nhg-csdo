@@ -6,6 +6,8 @@ description: ""
 third_nav_title: NHG Researcher Directory
 ---
 <h4><strong>NHG Researcher Directory - <br>National Centre for Infectious Diseases (NCID)</strong></h4>
+<p><sub>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sub>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -25,7 +27,8 @@ third_nav_title: NHG Researcher Directory
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Barnaby Edward Young</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Barnaby_Edward_Young_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Barnaby Edward Young</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Respiratory Viruses, Clinical Trials, Immunology and Vaccines, Human Challenge
@@ -34,7 +37,8 @@ Studies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chia Po Ying</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Chia_Po_Ying_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Chia Po Ying</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dengue and emerging infectious diseases, Antimicrobial resistance, General
@@ -43,7 +47,8 @@ Infectious Diseases, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>David Lye Chien Boon</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___David_Lye_Chien_Boon_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">David Lye Chien Boon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SARS-CoV-2, Antimicrobial Resistance, Clinical Trials</p>
@@ -51,7 +56,8 @@ Infectious Diseases, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kalisvar Marimuthu</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Kalisvar_Marimuthu_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Kalisvar Marimuthu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Transmission dynamics of multidrug-resistant organisms and emerging pathogens,
@@ -62,7 +68,8 @@ IPC implementation research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leo Yee Sin</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Leo_Yee_Sin_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Leo Yee Sin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arboviruses (Dengue, Zika, Chikungunya), Emerging Infections, Implementation
@@ -72,7 +79,8 @@ Diseases Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mucheli Sharavan Sadasiv</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Mucheli_Sharavan_Sadasiv_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Mucheli Sharavan Sadasiv</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Infectious Diseases, Diagnostic Reasoning, Medical Education</p>
@@ -80,7 +88,8 @@ Diseases Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Oon Tek</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Ng_Oon_Tek_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng Oon Tek</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Infectious Diseases, Antimicrobial Resistance, Emerging Infectious
@@ -89,7 +98,8 @@ Disease, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sapna Pradip Sadarangani</p>
+<p><a href="/files/Researcher Directory/NCID/NCID___Sapna_Pradip_Sadarangani_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Sapna Pradip Sadarangani</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vaccinology and Vaccine-preventable Diseases, particularly in Older Adults
