@@ -13,9 +13,10 @@ scientists, and engineers contribute tremendously towards more efficient
 and effective prevention, diagnosis and treatment of diseases while improving
 quality of life.&nbsp;</p>
 <p></p>
-<h4><strong>NHG Institutions</strong></h4>
+<blockquote>
 <p><strong>To learn more about our people in research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below.</strong>
 </p>
+</blockquote>
 <p>Names are categorized by Institution and listed in alphabetical order.&nbsp;You
 can also use the Search function found in the top-right corner of the page.
 The directory is non-exhaustive and will be updated regularly.</p>
