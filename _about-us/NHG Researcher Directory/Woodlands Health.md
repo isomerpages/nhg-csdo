@@ -95,7 +95,8 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joseph Lo ZhiWen</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Joseph_Lo_ZhiWen_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Joseph Lo ZhiWen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diabetic Limb Salvage, Wound Care, Artificial Intelligence in Healthcare,
@@ -105,7 +106,8 @@ Renal Dialysis Access&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Wei Yi Louis</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Lim_Wei_Yi_Louis_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Wei Yi Louis</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ocular/Retinal Imaging; Retinal diseases</p>
@@ -113,7 +115,8 @@ Renal Dialysis Access&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nah Chung Yau</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Nah_Chung_Yau_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Nah Chung Yau</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Palliative Care in Advanced Cirrhosis, Health Services Delivery</p>
@@ -121,7 +124,8 @@ Renal Dialysis Access&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Poh Chee Lien</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Poh_Chee_Lien_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Poh Chee Lien</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health Professions Education, Leadership, Community Nursing, Telehealth/Telemedicine,
@@ -130,7 +134,8 @@ Gerontology, Mental Health Nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Raphael Lee Hsien Xiong</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Raphael_Lee_Hsien_Xiong_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Raphael Lee Hsien Xiong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cancer Pain, Palliative Care, Frailty, Education</p>
@@ -138,7 +143,8 @@ Gerontology, Mental Health Nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shum Cheuk Fan</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Shum_Cheuk_Fan_v0624_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Shum Cheuk Fan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minimally invasive surgery, Kidney cancer, Artificial intelligence</p>
@@ -146,7 +152,8 @@ Gerontology, Mental Health Nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Kon Voi</p>
+<p><a href="/files/Researcher Directory/WH/WHC___Tay_Kon_Voi_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tay Kon Voi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical Technology Innovation, Virtual Reality surgical training and Simulation,
