@@ -386,7 +386,8 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Hui Lin</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Tay_Hui_Lin_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tay Hui Lin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
@@ -394,7 +395,8 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Cher Heng</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Tan_Cher_Heng_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Cher Heng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diagnostic Radiology, MedTech</p>
@@ -402,7 +404,8 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Ern Yu</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Tan_Ern_Yu_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Ern Yu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breast cancer &amp; biomarkers</p>
@@ -410,7 +413,8 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Timothy Barkham</p>
+<p><a href="/files/TTSH___Timothy_Barkham_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Timothy Barkham</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Foodborne Streptococcus agalactiae, Outbreaks, epidemiology, diagnostics</p>
