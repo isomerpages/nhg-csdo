@@ -413,7 +413,7 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/TTSH___Timothy_Barkham_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Timothy Barkham</a>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Timothy_Barkham_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Timothy Barkham</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,7 +422,8 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trevor Binedell</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Trevor_Binedell_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Trevor Binedell</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prosthetics and Orthotics, 3D Printing and Digital Technology, Design
@@ -440,7 +441,8 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wee Seng Kwee</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Wee_Seng_Kwee_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Wee Seng Kwee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Vestibular Rehabilitation, Rehabilitation Technology
@@ -449,7 +451,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Leong</p>
+<p>Wendy Leong*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contactless patient monitoring for nursing productivity, Falls prediction
@@ -458,7 +460,8 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yew Kuo Chao</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Yew_Kuo_Chao_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Yew Kuo Chao</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hepatology, Health-Care Modelling, Health-Care information and analytics</p>
@@ -466,7 +469,8 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yong Enming</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Yong_Enming_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Yong Enming</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wounds, Vascular Access, Innovation / MedTech devices</p>
