@@ -6,6 +6,8 @@ description: ""
 third_nav_title: NHG Researcher Directory
 ---
 <h4><strong>NHG Researcher Directory -<br>Woodlands Health (WH)</strong></h4>
+<p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -147,4 +149,7 @@ Clinical Nutrition in Surgery</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>* <sub>Profile is currently unavailable.</sub>
+</p>
 <p></p>
