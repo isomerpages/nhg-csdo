@@ -278,7 +278,8 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Wee Shiong</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Lim_Wee_Shiong_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Wee Shiong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sarcopenia and related disorders, Frailty and Intrinsic Capacity, Dementia
@@ -288,7 +289,8 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Loh Yong Joo</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Loh_Yong_Joo_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Loh Yong Joo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Serious Games in Healthcare, Neurorehabilitation-Related Research, Assistive
@@ -297,7 +299,8 @@ Technology, Tele-rehabilitation, Virtual Reality</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Matthew Tay Rong Jie</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Matthew_Tay_Rong_Jie_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Matthew Tay Rong Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ultrasound guided musculoskeletal interventions, Musculoskeletal rehabilitation,
