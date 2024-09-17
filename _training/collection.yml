@@ -1,0 +1,24 @@
+collections:
+  training:
+    output: true
+    order:
+      - Registration Information/.keep
+      - Registration Information/Course Calendar.md
+      - Registration Information/Course Fees & Fee Categories.md
+      - Registration Information/Registration FAQs.md
+      - Research Methodology Courses/.keep
+      - Research Methodology Courses/About Research Methodology Courses.md
+      - Research Methodology Courses/Research Preparatory and Study Design
+        Seminar.md
+      - Research Methodology Courses/Biostatistics Workshop (Basic and
+        Intermediate).md
+      - Research Methodology Courses/Manuscript Writing and Poster Presentation
+        Seminar.md
+      - Research Methodology Courses/Grant Writing and Management Seminar.md
+      - Research Methodology Courses/Introduction to Information Literacy in
+        Evidence Care (Chatbot Technology) Workshop.md
+      - Research Methodology Courses/Questionnaire Design Workshop.md
+      - Research Methodology Courses/Prognostic Modelling Course.md
+      - Good Clinical Practice (GCP) Course.md
+      - Proper Conduct of Research Course.md
+      - Other Courses & Seminars.md

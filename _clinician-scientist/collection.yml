@@ -1,0 +1,12 @@
+collections:
+  clinician-scientist:
+    output: true
+    order:
+      - Clinician Scientist (CS) Talent Development Overview.md
+      - NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP).md
+      - NHG LKCMedicine Clinician Scientist Preparatory Programme Plus (CSPP
+        Plus).md
+      - NHG LKCMedicine Clinician Scientist Fellowship (CSF).md
+      - NHG LKCMedicine Clinician Scientist Career Scheme (CSCS).md
+      - Recipients of the National Talent Development Award (Clinician
+        Scientists).md

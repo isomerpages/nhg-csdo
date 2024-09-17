@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo/NHG_Logo__1000x900.jpg
 links:
+  - title: About Us
+    collection: about-us
+  - title: Clinician-Scientist (CS)
+    collection: clinician-scientist
+  - title: Clinician-Innovator (CI)
+    collection: clinician-innovator
+  - title: Training
+    collection: training
+  - title: Newsroom
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
