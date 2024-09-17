@@ -27,7 +27,8 @@ third_nav_title: NHG Researcher Directory
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ashton Neoh Eng Chuan</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Ashton_Neoh_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Ashton Neoh Eng Chuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rehabilitation, Orthopedic and Musculoskeletal, Digital Health Apps &amp;
@@ -36,7 +37,8 @@ Telehealth, Innovation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alvin Tan Wai Kit</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Alvin_Tan_Wai_Kit_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Alvin Tan Wai Kit</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Diabetes Mellitus in the elderly, hypoglycaemia, vascular complications,
@@ -53,7 +55,8 @@ inpatient hyperglycaemia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Angela Chow Li Ping</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Angela_Chow_Li_Ping_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Angela Chow Li Ping</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Antimicrobial resistance, Infection Prevention &amp; Control, Infectious
@@ -90,7 +93,8 @@ Intraocular Pressure Monitoring</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Ee Yuee</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Chan_Ee_Yuee_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Ee Yuee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Caregiving and Aged Care, Health Activation, Digital Health, Implementation
@@ -99,7 +103,8 @@ Science, Population Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Lai Gwen</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Chan_Lai_Gwen_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Lai Gwen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuropsychiatry of Stroke, Neuropsychiatry of Traumatic Brain Injury,
@@ -116,7 +121,8 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chin Lay Fong</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Chin_Lay_Fong_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Chin Lay Fong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Upper limb Stroke Rehabilitation</p>
@@ -124,7 +130,8 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chloe Chung</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Chloe_Chung_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Chloe Chung</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parkinson’s Disease, Technology-enabled Healthcare, Non-invasive Brain
@@ -150,7 +157,8 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Danson Yeo Xue Wei</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Danson_Yeo_Xue_Wei_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Danson Yeo Xue Wei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Obesity and Metabolic Syndrome, Oesophageal Cancer, Gastric Cancer</p>
@@ -158,7 +166,8 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Delphine Chen Yu Mei</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Delphine_Chen_Yu_Mei_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Delphine Chen Yu Mei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Rehabilitation Medicine, Chronic Disease Management, Telemedicine</p>
@@ -166,7 +175,8 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ding Yew Yoong</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Ding_Yew_Yoong_v2107.pdf" rel="noopener noreferrer nofollow" target="_blank">Ding Yew Yoong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health Services Research, Frailty</p>
@@ -183,7 +193,8 @@ Devices&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>George Glass</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___George_Glass_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">George Glass</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Health Digitalization, Artificial Intelligence, Caregivers of older persons,
@@ -192,7 +203,8 @@ Health activation in older persons, Clinical epidemiology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Grace Hoo</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Grace_Hoo_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Grace Hoo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Covid-19 therapeutics, Antimicrobial pharmacotherapy and resistance, HIV
@@ -210,7 +222,8 @@ innovations</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>John Abisheganaden Arputhan</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___John_Abisheganaden_Arputhan_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">John Abisheganaden Arputhan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Respiratory/Chronic Disease, Lung cancer</p>
@@ -218,7 +231,8 @@ innovations</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Karen Chua Sui Geok</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Karen_Chua_Sui_Geok_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Karen Chua Sui Geok</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Brain injury rehabilitation, Rehabilitation robotics
@@ -236,7 +250,8 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kong Keng He</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Kong_Keng_He_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Kong Keng He</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation-Related Research, Acupuncture, and its integration
@@ -245,7 +260,8 @@ with Western Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leong Khai Pang</p>
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Leong_Khai_Pang_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Leong Khai Pang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis</p>
