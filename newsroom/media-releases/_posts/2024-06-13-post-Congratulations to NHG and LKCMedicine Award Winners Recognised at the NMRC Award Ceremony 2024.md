@@ -25,7 +25,7 @@ translational research.</p>
 deliver a national respiratory research programme to improve our understanding
 of Asian endophenotypes of lung diseases, and aims to position Singapore
 as a key academic respiratory hub for the wider Asian sub-continent.</p>
-<p><strong>2.&nbsp;Atopic DErmatitis research Program for patienTs (ADEPT) </strong>
+<p><strong>2.&nbsp;Atopic DErmatitis research Program for patienTs (ADEPT)</strong>
 </p>
 <p>Targeted at the most common skin disorder in Singapore representing high
 clinical burden, as a multi-thematic &amp; multidisciplinary study team
@@ -35,11 +35,22 @@ causes and disease progression of Atopic Dermatitis in the Asian context
 and develop cutting edge diagnostic tools and therapies to improve health
 outcomes.</p>
 <h4>Celebrating NHG and LKCMedicine Research &amp; Innovation Talents in the 2023 Grant/Award Cycles</h4>
-<p>&lt;nmrc award ceremony 1.png&gt;</p>
-<p>&lt;nmrc award ceremony 2.png&gt;</p>
-<p>&lt;nmrc award ceremony 3.png&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_3.png">
+</div>
 <p>Listed below are&nbsp;<strong>22</strong>&nbsp;clinician-scientists and
 researchers from NHG &amp; LKCMedicine who have clinched talent development
-awards and competitive grants in the January and Jul 2023 NMRC Grant Calls.</p>
-<p>&lt;nmrc award ceremony 4.png&gt;</p>
-<p>&lt;nmrc award ceremony 5.png&gt;</p>
+awards and competitive grants in the January and Jul 2023 NMRC Grant Calls</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_5.png">
+</div>
+<p></p>
