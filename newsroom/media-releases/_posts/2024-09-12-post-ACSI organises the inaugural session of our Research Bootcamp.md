@@ -27,6 +27,6 @@ journey!</p>
 <p><strong>Looking to enhance your grant applications or research ideas? Keep a look out for subsequent runs of ACSI Bootcamp &amp; IGRP, both happening twice yearly, designed in preparation for the NMRC Jan/Jul Grant Calls!</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thank_you_for_joining_us_at_the__5_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/20240912 acsi bootcamp run 1 session 1.png">
 </div>
 <p></p>
