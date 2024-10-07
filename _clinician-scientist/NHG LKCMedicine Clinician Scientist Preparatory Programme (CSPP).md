@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -33,7 +33,10 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 <p><strong>a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
 enrolled in the NHG Residency Programme; or with primary appointments as
 Associate Consultants at NHG institutions.
-<br>OR</p>
+<br>
+</p>
+<p>OR</p>
+<p></p>
 <p><strong>b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
@@ -97,8 +100,7 @@ after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline:</strong>
-</p>
+<p>Letter of Intent Submission Deadline:</p>
 <p>a) Letter of Intent (LOI); and</p>
 <p>b) Applicant’s Curriculum Vitae (CV).</p>
 </td>
