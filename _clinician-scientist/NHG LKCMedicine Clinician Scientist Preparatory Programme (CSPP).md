@@ -89,47 +89,33 @@ after the call closing date and time will not be considered.</p>
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Call Opening</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>15 Oct 2024 (Tue)</p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Call Opening</strong>
-</p>
+<p>Letter of Intention Submission Deadline:</p>
+<p>a) Letter of Intent (LOI);</p>
+<p>b) Applicant's Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Oct 2024 (Tue)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline:</strong>
-</p>
-<p>a) Letter of Intent (LOI); and</p>
-<p>b) Applicant’s Curriculum Vitae (CV).</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 Nov 2024 (Tue),</strong>
-</p>
-<p><strong>12pm (SGT)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline:</strong>
-</p>
-<p>a) Application Form</p>
-<p>b) Mentors’ CVs.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue),</strong>
-</p>
-<p><strong>12pm (SGT)</strong>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 </div>
 </details>
 </div>
@@ -204,7 +190,6 @@ Tracking)
 <br>Tel: (65) 6038 3634
 <br>Email: <a href="mailto:Syarafina_HASAN@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">Syarafina_HASAN@nhg.com.sg</a>
 </p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
