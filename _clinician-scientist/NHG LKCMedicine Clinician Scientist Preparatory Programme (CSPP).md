@@ -65,6 +65,14 @@ of Intent (LOI).</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Applicants are required to submit all application documents (Table 1)
+in softcopy to the CSPP Secretariat at NHG Group Research &amp; Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
+<p>The Institution’s CRU / CRIO will set respective internal deadlines for
+the above submissions. Please check with your institutions for these deadlines.
+The Institution’s CRU/ CRIO will ensure that the respective documents reach
+the CSPP Secretariat by the stipulated deadlines. Applications submitted
+after the call closing date and time will not be considered.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -83,42 +91,40 @@ of Intent (LOI).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 April 2024 (Tue)</strong>
+<p><strong>15 Oct 2024 (Tue)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Letter of Intent Submission Deadline:</strong>
-<br>a) Letter of Intent (LOI); and
-<br>b)&nbsp;Applicant’s Curriculum Vitae (CV).</p>
+</p>
+<p>a) Letter of Intent (LOI); and</p>
+<p>b) Applicant’s Curriculum Vitae (CV).</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>12 Nov 2024 (Tue),</strong>
+</p>
+<p><strong>12pm (SGT)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission:</strong>
-<br>(c) Application Form
-<br>(d)&nbsp;Mentors’ CVs.</p>
+</p>
+<p>a) Application Form</p>
+<p>b) Mentors’ CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 May 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>26 Nov 2024 (Tue),</strong>
+</p>
+<p><strong>12pm (SGT)</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Applicants are required to submit all application documents (Table 1)
-in softcopy to the CSPP Secretariat at NHG Group Research &amp; Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
-<p>The Institution’s CRU / CRIO will set respective internal deadlines for
-the above submissions. Please check with your institutions for these deadlines.
-The Institution’s CRU/ CRIO will ensure that the respective documents reach
-the CSPP Secretariat by the stipulated deadlines. Applications submitted
-after the call closing date and time will not be considered.</p>
 <p></p>
 <p></p>
 </div>
