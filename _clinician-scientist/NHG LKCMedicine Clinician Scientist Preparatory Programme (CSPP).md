@@ -98,20 +98,28 @@ after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Letter of Intention Submission Deadline:</p>
+<p><strong>Letter of Intention Submission Deadline:</strong>
+</p>
 <p>a) Letter of Intent (LOI);</p>
-<p>b) Applicant's Curriculum</p>
+<p>b) Applicant's Curriculum Vitae (CV).</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Full Application Submission Deadline:</strong>
+</p>
+<p>a) Application Form;</p>
+<p>b) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>26 Nov 2024 (Tue), </strong>
+</p>
+<p><strong>12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 </tbody>
