@@ -116,7 +116,7 @@ after the call closing date and time will not be considered.</p>
 <p>b) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), </strong>
+<p><strong>26 Nov 2024 (Tue),</strong>
 </p>
 <p><strong>12pm (SGT)</strong>
 </p>
