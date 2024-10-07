@@ -140,7 +140,7 @@ after the call closing date and time will not be considered.</p>
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the <a href="/files/CS Clinician Scientist/CSPP Files/1__CSPP_Information_Sheet_FY2024_Call_I.pdf" rel="noopener noreferrer nofollow" target="_blank">CSPP Information Sheet FY2024 Call-1 here</a>.</p>
+<p>Download the latest <a href="/files/CS Clinician Scientist/CSPP Files/1__CSPP_Information_Sheet_FY2024_Call_I.pdf" rel="noopener noreferrer nofollow" target="_blank">CSPP Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
@@ -156,7 +156,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>(3) Application Form;
 <br>(4) Application Checklist (for reference only); and
 <br>(5) NHG Funding Guidelines (CSPP)</p>
-<p>Download the <a href="https://for.sg/cspp-application-package-fy2024call1" rel="noopener nofollow" target="_blank">CSPP Application Package FY2024 Call-1</a> here.</p>
+<p>Download the latest <a href="https://for.sg/cspp-application-package-fy2024call1" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -178,7 +178,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 Tracking)
 <br>(5) NHG Research Funding Guidelines – CSPP
 <br>(6) CSPP Acknowledgement for Supplementary Readings</p>
-<p>Download the <a href="https://for.sg/cspp-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package here</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
 <p></p>
 </div>
 </details>
