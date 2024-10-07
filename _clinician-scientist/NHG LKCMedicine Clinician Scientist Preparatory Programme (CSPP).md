@@ -100,7 +100,8 @@ after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Letter of Intent Submission Deadline:</p>
+<p><strong>Letter of Intent Submission Deadline:</strong>
+</p>
 <p>a) Letter of Intent (LOI); and</p>
 <p>b) Applicant’s Curriculum Vitae (CV).</p>
 </td>
@@ -113,7 +114,7 @@ after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Application Submission:</strong>
+<p><strong>Full Application Submission Deadline:</strong>
 </p>
 <p>a) Application Form</p>
 <p>b) Mentors’ CVs.</p>
