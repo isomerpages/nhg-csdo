@@ -30,11 +30,11 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 <summary><strong>Eligibility</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>(a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
+<p><strong>a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
 enrolled in the NHG Residency Programme; or with primary appointments as
 Associate Consultants at NHG institutions.
-<br>OR
-<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+<br>OR</p>
+<p><strong>b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
 in clinical practice, with primary appointments at NHG institutions and
@@ -185,7 +185,7 @@ Tracking)
 </div>
 <p></p>
 <h4><strong>Past CSPP Awardees</strong></h4>
-<p>Download the list of our <a href="/files/CS Clinician Scientist/CSPP Files/2024_04_03_CSPP_Awardees_For_Website_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP Awardees here</a>.</p>
+<p>Download the list of <a href="/files/CS Clinician Scientist/CSPP Files/2024_04_03_CSPP_Awardees_For_Website_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP Awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p><strong>Ms Caslyn Chen</strong>
