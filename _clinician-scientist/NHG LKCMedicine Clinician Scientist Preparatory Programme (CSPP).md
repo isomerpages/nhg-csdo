@@ -10,6 +10,8 @@ a joint programme between the <strong>National Healthcare Group (NHG)</strong> a
 the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
 aims to provide clinicians with an exposure to research in the early phase
 of their career through research training and project experience.</p>
+<p>Awardees will be offered access to LKCMedicine’s library resources during
+the term of the award.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
 <p></p>
@@ -28,7 +30,6 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 <summary><strong>Eligibility</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p><strong>(a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
 enrolled in the NHG Residency Programme; or with primary appointments as
 Associate Consultants at NHG institutions.
@@ -64,7 +65,6 @@ of Intent (LOI).</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
