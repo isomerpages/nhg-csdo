@@ -22,7 +22,7 @@ and his views on the difference between a mentor and a coach. The attendees
 then had an in-depth discussion on the elements of an effective mentor-mentee
 relationship, the distinct roles and responsibilities of mentors and mentees,
 and the challenges of the mentoring process.</p>
-<p>Organised by the ACSI Recruitment &amp; Development Domain and facilitated
+<p>Organised by the ACSI Recruitment and Development Domain and facilitated
 by Assoc Prof Angela Chow, ACSI Lead Mentor and Senior Consultant, TTSH,
 the event was held at LKCMedicine Clinical Sciences Building.</p>
 <div class="isomer-image-wrapper">
