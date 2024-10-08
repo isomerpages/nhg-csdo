@@ -12,7 +12,7 @@ variant: tiptap
 who received grants and awards in the 2023 grant/award call cycles at the&nbsp;<strong>NMRC Awards Ceremony and Research Symposium 2024</strong>.
 Our heartfelt congratulations to our NHG and LKCMedicine clinicians and
 researchers in their respective achievements!&nbsp;</p>
-<h4>NHG &amp; LKCMedicine Teams Secure 2 Out Of 3 Open Fund-Large Collaborative Grant (OF-LCG) Awarded to New Projects</h4>
+<h4>NHG and LKCMedicine Teams Secure 2 Out Of 3 Open Fund-Large Collaborative Grant (OF-LCG) Awarded to New Projects</h4>
 <p>In the 2024 grant call, 1 NHG-led and 1 LKCMedicine-led research teams
 namely ADEPT and TARIPH, have each secured S$10 million funding under the
 Open Fund-Large Collaborative Grant (OF-LCG), a nationally competitive
@@ -34,7 +34,7 @@ dermatologists, scientists, and engineers, ADEPT aims to understand the
 causes and disease progression of Atopic Dermatitis in the Asian context
 and develop cutting edge diagnostic tools and therapies to improve health
 outcomes.</p>
-<h4>Celebrating NHG and LKCMedicine Research &amp; Innovation Talents in the 2023 Grant/Award Cycles</h4>
+<h4>Celebrating NHG and LKCMedicine Research and Innovation Talents in the 2023 Grant/Award Cycles</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_1.png">
 </div>
@@ -45,7 +45,7 @@ outcomes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_3.png">
 </div>
 <p>Listed below are&nbsp;<strong>22</strong>&nbsp;clinician-scientists and
-researchers from NHG &amp; LKCMedicine who have clinched talent development
+researchers from NHG and LKCMedicine who have clinched talent development
 awards and competitive grants in the January and Jul 2023 NMRC Grant Calls</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_4.png">
