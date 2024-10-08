@@ -98,7 +98,7 @@ after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Letter of Intention Submission Deadline:</strong><br>
+<p><strong>Letter of Intent Submission Deadline:</strong><br>
 a) Letter of Intent (LOI);<br>
 	b) Applicant's Curriculum Vitae (CV).</p>
 </td>
