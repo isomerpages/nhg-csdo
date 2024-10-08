@@ -28,12 +28,11 @@ as a key academic respiratory hub for the wider Asian sub-continent.</p>
 <p><strong>2.&nbsp;Atopic DErmatitis research Program for patienTs (ADEPT)</strong>
 </p>
 <p>Targeted at the most common skin disorder in Singapore representing high
-clinical burden, as a multi-thematic &amp; multidisciplinary study team
-led by&nbsp;<strong>A/Prof Steven Thng (NSC)</strong>&nbsp;comprising of
-dermatologists, scientists, and engineers, ADEPT aims to understand the
-causes and disease progression of Atopic Dermatitis in the Asian context
-and develop cutting edge diagnostic tools and therapies to improve health
-outcomes.</p>
+clinical burden, as a multi-thematic and multidisciplinary study team led
+by&nbsp;<strong>A/Prof Steven Thng (NSC)</strong>&nbsp;comprising of dermatologists,
+scientists, and engineers, ADEPT aims to understand the causes and disease
+progression of Atopic Dermatitis in the Asian context and develop cutting
+edge diagnostic tools and therapies to improve health outcomes.</p>
 <h4>Celebrating NHG and LKCMedicine Research and Innovation Talents in the 2023 Grant/Award Cycles</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_nmrc_award_ceremony_1.png">
