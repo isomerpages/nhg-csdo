@@ -31,8 +31,8 @@ For information on the programme, please visit the <a href="https://www.ntu.edu.
 PhD Scholarship.</p>
 </li>
 <li>
-<p>Academic appointment opportunities with NTU/LKCMedicine upon successful
-completion of fellowship.</p>
+<p>Academic appointment opportunities with NTU/LKCMedicine after successful
+completion of PhD fellowship.</p>
 </li>
 </ol>
 <p></p>
@@ -43,12 +43,12 @@ completion of fellowship.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants should be:
-<br><strong>(a) Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
+<br>a)<strong> Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
 with primary appointments at NHG institutions; or are enrolled in their
 final year of the NHG Residency Programme with indication of continuation
 in NHG;
 <br>OR
-<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+<br>b)<strong> Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professionals
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
 in clinical practice, with primary appointments at NHG institutions and
@@ -59,18 +59,18 @@ in a relevant field. A master’s degree is not a pre-requisite but is considere
 advantageous.</p>
 <p></p>
 <p>All applicants should also fulfil the following criteria:
-<br>(a) Have at least 2 years of research experience and well-equipped with
+<br>a) Have at least 2 years of research experience and well-equipped with
 knowledge of the fundamentals of clinical research;
-<br>(b) Able to commit at least 0.5FTE to research during the course of study;
-<br>(c) Must apply for NMRC Research Training Fellowship (RTF) (<a href="https://www.nmrc.gov.sg/grants/talent-development/nmrc-rtf" rel="noopener nofollow" target="_blank">See here</a>);
+<br>b) Able to commit at least 0.5FTE to research during the course of study;
+<br>c) Must apply for <a href="https://www.nmrc.gov.sg/grants/talent-development/nmrc-rtf" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
 and
-<br>(d) Must fulfil LKCMedicine PhD admission requirements (<a href="https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme/admissions-applications" rel="noopener nofollow" target="_blank">See here</a>)
-and NTU/LKCMedicine Research Scholarship eligibility criteria (<a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss" rel="noopener nofollow" target="_blank">See here</a>).</p>
+<br>d) Must fulfil <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD admission requirements</a>.</p>
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
 research commitments during the CSF award period (if awarded) and continue
 to facilitate his/her career pathway as a clinician-scientist beyond the
 CSF award.</p>
+<p></p>
 <p>Applicants interested to pursue a research PhD with any other local academic
 institutions (NUS, NTU, SUTD, Duke-NUS, SIT) may contact the CSF Secretariat
 for further discussion on suitability of the scheme.</p>
