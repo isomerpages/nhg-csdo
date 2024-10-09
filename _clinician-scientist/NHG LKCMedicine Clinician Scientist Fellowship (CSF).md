@@ -15,18 +15,16 @@ For information on the programme, please visit the <a href="https://www.ntu.edu.
 <p>a) Salary support</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
-PhD Scholarship.</p>
+<p>Research FTE will be provided by NHG and NTU/LKCMedicine for up to 3 years.</p>
 </li>
 <li>
-<p>Academic appointment opportunities with NTU/LKCMedicine after successful
-completion of PhD fellowship.</p>
+<p>Clinical FTE will be provided by NHG Host Institution.</p>
 </li>
 </ul>
-<p>b) Research FTE will be provided by NHG and NTU/LKCMedicine for up to
-3 years.</p>
-<p>c) Clinical FTE will be provided by NHG Host Institution.</p>
-<p></p>
+<p>b) Sponsorship of tuition fees for up to 4 years through the LKCMedicine
+PhD Scholarship.</p>
+<p>c) Academic appointment opportunities with NTU/LKCMedicine after successful
+completion of PhD fellowship.</p>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
