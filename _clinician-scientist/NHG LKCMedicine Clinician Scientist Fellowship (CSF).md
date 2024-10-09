@@ -25,16 +25,14 @@ For information on the programme, please visit the <a href="https://www.ntu.edu.
 <p>Clinical FTE will be provided by NHG Host Institution.</p>
 </li>
 </ul>
-<ol start="2" data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
 PhD Scholarship.</p>
 </li>
-<li>
+</ol>
 <p>Academic appointment opportunities with NTU/LKCMedicine after successful
 completion of PhD fellowship.</p>
-</li>
-</ol>
 <p></p>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -94,7 +92,7 @@ PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students are required to serve a bond of up to 5 years with their respective
 NHG Host Institution upon completion of the Fellowship. Bond duration will
-be commensurate with amount of salary support provided by the Fellowship. <s><br></s>
+be commensurated with amount of salary support provided by the Fellowship. <s><br></s>
 <br>Please refer to NHG HR Policy (NHG-HR-H5 Training Bond &amp; Minimum Service
 Period (MSP)) for guidelines.</p>
 </div>
@@ -105,9 +103,8 @@ Period (MSP)) for guidelines.</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Call for Applications is open throughout the year . Please contact
+<p>The Call for Applications is <u>open throughout the year</u>. Please contact
 the CSF Secretariat to indicate your interest in applying for the CSF.</p>
-<p></p>
 </div>
 </details>
 </div>
