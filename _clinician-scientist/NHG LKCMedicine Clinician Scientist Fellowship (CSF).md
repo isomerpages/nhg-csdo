@@ -12,27 +12,20 @@ to nurture and develop Clinician Scientists with a <u>formal research training p
 For information on the programme, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>Salary support</p>
-</li>
-</ol>
+<p>a) Salary support</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>Research FTE will be provided by NHG and NTU/LKCMedicine for up to 3 years.</p>
-</li>
-<li>
-<p>Clinical FTE will be provided by NHG Host Institution.</p>
-</li>
-</ul>
-<ol data-tight="true" class="tight">
 <li>
 <p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
 PhD Scholarship.</p>
 </li>
-</ol>
+<li>
 <p>Academic appointment opportunities with NTU/LKCMedicine after successful
 completion of PhD fellowship.</p>
+</li>
+</ul>
+<p>b) Research FTE will be provided by NHG and NTU/LKCMedicine for up to
+3 years.</p>
+<p>c) Clinical FTE will be provided by NHG Host Institution.</p>
 <p></p>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -110,7 +103,7 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 </div>
 <p></p>
 <h4><strong>Past CSF Awardees</strong></h4>
-<p>Download the list of our <a href="/files/CS Clinician Scientist/CSF Files/CSF_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSF Awardees here</a>.</p>
+<p>Download the list of <a href="/files/CS Clinician Scientist/CSF Files/CSF_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSF Awardees</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSF Secretariat:</p>
