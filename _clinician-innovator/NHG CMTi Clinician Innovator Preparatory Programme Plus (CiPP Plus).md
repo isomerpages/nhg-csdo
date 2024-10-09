@@ -4,18 +4,25 @@ permalink: /cipp-plus/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Plus Pics/cmti_cipp plus__logo.png">
+</div>
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG CMTi Clinician Innovator Preparatory Programme Plus (CiPP+)</strong> aims
+<p>The <strong>NHG Centre for Medical Technologies &amp; Innovations (CMTi) Clinician Innovator Preparatory Programme Plus (CiPP+)</strong> aims
 to encourage clinicians to participate in Health Technology (HealthTech)
 innovation to improve healthcare delivery and outcomes for their patients.
 The programme would also prepare them to <strong>compete successfully for the Singapore Biodesign (SB) Innovation Fellowship Programme or National Medical Research Council (NMRC) Transition Award (TA) / Clinician Innovator Award (CIA) within the next 2-3 years</strong> and
 further build his/her career in HealthTech innovation.</p>
-<p></p>
+<p>Awardees will be offered access to LKCMedicine’s library resources during
+the term of the award.</p>
 <h4><strong>Award Components</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Each awardee will receive a <strong>funding quantum up to S$40,000, for up to 2 years</strong> to
+<p>Each awardee will receive a funding quantum up to S$40,000, for u<strong>p to 2 years</strong> to
 cover:</p>
+</li>
+<li>
 <p>(a) Salary support for innovation of up to 0.1 FTE, with an applicable
 annual salary cap by clinician’s clinical designation (Table 1);
 <br>
