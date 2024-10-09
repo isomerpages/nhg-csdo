@@ -9,8 +9,8 @@ description: ""
 with relevant knowledge and skills tailored to their learning needs and
 varying experience in this field.</p>
 <p>The programmes are overseen by the NHG Centre for Medical Technologies
-&amp; Innovations (CMTi) and administered by NHG Clinician Scientist Development
-Office (CSDO).</p>
+&amp; Innovations (CMTi) and administered by the NHG Clinician Scientist
+Development Office (CSDO).</p>
 <h4><strong>Nurturing Innovation Talents</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
