@@ -19,14 +19,11 @@ the term of the award.</p>
 <h4><strong>Award Components</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Each awardee will receive a funding quantum up to S$40,000, for u<strong>p to 2 years</strong> to
+<p>Each awardee will receive a <strong>funding quantum up to S$40,000, for up to 2 years</strong> to
 cover:</p>
-</li>
-<li>
-<p>(a) Salary support for innovation of up to 0.1 FTE, with an applicable
-annual salary cap by clinician’s clinical designation (Table 1);
-<br>
-</p>
+<p></p>
+<p>a) Salary support for innovation of up to 0.1 FTE, with an applicable
+annual salary cap by clinician’s clinical designation (Table 1);</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NHG Host Institution will need to top up the difference if the awardee’s
@@ -109,6 +106,7 @@ bioinformatics, data analysis and management; and/or</p>
 <li>
 <p>The C<strong>i</strong>PP+ funding is not applicable to cover any direct
 costs related to the innovation project or routine clinical care or services.</p>
+<p></p>
 </li>
 <li>
 <p>There should be an ongoing innovation project for the C<strong>i</strong>PP+
@@ -133,7 +131,6 @@ term ends or upon the 2-year award period, whichever is earlier. Award
 renewal is generally not allowable.</p>
 </li>
 </ol>
-<p></p>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
