@@ -103,7 +103,7 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 </div>
 <p></p>
 <h4><strong>Past CSF Awardees</strong></h4>
-<p>Download the list of <a href="/files/CS Clinician Scientist/CSF Files/CSF_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSF Awardees</a>.</p>
+<p>Download the list of <a href="/files/CS Clinician Scientist/CSF Files/CSF_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSF awardees</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSF Secretariat:</p>
