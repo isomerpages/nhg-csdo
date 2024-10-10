@@ -37,12 +37,12 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </li>
 </ul>
 <p></p>
-<p>(b) Local or overseas conferences/ trainings and related travel expenses;</p>
+<p>b) Local or overseas conferences/ trainings and related travel expenses;</p>
 <p></p>
-<p>(c) Services and expertise related to the innovation project such as biostatistics,
+<p>c) Services and expertise related to the innovation project such as biostatistics,
 bioinformatics, data analysis and management; and/or</p>
 <p></p>
-<p>(d) Other related support costs that help in the innovation project.
+<p>d) Other related support costs that help in the innovation project.
 <br>
 </p>
 <table style="minWidth: 50px">
