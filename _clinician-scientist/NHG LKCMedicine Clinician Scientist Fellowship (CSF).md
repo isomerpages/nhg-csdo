@@ -12,7 +12,11 @@ to nurture and develop Clinician Scientists with a <u>formal research training p
 For information on the programme, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
-<p>a) Salary support</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Salary support</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Research FTE will be provided by NHG and NTU/LKCMedicine for up to 3 years.</p>
@@ -21,10 +25,17 @@ For information on the programme, please visit the <a href="https://www.ntu.edu.
 <p>Clinical FTE will be provided by NHG Host Institution.</p>
 </li>
 </ul>
-<p>b) Sponsorship of tuition fees for up to 4 years through the LKCMedicine
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
 PhD Scholarship.</p>
-<p>c) Academic appointment opportunities with NTU/LKCMedicine after successful
+<p></p>
+</li>
+<li>
+<p>Academic appointment opportunities with NTU/LKCMedicine after successful
 completion of PhD fellowship.</p>
+</li>
+</ol>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
