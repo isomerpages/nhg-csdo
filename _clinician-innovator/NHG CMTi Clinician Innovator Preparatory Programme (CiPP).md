@@ -193,7 +193,6 @@ and</p>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
