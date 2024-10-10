@@ -244,7 +244,6 @@ Innovation Outcomes Tracking)
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Past CiPP Awardees</strong></h4>
 <p>Download the list of <a href="/files/CI Clinician Innovator/CIPP Files/CiPP_Past_Awardees_Oct24.pdf" rel="noopener noreferrer nofollow" target="_blank">past CiPP awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
