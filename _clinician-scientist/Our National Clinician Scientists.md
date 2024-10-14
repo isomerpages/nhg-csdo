@@ -1,5 +1,5 @@
 ---
-title: Recipients of the National Talent Development Award (Clinician Scientists)
+title: Our National Clinician Scientists
 permalink: /cs-recipients/
 variant: tiptap
 description: ""

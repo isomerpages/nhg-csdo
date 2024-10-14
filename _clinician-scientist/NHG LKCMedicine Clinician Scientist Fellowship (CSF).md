@@ -6,27 +6,36 @@ description: ""
 ---
 <h4><strong>Introduction</strong></h4>
 <p>Jointly developed in 2013 by the <strong>National Healthcare Group (NHG)</strong> and <strong>Nanyang Technological University’s Lee Kong Chian School of Medicine (NTU/LKCMedicine)</strong>,
-the <strong>NHG-LKCMedicine Clinician-Scientist Fellowship (CSF)</strong> aims
-to nurture and develop Clinician-Scientists with a formal research training
-programme leading to PhD.</p>
+the <strong>NHG-LKCMedicine Clinician Scientist Fellowship (CSF)</strong> aims
+to nurture and develop Clinician Scientists with a <u>formal research training programme leading to PhD</u>.</p>
 <p>Successful students will be offered admission into the <strong>LKCMedicine PhD by Research Programme</strong>.
-For information on the programme, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage here</a>.</p>
+For information on the programme, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
-<p>(1) Salary support</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Salary support</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Research FTE will be provided by NHG and NTU/LKCMedicine for up to 3 years</p>
+<p>Research FTE will be provided by NHG and NTU/LKCMedicine for up to 3 years.</p>
 </li>
 <li>
 <p>Clinical FTE will be provided by NHG Host Institution.</p>
 </li>
 </ul>
-<p>(2) Sponsorship of tuition fees for up to 4 years through the <a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss" rel="noopener nofollow" target="_blank">LKCMedicine Research Scholarship</a>
-</p>
-<p>(3) Academic appointment opportunities with NTU/LKCMedicine upon successful
-completion of fellowship.</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
+PhD Scholarship.</p>
 <p></p>
+</li>
+<li>
+<p>Academic appointment opportunities with NTU/LKCMedicine after successful
+completion of PhD fellowship.</p>
+</li>
+</ol>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -34,12 +43,12 @@ completion of fellowship.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants should be:
-<br><strong>(a) Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
+<br>a)<strong> Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
 with primary appointments at NHG institutions; or are enrolled in their
 final year of the NHG Residency Programme with indication of continuation
 in NHG;
 <br>OR
-<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+<br>b)<strong> Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professionals
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
 in clinical practice, with primary appointments at NHG institutions and
@@ -50,18 +59,18 @@ in a relevant field. A master’s degree is not a pre-requisite but is considere
 advantageous.</p>
 <p></p>
 <p>All applicants should also fulfil the following criteria:
-<br>(a) Have at least 2 years of research experience and well-equipped with
+<br>a) Have at least 2 years of research experience and well-equipped with
 knowledge of the fundamentals of clinical research;
-<br>(b) Able to commit at least 0.5FTE to research during the course of study;
-<br>(c) Must apply for NMRC Research Training Fellowship (RTF) (<a href="https://www.nmrc.gov.sg/grants/talent-development/nmrc-rtf" rel="noopener nofollow" target="_blank">See here</a>);
+<br>b) Able to commit at least 0.5FTE to research during the course of study;
+<br>c) Must apply for <a href="https://www.nmrc.gov.sg/grants/talent-development/nmrc-rtf" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
 and
-<br>(d) Must fulfil LKCMedicine PhD admission requirements (<a href="https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme/admissions-applications" rel="noopener nofollow" target="_blank">See here</a>)
-and NTU/LKCMedicine Research Scholarship eligibility criteria (<a href="https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss" rel="noopener nofollow" target="_blank">See here</a>).</p>
+<br>d) Must fulfil <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD admission requirements</a>.</p>
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
 research commitments during the CSF award period (if awarded) and continue
 to facilitate his/her career pathway as a clinician-scientist beyond the
 CSF award.</p>
+<p></p>
 <p>Applicants interested to pursue a research PhD with any other local academic
 institutions (NUS, NTU, SUTD, Duke-NUS, SIT) may contact the CSF Secretariat
 for further discussion on suitability of the scheme.</p>
@@ -85,7 +94,7 @@ PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students are required to serve a bond of up to 5 years with their respective
 NHG Host Institution upon completion of the Fellowship. Bond duration will
-be commensurate with amount of salary support provided by the Fellowship. <s><br></s>
+be commensurated with amount of salary support provided by the Fellowship. <s><br></s>
 <br>Please refer to NHG HR Policy (NHG-HR-H5 Training Bond &amp; Minimum Service
 Period (MSP)) for guidelines.</p>
 </div>
@@ -96,16 +105,14 @@ Period (MSP)) for guidelines.</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The Call for Applications is open throughout the year . Please contact
+<p>The Call for Applications is <u>open throughout the year</u>. Please contact
 the CSF Secretariat to indicate your interest in applying for the CSF.</p>
-<p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSF Awardees</strong></h4>
-<p>Download the list of our <a href="/files/CS Clinician Scientist/CSF Files/CSF_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSF Awardees here</a>.</p>
-<p></p>
+<p>Download the list of <a href="https://for.sg/csfawardees" rel="noopener nofollow" target="_blank">past CSF awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSF Secretariat:</p>
 <p><strong>Ms Adeline Chan</strong>

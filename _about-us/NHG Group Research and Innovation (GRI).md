@@ -1,12 +1,12 @@
 ---
-title: NHG Group Research & Innovation (GRI)
+title: NHG Group Research and Innovation (GRI)
 permalink: /gri/
 variant: tiptap
 description: ""
 ---
 <h4><strong>National Healthcare Group</strong></h4>
 <p>The <strong>National Healthcare Group (NHG)</strong> is a leader in public
-healthcare in Singapore recognized for delivering high value patient care.
+healthcare in Singapore recognised for delivering high value patient care.
 Our clinical services are provided through an integrated system of primary
 care polyclinics, acute care tertiary hospitals, community hospitals, national
 specialty centres, and community-based ambulatory care centres.</p>
@@ -20,10 +20,10 @@ of Healthy Life to the people we serve.​</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Content Images/NHG_Insts_Logo.png">
 </div>
 <p></p>
-<h4><strong>NHG Group Research &amp; Innovation</strong></h4>
+<h4><strong>NHG Group Research and Innovation</strong></h4>
 <p>At NHG, we believe that <strong>Research </strong>and <strong>Innovation </strong>are
 at the heart of <strong>advancing healthcare</strong>.</p>
-<p>Established in 2004 in NHG, the <strong>NHG Group Research &amp; Innovation (GRI)</strong> is
+<p>Established in 2004 in NHG, the <strong>NHG Group Research and Innovation (GRI)</strong> is
 dedicated to cultivating medical research and developing innovative medical
 technologies through collaborative partnerships with our academic partners
 and the MedTech industry.</p>
@@ -49,14 +49,15 @@ research and collaboration.</p>
 </ul>
 <p></p>
 <p><strong>Our Offices</strong>
-<br>The NHG Group Research &amp; Innovation (GRI) comprises of the following
+<br>The NHG Group Research and Innovation (GRI) comprises of the following
 Offices.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Centre for Medical Technologies &amp; Innovations (CMTi)</summary>
+<summary><strong>Centre for Medical Technologies and Innovations (CMTi)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The NHG Centre for Medical Technologies &amp; Innovations (CMTi) plays
-an integral role in the innovation ecosystem to help facilitate the development
+<p>The NHG Centre for Medical Technologies and Innovations (CMTi) plays an
+integral role in the innovation ecosystem to help facilitate the development
 of innovative MedTech solutions that can address unmet healthcare needs
 and contribute to improved patient and healthcare outcomes. This is achieved
 through a structured framework that includes funding, talent development,
@@ -70,7 +71,8 @@ and partnerships with academic and industry leaders.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Clinician-Scientist Development Office (CSDO)</summary>
+<summary><strong>Clinician-Scientist Development Office (CSDO)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Clinician Scientist Development Office (CSDO) facilitates and
 supports research in NHG by providing holistic support to nurture and develop
@@ -85,7 +87,8 @@ scientific research from the bench to beside.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Office of Human Research Protection Programme (OHRPP)</summary>
+<summary><strong>Office of Human Research Protection Programme (OHRPP)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Office of Human Research Protection Programme (OHRPP) ensures
 the ethical conduct of human research by overseeing ethics reviews, providing
@@ -100,7 +103,8 @@ conduct of research within NHG.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Research Administration Office (RAO)</summary>
+<summary><strong>Research Administration Office (RAO)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Research Administration Office (RAO) supports all offices and units
 under GRI as the key liaison for research finance matters. In addition,
@@ -113,7 +117,8 @@ support to develop digital solutions to enhance productive and efficiency.&nbsp;
 </div>
 </details>
 <details class="isomer-details">
-<summary>Translational Research Office (TRO)</summary>
+<summary><strong>Translational Research Office (TRO)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Translational Research Office (TRO), a part of the Group Research
 &amp; Innovation (GRI) in the National Healthcare Group (NHG), facilitates

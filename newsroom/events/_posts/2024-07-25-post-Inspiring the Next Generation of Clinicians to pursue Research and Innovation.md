@@ -24,5 +24,3 @@ our talents’ research and innovation excellence!</p>
 <p>The Psychiatry residency programme talk was another highlight, where the
 ACSI team had the opportunity to share more about the Academy and its talent
 development training programmes with residents and medical students!&nbsp;</p>
-<p>Write to us at (<strong><a href="mailto:lkc.nhg.ACSI@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lkc.nhg.ACSI@ntu.edu.sg</u></a></strong>)
-if you are interested to know more about ACSI.&nbsp;</p>

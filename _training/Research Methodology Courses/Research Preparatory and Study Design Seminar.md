@@ -15,6 +15,8 @@ will also learn about the various study designs and their application to
 different research studies.</p>
 <h4><strong>Agenda</strong></h4>
 <p>Download the <strong><a href="/files/Training/Research_Preparatory_Study_Design_Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Research Preparatory and Study Design Seminar here</a></strong>.</p>
+<h4><strong>Schedule</strong></h4>
+<p>The next run of this course to be updated.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is currently closed. It will open nearer
 to the course start date.

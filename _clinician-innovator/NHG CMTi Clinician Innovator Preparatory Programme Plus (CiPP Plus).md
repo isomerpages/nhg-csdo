@@ -4,22 +4,25 @@ permalink: /cipp-plus/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Plus Pics/cmti_cipp plus__logo.png">
+</div>
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG CMTi Clinician Innovator Preparatory Programme Plus (CiPP+)</strong> aims
+<p>The <strong>NHG Centre for Medical Technologies &amp; Innovations (CMTi) Clinician Innovator Preparatory Programme Plus (CiPP+)</strong> aims
 to encourage clinicians to participate in Health Technology (HealthTech)
 innovation to improve healthcare delivery and outcomes for their patients.
 The programme would also prepare them to <strong>compete successfully for the Singapore Biodesign (SB) Innovation Fellowship Programme or National Medical Research Council (NMRC) Transition Award (TA) / Clinician Innovator Award (CIA) within the next 2-3 years</strong> and
 further build his/her career in HealthTech innovation.</p>
-<p></p>
+<p>Awardees will be offered access to LKCMedicine’s library resources during
+the term of the award.</p>
 <h4><strong>Award Components</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Each awardee will receive a <strong>funding quantum up to S$40,000, for up to 2 years</strong> to
 cover:</p>
-<p>(a) Salary support for innovation of up to 0.1 FTE, with an applicable
-annual salary cap by clinician’s clinical designation (Table 1);
-<br>
-</p>
+<p>a) Salary support for innovation of up to 0.1 FTE, with an applicable
+annual salary cap by clinician’s clinical designation (Table 1);</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NHG Host Institution will need to top up the difference if the awardee’s
@@ -33,12 +36,12 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </li>
 </ul>
 <p></p>
-<p>(b) Local or overseas conferences/ trainings and related travel expenses;</p>
+<p>b) Local or overseas conferences/ trainings and related travel expenses;</p>
 <p></p>
-<p>(c) Services and expertise related to the innovation project such as biostatistics,
+<p>c) Services and expertise related to the innovation project such as biostatistics,
 bioinformatics, data analysis and management; and/or</p>
 <p></p>
-<p>(d) Other related support costs that help in the innovation project.
+<p>d) Other related support costs that help in the innovation project.
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -102,6 +105,7 @@ bioinformatics, data analysis and management; and/or</p>
 <li>
 <p>The C<strong>i</strong>PP+ funding is not applicable to cover any direct
 costs related to the innovation project or routine clinical care or services.</p>
+<p></p>
 </li>
 <li>
 <p>There should be an ongoing innovation project for the C<strong>i</strong>PP+
@@ -126,7 +130,6 @@ term ends or upon the 2-year award period, whichever is earlier. Award
 renewal is generally not allowable.</p>
 </li>
 </ol>
-<p></p>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -136,32 +139,37 @@ renewal is generally not allowable.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Applicants should be:
-<br><strong>(a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
+<br>a)<strong> Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
 with primary appointments at NHG institutions;
 <br>OR
-<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+<br>b)<strong> Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 with primary appointments at NHG institutions.</p>
+<p></p>
 </li>
 <li>
 <p>All applicants should also fulfil the following criteria:</p>
-<p>(a) Have completed the NHG Clinician Innovator Preparatory Programme (CiPP)
+<p>a) Have completed the NHG Clinician Innovator Preparatory Programme (CiPP)
 or demonstrate equivalent level of competency in foundational training
-in HealthTech innovation.
-<br>(b) Is a clinician Principal Investigator (PI), Co-PI or Co-Investigator
+in HealthTech innovation
+<br>
+<br>b) Is a clinician Principal Investigator (PI), Co-PI or Co-Investigator
 (Co-I) of an ongoing or new HealthTech innovation project that has been
 awarded or pending outcomes of competitive grant funding<sup>1</sup>; and/or
 is in collaboration with industry partner(s).
-<br>The project or grant term must have at least one year remaining at the
-point of CiPP+ application without a request for grant extension.</p>
-<p>(c) Demonstrate interest in HealthTech innovation and intention to develop
+<br><em>The project or grant term must have at least one year remaining at the point of CiPP+ application without a request for grant extension.</em>
+</p>
+<p></p>
+<p>c) Demonstrate interest in HealthTech innovation and intention to develop
 himself/herself as a Clinician Innovator (CI).</p>
+<p></p>
 </li>
 <li>
 <p>Awardees and applicants of NMRC Human Capital Awards and Talent Development
 Programmes such as Transition Award (TA), Clinician Innovator Award (CIA),
 Clinician Scientist Award (CSA), HPHSR CSA (HCSA) and Singapore Translational
 Research Investigator Award (STaR), will not be eligible for the C<strong>i</strong>PP+.</p>
+<p></p>
 </li>
 <li>
 <p>As awardees are expected to apply for the Singapore Biodesign (SB) Innovation
@@ -169,6 +177,7 @@ Fellowship Programme or equivalent, NMRC TA or CIA within one year from
 the end of their C<strong>i</strong>PP+ award period, applicants should
 ensure they are able to fulfil the latest eligibility criteria for the
 respective programme.</p>
+<p></p>
 </li>
 <li>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
@@ -176,12 +185,7 @@ commitments towards HealthTech innovation during the C<strong>i</strong>PP+
 award period (if awarded) and continue to facilitate his/her career pathway
 as a Clinician Innovator beyond the C<strong>i</strong>PP+ award.</p>
 <p></p>
-</li>
-</ol>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>[1]</strong>: <em>Examples of eligible funding sources, not limited to but including:</em>
+<p><sup>1</sup><em>Examples of eligible funding sources, not limited to but including:</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -211,8 +215,7 @@ Grant, Small PROjects Utilising Teams (SPROUTS) Grant, etc.</p>
 </li>
 </ul>
 </li>
-</ul>
-<p></p>
+</ol>
 </div>
 </details>
 </div>
@@ -227,13 +230,15 @@ The CiPP Secretariat may help to facilitate the matching of appropriate
 mentor if required.</p>
 <p></p>
 <p>Each applicant will receive mentorship in the following areas:</p>
-<p>(a) Guidance in their clinician innovator career development
-<br>(b) Advice on their innovation project
-<br>(c) Navigation to appropriate innovation resources
-<br>(d) Engagement in institution or NHG cluster level innovation activities
+<p>a) Guidance in their clinician innovator career development
+<br>b) Advice on their innovation project
+<br>c) Navigation to appropriate innovation resources
+<br>d) Engagement in institution or NHG cluster level innovation activities
 and initiatives</p>
+<p></p>
 <p>Applicants may propose other qualified NHG mentor(s) that is not part
 of the NHG CMTi Committee, with justifications and, subject to approval.</p>
+<p></p>
 <p>During the award, awardees will be granted access to the subject matter
 experts on an adhoc basis in area(s) of their own interest. Proposed topic
 areas may include venture building, medical technology development cycle,
@@ -250,19 +255,18 @@ be subsequently facilitated by NHG CMTi.</p>
 <p>The Call for Applications is <u>open throughout the year</u>. Please contact
 the CiPP Secretariat to indicate your interest in applying for the CiPP+
 and to obtain the application package.</p>
+<p></p>
 <p>Interested clinicians are strongly encouraged to contact the CiPP Secretariat
 for discussion on suitability of the programme prior to applying.</p>
-<p></p>
 </div>
 </details>
 </div>
-<p></p>
-<h4><strong>CiPP+ Information Sheet</strong></h4>
+<h4><strong>NHG CMTi CiPP+ Information Sheet - FY2024</strong></h4>
 <p>This document contains important information about the objective of the
 programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
-<p>Download the <a href="/files/CI Clinician Innovator/CIPP Plus Files/CiPP__Info_Sheet_Jul24.pdf" rel="noopener noreferrer nofollow" target="_blank">CiPP+ Information Sheet - FY2024 here</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippplusinfosheet" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CiPP Secretariat:</p>
@@ -276,6 +280,6 @@ proceeding to apply.</p>
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_mh_yeo@nhg.com.sg</u></a>
+<br>Email: <a href="mailto:valerie_mh_yeo@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_mh_yeo@nhg.com.sg</u></a>
 </p>
 <p></p>

@@ -1,5 +1,5 @@
 ---
-title: Recipients of the National Talent Development Award (Clinician Innovators)
+title: Our National Clinician Innovators
 permalink: /ci-recipients/
 variant: tiptap
 description: ""

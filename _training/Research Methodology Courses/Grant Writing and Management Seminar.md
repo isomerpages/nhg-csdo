@@ -13,8 +13,8 @@ on how to write to distinguish your grant proposals from the rest.&nbsp;</p>
 <h4><strong>Agenda</strong></h4>
 <p>Download the Agenda for the Grant Writing and Management Seminar here.</p>
 <h4><strong>Schedule</strong></h4>
-<p>The NHG Grant Writing &amp; Management Seminar will be held on <strong>26 September 2024 from 9.00am - 4.30pm</strong>.</p>
+<p>The next run of this course to be updated.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently open</strong>. Go to
-the <strong><a href="https://form.gov.sg/66b9bb7981b299b7d5b36416" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
+<p>Registration for this Course is <strong>currently closed.</strong>
+</p>
 <p></p>

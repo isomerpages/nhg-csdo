@@ -21,7 +21,7 @@ sections:
           description: See our Training Courses here
           url: /course-calendar/
   - resources:
-      title: Announcements, Events, News & more
+      title: Announcements, Events, News and more
       id: resources
       button: See more here
 ---
