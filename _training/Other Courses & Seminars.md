@@ -70,43 +70,6 @@ staff who are keen on translating innovative ideas into implementable solutions.
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Forums</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>To support information sharing, exchanging of ideas and networking among
-Clinical Research Professionals, we also organize regular forums and discussion
-platforms.</p>
-<p>Through these forums and training updates, we aim to create a platform
-for research professionals in the community to share experiences and create
-awareness of important developments in both clinical and translational
-research. This includes the <strong>NHG Clinical Research Coordinator Society (CRCS) Forums</strong>.</p>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>NHG-NTU/LKCMedicine Research Seminar</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The National Healthcare Group (NHG) and Lee Kong Chian School of Medicine
-(LKCMedicine) jointly organizes a series of bimonthly Thematic Research
-Seminars - The NHG-NTU/LKCMedicine Research Seminars.</p>
-<p>At these seminars, we hope to demonstrate the relevance and potential
-integration of basic and translational scientific research by both institutions
-into the clinical settings and introduce the new medical school to the
-healthcare and scientific community in Singapore through presentation by
-Clinician-Scientists of NHG and the Faculty Members of LKCMedicine.</p>
-<p>The themes featured in this series are –Metabolic and Vascular Diseases,
-Infection and Immunity, Population Health, Neuroscience and Mental Health
-and Dermatology and Skin Biology and Rehabilitative &amp; Regenerative
-Medicine.</p>
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
 <p></p>
 <p>
