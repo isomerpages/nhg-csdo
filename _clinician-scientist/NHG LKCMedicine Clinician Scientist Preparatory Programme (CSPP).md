@@ -192,7 +192,7 @@ Tracking)
 <br>Clinician Scientist Development Office
 <br>NHG Group Research &amp; Innovation
 <br>Tel: (65) 6038 3634
-<br>Email: <a href="mailto:Syarafina_HASAN@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">Syarafina_HASAN@nhg.com.sg</a>
+<br>Email: <a href="mailto:Syarafina_HASAN@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina_hasan@nhg.com.sg</a>
 </p>
 <p></p>
 <p></p>
