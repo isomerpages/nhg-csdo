@@ -34,10 +34,8 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 enrolled in the NHG Residency Programme; or with primary appointments as
 Associate Consultants at NHG institutions.
 <br>
-</p>
-<p>OR</p>
-<p></p>
-<p><strong>b) Health science / healthcare professionals</strong> with non-medical
+OR
+<br><strong>b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
 in clinical practice, with primary appointments at NHG institutions and
