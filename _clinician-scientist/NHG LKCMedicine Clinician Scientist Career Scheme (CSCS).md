@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG-LKCMedicine ClinicianScientist Career Scheme (CSCS)</strong> is
+<p>The <strong>NHG-LKCMedicine Clinician Scientist Career Scheme (CSCS)</strong> is
 a research manpower development programme jointly offered by the <strong>National Healthcare Group (NHG)</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
 <p>It aims to develop research capabilities of clinicians to transform patient
 care through competitive research and enable them to compete successfully
@@ -19,16 +19,14 @@ the term of the award.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Project funding quantum up to S$180,000, for up to 3 years; and</p>
-<ol data-tight="true" class="tight">
+</li>
 <li>
 <p>Salary support of up to 0.4FTE for up to 3 years, with an applicable annual
 salary cap by clinician’s clinical designation (Table 1).</p>
-<p>(a) NHG Host institution will need to top up the difference if the awardee’s
+<p>a) NHG Host institution will need to top up the difference if the awardee’s
 salary exceeds the applicable annual salary cap.</p>
-<p>(b) Salary support will cover the total annual compensation, inclusive
+<p>b) Salary support will cover the total annual compensation, inclusive
 of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
-</li>
-</ol>
 </li>
 </ol>
 <p></p>
@@ -99,10 +97,10 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Applicants should be:</p>
-<p>(a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
+<p>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
 with primary appointments of at least Associate Consultant at NHG institutions.
 <br>OR
-<br>(b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
+<br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
 in clinical practice, with primary appointments at NHG institutions and
@@ -112,10 +110,9 @@ qualification would be an advantage.</p>
 </li>
 <li>
 <p>All applicants should also fulfil the following criteria:
-<br>
-<br>(a) Has a research PhD
-<br>(b) Has a good publication track record in peer-reviewed journals
-<br>(c) The CSCS research project should be relevant to the research themes
+<br>a) Has a research PhD
+<br>b) Has a good publication track record in peer-reviewed journals
+<br>c) The CSCS research project should be relevant to the research themes
 of NHG and LKCMedicine. (Eligible applicants who do not meet these criteria
 may contact the CSCS Secretariat for further discussion on suitability
 of the scheme.)</p>
@@ -170,13 +167,13 @@ them in their research career and project. The CSCS Secretariat may assist
 in the nomination of appropriate mentor(s) where required. The mentor should
 be an established clinician scientist or clinical scientist who:</p>
 <p>
-<br>(a) Is involved in research with significant impact on clinical care;</p>
-<p>(b) Has had experience as Principal investigator (PI) in a relevant area
+<br>a) Is involved in research with significant impact on clinical care;</p>
+<p>b) Has had experience as Principal investigator (PI) in a relevant area
 of research;</p>
-<p>(c) Has strong foundation and knowledge in research methodology and conduct;</p>
-<p>(d) Has obtained intramural/extramural grant(s) during the past 5 years;</p>
-<p>(e) Has an established research track record; and</p>
-<p>(f) Has had experience in supervising or providing research mentorship
+<p>c) Has strong foundation and knowledge in research methodology and conduct;</p>
+<p>d) Has obtained intramural/extramural grant(s) during the past 5 years;</p>
+<p>e) Has an established research track record; and</p>
+<p>f) Has had experience in supervising or providing research mentorship
 to junior investigators or peers.</p>
 <p></p>
 <p></p>
@@ -222,8 +219,8 @@ after the call closing date and time will not be considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Letter of Intent Submission Deadline</strong>
-<br>(a) Letter of Intent (LOI);
-<br>(b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
+<br>a) Letter of Intent (LOI);
+<br>b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>12 Nov 2024 (Tues), 12pm (SGT)</p>
@@ -232,10 +229,10 @@ after the call closing date and time will not be considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline</strong>
-<br>(c) Application Form;
-<br>(d) Budget Breakdown Form;
-<br>(e) Other Supporting Documents (e.g., Academic Transcripts etc.);
-<br>(f) Research Team Members and Mentors’ CVs</p>
+<br>c) Application Form;
+<br>d) Budget Breakdown Form;
+<br>e) Other Supporting Documents (e.g., Academic Transcripts etc.);
+<br>f) Research Team Members and Mentors’ CVs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26 Nov 2024 (Tues), 12pm (SGT)</p>
@@ -258,7 +255,7 @@ scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/4ff8za" rel="noopener nofollow" target="_blank">CSCS Information Sheet </a>.</p>
+<p>Download the latest <a href="https://for.sg/4ff8za" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
@@ -283,17 +280,17 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Forms &amp; Templates Package</strong>
+<summary><strong>NHG-LKCMedicine CSCS Forms &amp; Templates </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates Package consists of the following documents:
-<br>(1) CSCS Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
+<br>1) CSCS Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
 Change of Research Scope</p>
-<p>(2) CSCS Interim Report Template</p>
-<p>(3) CSCS Final Report Template
-<br>(4) Annex for CSCS Interim &amp; Final Report Template
-<br>(5) CSCS Research Protected Time Logsheet
-<br>(6) NHG Research Funding Guidelines</p>
+<p>2) CSCS Interim Report Template</p>
+<p>3) CSCS Final Report Template
+<br>4) Annex for CSCS Interim &amp; Final Report Template
+<br>5) CSCS Research Protected Time Logsheet
+<br>6) NHG Research Funding Guidelines</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/qxiz6b" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
@@ -302,7 +299,7 @@ Change of Research Scope</p>
 </div>
 <p></p>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Download the list of our <a href="/files/CS Clinician Scientist/CSCS Files/CSCS_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSCS awardees here.</a>
+<p>Download the list of <a href="/files/CS Clinician Scientist/CSCS Files/CSCS_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSCS awardees.</a>
 </p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
