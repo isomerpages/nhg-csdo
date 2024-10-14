@@ -117,11 +117,10 @@ degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
 in clinical practice, with primary appointments at NHG institutions and
 at least 3 years of clinical or relevant experience. Others may contact
-the CSPP Secretariat for discussion on suitability of the programme.</p>
-<p>Applicants should have attained at least Bachelors (Hons)/Masters with
-an Upper Second, preferably First class honours degree in a relevant field.
-Experience as first or co-author of research publications is preferred
-but not required.</p>
+the CSPP Secretariat for discussion on suitability of the programme. Applicants
+should have attained at least Bachelors (Hons)/Masters with an Upper Second,
+preferably First class honours degree in a relevant field. Experience as
+first or co-author of research publications is preferred but not required.</p>
 <p>All applicants should also fulfil the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -228,12 +227,12 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2024</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CSPP+ Application Package contains the following documents:
-<br>1. Information Sheet;
-<br>2. Letter of Intent (LOI);
-<br>3. Application Form;
-<br>4. Budget Breakdown Form;
-<br>5. Application Checklist (for reference only); and
+<p>The CSPP+ Application Package consists of the following documents:
+<br>1. Information Sheet
+<br>2. Letter of Intent (LOI)
+<br>3. Application Form
+<br>4. Budget Breakdown Form
+<br>5. Application Checklist (for reference only)
 <br>6. NHG Funding Guidelines (CSPP+)</p>
 <p>Download the latest <a href="https://for.sg/csppplus-application" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
 <p></p>
@@ -245,7 +244,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CSPP+ Forms &amp; Templates Package contains the following documents:
+<p>The CSPP+ Forms &amp; Templates Package consists of the following documents:
 <br>1. CSPP+ Variation Forms - Budget Variation, Unbudgeted Item, Change of
 Scope
 <br>2. CSPP+ Final Report Template
