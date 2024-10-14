@@ -23,8 +23,8 @@ then had an in-depth discussion on the elements of an effective mentor-mentee
 relationship, the distinct roles and responsibilities of mentors and mentees,
 and the challenges of the mentoring process.</p>
 <p>Organised by the ACSI Recruitment and Development Domain and facilitated
-by Assoc Prof Angela Chow, ACSI Lead Mentor and Senior Consultant, TTSH,
-the event was held at LKCMedicine Clinical Sciences Building.</p>
+by <strong>A/Prof Angela Chow</strong>, ACSI Lead Mentor and Senior Consultant,
+TTSH, the event was held at LKCMedicine Clinical Sciences Building.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_Picture_of_ACSI_Inaugural_Research_and_Innovation_Mentorship_event.png">
 </div>
