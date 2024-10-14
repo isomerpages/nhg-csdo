@@ -280,10 +280,10 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Forms &amp; Templates </strong>
+<summary><strong>NHG-LKCMedicine CSCS Forms &amp; Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CSCS Forms &amp; Templates Package consists of the following documents:
+<p>The CSCS Forms &amp; Templates zip folder consists of the following documents:
 <br>1) CSCS Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
 Change of Research Scope</p>
 <p>2) CSCS Interim Report Template</p>
