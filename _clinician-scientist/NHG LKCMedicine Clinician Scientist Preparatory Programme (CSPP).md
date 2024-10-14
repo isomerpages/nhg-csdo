@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -175,7 +175,7 @@ Tracking)
 </div>
 <p></p>
 <h4><strong>Past CSPP Awardees</strong></h4>
-<p>Download the list of <a href="/files/CS Clinician Scientist/CSPP Files/CSPP_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/cspp-past-awardees" rel="noopener nofollow" target="_blank">past CSPP Awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p><strong>Ms Caslyn Chen</strong>
