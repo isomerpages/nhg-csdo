@@ -178,7 +178,8 @@ not be considered.</p>
 and
 <br>e) Written proof of intent to collaborate from Collaborator(s)
 <br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
-</p></td>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>26 Nov 2024 (Tue), 12pm (SGT)</p>
 </td>
@@ -200,7 +201,7 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="/files/CI Clinician Innovator/CIPP Files/CiPP_Info_Sheet_Oct24.pdf" rel="noopener noreferrer nofollow" target="_blank">CiPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippinfosheet" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
 </div>
 </details>
 </div>
@@ -241,7 +242,7 @@ Innovation Outcomes Tracking)
 </details>
 </div>
 <h4><strong>Past CiPP Awardees</strong></h4>
-<p>Download the list of <a href="/files/CI Clinician Innovator/CIPP Files/CiPP_Past_Awardees_Oct24.pdf" rel="noopener noreferrer nofollow" target="_blank">past CiPP awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/cippawardees" rel="noopener nofollow" target="_blank">past CiPP awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CiPP Secretariat:</p>
 <p><strong>Ms Adeline Chan</strong>
