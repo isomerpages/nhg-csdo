@@ -172,7 +172,7 @@ of research;
 <br>c) Has strong foundation and knowledge in research methodology and conduct;
 <br>d) Has obtained intramural/extramural grant(s) during the past 5 years;
 <br>e) Has an established research track record; and
-&lt;&gt;f) Has had experience in supervising or providing research mentorship
+<br>f) Has had experience in supervising or providing research mentorship
 to junior investigators or peers.</p>
 <p></p>
 <p></p>
