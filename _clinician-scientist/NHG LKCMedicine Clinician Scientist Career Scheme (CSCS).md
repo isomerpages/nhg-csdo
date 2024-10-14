@@ -9,7 +9,7 @@ description: ""
 a research manpower development programme jointly offered by the <strong>National Healthcare Group (NHG)</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
 <p>It aims to develop research capabilities of clinicians to transform patient
 care through competitive research and enable them to compete successfully
-for the <strong>National Medical Research Council (NMRC)</strong> Transition
+for the<strong> </strong>National Medical Research Council (NMRC) Transition
 Award (TA)/Clinician Scientist Award (CSA) or equivalent within the next
 2-3 years and further build his/her research career.</p>
 <p>Awardees will be offered access to LKCMedicine’s library resources during
