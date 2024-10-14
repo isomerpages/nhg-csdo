@@ -244,7 +244,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <summary><strong>NHG-LKCMedicine CSPP+ Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The CSPP+ Forms &amp; Templates Package consists of the following documents:
+<p>The CSPP+ Forms &amp; Templates zip folder consists of the following documents:
 <br>1. CSPP+ Variation Forms - Budget Variation, Unbudgeted Item, Change of
 Scope
 <br>2. CSPP+ Final Report Template
