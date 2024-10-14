@@ -12,6 +12,8 @@ aims to prepare clinicians to embark on formal research training leading
 to PhD in the early phase of their research careers.</p>
 <p>The programme would also help them to build up their research experience
 and generate preliminary data in preparation for competitive research.</p>
+<p>Awardees will be offered access to LKCMedicine’s library resources during
+the term of the award.</p>
 <h4><strong>Award Components</strong></h4>
 <p>Each awardee will receive the following funding support under the CSPP+
 award:</p>
@@ -109,7 +111,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 – Senior Residents enrolled in the NHG Residency Programme with indication
 of continuation with NHG or Associate Consultants or Consultants (no more
 than 5 years post-residency exit) with primary appointments at NHG institutions.
-<br><strong>OR</strong>
+<br>OR
 <br><strong>(b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
@@ -145,7 +147,13 @@ of Intent (LOI).</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
+the CSPP Secretariat at NHG Group Research &amp; Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
+<p>The Institution’s CRU / CRIO will set respective internal deadlines for
+the above submissions. Please check with your institutions for these deadlines.
+The Institution’s CRU/ CRIO will ensure that the respective documents reach
+the CSPP Secretariat by the stipulated deadlines. Applications submitted
+after the call closing date and time will not be considered.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -164,7 +172,7 @@ of Intent (LOI).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 April 2024 (Tue)</strong>
+<p><strong>15 Oct 2024 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -177,32 +185,26 @@ of Intent (LOI).</p>
 certificates etc).</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 May 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Application Submission:</strong>
-<br>d) Application Form;
-<br>e) Budget Breakdown Form; and
-<br>f)&nbsp;Mentors’ CVs.</p>
+<p><strong>Full Application Submission Deadline:</strong>
+<br>a) Application Form;
+<br>b) Budget Breakdown Form; and
+<br>c)&nbsp;Mentors’ CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 May 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p>Applicants are required to submit all application documents (Table 2)
-in softcopy to the CSPP Secretariat at NHG Group Research &amp; Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
-<p>The Institution’s CRU / CRIO will set respective internal deadlines for
-the above submissions. Please check with your institutions for these deadlines.
-The Institution’s CRU/ CRIO will ensure that the respective documents reach
-the CSPP Secretariat by the stipulated deadlines. Applications submitted
-after the call closing date and time will not be considered.</p>
+<p></p>
 <p></p>
 </div>
 </details>
