@@ -107,12 +107,12 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <summary><strong>Eligibility</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>(a) Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
+<p><strong>a) Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
 – Senior Residents enrolled in the NHG Residency Programme with indication
 of continuation with NHG or Associate Consultants or Consultants (no more
 than 5 years post-residency exit) with primary appointments at NHG institutions.
 <br>OR
-<br><strong>(b) Health science / healthcare professionals</strong> with non-medical
+<br><strong>b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
 in clinical practice, with primary appointments at NHG institutions and
@@ -229,12 +229,12 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP+ Application Package contains the following documents:
-<br>(1) Information Sheet;
-<br>(2) Letter of Intent (LOI);
-<br>(3) Application Form;
-<br>(4) Budget Breakdown Form;
-<br>(5) Application Checklist (for reference only); and
-<br>(6) NHG Funding Guidelines (CSPP+)</p>
+<br>1. Information Sheet;
+<br>2. Letter of Intent (LOI);
+<br>3. Application Form;
+<br>4. Budget Breakdown Form;
+<br>5. Application Checklist (for reference only); and
+<br>6. NHG Funding Guidelines (CSPP+)</p>
 <p>Download the latest <a href="https://for.sg/csppplus-application" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
 <p></p>
 </div>
