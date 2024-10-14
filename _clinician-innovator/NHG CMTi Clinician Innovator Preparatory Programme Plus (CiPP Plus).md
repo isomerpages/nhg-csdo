@@ -280,6 +280,6 @@ proceeding to apply.</p>
 <br>Clinician Scientist Development Office
 <br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_mh_yeo@nhg.com.sg</u></a>
+<br>Email: <a href="mailto:valerie_mh_yeo@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>valerie_mh_yeo@nhg.com.sg</u></a>
 </p>
 <p></p>
