@@ -203,7 +203,7 @@ after the call closing date and time will not be considered.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Table 2. CSCS Applications Timeline</strong>
+<p><strong>Table 2. CSCS Application Timeline</strong>
 </p>
 </td>
 </tr>
@@ -223,19 +223,19 @@ after the call closing date and time will not be considered.</p>
 <br>b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Nov 2024 (Tues), 12pm (SGT)</p>
+<p>12 Nov 2024 (Tue), 12pm (SGT)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline</strong>
-<br>c) Application Form;
-<br>d) Budget Breakdown Form;
-<br>e) Other Supporting Documents (e.g., Academic Transcripts etc.);
-<br>f) Research Team Members and Mentors’ CVs</p>
+<br>a) Application Form;
+<br>b) Budget Breakdown Form;
+<br>c) Other Supporting Documents (e.g., Academic Transcripts etc.);
+<br>d) Research Team Members and Mentors’ CVs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2024 (Tues), 12pm (SGT)</p>
+<p>26 Nov 2024 (Tue), 12pm (SGT)</p>
 </td>
 </tr>
 </tbody>
