@@ -109,7 +109,7 @@ after the call closing date and time will not be considered.</p>
 <br>b) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue),12pm (SGT)</strong>
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
