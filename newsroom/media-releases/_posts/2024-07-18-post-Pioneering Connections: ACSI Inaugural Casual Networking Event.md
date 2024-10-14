@@ -7,12 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>On 27<sup>th</sup> June 2024, the LKCMedicine Clinical Sciences Building
-Level 20 Library buzzed with vibrant discussions as approximately 50 members
-of the research and innovation community gathered for an enriching networking
-event. Clinician scientists and innovators, administrators, university
-faculty, and researchers were brought together in this dynamic setting
-to exchange ideas, foster collaborations, and explore innovations.</p>
+<p>On 27 June 2024, the LKCMedicine Clinical Sciences Building Level 20 Library
+buzzed with vibrant discussions as approximately 50 members of the research
+and innovation community gathered for an enriching networking event. Clinician
+scientists and innovators, administrators, university faculty, and researchers
+were brought together in this dynamic setting to exchange ideas, foster
+collaborations, and explore innovations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/1__Announcement_acsi_networking_june_1.png">
 </div>
