@@ -27,7 +27,7 @@ to effectively support NHG clinicians at different stages of their clinical
 and research careers.</p>
 <p>These Programmes build up clinicians’ research capabilities through curated
 resources, training and guidance from experts.</p>
-<p><a href="/cs-talent-development/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
+<p><a href="https://talentdev.gri.nhg.com.sg/cs-overview/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 <p></p>
 </div>
 </details>
@@ -39,7 +39,7 @@ resources, training and guidance from experts.</p>
 CSDO administers and offers the Clinician-Innovator (CI) Development Programmes
 comprising of foundational programmes designed to empower aspiring CIs
 with relevant knowledge and skills.</p>
-<p><a href="/cs-talent-development/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
+<p><a href="https://talentdev.gri.nhg.com.sg/ci-overview/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 </div>
 </details>
 </div>
