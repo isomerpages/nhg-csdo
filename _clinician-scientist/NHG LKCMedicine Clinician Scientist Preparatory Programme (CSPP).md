@@ -160,18 +160,15 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Forms &amp; Templates Package contains the following documents.
-<br>(1) CSPP Variation Forms
-<br>a. Request for Budget Variation Form
-<br>b. Request to fund Unbudgeted Item Form
-<br>c. Request for Time Extension Form
-<br>d. Request for Change of Scope Form</p>
-<p>(2) CSPP Interim Report Template
-<br>(3) CSPP Final Report Template
-<br>(4) Annex for CSPP Interim &amp; Final Report Template (Research Outcomes
+<br>1. CSPP Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
+Change of Scope</p>
+<p>2. CSPP Interim Report Template
+<br>3. CSPP Final Report Template
+<br>4. Annex for CSPP Interim &amp; Final Report Template (Research Outcomes
 Tracking)
-<br>(5) NHG Research Funding Guidelines – CSPP
-<br>(6) CSPP Acknowledgement for Supplementary Readings</p>
-<p>Download the latest <a href="https://for.sg/cspp-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
+<br>5. NHG Research Funding Guidelines – CSPP
+<br>6. CSPP Acknowledgement for Supplementary Readings</p>
+<p>Download the latest <a href="https://for.sg/cspp-forms-templates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
 <p></p>
 </div>
 </details>
