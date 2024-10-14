@@ -39,7 +39,7 @@ resources, training and guidance from experts.</p>
 CSDO administers and offers the Clinician-Innovator (CI) Development Programmes
 comprising of foundational programmes designed to empower aspiring CIs
 with relevant knowledge and skills.</p>
-<p><a href="/cs-talent-development/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
+<p><a href="/ci-overview/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
 </div>
 </details>
 </div>
