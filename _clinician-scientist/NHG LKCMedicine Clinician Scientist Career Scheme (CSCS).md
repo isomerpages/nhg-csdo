@@ -266,12 +266,12 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
-<br>1) Information Sheet
-<br>2) Letter of Intent (LOI)
-<br>3) Application Form
-<br>4) Budget Breakdown Form
-<br>5) Application Checklist (For reference only); and
-<br>6) NHG Research Funding Guidelines (For reference only).</p>
+<br>1. Information Sheet
+<br>2. Letter of Intent (LOI)
+<br>3. Application Form
+<br>4. Budget Breakdown Form
+<br>5. Application Checklist (For reference only); and
+<br>6. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cscsappct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
@@ -284,13 +284,13 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates zip folder consists of the following documents:
-<br>1) CSCS Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
+<br>1. CSCS Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
 Change of Research Scope
-<br>2) CSCS Interim Report Template
-<br>3) CSCS Final Report Template
-<br>4) Annex for CSCS Interim &amp; Final Report Template
-<br>5) CSCS Research Protected Time Logsheet
-<br>6) NHG Research Funding Guidelines</p>
+<br>2. CSCS Interim Report Template
+<br>3. CSCS Final Report Template
+<br>4. Annex for CSCS Interim &amp; Final Report Template
+<br>5. CSCS Research Protected Time Logsheet
+<br>6. NHG Research Funding Guidelines</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cscspostforms" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
