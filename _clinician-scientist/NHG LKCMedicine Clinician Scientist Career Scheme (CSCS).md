@@ -96,8 +96,8 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Applicants should be:</p>
-<p>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
+<p>Applicants should be:
+<br>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
 with primary appointments of at least Associate Consultant at NHG institutions.
 <br>OR
 <br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
@@ -172,7 +172,7 @@ of research;
 <br>c) Has strong foundation and knowledge in research methodology and conduct;
 <br>d) Has obtained intramural/extramural grant(s) during the past 5 years;
 <br>e) Has an established research track record; and
-<br>f) Has had experience in supervising or providing research mentorship
+&lt;&gt;f) Has had experience in supervising or providing research mentorship
 to junior investigators or peers.</p>
 <p></p>
 <p></p>
