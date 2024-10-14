@@ -113,10 +113,10 @@ qualification would be an advantage.</p>
 <br>a) Has a research PhD
 <br>b) Has a good publication track record in peer-reviewed journals
 <br>c) The CSCS research project should be relevant to the research themes
-of NHG and LKCMedicine. (Eligible applicants who do not meet these criteria
+of NHG and LKCMedicine (eligible applicants who do not meet this criteria
 may contact the CSCS Secretariat for further discussion on suitability
-of the scheme.)</p>
-<p></p>
+of the scheme)</p><p>
+</p><p></p>
 </li>
 <li>
 <p>On an exceptional basis, an applicant without a PhD could be considered
