@@ -178,7 +178,7 @@ Tracking)
 </div>
 <p></p>
 <h4><strong>Past CSPP Awardees</strong></h4>
-<p>Download the list of <a href="/files/CS Clinician Scientist/CSPP Files/2024_04_03_CSPP_Awardees_For_Website_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP Awardees</a>.</p>
+<p>Download the list of <a href="/files/CS Clinician Scientist/CSPP Files/CSPP_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p><strong>Ms Caslyn Chen</strong>
