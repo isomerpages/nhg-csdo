@@ -38,9 +38,7 @@ Associate Consultants at NHG institutions.
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
 in clinical practice, with primary appointments at NHG institutions and
-at least 3 years of clinical or relevant experience.</p>
-<p></p>
-<p>Others may contact the Secretariat for discussion on suitability of the
+at least 3 years of clinical or relevant experience. Others may contact the Secretariat for discussion on suitability of the
 programme. Applicants should have at least a Bachelors (Hons)/Masters with
 an Upper Second, preferably First class honours degree in a relevant field.
 Experience as first or co-author of research publications is preferred
