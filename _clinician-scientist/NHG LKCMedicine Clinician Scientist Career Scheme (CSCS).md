@@ -22,10 +22,10 @@ the term of the award.</p>
 </li>
 <li>
 <p>Salary support of up to 0.4FTE for up to 3 years, with an applicable annual
-salary cap by clinician’s clinical designation (Table 1).</p>
-<p>a) NHG Host institution will need to top up the difference if the awardee’s
-salary exceeds the applicable annual salary cap.</p>
-<p>b) Salary support will cover the total annual compensation, inclusive
+salary cap by clinician’s clinical designation (Table 1).
+<br>a) NHG Host institution will need to top up the difference if the awardee’s
+salary exceeds the applicable annual salary cap.
+<br>b) Salary support will cover the total annual compensation, inclusive
 of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </li>
 </ol>
@@ -285,9 +285,9 @@ proceeding to apply.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates zip folder consists of the following documents:
 <br>1) CSCS Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
-Change of Research Scope</p>
-<p>2) CSCS Interim Report Template</p>
-<p>3) CSCS Final Report Template
+Change of Research Scope
+<br>2) CSCS Interim Report Template
+<br>3) CSCS Final Report Template
 <br>4) Annex for CSCS Interim &amp; Final Report Template
 <br>5) CSCS Research Protected Time Logsheet
 <br>6) NHG Research Funding Guidelines</p>
