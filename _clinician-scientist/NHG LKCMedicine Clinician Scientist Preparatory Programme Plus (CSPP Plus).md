@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme Plus (CSPP Plus)
 permalink: /cspp-plus/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -251,14 +251,14 @@ Scope
 <br>2. CSPP+ Final Report Template
 <br>3. Annex for CSPP+ Final Report Template (Research Outcomes Tracking)
 <br>4. NHG Research Funding Guidelines – CSPP+</p>
-<p>Download the <a href="https://for.sg/cspp-plus-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
+<p>Download the <a href="https://for.sg/cspp-plus-forms-templates" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSPP+ Awardees</strong></h4>
-<p>Download the list of <a href="/files/CS Clinician Scientist/CSPP Plus Files/2024_04_03_CSPP__Awardees_For_Website_Update.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
+<p>Download the list of <a href="/files/CS Clinician Scientist/CSPP Plus Files/cspp_plus_past_awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
