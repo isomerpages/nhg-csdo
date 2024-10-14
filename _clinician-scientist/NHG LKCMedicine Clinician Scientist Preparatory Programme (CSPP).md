@@ -141,11 +141,11 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package contains the following documents:
-<br>(1) Information Sheet;
-<br>(2) Letter of Intent (LOI);
-<br>(3) Application Form;
-<br>(4) Application Checklist (for reference only); and
-<br>(5) NHG Funding Guidelines (CSPP)</p>
+<br>1. Information Sheet;
+<br>2. Letter of Intent (LOI);
+<br>3. Application Form;
+<br>4. Application Checklist (for reference only); and
+<br>5. NHG Funding Guidelines (CSPP)</p>
 <p>Download the latest <a href="https://for.sg/cspp-application" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
 <p></p>
 </div>
