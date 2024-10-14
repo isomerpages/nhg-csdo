@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -33,8 +33,7 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 <p><strong>a) Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
 enrolled in the NHG Residency Programme; or with primary appointments as
 Associate Consultants at NHG institutions.
-<br>
-OR
+<br>OR
 <br><strong>b) Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
@@ -48,10 +47,10 @@ Experience as first or co-author of research publications is preferred
 but not required.</p>
 <p></p>
 <p>All applicants should also fulfil the following criteria:
-<br>(a)&nbsp;Is interested in research but have little or no research experience;
+<br>a)&nbsp;Is interested in research but have little or no research experience;
 and
-<br>(b) Able to commit time to complete the required CSPP research training.
-<br>(c) Applicants are recommended to commit an <strong>estimated 0.1FTE</strong> to
+<br>b) Able to commit time to complete the required CSPP research training.
+<br>c) Applicants are recommended to commit an <strong>estimated 0.1FTE</strong> to
 complete their research project within the award period, with the approval
 from their Reporting Officer.</p>
 <p>Interested clinicians are strongly encouraged to contact the CSPP Secretariat
