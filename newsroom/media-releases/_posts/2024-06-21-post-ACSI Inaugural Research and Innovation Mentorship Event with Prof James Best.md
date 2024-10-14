@@ -7,14 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>On 7 Jun 2024, ACSI held its first engagement event on research and innovation
-mentorship, featuring Prof Best, ACSI Chief Mentor and former Dean of LKCMedicine.
-With an extensive experience in research and education, Prof Best has authored
-over 200 publications and guided numerous clinicians across his various
-academic and clinical roles. The research and innovation huddle, attended
-by Prof Leo Yee-Sin, ACSI Co-President, gathered other key research leaders
-and national Clinician Scientists and Innovators, who are also established
-mentors in research and innovation.</p>
+<p>On 7<sup>th</sup> June 2024, ACSI held its first engagement event on research
+and innovation mentorship, featuring Prof Best, ACSI Chief Mentor and former
+Dean of LKCMedicine. With an extensive experience in research and education,
+Prof Best has authored over 200 publications and guided numerous clinicians
+across his various academic and clinical roles. The research and innovation
+huddle, attended by Prof Leo Yee-Sin, ACSI Co-President, gathered other
+key research leaders and national Clinician Scientists and Innovators,
+who are also established mentors in research and innovation.</p>
 <p>Prof Best opened the session by quoting the definition of mentorship from
 The Science of Effective Mentorship in STEMM (2019): “<em>Mentorship is a professional, working alliance in which individuals work together over time to support the personal and professional growth, development, and success of the relational partners through the provision of career and psychosocial support</em>”,
 and his views on the difference between a mentor and a coach. The attendees
