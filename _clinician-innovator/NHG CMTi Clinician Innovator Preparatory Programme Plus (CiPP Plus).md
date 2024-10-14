@@ -267,7 +267,7 @@ for discussion on suitability of the programme prior to applying.</p>
 programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
-<p>Download the latest <a href="/files/CI Clinician Innovator/CIPP Plus Files/CiPP_Plus_Info_Sheet_Oct24.pdf" rel="noopener noreferrer nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippplusinfosheet" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CiPP Secretariat:</p>
