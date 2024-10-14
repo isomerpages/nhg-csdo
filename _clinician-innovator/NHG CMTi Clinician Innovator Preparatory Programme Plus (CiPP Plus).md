@@ -1,7 +1,7 @@
 ---
 title: NHG CMTi Clinician Innovator Preparatory Programme Plus (CiPP Plus)
 permalink: /cipp-plus/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p></p>
@@ -22,15 +22,17 @@ the term of the award.</p>
 <p>Each awardee will receive a <strong>funding quantum up to S$40,000, for up to 2 years</strong> to
 cover:</p>
 <p>a) Salary support for innovation of up to 0.1 FTE, with an applicable
-annual salary cap by clinician’s clinical designation (Table 1);
-</p><ul data-tight="true" class="tight">
-<li>NHG Host Institution will need to top up the difference if the awardee’s
-salary exceeds the applicable annual salary cap.
+annual salary cap by clinician’s clinical designation (Table 1);</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>NHG Host Institution will need to top up the difference if the awardee’s
+salary exceeds the applicable annual salary cap.</p>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
-<li> Salary support will cover the total annual compensation, inclusive of
-salaries, CPF, fringe benefits, as well as bonus / incentive payments.<p></p>
+<li>
+<p>Salary support will cover the total annual compensation, inclusive of
+salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </li>
 </ul>
 <p></p>
@@ -149,7 +151,8 @@ with primary appointments at NHG institutions.</p>
 <p>All applicants should also fulfil the following criteria:</p>
 <p>a) Have completed the NHG Clinician Innovator Preparatory Programme (CiPP)
 or demonstrate equivalent level of competency in foundational training
-in HealthTech innovation <br>
+in HealthTech innovation
+<br>
 <br>b) Is a clinician Principal Investigator (PI), Co-PI or Co-Investigator
 (Co-I) of an ongoing or new HealthTech innovation project that has been
 awarded or pending outcomes of competitive grant funding<sup>1</sup>; and/or
