@@ -149,7 +149,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>(3) Application Form;
 <br>(4) Application Checklist (for reference only); and
 <br>(5) NHG Funding Guidelines (CSPP)</p>
-<p>Download the latest <a href="https://for.sg/cspp-application-package-fy2024call1" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-application" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
