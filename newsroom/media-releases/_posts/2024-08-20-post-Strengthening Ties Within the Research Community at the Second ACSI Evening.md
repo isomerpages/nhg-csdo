@@ -7,11 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>On the evening of 20 August, the NHG/LKCMedicine research and innovation
-community gathered once again for the second run of our signature "ACSI
-Evening" casual networking session. We brought together over 42 clinicians,
-researchers, innovators, and staff, across NHG, LKCMedicine, and the wider
-NTU, eager to connect and collaborate.</p>
+<p>On the evening of 20<sup>th</sup> August, the NHG/LKCMedicine research
+and innovation community gathered once again for the second run of our
+signature "ACSI Evening" casual networking session. We brought together
+over 42 clinicians, researchers, innovators, and staff, across NHG, LKCMedicine,
+and the wider NTU, eager to connect and collaborate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/20240820 acsi evening image 1.jpg">
 </div>
