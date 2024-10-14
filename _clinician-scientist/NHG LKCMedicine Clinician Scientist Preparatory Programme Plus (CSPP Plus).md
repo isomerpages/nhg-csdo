@@ -247,8 +247,8 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP+ Forms &amp; Templates Package contains the following documents:
 <br>1. CSPP+ Variation Forms - Budget Variation, Unbudgeted Item, Change of
-Scope</p>
-<p>2. CSPP+ Final Report Template
+Scope
+<br>2. CSPP+ Final Report Template
 <br>3. Annex for CSPP+ Final Report Template (Research Outcomes Tracking)
 <br>4. NHG Research Funding Guidelines – CSPP+</p>
 <p>Download the <a href="https://for.sg/cspp-plus-forms-templates-package" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
