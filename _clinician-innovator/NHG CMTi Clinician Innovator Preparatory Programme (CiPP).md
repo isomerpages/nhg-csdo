@@ -168,8 +168,7 @@ not be considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Application Submission Deadline</strong>
-</p>
-<p>a) Application Form
+<br>a) Application Form
 <br>b) Applicant’s Curriculum Vitae (CV)
 <br>c) Mentor’s CV
 <br>(<em>applicable only if he/she is not from the NHG CMTi Committee)</em>
