@@ -175,14 +175,14 @@ Tracking)
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p><strong>Ms Caslyn Chen</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research &amp; Innovation
+<br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3630
 <br>Email: <a href="mailto:caslyn_yx_chen@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">caslyn_yx_chen@nhg.com.sg</a>
 </p>
 <p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research &amp; Innovation
+<br>NHG Group Research and Innovation
 <br>Tel: (65) 6038 3634
 <br>Email: <a href="mailto:Syarafina_HASAN@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina_hasan@nhg.com.sg</a>
 </p>
