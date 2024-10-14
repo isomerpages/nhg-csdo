@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG-LKCMedicine Clinician-Scientist Preparatory Programme (CSPP)</strong> is
+<p>The <strong>NHG-LKCMedicine Clinician Scientist Preparatory Programme (CSPP)</strong> is
 a joint programme between the <strong>National Healthcare Group (NHG)</strong> and
 the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
 aims to provide clinicians with an exposure to research in the early phase
