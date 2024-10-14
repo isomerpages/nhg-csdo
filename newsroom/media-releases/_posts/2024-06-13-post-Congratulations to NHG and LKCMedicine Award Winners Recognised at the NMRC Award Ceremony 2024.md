@@ -8,9 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>On 23<sup>rd</sup> May 2024, NMRC recognised and celebrated outstanding
-individuals who received grants and awards in the 2023 grant/award call
-cycles at the&nbsp;<strong>NMRC Awards Ceremony and Research Symposium 2024</strong>.
+<p>On 23 May 2024, NMRC recognised and celebrated outstanding individuals
+who received grants and awards in the 2023 grant/award call cycles at the&nbsp;<strong>NMRC Awards Ceremony and Research Symposium 2024</strong>.
 Our heartfelt congratulations to our NHG and LKCMedicine clinicians and
 researchers in their respective achievements!&nbsp;</p>
 <h4>NHG and LKCMedicine Teams Secure 2 Out Of 3 Open Fund-Large Collaborative Grant (OF-LCG) Awarded to New Projects</h4>
