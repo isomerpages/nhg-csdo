@@ -273,7 +273,7 @@ proceeding to apply.</p>
 <br>5) Application Checklist (For reference only); and
 <br>6) NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/spxu66" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsappct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -292,15 +292,14 @@ Change of Research Scope
 <br>5) CSCS Research Protected Time Logsheet
 <br>6) NHG Research Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/qxiz6b" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscspostforms" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Download the list of <a href="/files/CS Clinician Scientist/CSCS Files/CSCS_Past_Awardees.pdf" rel="noopener noreferrer nofollow" target="_blank">past CSCS awardees.</a>
-</p>
+<p>Download the list of <a href="https://for.sg/cscspastawardees" rel="noopener nofollow" target="_blank">past CSCS awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
