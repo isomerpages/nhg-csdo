@@ -94,10 +94,9 @@ scan the QR code below.</p>
 <p>If the proposed project encompasses a software/digital technology component,
 applicants are required to complete the e-learn module on eLEARN prior
 to the coaching session for a more fruitful discussion.</p>
-<p>Please follow the steps to access the module:</p>
-<p>1) Login to your <a href="https://elearn.sg/nhg/Login" rel="noopener nofollow" target="_blank">NHG eLEARN Account</a>
-</p>
-<p>2) Select "Marketplace"
+<p>Please follow the steps to access the module:
+<br>1) Login to your <a href="https://elearn.sg/nhg/Login" rel="noopener nofollow" target="_blank">NHG eLEARN Account</a>
+<br>2) Select "Marketplace"
 <br>3) Search “Digital Health Applications (DHA) Clinic”
 <br>4) Select “Register” to enrol and complete the module.</p>
 </div>
@@ -170,19 +169,16 @@ not be considered.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Application Submission Deadline</strong>
 </p>
-<p>a) Application Form</p>
-<p>b) Applicant’s Curriculum Vitae (CV)</p>
-<p>c) Mentor’s CV
+<p>a) Application Form
+<br>b) Applicant’s Curriculum Vitae (CV)
+<br>c) Mentor’s CV
 <br>(<em>applicable only if he/she is not from the NHG CMTi Committee)</em>
-</p>
-<p>d) Screenshot of completed e-learn module on Digital Health Applications
-(DHA) Clinic
-<br>(<em>applicable only if project encompasses software/digital technology component)</em>;
-and</p>
-<p>e) Written proof of intent to collaborate from Collaborator(s)
+<br>d) Screenshot of completed e-learn module on Digital Health Applications
+(DHA) Clinic (<em>applicable only if project encompasses software/digital technology component)</em>;
+and
+<br>e) Written proof of intent to collaborate from Collaborator(s)
 <br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
-</p>
-</td>
+</p></td>
 <td rowspan="1" colspan="1">
 <p>26 Nov 2024 (Tue), 12pm (SGT)</p>
 </td>
