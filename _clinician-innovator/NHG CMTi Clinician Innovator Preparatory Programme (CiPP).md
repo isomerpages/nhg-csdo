@@ -48,8 +48,8 @@ their Reporting Officer.</p>
 <p>The proposed project:</p>
 <p>a) Must be a HealthTech product innovation project that aims to potentially
 address unmet clinical needs relevant to a medical condition/ disease in
-healthcare</p>
-<p><sup>Note: Scope of proposals pertaining to the development of new software (e.g. digital apps, artificial intelligence for diagnosis and/or intervention, etc.) shall be limited up to prototyping and pre-clinical testing (i.e. inclusion of clinical trials involving patient data is not allowed).</sup>
+healthcare
+<br><sup>Note: Scope of proposals pertaining to the development of new software (e.g. digital apps, artificial intelligence for diagnosis and/or intervention, etc.) shall be limited up to prototyping and pre-clinical testing (i.e. inclusion of clinical trials involving patient data is not allowed).</sup>
 </p>
 <p></p>
 <p>b) Must be a project with specific aims that can be achieved within the
