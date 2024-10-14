@@ -165,8 +165,10 @@ CSCS award.</p>
 <br>Each applicant is required to nominate a mentor from NHG and a mentor
 from LKCMedicine (subject to approval by the review committee) to guide
 them in their research career and project. The CSCS Secretariat may assist
-in the nomination of appropriate mentor(s) where required. The mentor should
-be an established clinician scientist or clinical scientist who:
+in the nomination of appropriate mentor(s) where required.</p>
+<p></p>
+<p>The mentor should be an established clinician scientist or clinical scientist
+who:
 <br>a) Is involved in research with significant impact on clinical care;
 <br>b) Has had experience as Principal investigator (PI) in a relevant area
 of research;
