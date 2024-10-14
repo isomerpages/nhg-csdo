@@ -160,20 +160,19 @@ CSCS award.</p>
 <summary><strong>Mentorship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<p>Each applicant is required to nominate a mentor from NHG and a mentor
+<p>
+<br>Each applicant is required to nominate a mentor from NHG and a mentor
 from LKCMedicine (subject to approval by the review committee) to guide
 them in their research career and project. The CSCS Secretariat may assist
 in the nomination of appropriate mentor(s) where required. The mentor should
-be an established clinician scientist or clinical scientist who:</p>
-<p>
-<br>a) Is involved in research with significant impact on clinical care;</p>
-<p>b) Has had experience as Principal investigator (PI) in a relevant area
-of research;</p>
-<p>c) Has strong foundation and knowledge in research methodology and conduct;</p>
-<p>d) Has obtained intramural/extramural grant(s) during the past 5 years;</p>
-<p>e) Has an established research track record; and</p>
-<p>f) Has had experience in supervising or providing research mentorship
+be an established clinician scientist or clinical scientist who:
+<br>a) Is involved in research with significant impact on clinical care;
+<br>b) Has had experience as Principal investigator (PI) in a relevant area
+of research;
+<br>c) Has strong foundation and knowledge in research methodology and conduct;
+<br>d) Has obtained intramural/extramural grant(s) during the past 5 years;
+<br>e) Has an established research track record; and
+<br>f) Has had experience in supervising or providing research mentorship
 to junior investigators or peers.</p>
 <p></p>
 <p></p>
@@ -266,12 +265,12 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
-<br>1. Information Sheet
-<br>2. Letter of Intent (LOI)
-<br>3. Application Form
-<br>4. Budget Breakdown Form
-<br>5. Application Checklist (For reference only); and
-<br>6. NHG Research Funding Guidelines (For reference only).</p>
+<br>1) Information Sheet
+<br>2) Letter of Intent (LOI)
+<br>3) Application Form
+<br>4) Budget Breakdown Form
+<br>5) Application Checklist (For reference only); and
+<br>6) NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/spxu66" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
