@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -98,9 +98,9 @@ after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline:</strong><br>
-a) Letter of Intent (LOI);<br>
-	b) Applicant's Curriculum Vitae (CV).</p>
+<p><strong>Letter of Intent Submission Deadline:</strong>
+<br>a) Letter of Intent (LOI);
+<br>b) Applicant's Curriculum Vitae (CV).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
@@ -109,13 +109,12 @@ a) Letter of Intent (LOI);<br>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline:</strong><br>
-a) Application Form;<br>
-b) Mentors' CVs;</p>
+<p><strong>Full Application Submission Deadline:</strong>
+<br>a) Application Form;
+<br>b) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue),</strong>
-<strong>12pm (SGT)</strong>
+<p><strong>26 Nov 2024 (Tue),12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -134,7 +133,7 @@ b) Mentors' CVs;</p>
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the latest <a href="/files/CS Clinician Scientist/CSPP Files/1__CSPP_Information_Sheet_FY2024_Call_I.pdf" rel="noopener noreferrer nofollow" target="_blank">CSPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/csppinfosheet" rel="noopener nofollow" target="_blank">CSPP Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
