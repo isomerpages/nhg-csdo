@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Career Scheme (CSCS)
 permalink: /cscs/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -115,8 +115,9 @@ qualification would be an advantage.</p>
 <br>c) The CSCS research project should be relevant to the research themes
 of NHG and LKCMedicine (eligible applicants who do not meet this criteria
 may contact the CSCS Secretariat for further discussion on suitability
-of the scheme)</p><p>
-</p><p></p>
+of the scheme)</p>
+<p></p>
+<p></p>
 </li>
 <li>
 <p>On an exceptional basis, an applicant without a PhD could be considered
@@ -254,7 +255,7 @@ scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/4ff8za" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsinfosheet" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
