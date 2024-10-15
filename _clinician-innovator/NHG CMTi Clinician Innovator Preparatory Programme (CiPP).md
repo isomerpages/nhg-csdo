@@ -1,7 +1,7 @@
 ---
 title: NHG CMTi Clinician Innovator Preparatory Programme (CiPP)
 permalink: /cipp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -162,7 +162,8 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Oct 2024 (Tue)</p>
+<p><strong>15 Oct 2024 (Tue)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +181,8 @@ and
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2024 (Tue), 12pm (SGT)</p>
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 </tbody>
