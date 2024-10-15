@@ -216,7 +216,8 @@ after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Oct 2024 (Tue)</p>
+<p><strong>15 Oct 2024 (Tue)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +227,8 @@ after the call closing date and time will not be considered.</p>
 <br>b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Nov 2024 (Tue), 12pm (SGT)</p>
+<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +240,8 @@ after the call closing date and time will not be considered.</p>
 <br>d) Research Team Members and Mentors’ CVs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2024 (Tue), 12pm (SGT)</p>
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 </tbody>
