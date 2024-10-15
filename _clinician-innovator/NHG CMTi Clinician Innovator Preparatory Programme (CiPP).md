@@ -1,7 +1,7 @@
 ---
 title: NHG CMTi Clinician Innovator Preparatory Programme (CiPP)
 permalink: /cipp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -162,7 +162,8 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Oct 2024 (Tue)</p>
+<p><strong>15 Oct 2024 (Tue)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +181,8 @@ and
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2024 (Tue), 12pm (SGT)</p>
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -226,9 +228,7 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Forms &amp; Templates zip folder consists of the following documents:
-<br>
-</p>
-<p>1) CiPP Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
+<br>1) CiPP Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
 Change of Project Scope
 <br>2) CiPP Interim Report Template
 <br>3) CiPP Final Report Template

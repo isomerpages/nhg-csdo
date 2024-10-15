@@ -188,9 +188,7 @@ to junior investigators or peers.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
-the CSCS Secretariat at NHG Group Research and Innovation through their
-Institution’s Clinical Research Unit (CRU)/Clinical Research and Innovation
-Office (CRIO).</p>
+the CSCS Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU)/Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p></p>
 <p>The Institution’s CRU/CRIO will set respective internal deadlines for
 the above submissions. Please check with your institutions for these deadlines.
@@ -216,7 +214,8 @@ after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 Oct 2024 (Tue)</p>
+<p><strong>15 Oct 2024 (Tue)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +225,8 @@ after the call closing date and time will not be considered.</p>
 <br>b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 Nov 2024 (Tue), 12pm (SGT)</p>
+<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +238,8 @@ after the call closing date and time will not be considered.</p>
 <br>d) Research Team Members and Mentors’ CVs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2024 (Tue), 12pm (SGT)</p>
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -276,7 +277,7 @@ proceeding to apply.</p>
 <br>5. Application Checklist (For reference only); and
 <br>6. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsappct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsappoct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -295,7 +296,7 @@ Change of Research Scope
 <br>5. CSCS Research Protected Time Logsheet
 <br>6. NHG Research Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscspostforms" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscspostaward" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
 </div>
 </details>
