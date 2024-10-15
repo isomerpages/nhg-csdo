@@ -276,7 +276,7 @@ proceeding to apply.</p>
 <br>5. Application Checklist (For reference only); and
 <br>6. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsappct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsappoct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -295,7 +295,7 @@ Change of Research Scope
 <br>5. CSCS Research Protected Time Logsheet
 <br>6. NHG Research Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscspostforms" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscspostaward" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
 </div>
 </details>
