@@ -226,9 +226,7 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Forms &amp; Templates zip folder consists of the following documents:
-<br>
-</p>
-<p>1) CiPP Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
+<br>1) CiPP Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
 Change of Project Scope
 <br>2) CiPP Interim Report Template
 <br>3) CiPP Final Report Template
