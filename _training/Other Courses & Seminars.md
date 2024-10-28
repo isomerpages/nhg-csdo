@@ -43,7 +43,16 @@ is important that researchers and the supporting team are well-equipped,
 and at minimum, aware of the necessary tools to manage trial sites and
 manage projects on time and within budget.</p>
 <p></p>
-<p>Course Registration will open nearer to course start date.</p>
+<h4><strong>Agenda</strong></h4>
+<p>Download the <a href="/files/Training/Agenda__Project_Management_For_Clinical_Research_Professionals__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for Project Management for Clinical Research Professionals here.</a>
+</p>
+<p></p>
+<h4><strong>Schedule</strong></h4>
+<p>The next run of this course is on <strong>22-23 January 2025.</strong>
+</p>
+<p></p>
+<h4><strong>Registration</strong></h4>
+<p>Registration for this course is currently open <a href="https://form.gov.sg/671f43d8a8cd3e2fc1ad131b" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 </div>
 </details>
