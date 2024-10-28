@@ -65,6 +65,7 @@ would also hear fellow NHG clinicians who are currently at the forefronts
 of innovations share about their experience and tips on how to obtain necessary
 resources in the cluster. This course is tailored for NHG clinicians and
 staff who are keen on translating innovative ideas into implementable solutions.</p>
+<p></p>
 <p>Course Registration will open nearer to course start date.</p>
 <p></p>
 </div>
