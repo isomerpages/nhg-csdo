@@ -10,7 +10,7 @@ third_nav_title: Registration Information
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/coursefees1.png">
 </div>
-<p>Download the<a href="/files/Training/FY2024_NHG_Research_Training_Events___Course_Fees_v0204241.pdf" rel="noopener nofollow" target="_blank">FY2024 Research Training Course Fees FY2024 here.</a>
+<p>Download the <a href="/files/Training/FY2024_NHG_Research_Training_Events___Course_Fees_v0204241.pdf" rel="noopener nofollow" target="_blank">FY2024 Research Training Course Fees FY2024 here.</a>
 </p>
 <p></p>
 <h4><strong>Course Fee Categories</strong></h4>
