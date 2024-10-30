@@ -14,6 +14,9 @@ Development Office (CSDO).</p>
 <h4><strong>Nurturing Innovation Talents</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CI Overview Pics/CI_Development__upd_.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI_Development__upd_.png">
 </div>
 <h4><strong>CI Talent Development Video</strong></h4><a class="isomer-image-wrapper" href="https://www.youtube.com/watch?v=M-Ev56uqRL8"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CI Overview Pics/CI_Video_Banner.png"></a>
