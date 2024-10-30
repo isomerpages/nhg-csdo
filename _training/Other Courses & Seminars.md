@@ -52,7 +52,8 @@ manage projects on time and within budget.</p>
 </p>
 <p></p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this course is currently open <a href="https://form.gov.sg/671f43d8a8cd3e2fc1ad131b" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Registration for this course is currently open. Go to the <a href="https://form.gov.sg/671f43d8a8cd3e2fc1ad131b" rel="noopener nofollow" target="_blank">Course Registration (Via Formsg) here.</a>
+</p>
 <p></p>
 </div>
 </details>
