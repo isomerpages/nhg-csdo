@@ -54,7 +54,7 @@ and at minimum, aware of the necessary tools to manage trial sites and
 manage projects on time and within budget.</p>
 <p></p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Agenda__Project_Management_For_Clinical_Research_Professionals__NS1_.pdf" rel="noopener nofollow" target="_blank">Agenda for Project Management For Clinical Research Professional here.</a>
+<p>Download the <a href="/files/Training/Agenda__Project_Management_For_Clinical_Research_Professionals_v230621__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for Project Management For Clinical Research Professional here.</a>
 </p>
 <p></p>
 <h4><strong>Schedule</strong></h4>
