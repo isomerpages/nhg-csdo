@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: NHG Researchers & Innovators
 ---
-<h4><strong>NHG Researcher Directory -<br>Yishun Health Campus (YHC)</strong></h4>
+<h4><strong>Researcher &amp; Innovator Directory - Yishun Health Campus (YHC)</strong></h4>
 <p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
 </p>
 <p></p>
