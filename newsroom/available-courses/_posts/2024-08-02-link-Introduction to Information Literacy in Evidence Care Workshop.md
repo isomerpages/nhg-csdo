@@ -1,6 +1,5 @@
 ---
-title: Introduction to Information Literacy in Evidence Care (Chatbot
-  Technology) Workshop
+title: Introduction to Information Literacy in Evidence Care Workshop
 date: 2024-08-02
 layout: link
 description: ""

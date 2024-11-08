@@ -1,9 +1,9 @@
 ---
-title: Researcher Directory Overview
+title: Researcher & Innovator Directory Overview
 permalink: /nhg-researcher-directory/
 variant: tiptap
 description: ""
-third_nav_title: NHG Researcher Directory
+third_nav_title: NHG Researchers & Innovators
 ---
 <h4><strong>Connecting With NHG Researchers&nbsp;and Innovators</strong></h4>
 <p>Research and innovation are key drivers of continuous improvement to the
