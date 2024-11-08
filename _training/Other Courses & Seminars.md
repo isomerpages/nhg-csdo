@@ -24,7 +24,17 @@ will be touched on.</p>
 <p>This course is suitable for those who are interested in and would like
 to learn more about the IP and commercialization process.</p>
 <p></p>
-<p>Course Registration will open nearer to course start date.</p>
+<h4><strong>Agenda</strong></h4>
+<p>Download the <a href="/files/Training/Agenda__IP_Management_Seminar_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for Intellectual Property Management Seminar here.</a>
+</p>
+<p></p>
+<h4><strong>Schedule</strong></h4>
+<p>The next run of this course is on <strong>5 February 2025.</strong>
+</p>
+<p></p>
+<h4><strong>Registration</strong></h4>
+<p>Registration for this course is currently open. Go to the <a href="https://form.gov.sg/672ac0eb75aaafc1d5ea34f3" rel="noopener nofollow" target="_blank">Course Registration (Via Formsg) here.</a>
+</p>
 <p></p>
 </div>
 </details>
