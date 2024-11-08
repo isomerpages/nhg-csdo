@@ -10,6 +10,6 @@ third_nav_title: Registration Information
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/calender1.png">
 </div>
-<p>Download the <a href="/files/Training/FY2024_NHG_Research_Training_Calendar_v4.pdf" rel="noopener nofollow" target="_blank">Research Training FY2024 Calendar.</a>
+<p>Download the <a href="/files/Training/FY2024_NHG_Research_Training_Calendar_v41.pdf" rel="noopener nofollow" target="_blank">Research Training FY2024 Calendar.</a>
 </p>
 <p></p>
