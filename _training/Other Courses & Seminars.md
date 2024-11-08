@@ -73,7 +73,7 @@ manage projects on time and within budget.</p>
 <summary><strong>MedTech Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Straddling the fields of conventional healthcare and engineering, Medtech
+<p>Straddling the fields of conventional healthcare and engineering, MedTech
 innovations demand one to be critical in assessing needs, skilled in engaging
 the right selection of multi-disciplinary partners and ability to make
 collaborations work.</p>
