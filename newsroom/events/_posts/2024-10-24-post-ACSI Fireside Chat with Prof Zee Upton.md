@@ -40,4 +40,5 @@ for future research and innovation efforts. Her insightful perspectives
 at the fireside chat added to the attendees’ thoughts on pushing the boundaries
 of research and innovation.</p>
 <p>Interested to attend our events? Stay tuned for more or reach out to us
-at lkc.nhg.acsi@ntu.edu.sg.</p>
+at <a href="mailto:lkc.nhg.acsi@ntu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lkc.nhg.acsi@ntu.edu.sg</a> 
+</p>
