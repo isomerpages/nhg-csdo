@@ -14,22 +14,26 @@ by <strong>Dr Joseph Lo</strong>, Head and Senior Consultant of Vascular
 Surgery Service at Woodlands Health, the Fireside Chat provided a unique
 platform for an open and engaging dialogue on research and innovation in
 healthcare.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Group photograph with Prof Zee Upton" src="/images/Resources/Group_Photo.jpg">
 </div>
 <p><em>Group photograph with our Speaker Prof Zee Upton (seated, right) and Moderator Dr Joseph Lo (seated, left).</em>
 </p>
+<p></p>
 <p>Drawing from her extensive experience in both Singapore and Australia,
 Prof Upton provided compelling insights into the comparative strengths
 and differences in the mentality, ecosystem, and policy support of both
 countries. She shared how these factors uniquely shaped the research and
 innovation landscape of both countries.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Asst Prof Marie introducing the speakers." src="/images/Resources/Prof_Marie_Introducing_Speakers_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Prof Zee Upton speaking during the Fireside Chat." src="/images/Resources/Prof_Upton_Speaking_1.jpg">
 </div>
+<p></p>
 <p>During the conversational-style discussion, Prof Upton gave her nuggets
 of advice and shared her opinion on themes holding significant promise
 for future research and innovation efforts. Her insightful perspectives
