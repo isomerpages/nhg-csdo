@@ -15,9 +15,9 @@ analysis of prognostic studies, the construction and estimation of prediction
 rules, the various approaches to validation, and the generalization of
 research results.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <strong><a href="/files/Training/Prognostic_Modelling_Course_Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Prognostic Modelling Course here</a></strong>.</p>
+<p>Download the <a href="/files/Training/Agenda__Prognostic_Model_Course_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Prognostic Modelling Course here</a>.</p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is to be updated</p>
+<p>The next run of this course is to be updated.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is <strong>currently closed</strong>.</p>
 <p></p>
