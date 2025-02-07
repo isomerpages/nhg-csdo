@@ -62,7 +62,7 @@ Skin cancer, Prevention in dermatology, AI in dermatology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/NSC___Tey_Hong_Liang_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Tey Hong Liang</a>
+<p><a href="/files/Researcher Directory/NSC/Tey_Hong_Liang_v1224.pdf" rel="noopener nofollow" target="_blank">Tey Hong Liang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
