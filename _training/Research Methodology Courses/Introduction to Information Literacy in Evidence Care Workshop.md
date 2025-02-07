@@ -32,7 +32,7 @@ journey.</p>
 information literacy and evidence-based medicine, the workshop addresses
 the evolving needs of healthcare practices in today's dynamic environment.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Latest_Agenda__NHG_Workshop_Intro_to_Information_Literacy_in_Evidence_Care_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for Introduction to Infromation Literacy in Evidence Care</a>
+<p>Download the <a href="/files/Training/Latest_Agenda__NHG_Workshop_Intro_to_Information_Literacy_in_Evidence_Care_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for Introduction to Information Literacy in Evidence Care.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
 <p>The NHG Introduction to Information Literacy in Evidence Care Workshop
