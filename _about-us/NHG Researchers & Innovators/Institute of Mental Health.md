@@ -55,7 +55,7 @@ Therapeutics of Schizophrenia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener noreferrer nofollow" target="_blank">Daniel Fung</a>
+<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener nofollow" target="_blank">Daniel Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +123,7 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Liu_Jian_Lin_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Liu Jianlin</a>
+<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">Liu Jianlin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,12 +137,13 @@ Early Intervention in Psychiatry</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Statistical Genetics, Population Genetics, Psychiatric Genetics, Cognitive
+Genetics, Psychometrics and Behavioural Phenotyping</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Melvyn_Zhang_Wei_Bin_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvyn Zhang</a>
+<p><a href="/files/Researcher Directory/IMH/Melvyn_Zhang_Wei_Bin_v1224.pdf" rel="noopener nofollow" target="_blank">Melvyn Zhang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,7 +162,7 @@ Psychosis, Addiction</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Ong_Say_How_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Say How</a>
+<p><a href="/files/Researcher Directory/IMH/Ong_Say_How__v1224.pdf" rel="noopener nofollow" target="_blank">Ong Say How</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +245,7 @@ blue in tertiary mental health institution&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Yuan_Qi_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Yuan Qi</a>
+<p><a href="/files/Researcher Directory/IMH/Yuan_Qi_v1224.pdf" rel="noopener nofollow" target="_blank">Yuan Qi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
