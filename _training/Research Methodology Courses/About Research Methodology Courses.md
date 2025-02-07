@@ -13,23 +13,7 @@ or grant proposal to increase your chances in research and grant application.</p
 <h4><strong>Courses currently Open for Registration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/grant-seminar/" rel="noopener nofollow" target="_blank">Grant Writing and Management Seminar</a></strong>
-<a href="/grant-seminar/" rel="noopener nofollow" target="_blank">(26 Sep 2024, 9am - 4.30pm)</a>
-</p>
-</li>
-<li>
-<p><strong><a href="/info-literacy-workshop/" rel="noopener nofollow" target="_blank">Introduction to Information Literacy in Evidence Care [Chatbot Technology] Workshop </a></strong>
-<a href="/info-literacy-workshop/" rel="noopener nofollow" target="_blank">(28 Oct 2024, 9am - 5pm)</a>
-</p>
-</li>
-<li>
-<p><strong><a href="/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design Workshop</a></strong>
-<a href="/questionnaire-design/" rel="noopener nofollow" target="_blank">(19 Nov 2024, 9am to 5pm)</a>
-</p>
-</li>
-<li>
-<p><strong><a href="/prognostic-modelling/" rel="noopener nofollow" target="_blank">Prognostic Modelling Course</a></strong>
-<a href="/prognostic-modelling/" rel="noopener nofollow" target="_blank">(25 Nov 2024, 9am to 5pm)</a>
+<p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (6 March 2025)</a>
 </p>
 </li>
 </ul>
