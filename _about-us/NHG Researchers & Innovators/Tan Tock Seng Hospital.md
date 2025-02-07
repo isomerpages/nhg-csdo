@@ -188,8 +188,8 @@ education, Food innovation and R&amp;D</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thrombosis and Haemostasis, Haematology, Artificial Intelligence, Medical
-Devices&nbsp;</p>
+<p>Medical Innovation (Medical Devices, Diagnostics Artificial Intelligence),
+Thrombosis and Haemostasis, Sustainability in Healthcare, Art and Medicine</p>
 </td>
 </tr>
 <tr>
@@ -198,8 +198,8 @@ Devices&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Digitalization, Artificial Intelligence, Caregivers of older persons,
-Health activation in older persons, Clinical epidemiology</p>
+<p>Artificial Intelligence, Realist Evaluation, Implementation Science, Health
+Digitalization, Caregivers of Older persons</p>
 </td>
 </tr>
 <tr>
@@ -208,8 +208,9 @@ Health activation in older persons, Clinical epidemiology</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covid-19 therapeutics, Antimicrobial pharmacotherapy and resistance, HIV
-Medicine, Quality improvement</p>
+<p>Antimicrobial pharmacotherapy and resistance, Antiviral pharmacotherapy
+– including COVID-19, HIV, repurposed drugs, Quality improvement and medication
+safety</p>
 </td>
 </tr>
 <tr>
@@ -218,8 +219,8 @@ Medicine, Quality improvement</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vision performance, Ophthalmic diagnostics and treatment medical technology
-innovations</p>
+<p>Vision performance, Paediatric and adult cataracts, Myopia, Ophthalmic&nbsp;diagnostics&nbsp;and
+treatment, MedTech Innovations</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +239,8 @@ innovations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Brain injury rehabilitation, Rehabilitation robotics
-and technology, Brain computer interfaces</p>
+and technology, Brain computer interfaces, Tele rehabilitation, Artificial
+Intelligence</p>
 </td>
 </tr>
 <tr>
@@ -256,8 +258,7 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurorehabilitation-Related Research, Acupuncture, and its integration
-with Western Medicine</p>
+<p>Neurorehabilitation, Acupuncture, and its integration with Western Medicine</p>
 </td>
 </tr>
 <tr>
@@ -284,9 +285,8 @@ pain and regional anaesthesia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sarcopenia and related disorders, Frailty and Intrinsic Capacity, Dementia
-&amp; Cognitive Disorders, Caregiving Evidence Based Medicine, Health Professions
-Education</p>
+<p>Sarcopenia and muscle health, Frailty and Intrinsic Capacity, Dementia
+&amp; Cognitive Disorders, Implementation Science, Mixed-Methods research</p>
 </td>
 </tr>
 <tr>
@@ -315,7 +315,8 @@ Cancer rehabilitation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thyroid Physiology, Adipocyte biology, Insulin resistance</p>
+<p>Thyroid Physiology, Adipocyte biology, Insulin resistance, Mathematical
+modelling</p>
 </td>
 </tr>
 <tr>
@@ -364,7 +365,7 @@ technology in rehabilitation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vascular Complications, Cardio-Metabolic risk factors, Endocrinology</p>
+<p>Vascular Complications, Cardio-Metabolic risk factors, Diabetes</p>
 </td>
 </tr>
 <tr>
@@ -457,8 +458,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Contactless patient monitoring for nursing productivity, Falls prediction
-and prevention, Nursing innovations for better clinical outcomes</p>
+<p>Patient-centered care, Process Improvement, Data Analytics</p>
 </td>
 </tr>
 <tr>
@@ -485,8 +485,8 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dysphagia, Modified food and beverage invention, Artificial intelligence,
-Telehealth, New pedagogy in healthcare education, Workforce transformation</p>
+<p>Workforce Transformation, Healthcare Education, Artificial Intelligence
+and Telehealth, Dysphagia, Modified Consistencies Invention</p>
 </td>
 </tr>
 </tbody>
