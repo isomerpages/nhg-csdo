@@ -27,7 +27,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alexandaer Yap*</p>
+<p>Alexander Yap*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced Visualisation; 3D Imaging; Additive Printing</p>
@@ -51,8 +51,7 @@ in hospitalised patients</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Orthopaedic Surgery, Musculoskeletal Health, Digital Innovation, Enhanced
-Recovery</p>
+<p>Orthopaedic Surgery, Robotic Arthroplasty, Ambulatory Arthoplasty</p>
 </td>
 </tr>
 <tr>
