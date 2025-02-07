@@ -16,7 +16,8 @@ should you submit your research paper?</p>
 paper and discuss the common issues researchers face when writing a research
 paper.&nbsp;</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <strong><a href="/files/Training/Manuscript_Writing_and_Poster_Presentation_Course_Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Manuscript Writing and Poster Presentation Seminar here</a></strong>.</p>
+<p>Download the <a href="/files/Training/Agenda__Manuscript_Writing_and_Poster_Presentation_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Manuscript Writing and Poster Presentation Seminar here.</a>
+</p>
 <h4><strong>Schedule</strong></h4>
 <p>The next run of this course to be updated.</p>
 <h4><strong>Registration</strong></h4>
