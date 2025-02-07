@@ -93,7 +93,7 @@ Intraocular Pressure Monitoring</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chan_Ee_Yuee_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Ee Yuee</a>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Ee_Yuee_v1224.pdf" rel="noopener nofollow" target="_blank">Chan Ee Yuee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ Science, Population Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chan_Lai_Gwen_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Lai Gwen</a>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Lai_Gwen_v1224.pdf" rel="noopener nofollow" target="_blank">Chan Lai Gwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chin_Lay_Fong_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Chin Lay Fong</a>
+<p><a href="/files/Researcher Directory/TTSH/Chin_Lay_Fong_v1224.pdf" rel="noopener nofollow" target="_blank">Chin Lay Fong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +184,8 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eugene Fan*</p>
+<p><a href="/files/Researcher Directory/TTSH/Fan_Bingwen_Eugene_v1224.pdf" rel="noopener nofollow" target="_blank">Eugene Fan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thrombosis and Haemostasis, Haematology, Artificial Intelligence, Medical
@@ -193,7 +194,7 @@ Devices&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___George_Glass_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">George Glass</a>
+<p><a href="/files/Researcher Directory/TTSH/George_Glass_v1224.pdf" rel="noopener nofollow" target="_blank">George Glass</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,7 +204,7 @@ Health activation in older persons, Clinical epidemiology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Grace_Hoo_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Grace Hoo</a>
+<p><a href="/files/Researcher Directory/TTSH/Grace_Hoo_Si_Ru_v1224.pdf" rel="noopener nofollow" target="_blank">Grace Hoo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,7 +214,8 @@ Medicine, Quality improvement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jeremy Hu*</p>
+<p><a href="/files/Researcher Directory/TTSH/Jeremy_Hu_v1224.pdf" rel="noopener nofollow" target="_blank">Jeremy Hu</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vision performance, Ophthalmic diagnostics and treatment medical technology
@@ -231,7 +233,7 @@ innovations</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Karen_Chua_Sui_Geok_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Karen Chua Sui Geok</a>
+<p><a href="/files/Researcher Directory/TTSH/Chua_Sui_Geok_Karen_v1224.pdf" rel="noopener nofollow" target="_blank">Karen Chua Sui Geok</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,7 +252,7 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Kong_Keng_He_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Kong Keng He</a>
+<p><a href="/files/Researcher Directory/TTSH/Kong_Keng_He_v1224.pdf" rel="noopener nofollow" target="_blank">Kong Keng He</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,7 +280,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Lim_Wee_Shiong_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Wee Shiong</a>
+<p><a href="/files/Researcher Directory/TTSH/Lee_Wee_Shiong_v1224.pdf" rel="noopener nofollow" target="_blank">Lee Wee Shiong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -309,7 +311,7 @@ Cancer rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Melvin_Leow_Khee_Shing_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvin Leow Khee Shing</a>
+<p><a href="/files/Researcher Directory/TTSH/Melvin_Leow_v1224.pdf" rel="noopener nofollow" target="_blank">Melvin Leow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -358,7 +360,7 @@ technology in rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Rinkoo_Dalan_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Rinkoo Dalan</a>
+<p><a href="/files/Researcher Directory/TTSH/Rinkoo_Dalan_v1224.pdf" rel="noopener nofollow" target="_blank">Rinkoo Dalan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -377,7 +379,7 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Sanjay_Haresh_Chotirmall_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Sanjay Haresh Chotirmall</a>
+<p><a href="/files/Researcher Directory/TTSH/Sanjay_Chotirmall_v1224.pdf" rel="noopener nofollow" target="_blank">Sanjay Chotirmall</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,7 +453,8 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Leong*</p>
+<p><a href="/files/Researcher Directory/TTSH/Leong_Hui_Ling_Wendy_v1224.pdf" rel="noopener nofollow" target="_blank">Wendy Leong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contactless patient monitoring for nursing productivity, Falls prediction
@@ -460,7 +463,7 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Yew_Kuo_Chao_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Yew Kuo Chao</a>
+<p><a href="/files/Researcher Directory/TTSH/Yew_Kuo_Chao_v1224.pdf" rel="noopener nofollow" target="_blank">Yew Kuo Chao</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -469,7 +472,7 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Yong_Enming_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Yong Enming</a>
+<p><a href="/files/Researcher Directory/TTSH/Yong_Enming_v1224.pdf" rel="noopener nofollow" target="_blank">Yong Enming</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -478,7 +481,8 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zenne Tng*</p>
+<p><a href="/files/Researcher Directory/TTSH/Zenne_Tng_v1224.pdf" rel="noopener nofollow" target="_blank">Zenne Tng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dysphagia, Modified food and beverage invention, Artificial intelligence,
