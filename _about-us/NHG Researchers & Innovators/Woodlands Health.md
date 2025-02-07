@@ -27,7 +27,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alexanda er Yap*</p>
+<p>Alexandaer Yap*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced Visualisation; 3D Imaging; Additive Printing</p>
@@ -152,7 +152,7 @@ Gerontology, Mental Health Nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Shum_Cheuk_Fan_v1224.pdf" rel="noopener nofollow" target="_blank">Shum Cheuk Fan </a>
+<p><a href="/files/Researcher Directory/WH/Shum_Cheuk_Fan_v1224.pdf" rel="noopener nofollow" target="_blank">Shum Cheuk Fan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
