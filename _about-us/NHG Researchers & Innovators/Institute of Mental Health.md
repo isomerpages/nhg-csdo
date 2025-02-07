@@ -55,7 +55,7 @@ Therapeutics of Schizophrenia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Daniel_Fung_Shuen_Sheng__v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Daniel Fung Shuen Sheng</a>
+<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener noreferrer nofollow" target="_blank">Daniel Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,7 +133,16 @@ Early Intervention in Psychiatry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Melvyn_Zhang_Wei_Bin_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvyn Zhang Wei Bin</a>
+<p><a href="/files/Researcher Directory/IMH/Max_Lam__v1224.pdf" rel="noopener noreferrer nofollow" target="_blank">Max Lam</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/IMH/IMH___Melvyn_Zhang_Wei_Bin_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvyn Zhang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
