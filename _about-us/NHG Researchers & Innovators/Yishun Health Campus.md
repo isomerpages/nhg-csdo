@@ -74,6 +74,15 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Jolie Hwee*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Plastic and Reconstructive Surgery, Breast Surgery, Wounds and Scars,
+Skin care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Joshua Decruz*</p>
 </td>
 <td rowspan="1" colspan="1">
