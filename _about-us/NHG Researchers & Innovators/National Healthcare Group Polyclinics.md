@@ -55,7 +55,8 @@ DM Foot care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fong Qi Wei*</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Fong_Qi_Wei_v1224.pdf" rel="noopener nofollow" target="_blank">Fong Qi Wei</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chronic disease management, Application of Artificial Intelligence/Machine
@@ -92,7 +93,7 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Sabrina_Wong_Kay_Wye_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Sabrina Wong Kay Wye</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Sabrina_Wong_Kay_Wye_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Sabrina Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,7 +120,8 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Valerie Teo*</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Valerie_Teo_v1224.pdf" rel="noopener nofollow" target="_blank">Valerie Teo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Artificial Intelligence, Med Tech, Primary Care, Analytics</p>
@@ -127,7 +129,8 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Ong*</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Wendy_Ong_v1224.pdf" rel="noopener nofollow" target="_blank">Wendy Ong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patient Safety, Medical Device UI design and integration, Vaccination</p>
