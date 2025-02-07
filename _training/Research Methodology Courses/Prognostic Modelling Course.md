@@ -19,4 +19,7 @@ research results.</p>
 <h4><strong>Schedule</strong></h4>
 <p>The next run of this course is to be updated</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is currently open.</p>
+<p>Registration for this Course is <strong>currently closed</strong>.</p>
+<p></p>
+<p></p>
+<p></p>
