@@ -27,6 +27,14 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Alexanda er Yap*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced Visualisation; 3D Imaging; Additive Printing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/WH/WHC___Balachandran_Jayachandran_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Balachandran Jayachandran</a>
 </p>
 </td>
@@ -39,7 +47,8 @@ in hospitalised patients</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Benjamin Ding*</p>
+<p><a href="/files/Researcher Directory/WH/Benjamin_Ding_v1224.pdf" rel="noopener nofollow" target="_blank">Benjamin Ding</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Orthopaedic Surgery, Musculoskeletal Health, Digital Innovation, Enhanced
@@ -48,7 +57,7 @@ Recovery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Bryan_Tan_Yijia_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Bryan Tan Yijia</a>
+<p><a href="/files/Researcher Directory/WH/Bryan_Tan_Yijia_v1224.pdf" rel="noopener nofollow" target="_blank">Bryan Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +76,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Er_Chaozer_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Er Chaozer</a>
+<p><a href="/files/Researcher Directory/WH/Er_Chaozer_v1224.pdf" rel="noopener nofollow" target="_blank">Er Chaozer</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +85,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Ernest_Kwek_Beng_Kee_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Ernest Kwek Beng Kee</a>
+<p><a href="/files/Researcher Directory/WH/Ernest_Kwek_v1224.pdf" rel="noopener nofollow" target="_blank">Ernest Kwek</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -143,7 +152,7 @@ Gerontology, Mental Health Nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Shum_Cheuk_Fan_v0624_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Shum Cheuk Fan</a>
+<p><a href="/files/Researcher Directory/WH/Shum_Cheuk_Fan_v1224.pdf" rel="noopener nofollow" target="_blank">Shum Cheuk Fan </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,6 +167,23 @@ Gerontology, Mental Health Nursing</p>
 <td rowspan="1" colspan="1">
 <p>Medical Technology Innovation, Virtual Reality surgical training and Simulation,
 Clinical Nutrition in Surgery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yang Su-Yin*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Psychology; Pain Management; Chronic Disease; Obesity &amp; Weight Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/WH/Yong_Pay_Wen_v1224.pdf" rel="noopener nofollow" target="_blank">Yong Pay Wen</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nutrition Support, Renal Nutrition, Gerontology Nutrition</p>
 </td>
 </tr>
 </tbody>
