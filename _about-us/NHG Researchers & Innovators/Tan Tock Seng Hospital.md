@@ -113,6 +113,15 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chan Yam Meng*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vascular conditions, Diabetic complications, Image recognition, Artificial
+Intelligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chen Kok Pun*</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -331,17 +340,6 @@ medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Mucheli_Sharavan_Sadasiv_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Mucheli Sharavan Sadasiv</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Effect of interruptions on diagnostic reasoning; neuroscientific basis
-of diagnostic reasoning; health professions educational interventions;
-teaching clinical reasoning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/TTSH___Ng_Tat_Ming_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng Tat Ming</a>
 </p>
 </td>
@@ -380,6 +378,16 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sandy Zhou*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diagnostic and prognostic power of Swept Source Optical Coherence Tomography
+Angiography (SS-OCTA) for Diabetic Retinopathy and Age-related Macular
+Degeneration, Artificial Intelligence&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/Sanjay_Chotirmall_v1224.pdf" rel="noopener nofollow" target="_blank">Sanjay Chotirmall</a>
 </p>
 </td>
@@ -389,11 +397,11 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Tay_Hui_Lin_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tay Hui Lin</a>
-</p>
+<p>Simon Tan*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+<p>Extended reality and medical devices for perioperative medicine; Chronic
+pain and regional anaesthesia</p>
 </td>
 </tr>
 <tr>
@@ -412,6 +420,34 @@ drug delivery for back of the eye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breast cancer &amp; biomarkers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Xiu Ying*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neuro-Ophthalmology; Low Vision Rehabilitation; Medical technology and
+innovation: virtual reality, tele-rehabilitation, tele-ophthalmology; Medical
+Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Tay_Hui_Lin_v1223.pdf" rel="noopener nofollow" target="_blank">Tay Hui Lin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Wei Shan*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adult Dysphagia; Communication and Dysphagia Rehabilitation in Head and
+Neck Cancers; Modified food and beverage innovation</p>
 </td>
 </tr>
 <tr>
