@@ -174,8 +174,8 @@ Other Hyperlipidemia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neuro rehabilitation, Cognitive rehabilitation, Assistive technology,
-Transitional care</p>
+<p>Neuro rehabilitation, Cognitive rehabilitation, Rehabilitation innovation,
+Return-to-work coordination</p>
 </td>
 </tr>
 </tbody>
