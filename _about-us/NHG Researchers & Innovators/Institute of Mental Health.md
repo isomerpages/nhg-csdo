@@ -249,7 +249,7 @@ blue in tertiary mental health institution&nbsp;&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stigma, Mental health of caregivers, E-/m-health</p>
+<p>Stigma, Mental health of caregivers, Digital health</p>
 </td>
 </tr>
 </tbody>
