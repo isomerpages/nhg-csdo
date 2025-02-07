@@ -51,7 +51,7 @@ Infectious Diseases, HIV Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SARS-CoV-2, Antimicrobial Resistance, Clinical Trials</p>
+<p>SARS-CoV-2, Antimicrobial Resistance, Dengue, Clinical Trials</p>
 </td>
 </tr>
 <tr>
@@ -102,10 +102,10 @@ Disease, HIV Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vaccinology and Vaccine-preventable Diseases, particularly in Older Adults
-and Children, Emerging Infectious Diseases, Global Health and Travel Medicine,
-Clinical Trials, Sero-epidemiology, Climate Change &amp; Environmental
-Health</p>
+<p>Vaccine-preventable Diseases, particularly in the Elderly and Children,
+Infections in the Elderly, Particularly Influenza, Emerging Infectious
+Diseases, Global Health and Travel Medicine, Clinical Trials, Sero-epidemiology,
+Climate Change &amp; Environmental Health</p>
 </td>
 </tr>
 </tbody>
