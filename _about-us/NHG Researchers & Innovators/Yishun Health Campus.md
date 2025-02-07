@@ -161,7 +161,8 @@ Other Hyperlipidemia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wei Shan*</p>
+<p><a href="/files/Researcher Directory/YHC/Wei_Shan_v1224.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuro rehabilitation, Cognitive rehabilitation, Assistive technology,
