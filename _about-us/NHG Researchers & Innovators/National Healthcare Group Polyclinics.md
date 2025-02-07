@@ -65,7 +65,7 @@ Learning in healthcare</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Julia_Zhu_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Julia Zhu</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Julia_Zhu_v1224.pdf" rel="noopener nofollow" target="_blank">Julia Zhu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +75,7 @@ Health/Illness belief</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Lee_Eng_Sing_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lee Eng Sing</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Lee_Eng_Sing_v1224.pdf" rel="noopener nofollow" target="_blank">Lee Eng Sing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Sabrina_Wong_Kay_Wye_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Sabrina Wong</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sabrina_Wong_v1224.pdf" rel="noopener nofollow" target="_blank">Sabrina Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +102,7 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Tan_Shu_Yun_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Shu Yun</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Shu_Yun_v1224.pdf" rel="noopener nofollow" target="_blank">Tan Shu Yun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
