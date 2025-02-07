@@ -29,7 +29,7 @@ to learn more about the IP and commercialization process.</p>
 </p>
 <p></p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is on <strong>5 February 2025.</strong>
+<p>The next run of this course is on <strong>4 March 2025.</strong>
 </p>
 <p></p>
 <h4><strong>Registration</strong></h4>
