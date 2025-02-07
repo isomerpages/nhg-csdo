@@ -59,8 +59,8 @@ DM Foot care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic disease management, Application of Artificial Intelligence/Machine
-Learning in healthcare</p>
+<p>Development, Evaluation and Implementation of Artificial Intelligence
+for Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -69,8 +69,8 @@ Learning in healthcare</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wound Care, Diabetic Foot Care, Person-Centred Care in Chronic Wound Care,
-Health/Illness belief</p>
+<p>Wound Care, Diabetic Foot/ Wound Care, Patient and Public Involvement
+Research, Self-care/management Intervention, Health Psychology</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,8 @@ Vaccination</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Innovative models of care</p>
+<p>Chronic Disease Management, Digital health/models of care, behavioural
+health</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +125,8 @@ Vaccination</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artificial Intelligence, Med Tech, Primary Care, Analytics</p>
+<p>Family Medicine, Respiratory medicine, Clinical predictors, Patient empowerment,
+Improving clinical efficiency</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +135,7 @@ Vaccination</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient Safety, Medical Device UI design and integration, Vaccination</p>
+<p>AI, Predictive model. Digital health, Population Health</p>
 </td>
 </tr>
 </tbody>
