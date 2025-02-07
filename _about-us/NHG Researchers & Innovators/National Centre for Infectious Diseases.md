@@ -47,7 +47,7 @@ Infectious Diseases, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___David_Lye_Chien_Boon_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">David Lye Chien Boon</a>
+<p><a href="/files/Researcher Directory/NCID/NCID___David_Lye_Chien_Boon_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">David Lye</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
