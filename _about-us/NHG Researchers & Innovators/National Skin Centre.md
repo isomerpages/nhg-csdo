@@ -62,11 +62,21 @@ Skin cancer, Prevention in dermatology, AI in dermatology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Yingrou*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p> 3D tissue imaging; Spatial transcriptomic and proteomic tissue imaging;
+Skin inflammatory disorders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/NSC/Tey_Hong_Liang_v1224.pdf" rel="noopener nofollow" target="_blank">Tey Hong Liang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurodermatology, Skin Imaging, Medical Dermatology, Skin disorders</p>
+<p>Neuro-dermatology (Itch &amp; Sweat Disorders), RNA Therapeutics, Dermatologic
+Formulations &amp; Delivery (esp. Dissolving Microneedles)</p>
 </td>
 </tr>
 <tr>
