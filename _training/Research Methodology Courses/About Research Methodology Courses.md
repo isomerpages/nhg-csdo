@@ -16,6 +16,10 @@ or grant proposal to increase your chances in research and grant application.</p
 <p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (6 March 2025)</a>
 </p>
 </li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/other-courses/" rel="noopener nofollow" target="_blank">Intellectual Property Management Seminar (4 March 2025)</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p></p>
