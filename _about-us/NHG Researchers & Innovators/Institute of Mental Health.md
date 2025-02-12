@@ -45,7 +45,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Chong_Siow_Ann_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Chong Siow Ann</a>
+<p><a href="/files/Researcher Directory/IMH/IMH___Chong_Siow_Ann_v2108.pdf" rel="noopener nofollow" target="_blank">Chong Siow Ann</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,8 +69,8 @@ Disorders</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric epidemiology and biostatistics, Latent variable modelling
-and psychometric testing</p>
+<p>Psychiatric epidemiology and biostatistics, Psychometric, Mental health
+Services Research</p>
 </td>
 </tr>
 <tr>
@@ -208,15 +208,6 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/IMH/IMH___Tan_Xiao_Wei_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Xiao Wei</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neurostimulation, Mood Disorders, Clinical Trial</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Tor_Phern_Chern_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tor Phern Chern</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
