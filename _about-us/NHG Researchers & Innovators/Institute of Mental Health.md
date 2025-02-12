@@ -65,7 +65,7 @@ Disorders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Edimansyah Abdin</a>
+<p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
