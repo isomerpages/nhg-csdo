@@ -183,7 +183,7 @@ Return-to-work coordination</p>
 <p>Zhimin Lin*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>General Surgery,Endocrine Surgery, Sustainability&nbsp;</p>
+<p>General Surgery, Endocrine Surgery, Sustainability&nbsp;</p>
 </td>
 </tr>
 </tbody>
