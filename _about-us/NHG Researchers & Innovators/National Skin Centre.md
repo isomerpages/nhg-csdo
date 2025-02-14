@@ -31,7 +31,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hair Disorders; Macrophages, Clinical Skin Biology, Stem Cell</p>
+<p>Hair Diseases, Hair Cycling, Immunology and Stem Cells</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +48,8 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pigmentary Disorders, Skin Imaging, Atopic Dermatitis</p>
+<p>Skin Pigmentary Disorders like Vitiligo and Melasma, In-vivo Skin Imaging
+Systems, Skin sensors and Medtech</p>
 </td>
 </tr>
 <tr>
