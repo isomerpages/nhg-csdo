@@ -88,8 +88,8 @@ and Psychotherapy, EEG/Neuroimaging, Genetics and Precision Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Child and Adolescent Mental Health, Autism and Neurodevelopmental Disorders,
-Mood and Personality Disorders, Suicide</p>
+<p>Suicide, Mental Health Literacy, Neurodevelopmental disorders, Mood and
+Personality Disorders, Suicide, Child and Adolescent</p>
 </td>
 </tr>
 <tr>
@@ -156,8 +156,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric Epidemiology, Health Service Research, Schizophrenia And Related
-Psychosis, Addiction</p>
+<p>Psychiatric Epidemiology, Psychosis, Addiction</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +183,8 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Genetics and Neuroimaging of Schizophrenia, Psychosis, Psychopharmacology</p>
+<p>Clinical Phenotyping of major Psychiatric Disorders, Neurobiology of Psychotic
+and Mood Disorders, Health Professions Education</p>
 </td>
 </tr>
 <tr>
