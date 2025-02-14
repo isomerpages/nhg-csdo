@@ -40,7 +40,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obesity and weight management</p>
+<p>Obesity, Metabolic Medicine, Family Medicine</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ Skin care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Genetic Hypertension, Familial Hyperlipidaemia, Cardiometabolic disease</p>
+<p>Genetic Hypertension, Familial Hyperlipidemia, Cardiometabolic disease</p>
 </td>
 </tr>
 <tr>
@@ -134,8 +134,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Epidemiology and Infectious Disease, Antimicrobial Resistance, Casual
-Inference</p>
+<p>Epidemiolog of infectious Disease, Antimicrobial Resistance, Casual Inference</p>
 </td>
 </tr>
 <tr>
