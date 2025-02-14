@@ -223,7 +223,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>HPHSR Clinician </strong>
 <br><strong>Scientist Award</strong>
 <br><strong>(HCSA-INV)</strong>
@@ -238,9 +238,6 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>A/Prof Yeo See Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,9 +246,6 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Asst. Prof Bryan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,9 +253,6 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Dr Joseph Lo</p>
 </td>
