@@ -35,18 +35,6 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Balachandran_Jayachandran_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Balachandran Jayachandran</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Early Mobilisation for intubated patients in ICU, Early Mobilisation in
-Post-surgical patients, Impact of Prehabilitation for Patients Undergoing
-Abdominal Surgery, Tracheostomy Decannulation, Preventing functional Deconditioning
-in hospitalised patients</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/WH/Benjamin_Ding_v1224.pdf" rel="noopener nofollow" target="_blank">Benjamin Ding</a>
 </p>
 </td>
