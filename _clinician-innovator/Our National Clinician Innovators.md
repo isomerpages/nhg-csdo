@@ -28,7 +28,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Clinician</strong>
 <br><strong>Innovator</strong>
 <br><strong>Award</strong>
@@ -53,11 +53,33 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Dr Shum Cheuk Fan</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WH</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Trevor Binedell</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Ong Poo Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Lucinda Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSC</p>
 </td>
 </tr>
 </tbody>
