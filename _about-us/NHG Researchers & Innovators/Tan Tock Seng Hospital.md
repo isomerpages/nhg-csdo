@@ -41,8 +41,7 @@ Telehealth, Innovation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diabetes Mellitus in the elderly, hypoglycaemia, vascular complications,
-inpatient hyperglycaemia</p>
+<p>Diabetes Mellitus in the elderly, Musculoskeletal health and frailty</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +65,8 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Augustine Laude*</p>
+<p>Augustinus Laude*</p>
+<h2></h2>
 </td>
 <td rowspan="1" colspan="1">
 <p>Macula diseases, Low vision and cataract surgery, technological innovations
@@ -75,7 +75,7 @@ in fields of eye gaze tracking and image processing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aung Mynt Oo*</p>
+<p>Aung Myint Oo*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minimally invasive surgery, Upper GI, Bariatric Surgery, Surgical innovations,
@@ -188,7 +188,8 @@ education, Food innovation and R&amp;D</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Services Research, Frailty</p>
+<p>Geriatrics and Gerontology, Health Services research, Translational Research
+that Impacts Health Practice and Policy</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +239,9 @@ treatment, MedTech Innovations</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Respiratory/Chronic Disease, Lung cancer</p>
+<p>Obstructive Airways Disease (Asthma, COPD, Bronchiectasis), Lung Cancer,
+Pneumonia, Covid-19, Obstructive Sleep Apnoea, Respiratory Disease Management,
+AI &amp; Population Health</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +279,7 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis</p>
+<p>Rheumatoid Arthritis, Personalised Medicine, Quality of Life</p>
 </td>
 </tr>
 <tr>
@@ -290,7 +293,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Lee_Wee_Shiong_v1224.pdf" rel="noopener nofollow" target="_blank">Lee Wee Shiong</a>
+<p><a href="/files/Researcher Directory/TTSH/Lee_Wee_Shiong_v1224.pdf" rel="noopener nofollow" target="_blank">Lim Wee Shiong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -304,8 +307,7 @@ pain and regional anaesthesia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serious Games in Healthcare, Neurorehabilitation-Related Research, Assistive
-Technology, Tele-rehabilitation, Virtual Reality</p>
+<p>Neurorehabilitation Technologies, §&nbsp; Serious Gaming in Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -334,8 +336,8 @@ modelling</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health services research particularly in the field of musculoskeletal
-medicine</p>
+<p>Osteosarcopenia, 3D printing in Surgery, Utility of IT in Perioperative
+Care</p>
 </td>
 </tr>
 <tr>
@@ -410,7 +412,7 @@ pain and regional anaesthesia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diagnostic Radiology, MedTech</p>
+<p>Liver Imaging, Prostate Imaging, Artificial Intelligence in Medical Imaging</p>
 </td>
 </tr>
 <tr>
@@ -419,7 +421,7 @@ pain and regional anaesthesia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breast cancer &amp; biomarkers</p>
+<p>Breast Cancer Biomarker Discovery, Novel therapeutics, Breast Image Analysis</p>
 </td>
 </tr>
 <tr>
@@ -503,7 +505,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hepatology, Health-Care Modelling, Health-Care information and analytics</p>
+<p>Hepatology, Healtcare Modelling, Healthcare information and analytics</p>
 </td>
 </tr>
 <tr>
