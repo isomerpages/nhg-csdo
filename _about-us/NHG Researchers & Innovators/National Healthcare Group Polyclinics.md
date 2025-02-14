@@ -32,7 +32,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Endocrinology &amp; Metabolic Disorders</p>
+<p>Chronic Disease Management, Endocrinology, Metabolic Disorders</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ Improving clinical efficiency</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AI, Predictive model. Digital health, Population Health</p>
+<p>AI, Predictive model, Digital health, Population Health</p>
 </td>
 </tr>
 </tbody>
