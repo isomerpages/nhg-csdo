@@ -134,7 +134,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Epidemiolog of infectious Disease, Antimicrobial Resistance, Casual Inference</p>
+<p>Epidemiology of infectious Disease, Antimicrobial Resistance, Casual Inference</p>
 </td>
 </tr>
 <tr>
