@@ -81,7 +81,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Gilbert_Yeo_Tian_Seng_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Gilbert Yeo Tian Seng</a>
+<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_v0624.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
