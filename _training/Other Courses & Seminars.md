@@ -29,7 +29,7 @@ to learn more about the IP and commercialization process.</p>
 </p>
 <p></p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is on <strong>5 February 2025.</strong>
+<p>The next run of this course is on <strong>4 March 2025.</strong>
 </p>
 <p></p>
 <h4><strong>Registration</strong></h4>
@@ -58,12 +58,11 @@ manage projects on time and within budget.</p>
 </p>
 <p></p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is on <strong>22-23 January 2025.</strong>
+<p>The next run of this course is to be updated<strong>.</strong>
 </p>
 <p></p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this course is currently open. Go to the <a href="https://form.gov.sg/671f43d8a8cd3e2fc1ad131b" rel="noopener nofollow" target="_blank">Course Registration (Via Formsg) here.</a>
-</p>
+<p>Registration for this course is <strong>currently closed</strong>.</p>
 <p></p>
 </div>
 </details>

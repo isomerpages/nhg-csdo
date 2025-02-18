@@ -41,8 +41,7 @@ Telehealth, Innovation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diabetes Mellitus in the elderly, hypoglycaemia, vascular complications,
-inpatient hyperglycaemia</p>
+<p>Diabetes Mellitus in the elderly, Musculoskeletal health and frailty</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +65,8 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Augustine Laude*</p>
+<p>Augustinus Laude*</p>
+<h2></h2>
 </td>
 <td rowspan="1" colspan="1">
 <p>Macula diseases, Low vision and cataract surgery, technological innovations
@@ -75,7 +75,7 @@ in fields of eye gaze tracking and image processing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aung Mynt Oo*</p>
+<p>Aung Myint Oo*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minimally invasive surgery, Upper GI, Bariatric Surgery, Surgical innovations,
@@ -93,7 +93,7 @@ Intraocular Pressure Monitoring</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chan_Ee_Yuee_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Ee Yuee</a>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Ee_Yuee_v1224.pdf" rel="noopener nofollow" target="_blank">Chan Ee Yuee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,12 +103,21 @@ Science, Population Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chan_Lai_Gwen_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Lai Gwen</a>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Lai_Gwen_v1224.pdf" rel="noopener nofollow" target="_blank">Chan Lai Gwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuropsychiatry of Stroke, Neuropsychiatry of Traumatic Brain Injury,
 Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Yam Meng*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vascular conditions, Diabetic complications, Image recognition, Artificial
+Intelligence</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +130,7 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chin_Lay_Fong_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Chin Lay Fong</a>
+<p><a href="/files/Researcher Directory/TTSH/Chin_Lay_Fong_v1224.pdf" rel="noopener nofollow" target="_blank">Chin Lay Fong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,45 +188,49 @@ education, Food innovation and R&amp;D</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Services Research, Frailty</p>
+<p>Geriatrics and Gerontology, Health Services research, Translational Research
+that Impacts Health Practice and Policy</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eugene Fan*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thrombosis and Haemostasis, Haematology, Artificial Intelligence, Medical
-Devices&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___George_Glass_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">George Glass</a>
+<p><a href="/files/Researcher Directory/TTSH/Fan_Bingwen_Eugene_v1224.pdf" rel="noopener nofollow" target="_blank">Eugene Fan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Digitalization, Artificial Intelligence, Caregivers of older persons,
-Health activation in older persons, Clinical epidemiology</p>
+<p>Medical Innovation (Medical Devices, Diagnostics Artificial Intelligence),
+Thrombosis and Haemostasis, Sustainability in Healthcare, Art and Medicine</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Grace_Hoo_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Grace Hoo</a>
+<p><a href="/files/Researcher Directory/TTSH/George_Glass_v1224.pdf" rel="noopener nofollow" target="_blank">George Glass</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covid-19 therapeutics, Antimicrobial pharmacotherapy and resistance, HIV
-Medicine, Quality improvement</p>
+<p>Artificial Intelligence, Realist Evaluation, Implementation Science, Health
+Digitalization, Caregivers of Older persons</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jeremy Hu*</p>
+<p><a href="/files/Researcher Directory/TTSH/Grace_Hoo_Si_Ru_v1224.pdf" rel="noopener nofollow" target="_blank">Grace Hoo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vision performance, Ophthalmic diagnostics and treatment medical technology
-innovations</p>
+<p>Antimicrobial pharmacotherapy and resistance, Antiviral pharmacotherapy
+– including COVID-19, HIV, repurposed drugs, Quality improvement and medication
+safety</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/Jeremy_Hu_v1224.pdf" rel="noopener nofollow" target="_blank">Jeremy Hu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vision performance, Paediatric and adult cataracts, Myopia, Ophthalmic&nbsp;diagnostics&nbsp;and
+treatment, MedTech Innovations</p>
 </td>
 </tr>
 <tr>
@@ -226,17 +239,20 @@ innovations</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Respiratory/Chronic Disease, Lung cancer</p>
+<p>Obstructive Airways Disease (Asthma, COPD, Bronchiectasis), Lung Cancer,
+Pneumonia, Covid-19, Obstructive Sleep Apnoea, Respiratory Disease Management,
+AI &amp; Population Health</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Karen_Chua_Sui_Geok_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Karen Chua Sui Geok</a>
+<p><a href="/files/Researcher Directory/TTSH/Chua_Sui_Geok_Karen_v1224.pdf" rel="noopener nofollow" target="_blank">Karen Chua Sui Geok</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Brain injury rehabilitation, Rehabilitation robotics
-and technology, Brain computer interfaces</p>
+and technology, Brain computer interfaces, Tele rehabilitation, Artificial
+Intelligence</p>
 </td>
 </tr>
 <tr>
@@ -250,12 +266,11 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Kong_Keng_He_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Kong Keng He</a>
+<p><a href="/files/Researcher Directory/TTSH/Kong_Keng_He_v1224.pdf" rel="noopener nofollow" target="_blank">Kong Keng He</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurorehabilitation-Related Research, Acupuncture, and its integration
-with Western Medicine</p>
+<p>Neurorehabilitation, Acupuncture, and its integration with Western Medicine</p>
 </td>
 </tr>
 <tr>
@@ -264,7 +279,7 @@ with Western Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Systemic Lupus Erythematosus (SLE), Rheumatoid Arthritis</p>
+<p>Rheumatoid Arthritis, Personalised Medicine, Quality of Life</p>
 </td>
 </tr>
 <tr>
@@ -278,13 +293,12 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Lim_Wee_Shiong_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Wee Shiong</a>
+<p><a href="/files/Researcher Directory/TTSH/Lee_Wee_Shiong_v1224.pdf" rel="noopener nofollow" target="_blank">Lim Wee Shiong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sarcopenia and related disorders, Frailty and Intrinsic Capacity, Dementia
-&amp; Cognitive Disorders, Caregiving Evidence Based Medicine, Health Professions
-Education</p>
+<p>Sarcopenia and muscle health, Frailty and Intrinsic Capacity, Dementia
+&amp; Cognitive Disorders, Implementation Science, Mixed-Methods research</p>
 </td>
 </tr>
 <tr>
@@ -293,8 +307,7 @@ Education</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Serious Games in Healthcare, Neurorehabilitation-Related Research, Assistive
-Technology, Tele-rehabilitation, Virtual Reality</p>
+<p>Neurorehabilitation Technologies, §&nbsp; Serious Gaming in Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -309,11 +322,12 @@ Cancer rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Melvin_Leow_Khee_Shing_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvin Leow Khee Shing</a>
+<p><a href="/files/Researcher Directory/TTSH/Melvin_Leow_v1224.pdf" rel="noopener nofollow" target="_blank">Melvin Leow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thyroid Physiology, Adipocyte biology, Insulin resistance</p>
+<p>Thyroid Physiology, Adipocyte biology, Insulin resistance, Mathematical
+modelling</p>
 </td>
 </tr>
 <tr>
@@ -322,19 +336,8 @@ Cancer rehabilitation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health services research particularly in the field of musculoskeletal
-medicine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Mucheli_Sharavan_Sadasiv_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Mucheli Sharavan Sadasiv</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Effect of interruptions on diagnostic reasoning; neuroscientific basis
-of diagnostic reasoning; health professions educational interventions;
-teaching clinical reasoning</p>
+<p>Osteosarcopenia, 3D printing in Surgery, Utility of IT in Perioperative
+Care</p>
 </td>
 </tr>
 <tr>
@@ -358,11 +361,11 @@ technology in rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Rinkoo_Dalan_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Rinkoo Dalan</a>
+<p><a href="/files/Researcher Directory/TTSH/Rinkoo_Dalan_v1224.pdf" rel="noopener nofollow" target="_blank">Rinkoo Dalan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vascular Complications, Cardio-Metabolic risk factors, Endocrinology</p>
+<p>Vascular Complications, Cardio-Metabolic risk factors, Diabetes</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +380,17 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Sanjay_Haresh_Chotirmall_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Sanjay Haresh Chotirmall</a>
+<p>Sandy Zhou*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Diagnostic and prognostic power of Swept Source Optical Coherence Tomography
+Angiography (SS-OCTA) for Diabetic Retinopathy and Age-related Macular
+Degeneration, Artificial Intelligence&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/Sanjay_Chotirmall_v1224.pdf" rel="noopener nofollow" target="_blank">Sanjay Chotirmall</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -386,11 +399,11 @@ drug delivery for back of the eye</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Tay_Hui_Lin_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tay Hui Lin</a>
-</p>
+<p>Simon Tan*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+<p>Extended reality and medical devices for perioperative medicine; Chronic
+pain and regional anaesthesia</p>
 </td>
 </tr>
 <tr>
@@ -399,7 +412,7 @@ drug delivery for back of the eye</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diagnostic Radiology, MedTech</p>
+<p>Liver Imaging, Prostate Imaging, Artificial Intelligence in Medical Imaging</p>
 </td>
 </tr>
 <tr>
@@ -408,7 +421,35 @@ drug delivery for back of the eye</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Breast cancer &amp; biomarkers</p>
+<p>Breast Cancer Biomarker Discovery, Novel therapeutics, Breast Image Analysis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Xiu Ying*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neuro-Ophthalmology; Low Vision Rehabilitation; Medical technology and
+innovation: virtual reality, tele-rehabilitation, tele-ophthalmology; Medical
+Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Tay_Hui_Lin_v1223.pdf" rel="noopener nofollow" target="_blank">Tay Hui Lin</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Wei Shan*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adult Dysphagia; Communication and Dysphagia Rehabilitation in Head and
+Neck Cancers; Modified food and beverage innovation</p>
 </td>
 </tr>
 <tr>
@@ -451,25 +492,25 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Leong*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Contactless patient monitoring for nursing productivity, Falls prediction
-and prevention, Nursing innovations for better clinical outcomes</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Yew_Kuo_Chao_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Yew Kuo Chao</a>
+<p><a href="/files/Researcher Directory/TTSH/Leong_Hui_Ling_Wendy_v1224.pdf" rel="noopener nofollow" target="_blank">Wendy Leong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hepatology, Health-Care Modelling, Health-Care information and analytics</p>
+<p>Patient-centered care, Process Improvement, Data Analytics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Yong_Enming_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Yong Enming</a>
+<p><a href="/files/Researcher Directory/TTSH/Yew_Kuo_Chao_v1224.pdf" rel="noopener nofollow" target="_blank">Yew Kuo Chao</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hepatology, Healtcare Modelling, Healthcare information and analytics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/Yong_Enming_v1224.pdf" rel="noopener nofollow" target="_blank">Yong Enming</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -478,11 +519,12 @@ and prevention, Nursing innovations for better clinical outcomes</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Zenne Tng*</p>
+<p><a href="/files/Researcher Directory/TTSH/Zenne_Tng_v1224.pdf" rel="noopener nofollow" target="_blank">Zenne Tng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dysphagia, Modified food and beverage invention, Artificial intelligence,
-Telehealth, New pedagogy in healthcare education, Workforce transformation</p>
+<p>Workforce Transformation, Healthcare Education, Artificial Intelligence
+and Telehealth, Dysphagia, Modified Consistencies Invention</p>
 </td>
 </tr>
 </tbody>

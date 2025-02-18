@@ -27,12 +27,12 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/HSOR/HSOR___Ang_Yee_Gary_v0624_.pdf" rel="noopener noreferrer nofollow" target="_blank">Ang Yee Gary</a>
+<p><a href="/files/Researcher Directory/HSOR/Gary_Ang_1224.pdf" rel="noopener nofollow" target="_blank">Ang Yee Gary</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diabetes and Complications of Diabetes, Large Language Models in Healthcare,
-School/Workplace Health, Behavioural Science, Healthcare Science</p>
+<p>Healthcare Innovation, Health Economics, Diabetes and complications of
+diabetes, Use of large language models in healthcare, Workplace health</p>
 </td>
 </tr>
 <tr>

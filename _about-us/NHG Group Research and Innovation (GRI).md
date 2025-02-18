@@ -71,7 +71,7 @@ and partnerships with academic and industry leaders.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Clinician-Scientist Development Office (CSDO)</strong>
+<summary><strong>Clinician Scientist Development Office (CSDO)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The NHG Clinician Scientist Development Office (CSDO) facilitates and

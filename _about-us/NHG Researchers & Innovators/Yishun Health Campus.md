@@ -40,7 +40,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obesity and weight management</p>
+<p>Obesity, Metabolic Medicine, Family Medicine</p>
 </td>
 </tr>
 <tr>
@@ -74,6 +74,15 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Jolie Hwee*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Plastic and Reconstructive Surgery, Breast Surgery, Wounds and Scars,
+Skin care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Joshua Decruz*</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +95,7 @@ to Emergency Departments</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Genetic Hypertension, Familial Hyperlipidaemia, Cardiometabolic disease</p>
+<p>Genetic Hypertension, Familial Hyperlipidemia, Cardiometabolic disease</p>
 </td>
 </tr>
 <tr>
@@ -125,8 +134,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Epidemiology and Infectious Disease, Antimicrobial Resistance, Casual
-Inference</p>
+<p>Epidemiology of infectious Disease, Antimicrobial Resistance, Casual Inference</p>
 </td>
 </tr>
 <tr>
@@ -161,11 +169,20 @@ Other Hyperlipidemia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wei Shan*</p>
+<p><a href="/files/Researcher Directory/YHC/Wei_Shan_v1224.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neuro rehabilitation, Cognitive rehabilitation, Assistive technology,
-Transitional care</p>
+<p>Neuro rehabilitation, Cognitive rehabilitation, Rehabilitation innovation,
+Return-to-work coordination</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhimin Lin*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>General Surgery, Endocrine Surgery, Sustainability&nbsp;</p>
 </td>
 </tr>
 </tbody>

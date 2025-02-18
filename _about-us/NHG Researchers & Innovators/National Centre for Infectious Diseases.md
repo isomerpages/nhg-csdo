@@ -37,7 +37,7 @@ Studies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Chia_Po_Ying_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Chia Po Ying</a>
+<p><a href="/files/Researcher Directory/NCID/chia_po_ying_v1224.pdf" rel="noopener nofollow" target="_blank">Chia Po Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,16 +47,16 @@ Infectious Diseases, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___David_Lye_Chien_Boon_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">David Lye Chien Boon</a>
+<p><a href="/files/Researcher Directory/NCID/david_lye_v1224.pdf" rel="noopener nofollow" target="_blank">David Lye</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SARS-CoV-2, Antimicrobial Resistance, Clinical Trials</p>
+<p>SARS-CoV-2, Antimicrobial Resistance, Dengue, Clinical Trials</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Kalisvar_Marimuthu_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Kalisvar Marimuthu</a>
+<p><a href="/files/Researcher Directory/NCID/kalisvar_marimuthu_v1224.pdf" rel="noopener nofollow" target="_blank">Kalisvar Marimuthu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,7 +88,7 @@ Diseases Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Ng_Oon_Tek_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng Oon Tek</a>
+<p><a href="/files/Researcher Directory/NCID/ng_oon_tek_v1224.pdf" rel="noopener nofollow" target="_blank">Ng Oon Tek</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,14 +98,14 @@ Disease, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Sapna_Pradip_Sadarangani_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Sapna Pradip Sadarangani</a>
+<p><a href="/files/Researcher Directory/NCID/sapna_pradip__v1224.pdf" rel="noopener nofollow" target="_blank">Sapna Pradip Sadarangani</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vaccinology and Vaccine-preventable Diseases, particularly in Older Adults
-and Children, Emerging Infectious Diseases, Global Health and Travel Medicine,
-Clinical Trials, Sero-epidemiology, Climate Change &amp; Environmental
-Health</p>
+<p>Vaccine-preventable Diseases, particularly in the Elderly and Children,
+Infections in the Elderly, Particularly Influenza, Emerging Infectious
+Diseases, Global Health and Travel Medicine, Clinical Trials, Sero-epidemiology,
+Climate Change &amp; Environmental Health</p>
 </td>
 </tr>
 </tbody>

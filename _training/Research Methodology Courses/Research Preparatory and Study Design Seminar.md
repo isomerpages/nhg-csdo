@@ -14,7 +14,8 @@ design a good research protocol that is distinct from the rest. Participants
 will also learn about the various study designs and their application to
 different research studies.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <strong><a href="/files/Training/Research_Preparatory_Study_Design_Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Research Preparatory and Study Design Seminar here</a></strong>.</p>
+<p>Download the <a href="/files/Training/Agenda__Research_Preparatory_and_Study_Design_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Research Preparatory and Study Design Seminar here.</a>
+</p>
 <h4><strong>Schedule</strong></h4>
 <p>The next run of this course to be updated.</p>
 <h4><strong>Registration</strong></h4>

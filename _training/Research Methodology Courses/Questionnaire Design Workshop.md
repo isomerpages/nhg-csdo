@@ -18,9 +18,10 @@ allow them to get the desired variables.</p>
 for research teams to design effective questionnaires that will reflect
 accurate responses and results of the respondents.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <strong><a href="/files/Training/Questionnaire_Design_Workshop_Agenda.pdf" rel="noopener noreferrer nofollow" target="_blank">Agenda for the Questionnaire Design Workshop here</a></strong>.</p>
+<p>Download the <a href="/files/Training/Agenda_Questionnaire_Design__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for the Questionnaire Design Workshop here</a>.</p>
 <h4><strong>Schedule</strong></h4>
-<p>The NHG Questionnaire Design Workshop will be held on <strong>19 November 2024 from 9am to 5pm</strong>.</p>
+<p>The NHG Questionnaire Design Workshop will be held on <strong>6 March 2025 from 9am to 5pm</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is currently open. Go to the <strong><a href="https://form.gov.sg/6641f70512841a949edddc5c" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
+<p>Registration for this Course is <strong>currently open</strong>. Go to
+the <strong><a href="https://form.gov.sg/6641f70512841a949edddc5c" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
 <p></p>

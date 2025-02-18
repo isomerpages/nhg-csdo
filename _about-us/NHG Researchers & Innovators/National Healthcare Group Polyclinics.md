@@ -32,7 +32,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Endocrinology &amp; Metabolic Disorders</p>
+<p>Chronic Disease Management, Endocrinology, Metabolic Disorders</p>
 </td>
 </tr>
 <tr>
@@ -55,26 +55,27 @@ DM Foot care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fong Qi Wei*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chronic disease management, Application of Artificial Intelligence/Machine
-Learning in healthcare</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Julia_Zhu_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Julia Zhu</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Fong_Qi_Wei_v1224.pdf" rel="noopener nofollow" target="_blank">Fong Qi Wei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wound Care, Diabetic Foot Care, Person-Centred Care in Chronic Wound Care,
-Health/Illness belief</p>
+<p>Development, Evaluation and Implementation of Artificial Intelligence
+for Healthcare</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Lee_Eng_Sing_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lee Eng Sing</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Julia_Zhu_v1224.pdf" rel="noopener nofollow" target="_blank">Julia Zhu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wound Care, Diabetic Foot/ Wound Care, Patient and Public Involvement
+Research, Self-care/management Intervention, Health Psychology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Lee_Eng_Sing_v1224.pdf" rel="noopener nofollow" target="_blank">Lee Eng Sing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,16 +93,17 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Sabrina_Wong_Kay_Wye_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Sabrina Wong Kay Wye</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sabrina_Wong_v1224.pdf" rel="noopener nofollow" target="_blank">Sabrina Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Innovative models of care</p>
+<p>Chronic Disease Management, Digital health/models of care, behavioural
+health</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Tan_Shu_Yun_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Shu Yun</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Shu_Yun_v1224.pdf" rel="noopener nofollow" target="_blank">Tan Shu Yun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,18 +121,21 @@ Vaccination</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Valerie Teo*</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Valerie_Teo_v1224.pdf" rel="noopener nofollow" target="_blank">Valerie Teo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artificial Intelligence, Med Tech, Primary Care, Analytics</p>
+<p>Family Medicine, Respiratory medicine, Clinical predictors, Patient empowerment,
+Improving clinical efficiency</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Ong*</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Wendy_Ong_v1224.pdf" rel="noopener nofollow" target="_blank">Wendy Ong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Patient Safety, Medical Device UI design and integration, Vaccination</p>
+<p>AI, Predictive model, Digital health, Population Health</p>
 </td>
 </tr>
 </tbody>

@@ -45,7 +45,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Chong_Siow_Ann_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Chong Siow Ann</a>
+<p><a href="/files/Researcher Directory/IMH/IMH___Chong_Siow_Ann_v2108.pdf" rel="noopener nofollow" target="_blank">Chong Siow Ann</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ Therapeutics of Schizophrenia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Daniel_Fung_Shuen_Sheng__v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Daniel Fung Shuen Sheng</a>
+<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener nofollow" target="_blank">Daniel Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,12 +65,12 @@ Disorders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Edimansyah Abdin</a>
+<p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric epidemiology and biostatistics, Latent variable modelling
-and psychometric testing</p>
+<p>Psychiatric epidemiology and biostatistics, Psychometric, Mental health
+Services Research</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +88,8 @@ and Psychotherapy, EEG/Neuroimaging, Genetics and Precision Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Child and Adolescent Mental Health, Autism and Neurodevelopmental Disorders,
-Mood and Personality Disorders, Suicide</p>
+<p>Suicide, Mental Health Literacy, Neurodevelopmental disorders, Mood and
+Personality Disorders, Suicide, Child and Adolescent</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Liu_Jian_Lin_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Liu Jianlin</a>
+<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">Liu Jianlin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,7 +133,17 @@ Early Intervention in Psychiatry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Melvyn_Zhang_Wei_Bin_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Melvyn Zhang Wei Bin</a>
+<p><a href="/files/Researcher Directory/IMH/Max_Lam__v1224.pdf" rel="noopener noreferrer nofollow" target="_blank">Max Lam</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Statistical Genetics, Population Genetics, Psychiatric Genetics, Cognitive
+Genetics, Psychometrics and Behavioural Phenotyping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/IMH/Melvyn_Zhang_Wei_Bin_v1224.pdf" rel="noopener nofollow" target="_blank">Melvyn Zhang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,13 +156,12 @@ Early Intervention in Psychiatry</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric Epidemiology, Health Service Research, Schizophrenia And Related
-Psychosis, Addiction</p>
+<p>Psychiatric Epidemiology, Psychosis, Addiction</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Ong_Say_How_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Say How</a>
+<p><a href="/files/Researcher Directory/IMH/Ong_Say_How__v1224.pdf" rel="noopener nofollow" target="_blank">Ong Say How</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,7 +183,8 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Genetics and Neuroimaging of Schizophrenia, Psychosis, Psychopharmacology</p>
+<p>Clinical Phenotyping of major Psychiatric Disorders, Neurobiology of Psychotic
+and Mood Disorders, Health Professions Education</p>
 </td>
 </tr>
 <tr>
@@ -206,15 +216,6 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Tor_Phern_Chern_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tor Phern Chern</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neurostimulation, Mood Disorders, Clinical Trial</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Yao Feng Yuan*</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,11 +236,11 @@ blue in tertiary mental health institution&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Yuan_Qi_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Yuan Qi</a>
+<p><a href="/files/Researcher Directory/IMH/Yuan_Qi_v1224.pdf" rel="noopener nofollow" target="_blank">Yuan Qi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stigma, Mental health of caregivers, E-/m-health</p>
+<p>Stigma, Mental health of caregivers, Digital health</p>
 </td>
 </tr>
 </tbody>
