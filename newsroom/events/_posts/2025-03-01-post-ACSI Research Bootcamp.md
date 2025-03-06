@@ -18,3 +18,7 @@ individually and receive feedback from our ACSI mentors at the session.</p>
 is limited, registration will close once capacity is reached.</p>
 <p><a href="https://form.gov.sg/66d909c306c3e0443c7fd1cb" rel="noopener noreferrer nofollow" target="_blank">ACSI Research Bootcamp - Survey on Confidence in Grant Writing | FormSG</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACSI_Research_Bootcamp_publicity.jpg">
+</div>
+<p></p>
