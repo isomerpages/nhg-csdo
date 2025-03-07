@@ -35,8 +35,7 @@ the evolving needs of healthcare practices in today's dynamic environment.</p>
 <p>Download the <a href="/files/Training/Latest_Agenda__NHG_Workshop_Intro_to_Information_Literacy_in_Evidence_Care_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for Introduction to Information Literacy in Evidence Care.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The NHG Introduction to Information Literacy in Evidence Care Workshop
-will be held in March.</p>
+<p>The next run of this course is to be updated.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently open</strong>. Go to
-the <strong><a href="https://form.gov.sg/6694c513d0bdcd1a3667da71" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
+<p>Registration for this Course is <strong>currently closed.</strong>
+</p>
