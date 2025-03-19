@@ -15,7 +15,7 @@ third_nav_title: Registration Information
 <p></p>
 <h4><strong>Course Fee Categories</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/Course_Fees_Category_Classifications_List_2022_v06042022.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/Course_Fees_Category_Classification.png">
 </div>
-<p>Download the <strong><a href="/files/Training/Course_Fees_Category_Classifications_List_FY2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Course Fee Categories.</a></strong>
+<p>Download the <a href="/files/Training/Course_Fees_Category_Classifications_List_2022_v06042022.pdf" rel="noopener nofollow" target="_blank">Course Fee Categories here.</a>
 </p>
