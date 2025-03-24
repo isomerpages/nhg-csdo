@@ -9,10 +9,6 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final__IGRP_Poster.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final__IGRP_Poster.jpg">
 </div>
 <p>Download the ACSI IGRP Project Submission Form <a href="https://for.sg/igrpprojectsubmissionform" rel="noopener nofollow" target="_blank">here.</a>
