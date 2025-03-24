@@ -15,7 +15,7 @@ matter experts.</p>
 <p>If you are interested to get feedback on your research proposals, submit
 the IGRP Project Submission Form by <strong>Tues, 22 April</strong> to the
 IGRP Secretariat!</p>
-<p>Download the ACSI IGRP Project Submission Form <a href="https://for.sg/igrpprojectsubmissionform" rel="noopener nofollow" target="_blank">here.</a>
+<p>Download the IGRP Project Submission Form <a href="https://for.sg/igrpprojectsubmissionform" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p>Further details are in the poster below.</p>
 <hr>
