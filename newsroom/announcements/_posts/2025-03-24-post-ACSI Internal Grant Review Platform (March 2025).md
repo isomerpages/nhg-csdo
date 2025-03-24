@@ -7,20 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Internal Grant Review Platform (IGRP) is an internal platform for NHG
-clinicians preparing for external grant/award applications such as NMRC
-TA/CSA/NIG to polish and fine-tune their research proposals with valuable
-inputs from experienced clinician scientists and subject matter experts.</p>
-<hr>
-<p><strong>Opening Date: 25 March</strong>
-</p>
-<p><strong>Closing Date: 22 April</strong>
-</p>
-<hr>
+<p>The Internal Grant Review Platform (IGRP) is an internal platform for
+NHG clinicians preparing for external grant/award applications such as
+NMRC TA/CSA/NIG to polish and fine-tune their research proposals based
+on valuable feedback from experienced clinician scientists and subject
+matter experts.</p>
+<p>If you are interested to get feedback on your research proposals, submit
+the IGRP Project Submission Form by <strong>Tues, 22 April</strong> to the
+IGRP Secretariat!</p>
 <p>Download the ACSI IGRP Project Submission Form <a href="https://for.sg/igrpprojectsubmissionform" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<p>Further details are in the poster below.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final__IGRP_Poster.jpg">
 </div>
