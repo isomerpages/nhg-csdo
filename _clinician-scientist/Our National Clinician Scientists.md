@@ -33,7 +33,6 @@ Scientists).</p>
 <p><strong>Singapore Translational</strong>
 <br><strong>Research Investigator</strong>
 <br><strong>Award (STaR)</strong>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,11 +85,11 @@ Scientists).</p>
 <p>A/Prof Ng Oon Tek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NCID/TTSH</p>
+<p>NCID / TTSH</p>
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="15" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-INV)</strong>
 </p>
@@ -131,7 +130,7 @@ Scientists).</p>
 <p>Asst Prof Lawrence Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IMH</p>
+<p>NCID / TTSH</p>
 </td>
 </tr>
 <tr>
@@ -215,14 +214,6 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Asst Prof Chia Po Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCID/TTSH</p>
-</td>
-</tr>
-<tr>
 <td rowspan="4" colspan="1">
 <p><strong>HPHSR Clinician </strong>
 <br><strong>Scientist Award</strong>
@@ -246,7 +237,7 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Prof Bryan Tan</p>
+<p>Asst Prof Bryan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WH</p>
