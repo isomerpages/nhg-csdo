@@ -5,12 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Registration Information
 ---
-<h4><strong>Course Fees for FY2024</strong></h4>
-<p></p>
+<h4><strong>Course Fees for FY2025</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/coursefees.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/FY2025_Course_Fees.png">
 </div>
-<p>Download the <a href="/files/Training/FY2024_NHG_Research_Training_Events___Course_Fees_v020424.pdf" rel="noopener nofollow" target="_blank">FY2024 Research Training Course Fees FY2024 here.</a>
+<p>Download the <a href="/files/Training/FY2025_NHG_Research_Training_Events___Course_Fees_v03042025.pdf" rel="noopener nofollow" target="_blank">FY2025 Course Fees here.</a>
 </p>
 <p></p>
 <h4><strong>Course Fee Categories</strong></h4>
