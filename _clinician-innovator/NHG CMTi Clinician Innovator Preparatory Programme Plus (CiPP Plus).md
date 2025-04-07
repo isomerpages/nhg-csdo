@@ -261,12 +261,12 @@ for discussion on suitability of the programme prior to applying.</p>
 </div>
 </details>
 </div>
-<h4><strong>NHG CMTi CiPP+ Information Sheet - FY2024</strong></h4>
+<h4><strong>NHG CMTi CiPP+ Information Sheet - FY2025</strong></h4>
 <p>This document contains important information about the objective of the
 programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/cippplusinfosheet" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippplusinfosheet25" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CiPP Secretariat:</p>
