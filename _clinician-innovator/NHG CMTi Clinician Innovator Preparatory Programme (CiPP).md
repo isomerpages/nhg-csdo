@@ -202,7 +202,7 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippinfosheet" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippinfosheet25" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
 </div>
 </details>
 </div>
@@ -217,7 +217,7 @@ proceeding to apply.</p>
 <br>3) Application Checklist (for reference only)
 <br>4) Funding Guidelines (for reference only)</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippappoct24" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippappapr25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
