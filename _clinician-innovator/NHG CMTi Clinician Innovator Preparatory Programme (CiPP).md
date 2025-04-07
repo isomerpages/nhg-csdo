@@ -162,7 +162,7 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Oct 2024 (Tue)</strong>
+<p><strong>15 Apr 2025 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -181,7 +181,7 @@ and
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -194,7 +194,7 @@ and
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG CMTi CiPP Information Sheet - FY2024</strong>
+<summary><strong>NHG CMTi CiPP Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -208,7 +208,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG CMTi CiPP Application Package - FY2024</strong>
+<summary><strong>NHG CMTi CiPP Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Application Package consists of the following documents:
