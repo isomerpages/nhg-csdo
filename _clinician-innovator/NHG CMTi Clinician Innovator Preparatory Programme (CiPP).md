@@ -139,7 +139,7 @@ be subsequently facilitated by NHG CMTi.</p>
 the CiPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit / Clinical Research and Innovation Office (CRU/ CRIO)</u>.</p>
 <p></p>
 <p>The Institution’s CRU/ CRIO will set an <strong><u>internal deadline</u></strong> for
-the above submission and ensure that the documents reach the CiPP Secretariat
+the submission and ensure that the documents reach the CiPP Secretariat
 by the stipulated deadline. Please check with your institutions for the
 deadline. Applications submitted after the call closing date and time will
 not be considered.</p>
