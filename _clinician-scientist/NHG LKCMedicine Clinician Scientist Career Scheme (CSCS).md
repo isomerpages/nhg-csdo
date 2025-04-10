@@ -260,11 +260,10 @@ proceeding to apply.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
 <br>1. Information Sheet
-<br>2. Letter of Intent (LOI)
-<br>3. Application Form
-<br>4. Budget Breakdown Form
-<br>5. Application Checklist (For reference only); and
-<br>6. NHG Research Funding Guidelines (For reference only).</p>
+<br>2. Application Form
+<br>3. Budget Breakdown Form
+<br>4. Application Checklist (For reference only); and
+<br>5. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cscsappoct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
