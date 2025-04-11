@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -70,7 +70,21 @@ of the project with their nominated mentors.</p>
 <p>The Review Panel will approve the choice of mentors based on the following
 eligiblity requirements:</p>
 <p></p>
-
+<p>a) Is a clinician/ scientist; if scientist, additional requirement of
+a co-supervisor who is a clinician;</p>
+<p>b) Has had experience as a Principal Investigator (PI) in a relevant area
+of research;</p>
+<p>c)&nbsp;Has a strong foundation and knowledge in proper conduct of research;
+and</p>
+<p>d)&nbsp;Has had experience in supervising or providing mentorship to junior
+investigators in their research work.</p>
+<p>&nbsp;</p>
+<p>Nominated mentor(s) are recommended, but not limited to be (1) NMRC TA
+/ CSA past or current recipient, (2) Director of Research, (3) CSCS past
+or current awardee or (4) <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener noreferrer nofollow" target="_blank">Academy of Clinician Scientists and Innovators (ACSI) Mentor</a>.</p>
+<p>&nbsp;</p>
+<p>Applicants may contact the CSPP Secretariat if they require assistance
+in identifying appropriate mentor(s).</p>
 </div>
 </details>
 </div>
@@ -81,10 +95,11 @@ eligiblity requirements:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
 the CSPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
-<p>The Institution’s CRU / CRIO will set internal deadlines for
-the submissions and ensure that the respective documents reach
-the CSPP Secretariat by the stipulated deadline. Please check with your  institutions for these deadlines. Applications submitted
-after the call closing date and time will not be considered.</p>
+<p>The Institution’s CRU / CRIO will set internal deadlines for the submissions
+and ensure that the respective documents reach the CSPP Secretariat by
+the stipulated deadline. Please check with your institutions for these
+deadlines. Applications submitted after the call closing date and time
+will not be considered.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -109,9 +124,9 @@ after the call closing date and time will not be considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline:</strong>
-<br>a) Application Form;<br>
-b) Applicant's Curriculum Vitae (CV); and<br>
-c) Mentors' CVs.</p>
+<br>a) Application Form;
+<br>b) Applicant's Curriculum Vitae (CV); and
+<br>c) Mentors' CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
