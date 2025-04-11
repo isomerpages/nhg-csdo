@@ -124,10 +124,9 @@ eligiblity requirements:</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
 the CSPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
-<p>The Institution’s CRU / CRIO will set respective internal deadlines for
-the above submissions. Please check with your institutions for these deadlines.
-The Institution’s CRU/ CRIO will ensure that the respective documents reach
-the CSPP Secretariat by the stipulated deadlines. Applications submitted
+<p>The Institution’s CRU / CRIO will set internal deadlines for
+the submissions and ensure that the respective documents reach
+the CSPP Secretariat by the stipulated deadline. Please check with your  institutions for these deadlines. Applications submitted
 after the call closing date and time will not be considered.</p>
 <p></p>
 <table style="minWidth: 50px">
