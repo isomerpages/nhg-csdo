@@ -70,50 +70,7 @@ of the project with their nominated mentors.</p>
 <p>The Review Panel will approve the choice of mentors based on the following
 eligiblity requirements:</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Table 1: CSPP Application Timeline</strong>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Call Opening</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>15 Oct 2024 (Tue)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline:</strong>
-<br>a) Letter of Intent (LOI);
-<br>b) Applicant's Curriculum Vitae (CV).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline:</strong>
-<br>a) Application Form;
-<br>b) Mentors' CVs;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+
 </div>
 </details>
 </div>
