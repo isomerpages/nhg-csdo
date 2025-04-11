@@ -134,8 +134,7 @@ and ensure that he/she is able to meet them.</p>
 </li>
 <li>
 <p>Interested clinicians are strongly encouraged to contact the CSCS Secretariat
-for discussion on suitability of the Programme prior to submitting a Letter
-of Intent (LOI).</p>
+for discussion on suitability of the Programme prior to applying.</p>
 <p></p>
 </li>
 <li>
@@ -224,7 +223,7 @@ submitted after the call closing date and time will not be considered.</p>
 <p>b) Applicant’s Curriculum Vitae (CV);
 <br>c) Budget Breakdown Form;
 <br>d) Other Supporting Documents (e.g., Academic Transcripts etc.); and
-<br>e) CV's of Research Team Members and Mentors</p>
+<br>e) Research Team Members and Mentors CV</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
