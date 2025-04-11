@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme Plus (CSPP Plus)
 permalink: /cspp-plus/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -142,15 +142,47 @@ for discussion on suitability of the Programme prior to applying.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Mentorship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each applicant is required to nominate a mentor from NHG and a mentor
+from LKCMedicine (subject to approval by the Review Panel) to guide them
+in their research project. They should approach and discuss the details
+of the project with their nominated mentors.</p>
+<p>&nbsp;</p>
+<p>The mentor should be an established clinician scientist or clinical scientist
+who</p>
+<p>a)&nbsp;Is involved in research with significant impact on clinical care;</p>
+<p>b)&nbsp;Has had experience as Principal investigator (PI) in a relevant
+area of research;</p>
+<p>c)&nbsp;Has strong foundation and knowledge in research methodology and
+conduct;</p>
+<p>d)&nbsp;Has obtained intramural/extramural grant(s) during the past 5
+years;</p>
+<p>e)&nbsp;Has an established research track record; and</p>
+<p>f)&nbsp;&nbsp;Has had experience in supervising or providing research
+mentorship to junior investigators or peers.</p>
+<p>&nbsp;</p>
+<p>Nominated mentors should be eligible to be PhD supervisor / co-supervisor
+and at least one mentor should be medically qualified.&nbsp;</p>
+<p></p>
+<p>Applicants may contact the CSPP Secretariat if they require assistance
+in identifying appropriate mentor(s) or refer to the <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener noreferrer nofollow" target="_blank">Academy of Clinician Scientists and Innovators (ACSI) mentors’ directory</a>.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
 the CSPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
-<p>The Institution’s CRU / CRIO will set internal deadlines for
-the submissions and ensure that the respective documents reach
-the CSPP Secretariat by the stipulated deadline. Please check with your  institutions for these deadlines. Applications submitted
-after the call closing date and time will not be considered.</p>
+<p>The Institution’s CRU / CRIO will set internal deadlines for the submissions
+and ensure that the respective documents reach the CSPP Secretariat by
+the stipulated deadline. Please check with your institutions for these
+deadlines. Applications submitted after the call closing date and time
+will not be considered.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -174,11 +206,12 @@ after the call closing date and time will not be considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline:</strong>
-<br>a) Application Form;<br>
-b) Applicant's Curriculum Vitae (CV);<br>
-c) Budget Breakdown Form;<br>
-d) Mentors' CVs; and<br>
-e) Other Supporting Documents, if any (e.g. Academic transcripts / graduation certifications)</p>
+<br>a) Application Form;
+<br>b) Applicant's Curriculum Vitae (CV);
+<br>c) Budget Breakdown Form;
+<br>d) Mentors' CVs; and
+<br>e) Other Supporting Documents, if any (e.g. Academic transcripts / graduation
+certifications)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
