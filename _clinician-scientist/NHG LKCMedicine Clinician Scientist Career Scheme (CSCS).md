@@ -265,7 +265,7 @@ proceeding to apply.</p>
 <br>4. Application Checklist (For reference only); and
 <br>5. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsappoct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsapplicationpackage" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
