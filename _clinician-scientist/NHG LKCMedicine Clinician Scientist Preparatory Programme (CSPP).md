@@ -52,9 +52,68 @@ and
 complete their research project within the award period, with the approval
 from their Reporting Officer.</p>
 <p>Interested clinicians are strongly encouraged to contact the CSPP Secretariat
-for discussion on suitability of the Programme prior to submitting a Letter
-of Intent (LOI).</p>
+for discussion on suitability of the Programme prior to applying.</p>
 <p></p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mentorship</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Each applicant is required to nominate a mentor from NHG and a mentor
+from LKCMedicine (subject to approval by the review committee) to guide
+them in their research project. They should approach and discuss the details
+of the project with their nominated mentors.</p>
+<p></p>
+<p>The Review Panel will approve the choice of mentors based on the following
+eligiblity requirements:</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Table 1: CSPP Application Timeline</strong>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Call Opening</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>15 Oct 2024 (Tue)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Letter of Intent Submission Deadline:</strong>
+<br>a) Letter of Intent (LOI);
+<br>b) Applicant's Curriculum Vitae (CV).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Full Application Submission Deadline:</strong>
+<br>a) Application Form;
+<br>b) Mentors' CVs;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
@@ -118,7 +177,6 @@ after the call closing date and time will not be considered.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
