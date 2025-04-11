@@ -149,20 +149,18 @@ for discussion on suitability of the Programme prior to applying.</p>
 from LKCMedicine (subject to approval by the Review Panel) to guide them
 in their research project. They should approach and discuss the details
 of the project with their nominated mentors.</p>
-<p>&nbsp;</p>
 <p>The mentor should be an established clinician scientist or clinical scientist
-who</p>
-<p>a)&nbsp;Is involved in research with significant impact on clinical care;</p>
-<p>b)&nbsp;Has had experience as Principal investigator (PI) in a relevant
-area of research;</p>
-<p>c)&nbsp;Has strong foundation and knowledge in research methodology and
-conduct;</p>
-<p>d)&nbsp;Has obtained intramural/extramural grant(s) during the past 5
-years;</p>
-<p>e)&nbsp;Has an established research track record; and</p>
-<p>f)&nbsp;&nbsp;Has had experience in supervising or providing research
+who:</p>
+<p>a) Is involved in research with significant impact on clinical care;<br>
+b) Has had experience as Principal investigator (PI) in a relevant
+area of research;<br>
+c) Has strong foundation and knowledge in research methodology and
+conduct;<br>
+d) Has obtained intramural/extramural grant(s) during the past 5
+years;<br>
+e) Has an established research track record; and<br>
+f) Has had experience in supervising or providing research
 mentorship to junior investigators or peers.</p>
-<p>&nbsp;</p>
 <p>Nominated mentors should be eligible to be PhD supervisor / co-supervisor
 and at least one mentor should be medically qualified.&nbsp;</p>
 <p></p>
