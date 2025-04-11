@@ -71,18 +71,16 @@ of the project with their nominated mentors.</p>
 eligiblity requirements:</p>
 <p></p>
 <p>a) Is a clinician/ scientist; if scientist, additional requirement of
-a co-supervisor who is a clinician;</p>
-<p>b) Has had experience as a Principal Investigator (PI) in a relevant area
-of research;</p>
-<p>c)&nbsp;Has a strong foundation and knowledge in proper conduct of research;
-and</p>
-<p>d)&nbsp;Has had experience in supervising or providing mentorship to junior
+a co-supervisor who is a clinician;<br>
+b) Has had experience as a Principal Investigator (PI) in a relevant area
+of research;<br>
+c) Has a strong foundation and knowledge in proper conduct of research;
+and<br>
+d) Has had experience in supervising or providing mentorship to junior
 investigators in their research work.</p>
-<p>&nbsp;</p>
 <p>Nominated mentor(s) are recommended, but not limited to be (1) NMRC TA
 / CSA past or current recipient, (2) Director of Research, (3) CSCS past
 or current awardee or (4) <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener noreferrer nofollow" target="_blank">Academy of Clinician Scientists and Innovators (ACSI) Mentor</a>.</p>
-<p>&nbsp;</p>
 <p>Applicants may contact the CSPP Secretariat if they require assistance
 in identifying appropriate mentor(s).</p>
 </div>
