@@ -18,10 +18,11 @@ allow them to get the desired variables.</p>
 for research teams to design effective questionnaires that will reflect
 accurate responses and results of the respondents.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Agenda_Questionnaire_Design__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for the Questionnaire Design Workshop here</a>.</p>
+<p>Download the <a href="/files/Training/Agenda_Questionnaire_Design__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for the Questionnaire Design Workshop here.</a>
+</p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is to be updated.</p>
+<p>The next run of this course is on <strong>28 August 2025, 9.00am - 5.00pm</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently closed.</strong>
+<p>Registration for this Course is <strong>currently open. </strong><a href="https://form.gov.sg/67f7720b990af072f0062302" rel="noopener nofollow" target="_blank">Register for Questionnaire Design Workshop here</a>
 </p>
 <p></p>
