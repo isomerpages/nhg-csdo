@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>NHG Research and Innovation Talent Development Programmes </strong><br><strong>FY2024 Call for Applications II Opening on 15 Oct 2024</strong></h4>
+<h4><strong>(CLOSED) NHG Research and Innovation Talent Development Programmes </strong><br><strong>FY2024 Call for Applications II Opening on 15 Oct 2024</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/CS.png">
