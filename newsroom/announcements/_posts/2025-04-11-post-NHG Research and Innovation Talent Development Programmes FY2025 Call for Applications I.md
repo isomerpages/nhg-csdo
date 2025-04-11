@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>NHG Research and Innovation Talent Development Programmes </strong><br><strong>FY2025 Call for Applications I Opening on 15 Apr 2025</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/FY25_Call_I_CS_Poster.png">
 </div>
