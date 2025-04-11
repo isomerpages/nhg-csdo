@@ -147,10 +147,9 @@ for discussion on suitability of the Programme prior to applying.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
 the CSPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
-<p>The Institution’s CRU / CRIO will set respective internal deadlines for
-the above submissions. Please check with your institutions for these deadlines.
-The Institution’s CRU/ CRIO will ensure that the respective documents reach
-the CSPP Secretariat by the stipulated deadlines. Applications submitted
+<p>The Institution’s CRU / CRIO will set internal deadlines for
+the submissions and ensure that the respective documents reach
+the CSPP Secretariat by the stipulated deadline. Please check with your  institutions for these deadlines. Applications submitted
 after the call closing date and time will not be considered.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -197,7 +196,7 @@ e) Other Supporting Documents, if any (e.g. Academic transcripts / graduation ce
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP+ Information Sheet - FY2024</strong>
+<summary><strong>NHG-LKCMedicine CSPP+ Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -210,16 +209,15 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2024</strong>
+<summary><strong>NHG-LKCMedicine CSPP+ Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP+ Application Package consists of the following documents:
 <br>1. Information Sheet
-<br>2. Letter of Intent (LOI)
-<br>3. Application Form
-<br>4. Budget Breakdown Form
-<br>5. Application Checklist (for reference only)
-<br>6. NHG Funding Guidelines (CSPP+)</p>
+<br>2. Application Form
+<br>3. Budget Breakdown Form
+<br>4. Application Checklist (for reference only)
+<br>5. NHG Funding Guidelines (CSPP+)</p>
 <p>Download the latest <a href="https://for.sg/csppplus-application" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
 <p></p>
 </div>
