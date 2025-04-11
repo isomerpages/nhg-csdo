@@ -17,7 +17,7 @@ sections:
         - title: Clinician Innovator (CI) Talent Development Programmes
           description: Learn more here
           url: /ci-overview/
-        - title: Research Training Calendar FY2024
+        - title: Research Training Calendar
           description: See our Training Courses here
           url: /course-calendar/
   - resources:
