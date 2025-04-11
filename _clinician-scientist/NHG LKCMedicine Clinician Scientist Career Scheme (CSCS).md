@@ -223,7 +223,7 @@ submitted after the call closing date and time will not be considered.</p>
 <p>b) Applicant’s Curriculum Vitae (CV);
 <br>c) Budget Breakdown Form;
 <br>d) Other Supporting Documents (e.g., Academic Transcripts etc.); and
-<br>e) Research Team Members and Mentors CV</p>
+<br>e) CVs of Research Team Members and Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
@@ -306,9 +306,6 @@ Change of Research Scope
 <br>Tel: (65) 6038 3631
 <br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
