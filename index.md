@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: NHG Clinician-Scientist Development Office (CSDO)
-      background: /images/Hero Banner/Fabric_of_Life_Design.png
+      background: /images/Zoom2.jpg
       variant: center
       key_highlights:
         - title: Clinician Scientist (CS) Talent Development Programmes
@@ -17,7 +17,7 @@ sections:
         - title: Clinician Innovator (CI) Talent Development Programmes
           description: Learn more here
           url: /ci-overview/
-        - title: Research Training Calendar FY2024
+        - title: Research Training Calendar
           description: See our Training Courses here
           url: /course-calendar/
   - resources:

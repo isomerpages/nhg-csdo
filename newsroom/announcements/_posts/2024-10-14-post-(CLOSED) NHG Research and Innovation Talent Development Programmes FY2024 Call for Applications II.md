@@ -1,20 +1,22 @@
 ---
 title: (CLOSED) NHG Research and Innovation Talent Development Programmes FY2024
-  Call for Applications I
-permalink: /talent-develp-programfy2024/
-date: 2024-08-19
+  Call for Applications II
+permalink: /nhg-research-and-innovation-talent-development-programmes-fy2024-call-for-applications-ii/
+date: 2024-10-14
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>(CLOSED) NHG Research and Innovation Talent Development Programmes </strong><br><strong>FY2024 Call for Applications I Opening on 9 April 2024</strong></h4>
-<p></p>
+<h4><strong>(CLOSED) NHG Research and Innovation Talent Development Programmes </strong><br><strong>FY2024 Call for Applications II Opening on 15 Oct 2024</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/GrantCall_Poster.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/CS.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/CI.png">
+</div>
 <p></p>
 <h4><strong>Application Process &amp; Contact Information</strong>&nbsp;</h4>
 <p>For more information and enquiries, please visit the respective programme’s
@@ -31,7 +33,7 @@ Ms Nicole Yap (<strong><a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener n
 6038 3632)</p>
 </li>
 <li>
-<p><strong><a href="https://talentdev.gri.nhg.com.sg/cipp/" rel="noopener noreferrer nofollow" target="_blank"><u>CiPP</u></a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cipp-plus/" rel="noopener noreferrer nofollow" target="_blank"><u>CiPP Plus</u></a></strong> -
+<p><strong><a href="https://talentdev.gri.nhg.com.sg/cipp/" rel="noopener noreferrer nofollow" target="_blank"><u>CiPP</u></a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cipp-plus/" rel="noopener noreferrer nofollow" target="_blank"><u>CiPP</u></a><a href="https://talentdev.gri.nhg.com.sg/cspp-plus/" rel="noopener noreferrer nofollow" target="_blank"><u>+</u></a></strong> -
 Ms Adeline Chan (<strong><a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Adeline_MX_CHAN@nhg.com.sg</u></a></strong> /
 6038 3631)</p>
 </li>

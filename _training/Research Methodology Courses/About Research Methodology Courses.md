@@ -13,13 +13,20 @@ or grant proposal to increase your chances in research and grant application.</p
 <h4><strong>Courses currently Open for Registration</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (6 March 2025)</a>
+<p><a href="https://talentdev.gri.nhg.com.sg/researchpreparatory-seminar/" rel="noopener nofollow" target="_blank">Research Preparatory &amp; Study Design (27 May 2025)</a>
 </p>
 </li>
 <li>
-<p><a href="https://talentdev.gri.nhg.com.sg/other-courses/" rel="noopener nofollow" target="_blank">Intellectual Property Management Seminar (4 March 2025)</a>
+<p><a href="https://talentdev.gri.nhg.com.sg/manuscript-poster-seminar/" rel="noopener nofollow" target="_blank">Manuscript Writing &amp; Poster Presentation (2 July 2025)</a>
+</p>
+</li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/grant-seminar/" rel="noopener nofollow" target="_blank">Grant Writing &amp; Management (17 July 2025)</a>
+</p>
+</li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (28 August 2025)</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>

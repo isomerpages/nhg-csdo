@@ -14,8 +14,8 @@ on how to write to distinguish your grant proposals from the rest.&nbsp;</p>
 <p>Download the <a href="/files/Training/Latest_Agenda__Grant_Writing_and_Management_NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for Grant Writing and Management Seminar here.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course to be updated.</p>
+<p>The next run of this course in on <strong>17 July 2025, 9.00am - 5.00pm</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently closed.</strong>
+<p>Registration for this Course is currently<strong> open. </strong><a href="https://form.gov.sg/67f768de7b1d7d6a5d66bcab" rel="noopener nofollow" target="_blank">Register for Grant Writing &amp; Management here</a>
 </p>
 <p></p>

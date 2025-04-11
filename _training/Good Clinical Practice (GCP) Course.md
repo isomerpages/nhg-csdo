@@ -74,7 +74,6 @@ a minimum passing score of 75%.</p>
 </p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is currently open. Go to the<strong> <a href="https://form.gov.sg/65d83d15623fb2fc7df0f07c" rel="noopener nofollow" target="_blank">Course Registration (via FormSG) here</a></strong>.</p>
-<p>Download the <strong>GCP Online Course Registration Information Sheet here</strong>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>Please contact the GCP Online Course organizers at <a href="mailto:researchtraining@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">researchtraining@nhg.com.sg</a> or

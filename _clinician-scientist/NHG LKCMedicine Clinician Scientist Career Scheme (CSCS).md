@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Career Scheme (CSCS)
 permalink: /cscs/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -134,8 +134,7 @@ and ensure that he/she is able to meet them.</p>
 </li>
 <li>
 <p>Interested clinicians are strongly encouraged to contact the CSCS Secretariat
-for discussion on suitability of the Programme prior to submitting a Letter
-of Intent (LOI).</p>
+for discussion on suitability of the Programme prior to applying.</p>
 <p></p>
 </li>
 <li>
@@ -164,8 +163,7 @@ CSCS award.</p>
 <p>
 <br>Each applicant is required to nominate a mentor from NHG and a mentor
 from LKCMedicine (subject to approval by the review committee) to guide
-them in their research career and project. The CSCS Secretariat may assist
-in the nomination of appropriate mentor(s) where required.</p>
+them in their research career and project.</p>
 <p></p>
 <p>The mentor should be an established clinician scientist or clinical scientist
 who:
@@ -178,7 +176,8 @@ of research;
 <br>f) Has had experience in supervising or providing research mentorship
 to junior investigators or peers.</p>
 <p></p>
-<p></p>
+<p>Applicants may contact the CSCS Secretariat if they require assistance
+in identifying appropriate mentor(s) or refer to the <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener noreferrer nofollow" target="_blank">Academy of Clinician Scientists and Innovators (ACSI) mentors' directory</a>.&nbsp;</p>
 </div>
 </details>
 </div>
@@ -190,11 +189,10 @@ to junior investigators or peers.</p>
 <p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
 the CSCS Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU)/Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p></p>
-<p>The Institution’s CRU/CRIO will set respective internal deadlines for
-the above submissions. Please check with your institutions for these deadlines.
-The Institution’s CRU/CRIO will ensure that the respective documents reach
-the CSCS Secretariat by the stipulated deadlines. Applications submitted
-after the call closing date and time will not be considered.</p>
+<p>The Institution’s CRU/CRIO will set internal deadlines for the submission
+and ensure that the documents reach the CSCS secretariat by the stipulated
+deadline. Please check with your institution for these deadlines. Applications
+submitted after the call closing date and time will not be considered.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -214,31 +212,21 @@ after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Oct 2024 (Tue)</strong>
+<p><strong>15 Apr 2025 (Tue)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline</strong>
-<br>a) Letter of Intent (LOI);
-<br>b)&nbsp;Applicant’s Curriculum Vitae (CV)</p>
+<p><strong>Full Application Submission Deadline</strong><br>
+a) Application Form;<br>
+b) Applicant’s Curriculum Vitae (CV);
+<br>c) Budget Breakdown Form;
+<br>d) Other Supporting Documents (e.g., Academic Transcripts etc.); and
+<br>e) CVs of Research Team Members and Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline</strong>
-<br>a) Application Form;
-<br>b) Budget Breakdown Form;
-<br>c) Other Supporting Documents (e.g., Academic Transcripts etc.);
-<br>d) Research Team Members and Mentors’ CVs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -251,7 +239,7 @@ after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Information Sheet - FY2024</strong>
+<summary><strong>NHG-LKCMedicine CSCS Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -266,18 +254,17 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Application Package - FY2024</strong>
+<summary><strong>NHG-LKCMedicine CSCS Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
 <br>1. Information Sheet
-<br>2. Letter of Intent (LOI)
-<br>3. Application Form
-<br>4. Budget Breakdown Form
-<br>5. Application Checklist (For reference only); and
-<br>6. NHG Research Funding Guidelines (For reference only).</p>
+<br>2. Application Form
+<br>3. Budget Breakdown Form
+<br>4. Application Checklist (For reference only); and
+<br>5. NHG Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsappoct24" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsapplicationpackage" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -319,9 +306,6 @@ Change of Research Scope
 <br>Tel: (65) 6038 3631
 <br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>

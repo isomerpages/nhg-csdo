@@ -68,7 +68,7 @@ and
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
 research commitments during the CSF award period (if awarded) and continue
-to facilitate his/her career pathway as a clinician-scientist beyond the
+to facilitate his/her career pathway as a clinician scientist beyond the
 CSF award.</p>
 <p></p>
 <p>Applicants interested to pursue a research PhD with any other local academic

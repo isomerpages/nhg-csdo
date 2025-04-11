@@ -139,7 +139,7 @@ be subsequently facilitated by NHG CMTi.</p>
 the CiPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit / Clinical Research and Innovation Office (CRU/ CRIO)</u>.</p>
 <p></p>
 <p>The Institution’s CRU/ CRIO will set an <strong><u>internal deadline</u></strong> for
-the above submission and ensure that the documents reach the CiPP Secretariat
+the submission and ensure that the documents reach the CiPP Secretariat
 by the stipulated deadline. Please check with your institutions for the
 deadline. Applications submitted after the call closing date and time will
 not be considered.</p>
@@ -162,7 +162,7 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Oct 2024 (Tue)</strong>
+<p><strong>15 Apr 2025 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -181,7 +181,7 @@ and
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -194,7 +194,7 @@ and
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG CMTi CiPP Information Sheet - FY2024</strong>
+<summary><strong>NHG CMTi CiPP Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -202,13 +202,13 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippinfosheet" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippinfosheet25" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG CMTi CiPP Application Package - FY2024</strong>
+<summary><strong>NHG CMTi CiPP Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Application Package consists of the following documents:
@@ -217,7 +217,7 @@ proceeding to apply.</p>
 <br>3) Application Checklist (for reference only)
 <br>4) Funding Guidelines (for reference only)</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippappoct24" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippappapr25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
