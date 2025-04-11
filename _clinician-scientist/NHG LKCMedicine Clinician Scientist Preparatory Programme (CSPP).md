@@ -154,8 +154,7 @@ after the call closing date and time will not be considered.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline:</strong>
 <br>a) Application Form;</p>
-<p>b)
-<br>Applicant's Curriculum Vitae (CV); and</p>
+<p>b) Applicant's Curriculum Vitae (CV); and</p>
 <p>c) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +170,7 @@ after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Information Sheet - FY2024</strong>
+<summary><strong>NHG-LKCMedicine CSPP Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -184,7 +183,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Application Package - FY2024</strong>
+<summary><strong>NHG-LKCMedicine CSPP Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package consists of the following documents:
