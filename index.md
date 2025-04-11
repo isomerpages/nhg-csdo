@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: NHG Clinician-Scientist Development Office (CSDO)
-      background: /images/Hero Banner/Fabric_of_Life_Design.png
+      background: /images/Zoom2.jpg
       variant: center
       key_highlights:
         - title: Clinician Scientist (CS) Talent Development Programmes
