@@ -19,7 +19,7 @@ paper.&nbsp;</p>
 <p>Download the <a href="/files/Training/Agenda__Manuscript_Writing_and_Poster_Presentation_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Manuscript Writing and Poster Presentation Seminar here.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course to be updated.</p>
+<p>The next run of this course is on <strong>2 July 2025, 9am - 12.15pm</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is currently closed. It will open nearer
-to the course start date.</p>
+<p>Registration for this Course is currently <strong>open</strong>. <a href="https://form.gov.sg/67dd048f030ca149d1403671" rel="noopener nofollow" target="_blank">Register for Manuscript Writing and Poster Presentation Seminar here.</a>
+</p>
