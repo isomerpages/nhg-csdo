@@ -218,8 +218,8 @@ submitted after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline</strong>
-</p><p>a) Application Form;<br>
+<p><strong>Full Application Submission Deadline</strong><br>
+a) Application Form;<br>
 b) Applicant’s Curriculum Vitae (CV);
 <br>c) Budget Breakdown Form;
 <br>d) Other Supporting Documents (e.g., Academic Transcripts etc.); and
