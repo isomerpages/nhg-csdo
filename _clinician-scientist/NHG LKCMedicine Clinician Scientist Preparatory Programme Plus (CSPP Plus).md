@@ -135,8 +135,7 @@ project within the award period, with the approval of their Reporting Officer;</
 </li>
 </ul>
 <p>Interested clinicians are strongly encouraged to contact the CSPP Secretariat
-for discussion on suitability of the Programme prior to submitting a Letter
-of Intent (LOI).</p>
+for discussion on suitability of the Programme prior to applying.</p>
 <p></p>
 </div>
 </details>
@@ -146,8 +145,8 @@ of Intent (LOI).</p>
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
-the CSPP Secretariat at NHG Group Research &amp; Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
+<p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
+the CSPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p>The Institution’s CRU / CRIO will set respective internal deadlines for
 the above submissions. Please check with your institutions for these deadlines.
 The Institution’s CRU/ CRIO will ensure that the respective documents reach
@@ -166,37 +165,24 @@ after the call closing date and time will not be considered.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Call Opening</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>15 Oct 2024 (Tue)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline:</strong>
-<br>a) Letter of Intent (LOI);
-<br>b) Applicant’s Curriculum Vitae (CV); and
-<br>c) Other Supporting Documents, if any (e.g. Academic transcripts / graduation
-certificates etc).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Call Opening</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>15 Apr 2025 (Tue)</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline:</strong>
-<br>a) Application Form;
-<br>b) Budget Breakdown Form; and
-<br>c)&nbsp;Mentors’ CVs.</p>
+<br>a) Application Form;<br>
+b) Applicant's Curriculum Vitae (CV);<br>
+c) Budget Breakdown Form;<br>
+d) Mentors' CVs; and<br>
+e) Other Supporting Documents, if any (e.g. Academic transcripts / graduation certifications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
