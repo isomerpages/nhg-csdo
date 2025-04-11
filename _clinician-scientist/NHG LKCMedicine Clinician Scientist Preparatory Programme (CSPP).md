@@ -153,9 +153,9 @@ after the call closing date and time will not be considered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline:</strong>
-<br>a) Application Form;</p>
-<p>b) Applicant's Curriculum Vitae (CV); and</p>
-<p>c) Mentors' CVs;</p>
+<br>a) Application Form;<br>
+b) Applicant's Curriculum Vitae (CV); and<br>
+c) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
