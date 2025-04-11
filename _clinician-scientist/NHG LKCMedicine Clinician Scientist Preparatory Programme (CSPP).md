@@ -1,7 +1,7 @@
 ---
 title: NHG LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -147,28 +147,19 @@ after the call closing date and time will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>15 Oct 2024 (Tue)</p>
+<p>15 Apr 2025 (Tue)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Letter of Intent Submission Deadline:</strong>
-<br>a) Letter of Intent (LOI);
-<br>b) Applicant's Curriculum Vitae (CV).</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>12 Nov 2024 (Tue), 12pm (SGT)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Full Application Submission Deadline:</strong>
-<br>a) Application Form;
-<br>b) Mentors' CVs;</p>
+<br>a) Application Form;</p>
+<p>b)
+<br>Applicant's Curriculum Vitae (CV); and</p>
+<p>c) Mentors' CVs;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 Nov 2024 (Tue), 12pm (SGT)</strong>
+<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
