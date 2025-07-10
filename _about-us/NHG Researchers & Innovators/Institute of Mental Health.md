@@ -45,7 +45,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Chong_Siow_Ann_v2108.pdf" rel="noopener nofollow" target="_blank">Chong Siow Ann</a>
+<p><a href="/files/Researcher Directory/IMH/Chong_Siow_Ann_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Chiong Siow Ann</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,17 @@ Therapeutics of Schizophrenia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener nofollow" target="_blank">Daniel Fung</a>
+<p><a href="/files/Researcher Directory/IMH/Christopher_Cheok_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Christopher Cheok</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Daniel </a>
+<a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener nofollow" target="_blank">Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,6 +76,7 @@ Disorders</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
+<a href="/files/Researcher Directory/IMH/Edimansyah_Abdin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +86,8 @@ Services Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Geoffrey Tan*</p>
+<p><a href="/files/Researcher Directory/IMH/Geoffrey_Tan_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Geoffrey Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Artificial Intelligence, Mood and Anxiety, Psychological interventions
@@ -90,6 +102,15 @@ and Psychotherapy, EEG/Neuroimaging, Genetics and Precision Medicine</p>
 <td rowspan="1" colspan="1">
 <p>Suicide, Mental Health Literacy, Neurodevelopmental disorders, Mood and
 Personality Disorders, Suicide, Child and Adolescent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/IMH/Gurpreet_Rekhi_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Gurpreet Rekhi</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -114,7 +135,8 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Lim_Choon_Guan_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Choon Guan</a>
+<p><a href="/files/Researcher Directory/IMH/IMH___Lim_Choon_Guan_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Cho</a>
+<a href="/files/Researcher Directory/IMH/Lim_Choon_Guan_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">on</a><a href="/files/Researcher Directory/IMH/IMH___Lim_Choon_Guan_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank"> Guan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +145,8 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">Liu Jianlin</a>
+<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">Liu Ji</a>
+<a href="/files/Researcher Directory/IMH/Liu_Jianlin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">an</a><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,6 +184,15 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/IMH/Nisha_Chandwani_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Nisha Chandwani</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/IMH/Ong_Say_How__v1224.pdf" rel="noopener nofollow" target="_blank">Ong Say How</a>
 </p>
 </td>
@@ -171,7 +203,8 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Xin Ling*</p>
+<p><a href="/files/Researcher Directory/IMH/Ong_Xin_Ling_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Xin Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ageing, Dementia, Mental Health, Long Term Care, Gerotechnology&nbsp;</p>
@@ -216,7 +249,8 @@ and Mood Disorders, Health Professions Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yao Feng Yuan*</p>
+<p><a href="/files/Researcher Directory/IMH/Yao_Fengyuan_NHG_edited__Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Yao Feng Yuan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Non-pharmacological intervention of Behavioural and Psychological Symptoms
