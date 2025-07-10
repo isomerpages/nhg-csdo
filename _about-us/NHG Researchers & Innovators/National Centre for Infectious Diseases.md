@@ -31,8 +31,8 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Respiratory Viruses, Clinical Trials, Immunology and Vaccines, Human Challenge
-Studies</p>
+<p>Controlled Human Infection studies, Clinical Trials, Immunology and Vaccines,
+Respiratory virus infections</p>
 </td>
 </tr>
 <tr>
@@ -72,9 +72,9 @@ IPC implementation research</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arboviruses (Dengue, Zika, Chikungunya), Emerging Infections, Implementation
-Research, Communicable Diseases and General Infectious Diseases, Outbreak
-Diseases Management</p>
+<p>Arbovirus, Dengue, Zika, Chikungunya, Emerging Infections, Global Health,
+Communicable Diseases and General Infectious Diseases, Outbreak Diseases
+Management</p>
 </td>
 </tr>
 <tr>
