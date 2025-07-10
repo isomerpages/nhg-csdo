@@ -255,10 +255,9 @@ and Mood Disorders, Health Professions Education</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Non-pharmacological intervention of Behavioural and Psychological Symptoms
-of Dementia (BPSD), Management of frailty and integration of care for elderly
-patients with mental illness, Life support training and management of code
-blue in tertiary mental health institution&nbsp;&nbsp;</p>
+<p>Managing behavioural problems in persons living with dementia, Frailty,
+Integration of care, Life support training in tertiary psychiatric institution,
+Screening for depression and dementia</p>
 </td>
 </tr>
 <tr>
