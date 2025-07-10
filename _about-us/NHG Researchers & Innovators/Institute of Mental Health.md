@@ -49,7 +49,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychosis, Psychiatric Epidemiology, Health Service Rsearch</p>
+<p>Psychosis, Psychiatric Epidemiology, Health Service Research</p>
 </td>
 </tr>
 <tr>
