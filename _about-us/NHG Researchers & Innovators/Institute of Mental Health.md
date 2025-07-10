@@ -45,7 +45,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Chong_Siow_Ann_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Chiong Siow Ann</a>
+<p><a href="/files/Researcher Directory/IMH/Chong_Siow_Ann_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Chong Siow Ann</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,8 +63,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Daniel </a>
-<a href="/files/Researcher Directory/IMH/Daniel_Fung_v1224.pdf" rel="noopener nofollow" target="_blank">Fung</a>
+<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Daniel Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,7 +74,7 @@ Adolescent mental disorders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
+<p><a href="/files/Researcher Directory/IMH/Edimansyah_Abdin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,8 +133,7 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Lim_Choon_Guan_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Cho</a>
-<a href="/files/Researcher Directory/IMH/Lim_Choon_Guan_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">on</a><a href="/files/Researcher Directory/IMH/IMH___Lim_Choon_Guan_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank"> Guan</a>
+<p><a href="/files/Researcher Directory/IMH/Lim_Choon_Guan_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Lim Choon Guan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -145,8 +143,7 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">Liu Ji</a>
-<a href="/files/Researcher Directory/IMH/Liu_Jianlin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">an</a><a href="/files/Researcher Directory/IMH/Liu_Jianlin_v1224.pdf" rel="noopener nofollow" target="_blank">lin</a>
+<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Liu Jianlin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,7 +215,7 @@ for older adult, Older adult with mental health issues and frailty</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clinical Phenotyping of major Psychiatric Disorders, Neurobiology of Psychotic
+<p>Clinical Phenotyping of Major Psychiatric Disorders, Neurobiology of Psychotic
 and Mood Disorders, Health Professions Education</p>
 </td>
 </tr>
@@ -255,7 +252,7 @@ and Mood Disorders, Health Professions Education</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Managing behavioural problems in persons living with dementia, Frailty,
+<p>Managing Behavioural problems in persons living with dementia, Frailty,
 Integration of care, Life support training in tertiary psychiatric institution,
 Screening for depression and dementia</p>
 </td>
