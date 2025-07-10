@@ -68,14 +68,12 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Mental Health, Emotional Disorders in the Young, Neurodevelopmental
-Disorders</p>
+<p>Digital Mental Health, Emotional Disorders in the Young,</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/IMH/IMH___Edimansyah_Abdin_v2210.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
-<a href="/files/Researcher Directory/IMH/Edimansyah_Abdin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
