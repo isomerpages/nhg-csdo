@@ -68,7 +68,9 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Digital Mental Health, Emotional Disorders in the Young,</p>
+<p>Neurodevelopmental Disorders especially ADHD, Digital Mental Health, Emotional
+Disorders especially Depression, Cognitive Behaviour Therapy, Child and
+Adolescent mental disorders</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +79,8 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric epidemiology and biostatistics, Psychometric, Mental health
-Services Research</p>
+<p>Psychiatric epidemiology and biostatistics, Psychometric, Health Services
+Research</p>
 </td>
 </tr>
 <tr>
@@ -87,8 +89,8 @@ Services Research</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artificial Intelligence, Mood and Anxiety, Psychological interventions
-and Psychotherapy, EEG/Neuroimaging, Genetics and Precision Medicine</p>
+<p>Precision Psychiatry, Psychotherapy, Artificial Intelligence &amp; Mental
+Health, Mood Disorders, Pharmacogenetics and Nutrigenomics</p>
 </td>
 </tr>
 <tr>
@@ -107,7 +109,7 @@ Personality Disorders, Suicide, Child and Adolescent</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Negative Symptoms in Schizophrenia, Bipolar Disorders, Prodromal Psychosis</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +139,8 @@ Mental Health</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Child Psychiatry, Attention Deficit Hyperactivity Disorder (ADHD)</p>
+<p>Child and Adolescent mental health, Attention Deficit Hyperactivity Disorder
+(ADHD), Autism Spectrum Disorder</p>
 </td>
 </tr>
 <tr>
@@ -147,8 +150,8 @@ Mental Health</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Traumatic Stress and Post Traumatic Stress Disorder, Clinical Health psychology,
-Early Intervention in Psychiatry</p>
+<p>Post Traumatic Stress Disorder and trauma Sequelae (e.g. Dissociation),
+Scalable &amp; Early Interventions for Mental Health, Clinical Health psychology</p>
 </td>
 </tr>
 <tr>
@@ -277,6 +280,5 @@ blue in tertiary mental health institution&nbsp;&nbsp;</p>
 </tbody>
 </table>
 <p></p>
-<p>*<sub> Profile is currently unavailable.</sub>
-</p>
+<p></p>
 <p></p>
