@@ -27,7 +27,7 @@ third_nav_title: NHG Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/HSOR/Gary_Ang_1224.pdf" rel="noopener nofollow" target="_blank">Ang Yee Gary</a>
+<p><a href="/files/Researcher Directory/HSOR/Gary_Ang_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Ang Yee Gary</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ diabetes, Use of large language models in healthcare, Workplace health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/HSOR/HSOR___Meng_Fanwen_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Meng Fanwen</a>
+<p><a href="/files/Researcher Directory/HSOR/Meng_Fanwen_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Meng Fanwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
