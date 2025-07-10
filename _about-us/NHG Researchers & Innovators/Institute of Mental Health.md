@@ -49,8 +49,7 @@ third_nav_title: NHG Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric Epidemiology; Schizophrenia &amp; Related Psychosis Genetics;
-Therapeutics of Schizophrenia</p>
+<p>Psychosis, Psychiatric Epidemiology, Health Service Rsearch</p>
 </td>
 </tr>
 <tr>
@@ -59,7 +58,7 @@ Therapeutics of Schizophrenia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Digital Mental Health; Artificial Intelligence in Mental Healthcare</p>
 </td>
 </tr>
 <tr>
