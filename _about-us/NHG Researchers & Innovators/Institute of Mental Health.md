@@ -246,7 +246,7 @@ and Mood Disorders, Health Professions Education</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurostimulation, Mood Disorders, Clinical Trial</p>
+<p>Neurostimulation, Transcranial magnetic stimulation, Psychiatric Disorder</p>
 </td>
 </tr>
 <tr>
