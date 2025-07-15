@@ -6,10 +6,10 @@ description: ""
 ---
 <h4><strong>Establishment and Scope</strong></h4>
 <p>The <strong>Clinician Scientist Development Office (CSDO)</strong>,<strong> </strong>part
-of the <strong>Group Research and Innovation (GRI)</strong> in the<strong> National Healthcare Group (NHG)</strong>,
-facilitates and supports research in NHG by providing holistic support
+of the <strong>Group Research and Innovation (GRI)</strong> in <strong>NHG Health</strong>,
+facilitates and supports research in NHG Health by providing holistic support
 to nurture and develop clinician scientists and innovators, clinical researchers
-and research administrators in NHG; cultivate research culture through
+and research administrators in NHG Health; cultivate research culture through
 a critical mass of talents; and groom the next generation of research leaders
 and mentors.</p>
 <p>Collaborating with academic and research institutions, our efforts strengthen
@@ -23,8 +23,8 @@ scientific research from the bench to beside.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Administered by CSDO and jointly supported by our Academic Partner, we
 offer a suite of Clinician Scientist (CS) Development Programmes designed
-to effectively support NHG clinicians at different stages of their clinical
-and research careers.</p>
+to effectively support NHG Health clinicians at different stages of their
+clinical and research careers.</p>
 <p>These Programmes build up clinicians’ research capabilities through curated
 resources, training and guidance from experts.</p>
 <p><a href="https://talentdev.gri.nhg.com.sg/cs-overview/" rel="noopener nofollow" target="_blank">Learn more here</a>.</p>
@@ -35,7 +35,7 @@ resources, training and guidance from experts.</p>
 <summary><strong>Clinician Innovator (CI) Development</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Together with <strong>NHG Centre for Medical Technologies and Innovations (CMTi)</strong>,
+<p>Together with <strong>the Centre for Medical Technologies and Innovations (CMTi)</strong>,
 CSDO administers and offers the Clinician Innovator (CI) Development Programmes
 comprising of foundational programmes designed to empower aspiring CIs
 with relevant knowledge and skills.</p>
