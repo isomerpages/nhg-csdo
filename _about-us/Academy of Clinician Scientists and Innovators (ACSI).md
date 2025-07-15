@@ -7,8 +7,7 @@ description: ""
 <p>Academic medicine is one key component of Singapore’s healthcare priorities.
 The <strong>Academy of Clinician Scientists and Innovators (ACSI)</strong> was
 established with the vision of providing a home for clinician scientists
-and innovators at the <strong>National Healthcare Group (NHG) </strong>and
-the <strong>NTU Lee Kong Chian School of Medicine</strong>.</p>
+and innovators at the <strong>NHG Health </strong>and the <strong>NTU Lee Kong Chian School of Medicine</strong>.</p>
 <p>The ACSI’s mission is to improve medicine through early identification
 of talents, postgraduate education and training, and support with translational
 research programs.</p>
