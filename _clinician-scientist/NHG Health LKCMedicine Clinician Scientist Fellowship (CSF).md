@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>Jointly developed in 2013 by the <strong>National Healthcare Group (NHG)</strong> and <strong>Nanyang Technological University’s Lee Kong Chian School of Medicine (NTU/LKCMedicine)</strong>,
-the <strong>NHG-LKCMedicine Clinician Scientist Fellowship (CSF)</strong> aims
+<p>Jointly developed in 2013 by <strong>NHG Health</strong> and <strong>Nanyang Technological University’s Lee Kong Chian School of Medicine (NTU/LKCMedicine)</strong>,
+the <strong>NHG Health-LKCMedicine Clinician Scientist Fellowship (CSF)</strong> aims
 to nurture and develop Clinician Scientists with a <u>formal research training programme leading to PhD</u>.</p>
 <p>Successful students will be offered admission into the <strong>LKCMedicine PhD by Research Programme</strong>.
 For information on the programme, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
@@ -19,10 +19,11 @@ For information on the programme, please visit the <a href="https://www.ntu.edu.
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Research FTE will be provided by NHG and NTU/LKCMedicine for up to 3 years.</p>
+<p>Research FTE will be provided by NHG Health and NTU/LKCMedicine for up
+to 3 years.</p>
 </li>
 <li>
-<p>Clinical FTE will be provided by NHG Host Institution.</p>
+<p>Clinical FTE will be provided by NHG Health Host Institution.</p>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
@@ -44,13 +45,13 @@ completion of PhD fellowship.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants should be:
 <br>a)<strong> Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
-with primary appointments at NHG institutions; or are enrolled in their
-final year of the NHG Residency Programme with indication of continuation
-in NHG;
+with primary appointments at NHG Health institutions; or are enrolled in
+their final year of the NHG Health Residency Programme with indication
+of continuation in NHG Health;
 <br>OR
 <br>b)<strong> Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professionals
-(as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
+(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
 in clinical practice, with primary appointments at NHG institutions and
 at least 3 years of clinical or relevant experience. Others may contact
 the CSF Secretariat for discussion on suitability of the programme. Applicants
@@ -93,10 +94,10 @@ PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students are required to serve a bond of up to 5 years with their respective
-NHG Host Institution upon completion of the Fellowship. Bond duration will
-be commensurated with amount of salary support provided by the Fellowship. <s><br></s>
-<br>Please refer to NHG HR Policy (NHG-HR-H5 Training Bond &amp; Minimum Service
-Period (MSP)) for guidelines.</p>
+NHG Health Host Institution upon completion of the Fellowship. Bond duration
+will be commensurated with amount of salary support provided by the Fellowship. <s><br></s>
+<br>Please refer to NHG Health HR Policy (NHG-HR-H5 Training Bond &amp; Minimum
+Service Period (MSP)) for guidelines.</p>
 </div>
 </details>
 </div>
@@ -117,13 +118,13 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 <p>For more information and further enquiries, please contact the CSF Secretariat:</p>
 <p><strong>Ms Adeline Chan</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research and Innovation
+<br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3631
 <br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a>
 </p>
 <p><strong>Ms Nicole Yap</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research and Innovation
+<br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3632
 <br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a>
 </p>
