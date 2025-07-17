@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - NHG Clinician Scientist Development Office (CSDO).md
+      - Clinician Scientist Development Office (CSDO).md
       - Academy of Clinician Scientists and Innovators (ACSI).md
       - NHG Researchers & Innovators/.keep
       - NHG Researchers & Innovators/Researcher & Innovator Directory Overview.md
