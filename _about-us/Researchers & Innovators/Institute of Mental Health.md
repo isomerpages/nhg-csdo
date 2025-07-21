@@ -172,7 +172,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Mythily_Subramaniam_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Mythily Subramaniam</a>
+<p><a href="/files/Researcher Directory/IMH/Mythily_Subramaniam_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Mythily Subramaniam </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ and Mood Disorders, Health Professions Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Tan_Xiao_Wei_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Xiao Wei</a>
+<p><a href="/files/Researcher Directory/IMH/Tan_Xiaowei_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tan Xiaowei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
