@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Researchers & Innovators
 ---
-<h4><strong>Connecting With NHG Researchers&nbsp;and Innovators</strong></h4>
+<h4><strong>Connecting With NHG Health Researchers&nbsp;and Innovators</strong></h4>
 <p>Research and innovation are key drivers of continuous improvement to the
-healthcare ecosystem. In line with NHG’s vision of adding years of healthy
-life, partnerships between clinical researchers, innovators&nbsp;and basic
-scientists, and engineers contribute tremendously towards more efficient
+healthcare ecosystem. In line with NHG Health’s vision of adding years
+of healthy life, partnerships between clinical researchers, innovators&nbsp;and
+basic scientists, and engineers contribute tremendously towards more efficient
 and effective prevention, diagnosis and treatment of diseases while improving
 quality of life.&nbsp;</p>
 <p></p>
@@ -43,11 +43,11 @@ The directory is non-exhaustive and will be updated regularly.</p>
 </p>
 </li>
 <li>
-<p><a href="/directory-wh/" rel="noopener nofollow" target="_blank">Woodlands Health (WH)</a>
+<p><a href="/directory-wh/" rel="noopener nofollow" target="_blank">Woodlands Hospital (WH)</a>
 </p>
 </li>
 <li>
-<p><a href="/directory-yhc/" rel="noopener nofollow" target="_blank">Yishun Health Campus (YHC)</a>
+<p><a href="/directory-ktph/" rel="noopener nofollow" target="_blank">Khoo Teck Puat Hospital (KTPH)</a>
 </p>
 </li>
 <li>
