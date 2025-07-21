@@ -28,20 +28,21 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Darren_Seah_Ee_Jin_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Darren Seah Ee-Jin</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Dana_Koh_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Dana Koh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Endocrinology, Metabolic Disorders</p>
+<p>Implementation of AI in healthcare, Digital Transformation, Nurses Wellbeing,
+Chronic Disease Management, Wound Care</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___De_Roza_Jacqueline_Giovanna_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">De Roza Jacqueline Giovanna</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Darren_Seah_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Darren Seah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Care of Older Adults, Primary Care Nursing</p>
+<p>Chronic Disease Management, Endocrinology, Metabolic Disorders</p>
 </td>
 </tr>
 <tr>
@@ -55,22 +56,52 @@ DM Foot care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Fong_Qi_Wei_v1224.pdf" rel="noopener nofollow" target="_blank">Fong Qi Wei</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Evonne_Oh_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Evonne Oh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Development, Evaluation and Implementation of Artificial Intelligence
-for Healthcare</p>
+<p>Clinical Predictors, Sustainability, Enhancing Healthcare Delivery, Digital
+Heath</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Julia_Zhu_v1224.pdf" rel="noopener nofollow" target="_blank">Julia Zhu</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Fong_Qi_Wei_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Fong Qi Wei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wound Care, Diabetic Foot/ Wound Care, Patient and Public Involvement
-Research, Self-care/management Intervention, Health Psychology</p>
+<p>Development, Evaluation and Implementation of AI for Healthcare</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Goh_Ling_Jia_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Goh Ling Jia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary healthcare, Healthcare delivery, Community-based nursing, Digital
+Health and AI Integration, Workflow automation in nursing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Jacqueline_Giovanna_De_Roza_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Jacqueline Giovanna De Roza</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chronic Disease Management, Care of Older Adults, Primary Care Nursing,
+Advanced Practise Nursing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Julia_Zhu_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Julia Zhu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wound Care and Diabetic Foot Wound Care, Patient and Public Involvement
+Research, Self-care/management Intervention, Health Psychology, behavioural
+medicine</p>
 </td>
 </tr>
 <tr>
@@ -84,35 +115,53 @@ Research, Self-care/management Intervention, Health Psychology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Ng_Xin_Rong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Ng Xin Rong</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cancer in Primary Care, Digital Health, Multimorbidity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Richard Low*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Application of AI in Primary Care, Medical Device UI design and integration,
-Vaccination</p>
+<p>AI and Augmented reality, Med Tech, Robotic Process Automation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Sabrina_Wong_v1224.pdf" rel="noopener nofollow" target="_blank">Sabrina Wong</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sabrina_Wong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sabrina Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Digital health/models of care, behavioural
-health</p>
+<p>Digital Health programs, Innovative models of care, Chronic Disease Management,
+Behavioural health, Frailty</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Shu_Yun_v1224.pdf" rel="noopener nofollow" target="_blank">Tan Shu Yun</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sim_Sai_Zhen_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sim Sai Zhen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Multimorbidity</p>
+<p>Multimorbidity, Frailty, Physical Activity, Intrinsic Capacity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/NHGP___Tang_Wern_Ee_v210817.pdf" rel="noopener noreferrer nofollow" target="_blank">Tang Wern Ee</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Shu_Yun_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tan Shu Yun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Care Transition, Chronic Disease Management and Multimorbidity, Healthcare
+Services Delivery, Digital Health, Digital Biomarkers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tang_Wern_Ee_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tang Wern Ee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
