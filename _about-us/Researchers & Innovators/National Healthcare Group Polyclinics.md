@@ -124,7 +124,8 @@ medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Richard Low*</p>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Richard_Low_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Richard Low</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AI and Augmented reality, Med Tech, Robotic Process Automation</p>
