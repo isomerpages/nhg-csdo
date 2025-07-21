@@ -27,7 +27,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Barnaby_Edward_Young_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Barnaby Edward Young</a>
+<p><a href="/files/Researcher Directory/NCID/Barnaby_Young_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Barnaby Young</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,7 +37,7 @@ Respiratory virus infections</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/chia_po_ying_v1224.pdf" rel="noopener nofollow" target="_blank">Chia Po Ying</a>
+<p><a href="/files/Researcher Directory/NCID/Chia_Po_Ying__NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Chia Po Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ Infectious Diseases, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/david_lye_v1224.pdf" rel="noopener nofollow" target="_blank">David Lye</a>
+<p><a href="/files/Researcher Directory/NCID/David_Lye_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">David Lye</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ Infectious Diseases, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/kalisvar_marimuthu_v1224.pdf" rel="noopener nofollow" target="_blank">Kalisvar Marimuthu</a>
+<p><a href="/files/Researcher Directory/NCID/Kalisavar_Marimuthu_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Kalisavar Marimuthu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ IPC implementation research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Leo_Yee_Sin_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Leo Yee Sin</a>
+<p><a href="/files/Researcher Directory/NCID/Leo_Yee_Sin_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Leo Yee Sin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/NCID___Mucheli_Sharavan_Sadasiv_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Mucheli Sharavan Sadasiv</a>
+<p><a href="/files/Researcher Directory/NCID/Mucheli_Sharavan_Sadasiv_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Mucheli Sharavan Sadasiv</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,8 +88,7 @@ Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/ng_oon_tek_v1224.pdf" rel="noopener nofollow" target="_blank">Ng Oon Tek</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Infectious Diseases, Antimicrobial Resistance, Emerging Infectious
@@ -98,7 +97,7 @@ Disease, HIV Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NCID/sapna_pradip__v1224.pdf" rel="noopener nofollow" target="_blank">Sapna Pradip Sadarangani</a>
+<p><a href="/files/Researcher Directory/NCID/Sapna_Pradip_NHG__edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sapna Pradip</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
