@@ -88,7 +88,8 @@ Management</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Researcher Directory/NCID/Ng_Oon_Tek_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Ng Oon Tek</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>General Infectious Diseases, Antimicrobial Resistance, Emerging Infectious
