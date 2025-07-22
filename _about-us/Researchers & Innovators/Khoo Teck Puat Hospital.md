@@ -45,12 +45,28 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chow Pek Yee*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Obesity, Renal Disease (Non- &amp; Dialysis), Frailty</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/YHC/YHC___Clement_Chia_Luck_Khng__v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Clement Chia Luck Khng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medtech and Healthcare Innovations in Breast Surgery, Breast cancer in
 older women, Frailty, Innovations in Patient and Medical education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deborah Ng Chieh Yih*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bariatric Surgery, AI, Upper GI Surgery</p>
 </td>
 </tr>
 <tr>
@@ -192,6 +208,16 @@ Other Hyperlipidemia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vaikunthan Rajaratnam*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peripheral Nerve Surgery &amp; Regeneration, Patient-Reported Outcome
+Measures (PROMs), Generative AI in Medical Education, AI-Driven Decision
+Support Systems, Digital Health &amp; Gerontological Optimisation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/YHC/Wei_Shan_v1224.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
 </p>
 </td>
@@ -210,7 +236,6 @@ Return-to-work coordination</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>* <sub>Profile is currently unavailable.</sub>
 </p>
 <p></p>
