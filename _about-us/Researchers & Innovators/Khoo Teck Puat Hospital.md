@@ -149,7 +149,7 @@ Metabolic changes associated with Bariatric Surgery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/YHC___Neelam_Kumari_Bhasksar_v1223.pdf" rel="noopener nofollow" target="_blank">Neelam Kumari Bhasksar</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Neelam_Kumari_Bhasksar_v1223.pdf" rel="noopener nofollow" target="_blank">Neelam Kumari Bhaskar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ Health Services Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/YHC___Serena_Low_Kiat_Mun_v0624.pdf" rel="noopener nofollow" target="_blank">Serena Low </a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Serena_Low_Kiat_Mun_v0624.pdf" rel="noopener nofollow" target="_blank">Serena Low</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
