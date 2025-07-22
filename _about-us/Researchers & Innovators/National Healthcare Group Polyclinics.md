@@ -143,6 +143,16 @@ Behavioural health, Frailty</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sharon_Chen_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sharon Chen</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leveraging Technology to improve patient journey and experience, Automation
+of processes to optimize manpower and high value work</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/NHG Polyclinics/Sim_Sai_Zhen_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sim Sai Zhen</a>
 </p>
 </td>
@@ -171,7 +181,16 @@ Services Delivery, Digital Health, Digital Biomarkers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Valerie_Teo_v1224.pdf" rel="noopener nofollow" target="_blank">Valerie Teo</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Yi_Rui_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tan Yi Rui</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI in healthcare, Minor Procedures</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Valerie_Teo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Valerie Teo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -181,7 +200,7 @@ Improving clinical efficiency</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Wendy_Ong_v1224.pdf" rel="noopener nofollow" target="_blank">Wendy Ong</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Wendy_Ong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Wendy Ong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
