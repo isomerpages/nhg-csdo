@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: NHG Clinician-Scientist Development Office (CSDO)
+agency_name: Clinician-Scientist Development Office (CSDO)
 contacts:
   - content:
       - phone: ""
