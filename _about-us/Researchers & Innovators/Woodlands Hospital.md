@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Researchers & Innovators
 ---
-<h4><strong>Researcher &amp; Innovator Directory - Woodlands Health (WH)</strong></h4>
+<h4><strong>Researcher &amp; Innovator Directory - Woodlands Hospital (WH)</strong></h4>
 <p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
 </p>
 <p></p>
