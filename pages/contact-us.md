@@ -8,6 +8,6 @@ contacts:
       - phone: ""
       - email: researchtraining@nhg.com.sg
       - other: ""
-    title: NHG Clinician-Scientist Development Office (CSDO)
+    title: Clinician-Scientist Development Office (CSDO)
 feedback: ""
 ---
