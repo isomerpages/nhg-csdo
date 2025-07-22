@@ -21,9 +21,18 @@ quality of life.&nbsp;</p>
 can also use the Search function found in the top-right corner of the page.
 The directory is non-exhaustive and will be updated regularly.</p>
 <p></p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/directory-hsor/" rel="noopener nofollow" target="_blank">Health Services &amp; Outcomes Research (HSOR)</a>
+</p>
+</li>
+<li>
 <p><a href="/directory-imh/" rel="noopener nofollow" target="_blank">Institute of Mental Health (IMH)</a>
+</p>
+</li>
+<li>
+<p><a href="/directory-ktph/" rel="noopener nofollow" target="_blank">Khoo Teck Puat Hospital (KTPH)</a>
 </p>
 </li>
 <li>
@@ -44,14 +53,6 @@ The directory is non-exhaustive and will be updated regularly.</p>
 </li>
 <li>
 <p><a href="/directory-wh/" rel="noopener nofollow" target="_blank">Woodlands Hospital (WH)</a>
-</p>
-</li>
-<li>
-<p><a href="/directory-ktph/" rel="noopener nofollow" target="_blank">Khoo Teck Puat Hospital (KTPH)</a>
-</p>
-</li>
-<li>
-<p><a href="/directory-hsor/" rel="noopener nofollow" target="_blank">Health Services &amp; Outcomes Research (HSOR)</a>
 </p>
 </li>
 </ul>
