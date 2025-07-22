@@ -27,7 +27,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/NSC___Etienne_Wang_Cho_Ee_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Etienne Wang Cho Ee</a>
+<p><a href="/files/Researcher Directory/NSC/Etienne_Wang_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Etienne Wang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ Skin inflammatory disorders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/Tey_Hong_Liang_v1224.pdf" rel="noopener nofollow" target="_blank">Tey Hong Liang</a>
+<p><a href="/files/Researcher Directory/NSC/Tey_Hong_Liang_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tey Hong Liang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ Formulations &amp; Delivery (esp. Dissolving Microneedles)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/NSC___Yew_Yik_Weng_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Yew Yik Weng</a>
+<p><a href="/files/Researcher Directory/NSC/Yew_Yik_Weng_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Yew Yik Weng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
