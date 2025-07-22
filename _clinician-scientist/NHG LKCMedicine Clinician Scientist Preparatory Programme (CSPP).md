@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG-LKCMedicine Clinician Scientist Preparatory Programme (CSPP)</strong> is
-a joint programme between the <strong>National Healthcare Group (NHG)</strong> and
+<p>The <strong>NHG Health-LKCMedicine Clinician Scientist Preparatory Programme (CSPP)</strong> is
+a joint programme between <strong>NHG Health</strong> and
 the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
 aims to provide clinicians with an exposure to research in the early phase
 of their career through research training and project experience.</p>
@@ -31,13 +31,13 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>a)<strong> Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
-enrolled in the NHG Residency Programme; or with primary appointments as
-Associate Consultants at NHG institutions.
+enrolled in the NHG Health Residency Programme; or with primary appointments as
+Associate Consultants at NHG Health institutions.
 <br>OR
 <br>b) <strong>Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
-in clinical practice, with primary appointments at NHG institutions and
+(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
+in clinical practice, with primary appointments at NHG Health institutions and
 at least 3 years of clinical or relevant experience. Others may contact
 the Secretariat for discussion on suitability of the programme. Applicants
 should have at least a Bachelors (Hons)/Masters with an Upper Second, preferably
@@ -62,7 +62,7 @@ for discussion on suitability of the Programme prior to applying.</p>
 <summary><strong>Mentorship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each applicant is required to nominate a mentor from NHG and a mentor
+<p>Each applicant is required to nominate a mentor from NHG Health and a mentor
 from LKCMedicine (subject to approval by the review committee) to guide
 them in their research project. They should approach and discuss the details
 of the project with their nominated mentors.</p>
@@ -92,7 +92,7 @@ in identifying appropriate mentor(s).</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
-the CSPP Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
+the CSPP Secretariat at NHG Health Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p>The Institution’s CRU / CRIO will set internal deadlines for the submissions
 and ensure that the respective documents reach the CSPP Secretariat by
 the stipulated deadline. Please check with your institutions for these
@@ -139,7 +139,7 @@ will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Information Sheet - FY2025</strong>
+<summary><strong>NHG Health-LKCMedicine CSPP Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -152,14 +152,14 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Application Package - FY2025</strong>
+<summary><strong>NHG Health-LKCMedicine CSPP Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package consists of the following documents:
 <br>1. Information Sheet
 <br>2. Application Form
 <br>3. Application Checklist (for reference only)
-<br>4. NHG Funding Guidelines (CSPP)</p>
+<br>4. CSPP Funding Guidelines</p>
 <p>Download the latest <a href="https://for.sg/cspp-application" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
 <p></p>
 </div>
@@ -167,7 +167,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSPP Forms &amp; Templates Package</strong>
+<summary><strong>NHG Health-LKCMedicine CSPP Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Forms &amp; Templates zip folder consists of the following documents:
@@ -177,7 +177,7 @@ Change of Scope
 <br>3. CSPP Final Report Template
 <br>4. Annex for CSPP Interim &amp; Final Report Template (Research Outcomes
 Tracking)
-<br>5. NHG Research Funding Guidelines – CSPP
+<br>5. CSPP Funding Guidelines
 <br>6. CSPP Acknowledgement for Supplementary Readings</p>
 <p>Download the latest <a href="https://for.sg/cspp-forms-templates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
 <p></p>
@@ -191,14 +191,14 @@ Tracking)
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p><strong>Ms Caslyn Chen</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research and Innovation
+<br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3630
 <br>Email: <a href="mailto:caslyn_yx_chen@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">caslyn_yx_chen@nhg.com.sg</a>
 </p>
 <p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research and Innovation
+<br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3634
 <br>Email: <a href="mailto:Syarafina_HASAN@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina_hasan@nhg.com.sg</a>
 </p>
