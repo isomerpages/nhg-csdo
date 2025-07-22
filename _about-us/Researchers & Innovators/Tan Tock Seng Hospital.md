@@ -451,7 +451,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Xiu Ying*</p>
+<p>Tan Xiu Ling*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuro-Ophthalmology; Low Vision Rehabilitation; Medical technology and
