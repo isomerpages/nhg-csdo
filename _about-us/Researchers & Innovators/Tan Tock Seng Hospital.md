@@ -130,6 +130,14 @@ Intelligence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chew Hui Sing*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENT, AI applications for Voice, MedTech Innovation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/Chin_Lay_Fong_v1224.pdf" rel="noopener nofollow" target="_blank">Chin Lay Fong</a>
 </p>
 </td>
@@ -154,6 +162,14 @@ Stimulation</p>
 <td rowspan="1" colspan="1">
 <p>Neurodebilitating disease, Parkinson disease, Technology innovation for
 education, Food innovation and R&amp;D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chok See San*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dysphagia, Adult communication disorders, Artificial intelligence</p>
 </td>
 </tr>
 <tr>
@@ -351,6 +367,15 @@ Care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ong Chin Ee*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technology Solutions in Palliative Care, Multi-disciplinary Collaborations
+in Palliative Care</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/TTSH___Ong_Poo_Lee_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Poo Lee</a>
 </p>
 </td>
@@ -441,6 +466,15 @@ Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tee Lee Huan*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vestibular Rehabilitation, Innovation to improve therapeutic effectiveness
+and adherence</p>
 </td>
 </tr>
 <tr>
