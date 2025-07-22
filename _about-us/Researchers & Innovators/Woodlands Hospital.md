@@ -63,7 +63,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Er_Chaozer_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Er Chaozer </a>
+<p><a href="/files/Researcher Directory/WH/Er_Chaozer_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Er Chaozer</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo </a>
+<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,6 +115,16 @@ and Iliac Vein Pathology, Open and Endovascular Renal Dialysis Access&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Palliative Care in Advanced Cirrhosis, Health Services Delivery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nasen Jonathan Zhang*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artificial intelligence in acute medicine, Augmented reality in hospital
+medicine, AI-assisted medical documentation, Video-based machine learning
+for clinical prediction, AI enhancement of physician cognition</p>
 </td>
 </tr>
 <tr>
