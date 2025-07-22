@@ -113,6 +113,15 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/KTPH/KTPH_Lai_Mun_Wai.pdf" rel="noopener nofollow" target="_blank">Lai Mun Wai</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vestibular rehabilitation, Training in Vestibular rehabilitation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/YHC/YHC___Lim_Su_Chi_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Su Chi</a>
 </p>
 </td>
@@ -158,6 +167,16 @@ Health Services Research</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Type 2 Diabetes, Diabetic Kidney Disease, Sarcopenia, Cognitive Impairment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/KTPH/KTPH_Shiek_Abdullah_Bin_Ismail.pdf" rel="noopener nofollow" target="_blank">Shiek Abdullah Bin Ismail</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gait Biomechanics, Anterior Cruciate Ligament Deficiency, Neural networks
+in gait analysis, Gamification of Physiotherapy Training</p>
 </td>
 </tr>
 <tr>
