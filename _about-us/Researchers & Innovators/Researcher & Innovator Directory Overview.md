@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Researchers & Innovators
 ---
-<h4><strong>Connecting With NHG Health Researchers&nbsp;and Innovators</strong></h4>
+<h4><strong>Connecting with our Researchers&nbsp;and Innovators</strong></h4>
 <p>Research and innovation are key drivers of continuous improvement to the
 healthcare ecosystem. In line with NHG Health’s vision of adding years
 of healthy life, partnerships between clinical researchers, innovators&nbsp;and
