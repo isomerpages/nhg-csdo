@@ -106,15 +106,6 @@ medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Lee_Eng_Sing_v1224.pdf" rel="noopener nofollow" target="_blank">Lee Eng Sing</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Multi-morbidity, Epidemiology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/NHG Polyclinics/Ng_Xin_Rong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Ng Xin Rong</a>
 </p>
 </td>
