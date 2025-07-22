@@ -44,7 +44,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Bryan_Tan_Yijia_v1224.pdf" rel="noopener nofollow" target="_blank">Bryan Tan</a>
+<p><a href="/files/Researcher Directory/WH/Bryan_Tan_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Bryan Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Caroline_Hoong_Wei_Shan_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Caroline Hoong Wei Shan</a>
+<p><a href="/files/Researcher Directory/WH/Caroline_Hoong_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Caroline Hoong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +63,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Er_Chaozer_v1224.pdf" rel="noopener nofollow" target="_blank">Er Chaozer</a>
+<p><a href="/files/Researcher Directory/WH/Er_Chaozer_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Er Chaozer </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_v0624.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo</a>
+<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,22 +91,21 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Joseph_Lo_ZhiWen_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Joseph Lo ZhiWen</a>
+<p><a href="/files/Researcher Directory/WH/Joseph_Lo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Joseph Lo Zhiwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diabetic Limb Salvage, Wound Care, Artificial Intelligence in Healthcare,
-Chronic Venous Insufficiency and Iliac Vein Pathology, Open and Endovascular
-Renal Dialysis Access&nbsp;</p>
+<p>Diabetic Limb Salvage, Wound Care, AI in Healthcare, Chronic Venous Insufficiency
+and Iliac Vein Pathology, Open and Endovascular Renal Dialysis Access&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Lim_Wei_Yi_Louis_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Wei Yi Louis</a>
+<p><a href="/files/Researcher Directory/WH/Louis_Lim__NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Louis Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ocular/Retinal Imaging; Retinal diseases</p>
+<p>Ocular/Retinal Imaging, Retinal diseases</p>
 </td>
 </tr>
 <tr>
