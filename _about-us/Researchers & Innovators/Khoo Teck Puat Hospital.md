@@ -74,19 +74,23 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jolie Hwee*</p>
+<p><a href="/files/Researcher Directory/KTPH/Jolie_Hwee__NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Jolie Hwee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Plastic and Reconstructive Surgery, Breast Surgery, Wounds and Scars,
-Skin care</p>
+Skin care, Craniofacial Surgery</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joshua Decruz*</p>
+<p><a href="/files/Researcher Directory/KTPH/Joshua_Decruz_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Joshua Decruz</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medical imaging, Surgical navigation, Gait Analysis, Surgical robots</p>
+<p>Minimally invasive spine surgery, Endoscopic spine surgery, Spinal deformities
+and corrective techniques, neuromonitoring in spine surgery, Clinical Innovations
+in orthopaedic spine technologies</p>
 </td>
 </tr>
 <tr>
