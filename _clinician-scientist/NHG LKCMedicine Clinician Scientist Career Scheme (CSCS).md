@@ -5,8 +5,8 @@ variant: markdown
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG-LKCMedicine Clinician Scientist Career Scheme (CSCS)</strong> is
-a research manpower development programme jointly offered by the <strong>National Healthcare Group (NHG)</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
+<p>The <strong>NHG Health-LKCMedicine Clinician Scientist Career Scheme (CSCS)</strong> is
+a research manpower development programme jointly offered by the <strong>NHG Health</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
 <p>It aims to develop research capabilities of clinicians to transform patient
 care through competitive research and enable them to compete successfully
 for the<strong> </strong>National Medical Research Council (NMRC) Transition
@@ -23,7 +23,7 @@ the term of the award.</p>
 <li>
 <p>Salary support of up to 0.4FTE for up to 3 years, with an applicable annual
 salary cap by clinician’s clinical designation (Table 1).
-<br>a) NHG Host institution will need to top up the difference if the awardee’s
+<br>a) NHG Health Host institution will need to top up the difference if the awardee’s
 salary exceeds the applicable annual salary cap.
 <br>b) Salary support will cover the total annual compensation, inclusive
 of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
@@ -98,12 +98,12 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <li>
 <p>Applicants should be:
 <br>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
-with primary appointments of at least Associate Consultant at NHG institutions.
+with primary appointments of at least Associate Consultant at NHG Health institutions.
 <br>OR
 <br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="https://www.moh.gov.sg/hpp/allied-health-professionals/career-practices/CareerNPracticesDetails/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
-in clinical practice, with primary appointments at NHG institutions and
+(as listed on <a href="[Allied Health Professions | Health Professionals Portal](https://hpp.moh.gov.sg/career-practice/allied-health-professions)" rel="noopener nofollow" target="_blank">MOH's website</a>)
+in clinical practice, with primary appointments at NHG Health institutions and
 have at least 7 years of clinical or research experience. Clinical post-graduate
 qualification would be an advantage.</p>
 <p></p>
@@ -113,7 +113,7 @@ qualification would be an advantage.</p>
 <br>a) Has a research PhD
 <br>b) Has a good publication track record in peer-reviewed journals
 <br>c) The CSCS research project should be relevant to the research themes
-of NHG and LKCMedicine (eligible applicants who do not meet this criteria
+of NHG Health and LKCMedicine (eligible applicants who do not meet this criteria
 may contact the CSCS Secretariat for further discussion on suitability
 of the scheme)</p>
 <p></p>
@@ -161,7 +161,7 @@ CSCS award.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>Each applicant is required to nominate a mentor from NHG and a mentor
+<br>Each applicant is required to nominate a mentor from NHG Health and a mentor
 from LKCMedicine (subject to approval by the review committee) to guide
 them in their research career and project.</p>
 <p></p>
@@ -187,7 +187,7 @@ in identifying appropriate mentor(s) or refer to the <a href="https://www.ntu.ed
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
-the CSCS Secretariat at NHG Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU)/Clinical Research and Innovation Office (CRIO)</u>.</p>
+the CSCS Secretariat at NHG Health Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU)/Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p></p>
 <p>The Institution’s CRU/CRIO will set internal deadlines for the submission
 and ensure that the documents reach the CSCS secretariat by the stipulated
@@ -239,7 +239,7 @@ b) Applicant’s Curriculum Vitae (CV);
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Information Sheet - FY2025</strong>
+<summary><strong>NHG Health-LKCMedicine CSCS Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -254,7 +254,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Application Package - FY2025</strong>
+<summary><strong>NHG Health-LKCMedicine CSCS Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
@@ -262,7 +262,7 @@ proceeding to apply.</p>
 <br>2. Application Form
 <br>3. Budget Breakdown Form
 <br>4. Application Checklist (For reference only); and
-<br>5. NHG Research Funding Guidelines (For reference only).</p>
+<br>5. NHG Health Research Funding Guidelines (For reference only).</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cscsapplicationpackage" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
@@ -271,7 +271,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG-LKCMedicine CSCS Forms &amp; Templates</strong>
+<summary><strong>NHG Health-LKCMedicine CSCS Forms &amp; Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates zip folder consists of the following documents:
@@ -281,7 +281,7 @@ Change of Research Scope
 <br>3. CSCS Final Report Template
 <br>4. Annex for CSCS Interim &amp; Final Report Template
 <br>5. CSCS Research Protected Time Logsheet
-<br>6. NHG Research Funding Guidelines</p>
+<br>6. Research Funding Guidelines</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cscspostaward" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
@@ -295,14 +295,14 @@ Change of Research Scope
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research and Innovation
+<br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3632
 <br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a>
 </p>
 <p></p>
 <p><strong>Ms Adeline Chan</strong>
 <br>Clinician Scientist Development Office
-<br>NHG Group Research and Innovation
+<br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3631
 <br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
 </p>
