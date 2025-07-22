@@ -27,7 +27,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/KTPH___Allen_Liu_Yan_Lun_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Allen Liu Yan Lun</a>
+<p><a href="/files/Researcher Directory/KTPH/KTPH___Allen_Liu_Yan_Lun_v2210.pdf" rel="noopener nofollow" target="_blank">Allen Liu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/KTPH___Benjamin_Lam_Chih_Chiang_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Benjamin Lam Chih Chiang</a>
+<p><a href="/files/Researcher Directory/KTPH/KTPH___Benjamin_Lam_Chih_Chiang_v2210.pdf" rel="noopener nofollow" target="_blank">Benjamin Lam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Clement_Chia_Luck_Khng__v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Clement Chia Luck Khng</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Clement_Chia_Luck_Khng__v1223.pdf" rel="noopener nofollow" target="_blank">Clement Chia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +71,7 @@ older women, Frailty, Innovations in Patient and Medical education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Desmond_Mao_Renhao_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Desmond Mao Renhao</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Desmond_Mao_Renhao_v0624.pdf" rel="noopener nofollow" target="_blank">Desmond Mao Renhao</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Jeremy_Hoe_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Jeremy Hoe</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Jeremy_Hoe_v1223.pdf" rel="noopener nofollow" target="_blank">Jeremy Hoe</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -111,7 +111,7 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/KTPH___Justin_Tang_I_Shing_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Justin Tang I-Shing</a>
+<p><a href="/files/Researcher Directory/KTPH/KTPH___Justin_Tang_I_Shing_v2210.pdf" rel="noopener nofollow" target="_blank">Justin Tang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/KTPH___Lee_Siok_Ying_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Lee Siok Ying</a>
+<p><a href="/files/Researcher Directory/KTPH/KTPH___Lee_Siok_Ying_v2103.pdf" rel="noopener nofollow" target="_blank">Lee Siok Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Lim_Su_Chi_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Lim Su Chi</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Lim_Su_Chi_v1223.pdf" rel="noopener nofollow" target="_blank">Lim Su Chi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ Metabolic changes associated with Bariatric Surgery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Neelam_Kumari_Bhasksar_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Neelam Kumari Bhasksar</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Neelam_Kumari_Bhasksar_v1223.pdf" rel="noopener nofollow" target="_blank">Neelam Kumari Bhasksar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +159,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Ooi_Say_Tat_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ooi Say Tat</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Ooi_Say_Tat_v1223.pdf" rel="noopener nofollow" target="_blank">Ooi Say Tat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +168,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/KTPH___Philip_Yap_Lin_Kiat__v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Philip Yap Lin Kiat</a>
+<p><a href="/files/Researcher Directory/KTPH/KTPH___Philip_Yap_Lin_Kiat__v2210.pdf" rel="noopener nofollow" target="_blank">Philip Yap</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +178,7 @@ Health Services Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Serena_Low_Kiat_Mun_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Serena Low Kiat Mun</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Serena_Low_Kiat_Mun_v0624.pdf" rel="noopener nofollow" target="_blank">Serena Low </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ in gait analysis, Gamification of Physiotherapy Training</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/YHC___Subramaniam_Tavintharan_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Subramaniam Tavintharan</a>
+<p><a href="/files/Researcher Directory/KTPH/YHC___Subramaniam_Tavintharan_v0624.pdf" rel="noopener nofollow" target="_blank">Subramaniam Tavintharan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,7 +218,7 @@ Support Systems, Digital Health &amp; Gerontological Optimisation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/YHC/Wei_Shan_v1224.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
+<p><a href="/files/Researcher Directory/KTPH/Wei_Shan_v1224.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
