@@ -8,7 +8,7 @@ third_nav_title: Researchers & Innovators
 <h4><strong>Researcher &amp; Innovator Directory - National Centre for Infectious Diseases (NCID)</strong></h4>
 <p><sub>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sub>
 </p>
-<p><em>* By alphabetical order of surname and based on information last received</em>
+<p><em>* By alphabetical order and based on information last received</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
