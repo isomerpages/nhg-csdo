@@ -18,7 +18,7 @@ research results.</p>
 <p>Download the <a href="/files/Training/Agenda__Prognostic_Model_Course_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Prognostic Modelling Course here.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is to be updated.</p>
+<p>The next run of this course is is <strong>pending rescheduled date</strong>.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is <strong>currently closed</strong>.</p>
 <p></p>
