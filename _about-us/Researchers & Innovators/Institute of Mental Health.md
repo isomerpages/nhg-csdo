@@ -8,7 +8,8 @@ third_nav_title: Researchers & Innovators
 <h4><strong>Researcher &amp; Innovator Directory - Institute of Mental Health (IMH)</strong></h4>
 <p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
 </p>
-<p></p>
+<p><em>* By alphabetical order of surname and based on information last received</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -172,7 +173,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Mythily_Subramaniam_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Mythily Subramaniam </a>
+<p><a href="/files/Researcher Directory/IMH/Mythily_Subramaniam_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Mythily Subramaniam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
