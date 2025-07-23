@@ -14,7 +14,7 @@ and effective prevention, diagnosis and treatment of diseases while improving
 quality of life.&nbsp;</p>
 <p></p>
 <blockquote>
-<p><strong>To learn more about our people in research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below.</strong>
+<p><strong>To learn more about our research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below.</strong>
 </p>
 </blockquote>
 <p>Names are categorized by Institution and listed in alphabetical order.&nbsp;You
