@@ -111,7 +111,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <p>a)<strong> Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
 – Senior Residents enrolled in the NHG Health Residency Programme with indication
 of continuation with NHG Health or Associate Consultants or Consultants (no more
-than 5 years post-residency exit) with primary appointments at NHG institutions.
+than 5 years post-residency exit) with primary appointments at NHG Health institutions.
 <br>OR
 <br>b)<strong> Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
