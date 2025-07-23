@@ -7,6 +7,7 @@ third_nav_title: Registration Information
 ---
 <p>This is the current Research Training Calendar for FY2025</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/FY2025_NHG_Research_Training_Calendar.png">
 </div>
