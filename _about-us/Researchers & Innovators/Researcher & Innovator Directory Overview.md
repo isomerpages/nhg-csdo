@@ -17,9 +17,6 @@ quality of life.&nbsp;</p>
 <p><strong>To learn more about our research&nbsp;&amp; innovation and explore potential collaborations, please refer to the directory below.</strong>
 </p>
 </blockquote>
-<p>Names are categorized by Institution and listed in alphabetical order.&nbsp;You
-can also use the Search function found in the top-right corner of the page.
-The directory is non-exhaustive and will be updated regularly.</p>
 <p></p>
 <p></p>
 <ul data-tight="true" class="tight">
