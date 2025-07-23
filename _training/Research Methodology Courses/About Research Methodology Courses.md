@@ -11,11 +11,8 @@ and measure progress, and what indicates success.&nbsp;</p>
 or grant proposal to increase your chances in research and grant application.</p>
 <p></p>
 <h4><strong>Courses currently Open for Registration</strong></h4>
+<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p><a href="https://talentdev.gri.nhg.com.sg/prognostic-modelling/" rel="noopener nofollow" target="_blank">Prognostic Modelling (6 August 2025)</a>
-</p>
-</li>
 <li>
 <p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (28 August 2025)</a>
 </p>
