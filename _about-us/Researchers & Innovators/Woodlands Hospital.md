@@ -129,16 +129,6 @@ for clinical prediction, AI enhancement of physician cognition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Poh_Chee_Lien_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Poh Chee Lien</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Health Professions Education, Leadership, Community Nursing, Telehealth/Telemedicine,
-Gerontology, Mental Health Nursing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/WH/WHC___Raphael_Lee_Hsien_Xiong_v1223.pdf" rel="noopener nofollow" target="_blank">Raphael Lee</a>
 </p>
 </td>
