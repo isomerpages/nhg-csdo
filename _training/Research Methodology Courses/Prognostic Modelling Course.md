@@ -20,7 +20,8 @@ research results.</p>
 <h4><strong>Schedule</strong></h4>
 <p>The next run of this course is is <strong>pending rescheduled date</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently closed</strong>.</p>
+<p>Registration for this Course is <strong>open</strong>. Register for Prognostic
+Modelling course here.</p>
 <p></p>
 <p></p>
 <p></p>
