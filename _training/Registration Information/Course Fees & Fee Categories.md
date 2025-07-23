@@ -7,6 +7,7 @@ third_nav_title: Registration Information
 ---
 <h4><strong>Course Fees for FY2025</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Training/FY2025_Course_Fees.png">
 </div>
