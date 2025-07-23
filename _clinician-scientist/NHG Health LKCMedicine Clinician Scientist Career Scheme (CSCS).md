@@ -1,7 +1,7 @@
 ---
 title: NHG Health LKCMedicine Clinician Scientist Career Scheme (CSCS)
 permalink: /cscs/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -23,8 +23,8 @@ the term of the award.</p>
 <li>
 <p>Salary support of up to 0.4FTE for up to 3 years, with an applicable annual
 salary cap by clinician’s clinical designation (Table 1).
-<br>a) NHG Health Host institution will need to top up the difference if the awardee’s
-salary exceeds the applicable annual salary cap.
+<br>a) NHG Health Host institution will need to top up the difference if the
+awardee’s salary exceeds the applicable annual salary cap.
 <br>b) Salary support will cover the total annual compensation, inclusive
 of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </li>
@@ -98,14 +98,15 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <li>
 <p>Applicants should be:
 <br>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
-with primary appointments of at least Associate Consultant at NHG Health institutions.
+with primary appointments of at least Associate Consultant at NHG Health
+institutions.
 <br>OR
 <br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="[Allied Health Professions | Health Professionals Portal](https://hpp.moh.gov.sg/career-practice/allied-health-professions)" rel="noopener nofollow" target="_blank">MOH's website</a>)
-in clinical practice, with primary appointments at NHG Health institutions and
-have at least 7 years of clinical or research experience. Clinical post-graduate
-qualification would be an advantage.</p>
+(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
+in clinical practice, with primary appointments at NHG Health institutions
+and have at least 7 years of clinical or research experience. Clinical
+post-graduate qualification would be an advantage.</p>
 <p></p>
 </li>
 <li>
@@ -113,8 +114,8 @@ qualification would be an advantage.</p>
 <br>a) Has a research PhD
 <br>b) Has a good publication track record in peer-reviewed journals
 <br>c) The CSCS research project should be relevant to the research themes
-of NHG Health and LKCMedicine (eligible applicants who do not meet this criteria
-may contact the CSCS Secretariat for further discussion on suitability
+of NHG Health and LKCMedicine (eligible applicants who do not meet this
+criteria may contact the CSCS Secretariat for further discussion on suitability
 of the scheme)</p>
 <p></p>
 <p></p>
@@ -161,14 +162,14 @@ CSCS award.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>Each applicant is required to nominate a mentor from NHG Health and a mentor
-from LKCMedicine (subject to approval by the review committee) to guide
-them in their research career and project.</p>
+<br>Each applicant is required to nominate a mentor from NHG Health and a
+mentor from LKCMedicine (subject to approval by the review committee) to
+guide them in their research career and project.</p>
 <p></p>
 <p>The mentor should be an established clinician scientist or clinical scientist
 who:
 <br>a) Is involved in research with significant impact on clinical care;
-<br>b) Has had experience as Principal investigator (PI) in a relevant area
+<br>b) Has had experience as Principal Investigator (PI) in a relevant area
 of research;
 <br>c) Has strong foundation and knowledge in research methodology and conduct;
 <br>d) Has obtained intramural/extramural grant(s) during the past 5 years;
@@ -218,9 +219,9 @@ submitted after the call closing date and time will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline</strong><br>
-a) Application Form;<br>
-b) Applicant’s Curriculum Vitae (CV);
+<p><strong>Full Application Submission Deadline</strong>
+<br>a) Application Form;
+<br>b) Applicant’s Curriculum Vitae (CV);
 <br>c) Budget Breakdown Form;
 <br>d) Other Supporting Documents (e.g., Academic Transcripts etc.); and
 <br>e) CVs of Research Team Members and Mentors</p>
@@ -262,7 +263,7 @@ proceeding to apply.</p>
 <br>2. Application Form
 <br>3. Budget Breakdown Form
 <br>4. Application Checklist (For reference only); and
-<br>5. NHG Health Research Funding Guidelines (For reference only).</p>
+<br>5. Research Funding Guidelines (For reference only).</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cscsapplicationpackage" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
