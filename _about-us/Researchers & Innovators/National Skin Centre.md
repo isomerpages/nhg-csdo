@@ -8,7 +8,7 @@ third_nav_title: Researchers & Innovators
 <h4><strong>Researcher &amp; Innovator Directory - National Skin Centre (NSC)</strong></h4>
 <p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
 </p>
-<p><em>* By alphabetical order of surname and based on information last received</em>
+<p><em>* By alphabetical order and based on information last received</em>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
