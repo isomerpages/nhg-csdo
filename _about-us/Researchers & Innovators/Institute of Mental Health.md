@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Researchers & Innovators
 ---
 <h4><strong>Researcher &amp; Innovator Directory - Institute of Mental Health (IMH)</strong></h4>
-<p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page.</sup>
+<p><sup>Names are listed in alphabetical order. You can also use the Search function found in the top-right corner of the page. The directory is non-exhaustive.</sup>
 </p>
 <p><em>* By alphabetical order and based on information last received</em>
 </p>
