@@ -2,8 +2,8 @@ collections:
   clinician-innovator:
     output: true
     order:
+      - Our National Clinician Innovators.md
       - Clinician Innovator (CI) Talent Development Overview.md
       - NHG Health CMTi Clinician Innovator Preparatory Programme (CiPP).md
       - NHG Health CMTi Clinician Innovator Preparatory Programme Plus (CiPP
         Plus).md
-      - Our National Clinician Innovators.md
