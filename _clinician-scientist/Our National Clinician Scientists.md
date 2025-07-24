@@ -96,7 +96,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="14" colspan="1">
+<td rowspan="11" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-INV)</strong>
 </p>
@@ -142,22 +142,6 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A/Prof Lim Su Chi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KTPH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Ng Oon Tek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCID / TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A/Prof Rinkoo Dalan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,14 +170,6 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Tey Hong Liang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSC</p>
 </td>
 </tr>
 <tr>
