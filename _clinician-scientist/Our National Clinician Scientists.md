@@ -245,7 +245,7 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Joseph Lo</p>
+<p>Asst Prof Joseph Lo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WH</p>
@@ -253,5 +253,5 @@ Scientists).</p>
 </tr>
 </tbody>
 </table>
-<p>To source for potential research mentors, kindly refer to the ACSI mentor
+<p>To source for potential research mentors, kindly refer to the ACSI gmentor
 directory <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener nofollow" target="_blank">here</a>.</p>
