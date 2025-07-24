@@ -6,7 +6,6 @@ description: ""
 ---
 <p>Here are the Recipients of the National Talent Development Award (Clinician
 Scientists).</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
