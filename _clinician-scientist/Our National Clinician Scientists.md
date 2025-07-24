@@ -42,7 +42,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-SI)</strong>
 <br>
@@ -88,7 +88,15 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="1" colspan="1">
+<p>A/Prof Rupesh Agrawal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="14" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-INV)</strong>
 </p>
@@ -146,14 +154,6 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NCID / TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Rupesh Agrawal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TTSH</p>
 </td>
 </tr>
 <tr>
