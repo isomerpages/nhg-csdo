@@ -6,8 +6,9 @@ description: ""
 ---
 <h4><strong>Synopsis</strong></h4>
 <p>The Proper Conduct of Research (PCR) SOP are a set of guidelines developed
-by the NHG Group Research &amp; Innovation&nbsp;to provide detailed procedures
-on conducting research in accordance with applicable guidelines and regulations.
+by the NHG Health Group Research &amp; Innovation&nbsp;to provide detailed
+procedures on conducting research in accordance with applicable guidelines
+and regulations.
 <br>
 <br>The Proper Conduct of Research (PCR) courses seek to equip Clinical Research
 professionals with the knowledge and skills in the proper conduct of research.
