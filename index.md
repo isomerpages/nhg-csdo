@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: NHG Health Clinician-Scientist Development Office (CSDO)
+      title: Clinician-Scientist Development Office (CSDO)
       background: /images/Zoom2.jpg
       variant: center
       key_highlights:
