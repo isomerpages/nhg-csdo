@@ -6,7 +6,8 @@ description: ""
 ---
 <p>Here are the Recipients of the National Talent Development Award (Clinician
 Scientists).</p>
-<p></p>
+<p>To source for potential research mentors, kindly refer to the ACSI mentor
+directory <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener nofollow" target="_blank">here</a>.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
