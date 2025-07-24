@@ -37,7 +37,7 @@ quality of life.&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/directory-nhgp/" rel="noopener nofollow" target="_blank">National Healthcare Group Polyclinics (NHGP)</a>
+<p><a href="/directory-nhgp/" rel="noopener nofollow" target="_blank">NHG Polyclinics (NHGP)</a>
 </p>
 </li>
 <li>
