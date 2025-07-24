@@ -245,7 +245,7 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Prof Joseph Lo</p>
+<p>Dr Joseph Lo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WH</p>
