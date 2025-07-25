@@ -10,36 +10,6 @@ are organized.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Intellectual Property Seminar</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Ever wondered how the whole Intellectual Property (IP) system can benefit
-you?</p>
-<p>Apart from introducing the various concepts of IP, this seminar will also
-take an in-depth look into patents, commercialization and how it all fits
-in with your work in research and development.</p>
-<p>Major points from the things to look out for when conceptualizing your
-research all the way to IP strategizing, filing and being awarded the patent
-will be touched on.</p>
-<p>This course is suitable for those who are interested in and would like
-to learn more about the IP and commercialization process.</p>
-<p></p>
-<h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Agenda__IP_Management_Seminar_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for Intellectual Property Management Seminar here.</a>
-</p>
-<p></p>
-<h4><strong>Schedule</strong></h4>
-<p>The next run of this course is to be updated.</p>
-<p></p>
-<h4><strong>Registration</strong></h4>
-<p>Registration for this course is <strong>currently closed.</strong>
-</p>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Project Management for Clinical Research Professionals Workshop</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -53,7 +23,7 @@ and at minimum, aware of the necessary tools to manage trial sites and
 manage projects on time and within budget.</p>
 <p></p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Agenda__Project_Management_For_Clinical_Research_Professionals_v230621__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for Project Management For Clinical Research Professional here.</a>
+<p>Download the <a href="/files/Training/Agenda__Project_Management_For_Clinical_Research_Professionals__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for Project Management For Clinical Research Professional here.</a>
 </p>
 <p></p>
 <h4><strong>Schedule</strong></h4>
@@ -62,29 +32,6 @@ manage projects on time and within budget.</p>
 <p></p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this course is <strong>currently closed</strong>.</p>
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>MedTech Workshop</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Straddling the fields of conventional healthcare and engineering, MedTech
-innovations demand one to be critical in assessing needs, skilled in engaging
-the right selection of multi-disciplinary partners and ability to make
-collaborations work.</p>
-<p></p>
-<p>Apart from introducing the local and international MedTech landscape,
-this workshop will provide a hands-on experience in navigating through
-the innovation lifecycle, from needs finding to commercialization. Participants
-would also hear fellow NHG clinicians who are currently at the forefronts
-of innovations share about their experience and tips on how to obtain necessary
-resources in the cluster. This course is tailored for NHG clinicians and
-staff who are keen on translating innovative ideas into implementable solutions.</p>
-<p></p>
-<p>Course Registration will open nearer to course start date.</p>
 <p></p>
 </div>
 </details>

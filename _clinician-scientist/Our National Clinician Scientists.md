@@ -6,7 +6,6 @@ description: ""
 ---
 <p>Here are the Recipients of the National Talent Development Award (Clinician
 Scientists).</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,7 +42,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-SI)</strong>
 <br>
@@ -89,7 +88,15 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="15" colspan="1">
+<td rowspan="1" colspan="1">
+<p>A/Prof Rupesh Agrawal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-INV)</strong>
 </p>
@@ -135,30 +142,6 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A/Prof Lim Su Chi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>KTPH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Ng Oon Tek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NCID / TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Rupesh Agrawal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A/Prof Rinkoo Dalan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -187,14 +170,6 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Tey Hong Liang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NSC</p>
 </td>
 </tr>
 <tr>
@@ -253,4 +228,5 @@ Scientists).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To source for potential research mentors, kindly refer to the ACSI mentor
+directory <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener nofollow" target="_blank">here</a>.</p>

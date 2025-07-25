@@ -1,13 +1,13 @@
 ---
 layout: homepage
-title: NHG Clinician-Scientist Development Office (CSDO)
-description: A National Healthcare Group (NHG) site built with Isomer
+title: Clinician Scientist Development Office (CSDO)
+description: An NHG Health site built with Isomer
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: NHG Clinician-Scientist Development Office (CSDO)
+      title: Clinician-Scientist Development Office (CSDO)
       background: /images/Zoom2.jpg
       variant: center
       key_highlights:

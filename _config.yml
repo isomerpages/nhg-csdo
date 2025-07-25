@@ -1,4 +1,4 @@
-title: NHG Clinician-Scientist Development Office (CSDO)
+title: Clinician Scientist Development Office (CSDO)
 url: https://talentdev.gri.nhg.com.sg
 favicon: /images/Logo/NHG_Favicon.jpg
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#7ab5b2"
     - title: media-color-five
       color: "#5d4ca4"
-description: A National Healthcare Group (NHG) site built with Isomer
+description: An NHG Health site built with Isomer
 permalink: none
 baseurl: ""
 exclude:

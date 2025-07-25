@@ -81,8 +81,8 @@ a minimum passing score of 75%.</p>
 <p></p>
 <h4><strong>eLEARN Support</strong></h4>
 <p>If you have registered for the GCP Online Course and are experiencing
-issues with logging in to the NHG eLEARN platform or require any assistance,
-please contact the NHG eLEARN Helpdesk at:</p>
+issues with logging in to the NHG Health eLEARN platform or require any
+assistance, please contact the NHG Health eLEARN Helpdesk at:</p>
 <p>Email: <a href="mailto:Lmssupport@wizlearn.com" rel="noopener noreferrer nofollow" target="_blank">Lmssupport@wizlearn.com</a> 
 <br>Tel: (+65) 3129 2592
 <br>Operating hours: 7am - 7pm (Monday to Friday); 7am - 2pm (Saturday), Excluding
