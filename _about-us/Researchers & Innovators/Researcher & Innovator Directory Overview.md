@@ -18,7 +18,6 @@ quality of life.&nbsp;</p>
 </p>
 </blockquote>
 <p></p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/directory-hsor/" rel="noopener nofollow" target="_blank">Health Services &amp; Outcomes Research (HSOR)</a>
