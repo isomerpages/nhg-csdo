@@ -248,11 +248,11 @@ Change of Project Scope
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3631
-<br>Email: <a href="mailto:adeline.mx.chan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline.mx.chan@nhghealth.com.sg</a> 
+<br>Email: <a href="mailto:adeline.mx.chan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline.mx.chan@nhghealth.com.sg</a>
 </p>
 <p><strong>Ms Valerie Yeo</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a> 
+<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a>
 </p>
