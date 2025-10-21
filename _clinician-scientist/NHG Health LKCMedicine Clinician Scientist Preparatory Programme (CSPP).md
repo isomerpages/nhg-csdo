@@ -1,13 +1,12 @@
 ---
 title: NHG Health LKCMedicine Clinician Scientist Preparatory Programme (CSPP)
 permalink: /cspp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
 <p>The <strong>NHG Health-LKCMedicine Clinician Scientist Preparatory Programme (CSPP)</strong> is
-a joint programme between <strong>NHG Health</strong> and
-the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
+a joint programme between <strong>NHG Health</strong> and the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
 aims to provide clinicians with an exposure to research in the early phase
 of their career through research training and project experience.</p>
 <p>Awardees will be offered access to LKCMedicine’s library resources during
@@ -31,14 +30,14 @@ CSPP, as well as the plans to complete the programme within Residency.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>a)<strong> Doctors</strong> (i.e. clinically qualified with MD/MBBS/BDS)
-enrolled in the NHG Health Residency Programme; or with primary appointments as
-Associate Consultants at NHG Health institutions.
+enrolled in the NHG Health Residency Programme; or with primary appointments
+as Associate Consultants at NHG Health institutions.
 <br>OR
 <br>b) <strong>Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
 (as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
-in clinical practice, with primary appointments at NHG Health institutions and
-at least 3 years of clinical or relevant experience. Others may contact
+in clinical practice, with primary appointments at NHG Health institutions
+and at least 3 years of clinical or relevant experience. Others may contact
 the Secretariat for discussion on suitability of the programme. Applicants
 should have at least a Bachelors (Hons)/Masters with an Upper Second, preferably
 First class honours degree in a relevant field. Experience as first or
@@ -62,21 +61,21 @@ for discussion on suitability of the Programme prior to applying.</p>
 <summary><strong>Mentorship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each applicant is required to nominate a mentor from NHG Health and a mentor
-from LKCMedicine (subject to approval by the review committee) to guide
-them in their research project. They should approach and discuss the details
-of the project with their nominated mentors.</p>
+<p>Each applicant is required to nominate a mentor from NHG Health and a
+mentor from LKCMedicine (subject to approval by the review committee) to
+guide them in their research project. They should approach and discuss
+the details of the project with their nominated mentors.</p>
 <p></p>
 <p>The Review Panel will approve the choice of mentors based on the following
 eligiblity requirements:</p>
 <p></p>
 <p>a) Is a clinician/ scientist; if scientist, additional requirement of
-a co-supervisor who is a clinician;<br>
-b) Has had experience as a Principal Investigator (PI) in a relevant area
-of research;<br>
-c) Has a strong foundation and knowledge in proper conduct of research;
-and<br>
-d) Has had experience in supervising or providing mentorship to junior
+a co-supervisor who is a clinician;
+<br>b) Has had experience as a Principal Investigator (PI) in a relevant area
+of research;
+<br>c) Has a strong foundation and knowledge in proper conduct of research;
+and
+<br>d) Has had experience in supervising or providing mentorship to junior
 investigators in their research work.</p>
 <p>Nominated mentor(s) are recommended, but not limited to be (1) NMRC TA
 / CSA past or current recipient, (2) Director of Research, (3) CSCS past
@@ -116,7 +115,7 @@ will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>15 Apr 2025 (Tue)</p>
+<p>28 Oct 2025 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -127,7 +126,7 @@ will not be considered.</p>
 <br>c) Mentors' CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -189,19 +188,19 @@ Tracking)
 <p>Download the list of <a href="https://for.sg/cspp-past-awardees" rel="noopener nofollow" target="_blank">past CSPP Awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
-<p><strong>Ms Caslyn Chen</strong>
-<br>Clinician Scientist Development Office
-<br>Group Research and Innovation, NHG Health
-<br>Tel: (65) 6038 3630
-<br>Email: <a href="mailto:caslyn_yx_chen@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">caslyn_yx_chen@nhg.com.sg</a>
-</p>
 <p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3634
-<br>Email: <a href="mailto:Syarafina_HASAN@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina_hasan@nhg.com.sg</a>
+<br>Email: <a href="mailto:Syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
 </p>
 <p></p>
+<p><strong>Ms Valerie Yeo</strong>
+<br>Clinician Scientist Development Office
+<br>Group Research and Innovation, NHG Health
+<br>Tel: (65) 6038 3628
+<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a>
+</p>
 <p></p>
 <p></p>
