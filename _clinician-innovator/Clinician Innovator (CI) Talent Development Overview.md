@@ -8,8 +8,8 @@ description: ""
 <p>The Clinician Innovator (CI) Development programmes empower aspiring CIs
 with relevant knowledge and skills tailored to their learning needs and
 varying experience in this field.</p>
-<p>The programmes are overseen by the NHG Health Centre for Medical Technologies
-&amp; Innovations (CMTi) and administered by the Clinician Scientist Development
+<p>The programmes are overseen by the NHG Health Centre for MedTech &amp;
+Innovations (CMTi) and administered by the Clinician Scientist Development
 Office (CSDO), Group Research and Innovation, NHG Health.</p>
 <h4><strong>Nurturing Innovation Talents</strong></h4>
 <div class="isomer-image-wrapper">
