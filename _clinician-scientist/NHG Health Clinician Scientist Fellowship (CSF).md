@@ -104,8 +104,7 @@ be required to submit additional documents indicating continuation in NHG
 Health.</p>
 <p></p>
 <p>All applicants should also fulfil the eligibility of the following:</p>
-<p>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
-and</p>
+<p>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>; and</p>
 <p>b) <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD by Research Programme</a>.</p>
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
