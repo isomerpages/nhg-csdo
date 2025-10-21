@@ -5,38 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>Jointly developed in 2013 by <strong>NHG Health</strong> and <strong>Nanyang Technological University’s Lee Kong Chian School of Medicine (NTU/LKCMedicine)</strong>,
-the <strong>NHG Health-LKCMedicine Clinician Scientist Fellowship (CSF)</strong> aims
-to nurture and develop Clinician Scientists with a <u>formal research training programme leading to PhD</u>.</p>
-<p>Successful students will be offered admission into the <strong>LKCMedicine PhD by Research Programme</strong>.
-For information on the programme, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
-<p></p>
-<h4><strong>Award Components</strong></h4>
+<p>The <strong>NHG Health Clinician Scientist Fellowship (CSF)</strong> aims
+to nurture and develop clinician scientists by supporting them with a <u>formal research training programme leading to PhD</u>.
+The CSF provides top-up funding to successful National Medical Research
+Council (NMRC) Research Training Fellowship (RTF) awards to ensure clinicians
+are adequately supported for the PhD.</p>
+<h4><strong>Funding Support</strong></h4>
+<p>Applicants are required to maximise the budget in their NMRC RTF applications
+to include necessary support such as tuition fees, salary support for research
+FTE committed to PhD, overseas conference, etc. The CSF provides <strong>top-up </strong>for
+the following fundable items after accounting for the support received
+under the NMRC RTF award.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Salary support</p>
+<p>Tuition fees, for up to 4 years</p>
 </li>
 </ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Research FTE will be provided by NHG Health and NTU/LKCMedicine for up
-to 3 years.</p>
-</li>
-<li>
-<p>Clinical FTE will be provided by NHG Health Host Institution.</p>
-</li>
-</ul>
-<ol start="2" data-tight="true" class="tight">
-<li>
 <p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
 PhD Scholarship.</p>
-<p></p>
-</li>
-<li>
-<p>Academic appointment opportunities with NTU/LKCMedicine after successful
-completion of PhD fellowship.</p>
-</li>
-</ol>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
