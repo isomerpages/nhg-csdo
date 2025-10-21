@@ -16,61 +16,138 @@ to include necessary support such as tuition fees, salary support for research
 FTE committed to PhD, overseas conference, etc. The CSF provides <strong>top-up </strong>for
 the following fundable items after accounting for the support received
 under the NMRC RTF award.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Tuition fees, for up to 4 years</p>
-</li>
-</ol>
-<p>Sponsorship of tuition fees for up to 4 years through the LKCMedicine
-PhD Scholarship.</p>
+<p>a) Tuition fees, for up to 4 years</p>
+<p>b) Salary support for research FTE, for up to 3 years</p>
+<p>• Clinical FTE will continue to be provided by NHG Health Host Institution.</p>
+<p>• Annual salary cap by awardee’s clinical designation will apply for NHG
+Health Group Office’s contribution (Table 1). NHG Health Host Institution
+will need to top-up the difference if the salary cap is exceeded.</p>
+<p>• Salary support will cover the total annual compensation, inclusive of
+salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Table 1: Annual Salary Cap by Clinical Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clinical Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Annual Salary Cap</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Consultant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$35,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Consultant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$250,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Associate Consultant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$200,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Resident</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$170,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Health Science / Healthcare Professional</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S$150,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Clinician Scientist Review Committee (CSRC) could recommend exceptional
+candidates for the prestigious <strong>NHG Health-LKCMedicine Academic Health System (AHS) Fellowship</strong> to
+be jointly supported by NHG Health and LKCMedicine. The AHS Fellowship
+could cover full tuition fees through the LKCMedicine PhD Scholarship,
+in addition to salary support for research FTE.</p>
+<p>Both the CSF and NMRC RTF do not provide project funding. Applicants are
+required to secure this component separately.</p>
 <h4><strong>Application</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Eligibility</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Applicants should be:
-<br>a)<strong> Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
-with primary appointments at NHG Health institutions; or are enrolled in
-their final year of the NHG Health Residency Programme with indication
-of continuation in NHG Health;
-<br>OR
-<br>b)<strong> Health science / healthcare professionals</strong> with non-medical
-degrees, such as nurses, pharmacists and other allied health professionals
-(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
-in clinical practice, with primary appointments at NHG institutions and
-at least 3 years of clinical or relevant experience. Others may contact
-the CSF Secretariat for discussion on suitability of the programme. Applicants
-should have at least an Upper Second, preferably First class honours degree
-in a relevant field. A master’s degree is not a pre-requisite but is considered
-advantageous.</p>
+<p>Applicants should hold a primary appointment at NHG Health institutions.
+Residents in their final year of the NHG Health Residency Programme will
+be required to submit additional documents indicating continuation in NHG
+Health.</p>
 <p></p>
-<p>All applicants should also fulfil the following criteria:
-<br>a) Have at least 2 years of research experience and well-equipped with
-knowledge of the fundamentals of clinical research;
-<br>b) Able to commit at least 0.5FTE to research during the course of study;
-<br>c) Must apply for <a href="https://www.nmrc.gov.sg/grants/talent-development/nmrc-rtf" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
-and
-<br>d) Must fulfil <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD admission requirements</a>.</p>
+<p>All applicants should also fulfil the eligibility of the following:</p>
+<p>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
+and</p>
+<p>b) <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD by Research Programme</a>.</p>
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
-research commitments during the CSF award period (if awarded) and continue
-to facilitate his/her career pathway as a clinician scientist beyond the
-CSF award.</p>
-<p></p>
-<p>Applicants interested to pursue a research PhD with any other local academic
-institutions (NUS, NTU, SUTD, Duke-NUS, SIT) may contact the CSF Secretariat
-for further discussion on suitability of the scheme.</p>
+research commitments during the course of PhD and continue to facilitate
+his/her career pathway as a clinician scientist beyond.</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Duration of LKCMedicine PhD by Research Programme</strong>
+<summary><strong>LKCMedicine PhD by Research Programme</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Students are expected to complete their PhD programme in 4 years. The
-PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
+<p>Emphasising innovation, collaboration and excellence, the LKCMedicine
+PhD by Research programme aims to cultivate the next generation of pioneering
+researchers and leaders in medical science, by providing a transformative
+educational experience where cutting-edge research and medical knowledge
+advance. For more information, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
+<p></p>
+<p>Students are expected to commit approximately 0.5FTE - 0.8FTE towards
+the PhD to complete the programme in 4 years. The PhD candidature is a
+minimum of 3 years and a maximum of 5 years.</p>
+<p>Applicant must nominate a main supervisor and up to two co-supervisors
+who fulfil the criteria below.</p>
+<p></p>
+<p><u>Main supervisor</u>
+</p>
+<p>• Main supervisor must hold a PhD;</p>
+<p>• Main supervisor must hold primary appointment as a faculty of LKCMedicine
+(Full / Associate / Assistant Professor); and</p>
+<p>• Main supervisor should possess a strong foundation and knowledge in
+research.</p>
+<p></p>
+<p><u>Co-supervisor</u>
+</p>
+<p>• A co-supervisor can be a faculty (full-time, joint, adjunct, visiting)
+from LKCMedicine, NTU or outside NTU.</p>
+<p>• A co-supervisor should possess a strong foundation and knowledge in
+research.</p>
+<p></p>
+<p>At least one supervisor (Main or Co-) should have PhD supervisory experience.</p>
+<p>Postdoctoral fellows do not qualify for appointment as co-supervisors.</p>
 </div>
 </details>
 </div>
@@ -80,9 +157,13 @@ PhD candidature is a minimum of 3 years and a maximum of 5 years.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Students are required to serve a bond of up to 5 years with their respective
-NHG Health Host Institution upon completion of the Fellowship. Bond duration
-will be commensurated with amount of salary support provided by the Fellowship. <s><br></s>
-<br>Please refer to NHG Health HR Policy (NHG-HR-H5 Training Bond &amp; Minimum
+NHG Host Institution upon completion of the PhD training. Bond duration
+will be commensurated with amount of salary support provided by CSF. For
+students receiving sponsorship from CSF and NMRC RTF for their PhD programme,
+the CSF institutional bond* will run concurrent to the NMRC RTF government
+bond upon completion of the PhD training.</p>
+<p></p>
+<p>*Please refer to NHG Health HR Policy (NHG-HR-H5 Training Bond &amp; Minimum
 Service Period (MSP)) for guidelines.</p>
 </div>
 </details>
