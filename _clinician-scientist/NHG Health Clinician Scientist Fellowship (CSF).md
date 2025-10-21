@@ -37,10 +37,12 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clinical Designation</p>
+<p><strong>Clinical Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Annual Salary Cap</p>
+<p><strong>Annual Salary Cap</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +50,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <p>Senior Consultant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$35,000</p>
+<p>S$350,000</p>
 </td>
 </tr>
 <tr>
