@@ -17,10 +17,13 @@ FTE committed to PhD, overseas conference, etc. The CSF provides <strong>top-up 
 the following fundable items after accounting for the support received
 under the NMRC RTF award.</p>
 <p>a) Tuition fees, for up to 4 years</p>
-b) Salary support for research FTE, for up to 3 years<p></p>
-• Clinical FTE will continue to be provided by NHG Health Host Institution.<p></p>
-• Annual salary cap by awardee’s clinical designation will apply for NHG Health Group Office’s contribution (Table 1). NHG Health Host Institution will need to top-up the difference if the salary cap is exceeded.<p></p>
-• Salary support will cover the total annual compensation, inclusive ofsalaries, CPF, fringe benefits, as well as bonus / incentive payments.<p></p>
+<p>b) Salary support for research FTE, for up to 3 years</p>
+<p>• Clinical FTE will continue to be provided by NHG Health Host Institution.</p>
+<p>• Annual salary cap by awardee’s clinical designation will apply for NHG
+Health Group Office’s contribution (Table 1). NHG Health Host Institution
+will need to top-up the difference if the salary cap is exceeded.</p>
+<p>• Salary support will cover the total annual compensation, inclusive ofsalaries,
+CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,7 +104,8 @@ be required to submit additional documents indicating continuation in NHG
 Health.</p>
 <p></p>
 <p>All applicants should also fulfil the eligibility of the following:</p>
-<p>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>; and</p>
+<p>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
+and</p>
 <p>b) <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD by Research Programme</a>.</p>
 <p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
@@ -128,7 +132,8 @@ minimum of 3 years and a maximum of 5 years.</p>
 who fulfil the criteria below.</p>
 <p></p>
 <p><u>Main supervisor</u>
-</p><p>• Main supervisor must hold a PhD;</p>
+</p>
+<p>• Main supervisor must hold a PhD;</p>
 <p>• Main supervisor must hold primary appointment as a faculty of LKCMedicine
 (Full / Associate / Assistant Professor); and</p>
 <p>• Main supervisor should possess a strong foundation and knowledge in
