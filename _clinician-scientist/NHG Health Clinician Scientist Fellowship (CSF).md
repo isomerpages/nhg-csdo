@@ -17,13 +17,13 @@ FTE committed to PhD, overseas conference, etc. The CSF provides <strong>top-up 
 the following fundable items after accounting for the support received
 under the NMRC RTF award.</p>
 <p>a) Tuition fees, for up to 4 years</p>
-<p>b) Salary support for research FTE, for up to 3 years</p>
-<p>• Clinical FTE will continue to be provided by NHG Health Host Institution.</p>
-<p>• Annual salary cap by awardee’s clinical designation will apply for NHG
+b) Salary support for research FTE, for up to 3 years<p></p>
+• Clinical FTE will continue to be provided by NHG Health Host Institution.<p></p>
+• Annual salary cap by awardee’s clinical designation will apply for NHG
 Health Group Office’s contribution (Table 1). NHG Health Host Institution
-will need to top-up the difference if the salary cap is exceeded.</p>
-<p>• Salary support will cover the total annual compensation, inclusive of
-salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
+will need to top-up the difference if the salary cap is exceeded.<p></p>
+• Salary support will cover the total annual compensation, inclusive of
+salaries, CPF, fringe benefits, as well as bonus / incentive payments.<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
