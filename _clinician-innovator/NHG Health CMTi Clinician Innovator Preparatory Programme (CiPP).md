@@ -165,7 +165,7 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Apr 2025 (Tue)</strong>
+<p><strong>28 Oct 2025 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -175,7 +175,6 @@ not be considered.</p>
 <br>a) Application Form
 <br>b) Applicant’s Curriculum Vitae (CV)
 <br>c) Mentor’s CV
-<br>(<em>applicable only if he/she is not from the CMTi Committee)</em>
 <br>d) Screenshot of completed e-learn module on Digital Health Applications
 (DHA) Clinic (<em>applicable only if project encompasses software/digital technology component)</em>;
 and
@@ -184,7 +183,7 @@ and
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>09 Dec 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -197,7 +196,7 @@ and
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health CMTi CiPP Information Sheet - FY2025</strong>
+<summary><strong>CiPP Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -205,13 +204,13 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippinfosheet25" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health CMTi CiPP Application Package - FY2025</strong>
+<summary><strong>CiPP Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Application Package consists of the following documents:
@@ -220,42 +219,40 @@ proceeding to apply.</p>
 <br>3) Application Checklist (for reference only)
 <br>4) Funding Guidelines (for reference only)</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippappapr25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippappoct25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health CMTi CiPP Forms &amp; Templates</strong>
+<summary><strong>CiPP Forms &amp; Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Forms &amp; Templates zip folder consists of the following documents:
-<br>1) CiPP Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
+<br>1) Variation Forms - Budget Variation, Unbudgeted Item, Time Extension,
 Change of Project Scope
-<br>2) CiPP Interim Report Template
-<br>3) CiPP Final Report Template
-<br>4) Annex for CiPP Interim &amp; Final Report Template (Research &amp;
-Innovation Outcomes Tracking)
-<br>5) CiPP Funding Guidelines</p>
+<br>2) Interim Report Template
+<br>3) Final Report Template
+<br>4) Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippforms" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippformsoct25" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates</a>.</p>
 </div>
 </details>
 </div>
 <h4><strong>Past CiPP Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/cippawardees" rel="noopener nofollow" target="_blank">past CiPP awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/cippawards" rel="noopener nofollow" target="_blank">past CiPP awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CiPP Secretariat:</p>
 <p><strong>Ms Adeline Chan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3631
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline_mx_chan@nhg.com.sg</a>
+<br>Email: <a href="mailto:adeline.mx.chan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">adeline.mx.chan@nhghealth.com.sg</a> 
 </p>
 <p><strong>Ms Valerie Yeo</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:valerie_mh_yeo@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie_mh_yeo@nhg.com.sg</a>
+<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a> 
 </p>
