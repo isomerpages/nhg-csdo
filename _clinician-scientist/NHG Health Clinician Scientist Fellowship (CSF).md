@@ -22,8 +22,8 @@ under the NMRC RTF award.</p>
 <p>• Annual salary cap by awardee’s clinical designation will apply for NHG
 Health Group Office’s contribution (Table 1). NHG Health Host Institution
 will need to top-up the difference if the salary cap is exceeded.</p>
-<p>• Salary support will cover the total annual compensation, inclusive ofsalaries,
-CPF, fringe benefits, as well as bonus / incentive payments.</p>
+<p>• Salary support will cover the total annual compensation, inclusive of
+salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
