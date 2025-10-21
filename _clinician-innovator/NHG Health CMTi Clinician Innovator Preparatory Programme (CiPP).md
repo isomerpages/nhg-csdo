@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
-<p>The <strong>NHG Health Centre for Medical Technologies &amp; Innovations (CMTi) Clinician Innovator Preparatory Programme (CiPP)</strong> aims
+<p>The <strong>NHG Health Centre for MedTech &amp; Innovations (CMTi) Clinician Innovator Preparatory Programme (CiPP)</strong> aims
 to introduce clinicians to the foundational skills and knowledge required
 for health technology (HealthTech) innovation through innovation training
 and project experience, as well as to foster a healthy innovation culture
@@ -13,9 +13,8 @@ in NHG Health.</p>
 <p>Awardees will be offered access to LKCMedicine's library resources during
 the term of the award.</p>
 <h4><strong>Award Components</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Pics/CiPP_Components.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Pics/CiPP_Components_v202509.png">
 </div>
 <p>Awardees are required to complete the programme within <strong>2 years</strong>.</p>
 <h4><strong>Application</strong></h4>
@@ -104,26 +103,33 @@ to the coaching session for a more fruitful discussion.</p>
 <summary><strong>Mentorship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each applicant is required to nominate a mentor who is an institution
-representative on the CMTi Committee (refer to Information Sheet). The
-CiPP Secretariat may help to facilitate the matching of appropriate mentor
-if required.</p>
-<p></p>
-<p>Each applicant will receive mentorship in the following areas:
+<p>Each applicant is required to nominate a mentor from NHG Health for mentorship
+in the following areas:
 <br>a) Guidance in their clinician innovator career development
 <br>b) Advice on their innovation project
 <br>c) Navigation to appropriate innovation resources
 <br>d) Engagement in institution or NHG Health cluster level innovation activities
 and initiatives.</p>
 <p></p>
-<p>Applicants may propose other qualified NHG Health mentor(s) that is not
-part of the CMTi Committee, with justifications and, subject to approval.</p>
+<p>The mentor should be an established clinician innovator who:</p>
+<p>a) Is involved in innovation with significant impact on clinical care;</p>
+<p>b) Has had experience in a relevant area of innovation;</p>
+<p>c) Has strong foundation and knowledge in HealthTech innovation;</p>
+<p>d) Has had experience in supervising or providing innovation mentorship.</p>
+<p></p>
+<p>Applicants may also nominate additional mentor(s) including subject matter
+experts from industry where relevant.</p>
 <p></p>
 <p>During the award, awardees will be granted access to the subject matter
 experts on an adhoc basis in area(s) of their own interest. Proposed topic
 areas may include venture building, medical technology development cycle,
 medical device regulatory affairs, intellectual property, etc. This will
 be subsequently facilitated by CMTi.</p>
+<p></p>
+<p>Applicants may contact the CiPP Secretariat to help facilitate matching
+of appropriate mentor if required or refer to the <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener nofollow" target="_blank">Academy of Clinician Scientists and Innovators (ACSI) mentors' directory</a> and
+NHG Health CMTi Committee Members’ listing (available in CiPP Information
+Sheet).</p>
 </div>
 </details>
 </div>
