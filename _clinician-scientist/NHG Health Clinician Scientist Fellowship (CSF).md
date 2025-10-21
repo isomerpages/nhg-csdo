@@ -131,8 +131,7 @@ minimum of 3 years and a maximum of 5 years.</p>
 who fulfil the criteria below.</p>
 <p></p>
 <p><u>Main supervisor</u>
-</p>
-<p>• Main supervisor must hold a PhD;</p>
+</p><p>• Main supervisor must hold a PhD;</p>
 <p>• Main supervisor must hold primary appointment as a faculty of LKCMedicine
 (Full / Associate / Assistant Professor); and</p>
 <p>• Main supervisor should possess a strong foundation and knowledge in
