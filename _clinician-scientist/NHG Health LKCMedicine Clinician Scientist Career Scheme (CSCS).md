@@ -54,14 +54,6 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Consultant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$300,000</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Consultant</p>
 </td>
 <td rowspan="1" colspan="1">
