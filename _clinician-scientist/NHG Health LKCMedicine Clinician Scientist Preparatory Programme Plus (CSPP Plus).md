@@ -2,13 +2,12 @@
 title: NHG Health LKCMedicine Clinician Scientist Preparatory Programme Plus
   (CSPP Plus)
 permalink: /cspp-plus/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
 <p>The <strong>NHG Health-LKCMedicine Clinician Scientist Preparatory Programme Plus (CSPP+)</strong> is
-a joint programme between <strong>NHG Health</strong> and
-the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
+a joint programme between <strong>NHG Health</strong> and the <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong> that
 aims to prepare clinicians to embark on formal research training leading
 to PhD in the early phase of their research careers.</p>
 <p>The programme would also help them to build up their research experience
@@ -28,12 +27,12 @@ award:</p>
 up to 1 year</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Up to 0.2FTE<strong>*</strong> will be provided by NHG Health Group Research &amp;
-Innovation</p>
+<p>Up to 0.2FTE<strong>*</strong> will be provided by NHG Health Group Research
+&amp; Innovation</p>
 </li>
 <li>
-<p>Additional top-up of at least 0.1FTE will be provided by the NHG Health Host
-Institution</p>
+<p>Additional top-up of at least 0.1FTE will be provided by the NHG Health
+Host Institution</p>
 </li>
 <li>
 <p>Salary support will cover the total annual compensation, inclusive of
@@ -109,15 +108,16 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>a)<strong> Doctors</strong> (i.e., clinically qualified with MD/MBBS/BDS)
-– Senior Residents enrolled in the NHG Health Residency Programme with indication
-of continuation with NHG Health or Associate Consultants or Consultants (no more
-than 5 years post-residency exit) with primary appointments at NHG Health institutions.
+– Senior Residents enrolled in the NHG Health Residency Programme with
+indication of continuation with NHG Health or Associate Consultants or
+Consultants (no more than 5 years post-residency exit) with primary appointments
+at NHG Health institutions.
 <br>OR
 <br>b)<strong> Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH’s website</a>)
-in clinical practice, with primary appointments at NHG Health institutions and
-at least 3 years of clinical or relevant experience. Others may contact
+(as listed on <a href="https://www.caretogobeyond.sg/ahp/about-allied-health/know-your-ahps" rel="noopener nofollow" target="_blank">this website</a>)
+in clinical practice, with primary appointments at NHG Health institutions
+and at least 3 years of clinical or relevant experience. Others may contact
 the CSPP Secretariat for discussion on suitability of the programme. Applicants
 should have attained at least Bachelors (Hons)/Masters with an Upper Second,
 preferably First class honours degree in a relevant field. Experience as
@@ -146,22 +146,20 @@ for discussion on suitability of the Programme prior to applying.</p>
 <summary><strong>Mentorship</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Each applicant is required to nominate a mentor from NHG Health and a mentor
-from LKCMedicine (subject to approval by the Review Panel) to guide them
-in their research project. They should approach and discuss the details
+<p>Each applicant is required to nominate a mentor from NHG Health and a
+mentor from LKCMedicine (subject to approval by the Review Panel) to guide
+them in their research project. They should approach and discuss the details
 of the project with their nominated mentors.</p>
 <p>The mentor should be an established clinician scientist or clinical scientist
 who:</p>
-<p>a) Is involved in research with significant impact on clinical care;<br>
-b) Has had experience as Principal investigator (PI) in a relevant
-area of research;<br>
-c) Has strong foundation and knowledge in research methodology and
-conduct;<br>
-d) Has obtained intramural/extramural grant(s) during the past 5
-years;<br>
-e) Has an established research track record; and<br>
-f) Has had experience in supervising or providing research
-mentorship to junior investigators or peers.</p>
+<p>a) Is involved in research with significant impact on clinical care;
+<br>b) Has had experience as Principal investigator (PI) in a relevant area
+of research;
+<br>c) Has strong foundation and knowledge in research methodology and conduct;
+<br>d) Has obtained intramural/extramural grant(s) during the past 5 years;
+<br>e) Has an established research track record; and
+<br>f) Has had experience in supervising or providing research mentorship
+to junior investigators or peers.</p>
 <p>Nominated mentors should be eligible to be PhD supervisor / co-supervisor
 and at least one mentor should be medically qualified.&nbsp;</p>
 <p></p>
@@ -199,7 +197,7 @@ will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>15 Apr 2025 (Tue)</p>
+<p>28 Oct 2025 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -213,7 +211,7 @@ will not be considered.</p>
 certifications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -276,14 +274,14 @@ Scope
 <p>Download the list of <a href="https://for.sg/cspp-plus-past-awardees" rel="noopener nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
-<p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
-<p><strong>Ms Caslyn Chen</strong>
+<p>For more information and further enquiries, please contact the CSPP Plus
+Secretariat:</p>
+<p><strong>Ms Nicole Yap</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
-<br>Tel: (65) 6038 3630
-<br>Email: <a href="mailto:caslyn_yx_chen@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>caslyn_yx_chen@nhg.com.sg</u></a>
+<br>Tel: (65) 6038 3632
+<br>Email: <a href="nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nicole.yx.yap@nhghealth.com.sg</a>
 </p>
-<p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
