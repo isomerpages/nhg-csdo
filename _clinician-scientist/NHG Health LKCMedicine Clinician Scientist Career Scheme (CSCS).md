@@ -245,7 +245,7 @@ submitted after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSCS Information Sheet - FY2025</strong>
+<summary><strong>CSCS Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -260,7 +260,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSCS Application Package - FY2025</strong>
+<summary><strong>CSCS Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
@@ -277,7 +277,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSCS Forms &amp; Templates</strong>
+<summary><strong>CSCS Forms &amp; Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates zip folder consists of the following documents:
