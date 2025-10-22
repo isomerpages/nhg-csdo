@@ -6,22 +6,22 @@ description: ""
 ---
 <h4><strong>Introduction</strong></h4>
 <p>The <strong>NHG Health-LKCMedicine Clinician Scientist Career Scheme (CSCS)</strong> is
-a research manpower development programme jointly offered by <strong>NHG Health</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
-<p>It aims to develop research capabilities of clinicians to transform patient
-care through competitive research and enable them to compete successfully
-for the<strong> </strong>National Medical Research Council (NMRC) Transition
-Award (TA)/Clinician Scientist Award (CSA) or equivalent within the next
-2-3 years and further build his/her research career.</p>
+a research talent development programme jointly offered by <strong>NHG Health</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
+<p>It aims to develop a clinicians's research capabilities to improve patient
+care through competitive research by supporting applicants for the National
+Medical Research Council (NMRC) Transition Award (TA) /Clinician Scientist
+Award (CSA) or equivalent within the next 2-3 years and further build his/her
+research career.</p>
 <p>Awardees will be offered access to LKCMedicine’s library resources during
 the term of the award.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Project funding quantum up to S$180,000, for up to 3 years; and</p>
+<p>Project funding quantum up to S$100,000, for up to 2 years; and</p>
 </li>
 <li>
-<p>Salary support of up to 0.4FTE for up to 3 years, with an applicable annual
+<p>Salary support of up to 0.4FTE for up to 2 years, with an applicable annual
 salary cap by clinician’s clinical designation (Table 1).
 <br>a) NHG Health Host institution will need to top up the difference if the
 awardee’s salary exceeds the applicable annual salary cap.
@@ -103,7 +103,7 @@ institutions.
 <br>OR
 <br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
+(as listed on <a href="https://www.caretogobeyond.sg/ahp/about-allied-health/know-your-ahps" rel="noopener nofollow" target="_blank">this website</a>)
 in clinical practice, with primary appointments at NHG Health institutions
 and have at least 7 years of clinical or research experience. Clinical
 post-graduate qualification would be an advantage.</p>
@@ -131,6 +131,11 @@ the CSCS award period.</p>
 end of their CSCS award period, applicants should take note of the latest
 eligibility criteria for the respective national talent development scheme
 and ensure that he/she is able to meet them.</p>
+<p></p>
+</li>
+<li>
+<p>Past CSCS awardees who were unsuccessful TA/CSA or equivalent may reapply
+to CSCS on exceptional basis.</p>
 <p></p>
 </li>
 <li>
@@ -213,7 +218,7 @@ submitted after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Apr 2025 (Tue)</strong>
+<p><strong>28 Oct 2025 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -227,7 +232,7 @@ submitted after the call closing date and time will not be considered.</p>
 <br>e) CVs of Research Team Members and Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
