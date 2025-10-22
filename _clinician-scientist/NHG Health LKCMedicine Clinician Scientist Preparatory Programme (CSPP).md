@@ -138,7 +138,7 @@ will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSPP Information Sheet - FY2025</strong>
+<summary><strong>CSPP Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -151,7 +151,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSPP Application Package - FY2025</strong>
+<summary><strong>CSPP Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package consists of the following documents:
@@ -166,7 +166,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSPP Forms &amp; Templates Package</strong>
+<summary><strong>CSPP Forms &amp; Templates Package</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Forms &amp; Templates zip folder consists of the following documents:
