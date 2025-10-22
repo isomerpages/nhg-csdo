@@ -90,7 +90,7 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <li>
 <p>Applicants should be:
 <br>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
-with primary appointments of at least Associate Consultant at NHG Health
+with primary appointments of Associate Consultant / Consultant at NHG Health
 institutions.
 <br>OR
 <br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
@@ -295,14 +295,14 @@ Change of Research Scope
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3632
-<br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a>
+<br>Email: <a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nicole.yx.yap@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p><strong>Ms Adeline Chan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3631
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
+<br>Email: <a href="mailto:adeline.mx.chan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">adeline.mx.chan@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
