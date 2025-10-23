@@ -245,7 +245,7 @@ scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsinfosheet" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsinformationsheet" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
@@ -262,7 +262,7 @@ proceeding to apply.</p>
 <br>4. Application Checklist (For reference only); and
 <br>5. Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsapplicationpackage" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsapplication-package" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -277,18 +277,17 @@ proceeding to apply.</p>
 Change of Research Scope
 <br>2. CSCS Interim Report Template
 <br>3. CSCS Final Report Template
-<br>4. Annex for CSCS Interim &amp; Final Report Template
-<br>5. CSCS Research Protected Time Logsheet
-<br>6. Research Funding Guidelines</p>
+<br>4. CSCS Research Protected Time Logsheet
+<br>5. Research Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscspostaward" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscspostawardforms" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/cscspastawardees" rel="noopener nofollow" target="_blank">past CSCS awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/pastcscsawardees" rel="noopener nofollow" target="_blank">past CSCS awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
