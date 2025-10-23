@@ -8,6 +8,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/CS_Poster__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/CI_Poster.png">
+</div>
 <p><strong>Application Process &amp; Contact Information&nbsp;</strong>
 </p>
 <p>For more information and enquiries, please visit the respective programme’s
