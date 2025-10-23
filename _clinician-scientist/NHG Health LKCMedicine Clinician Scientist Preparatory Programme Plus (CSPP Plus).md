@@ -232,7 +232,7 @@ certifications)</p>
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/csppplusinfosheet" rel="noopener nofollow" target="_blank">CSPP+ Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-plusinformationsheet" rel="noopener nofollow" target="_blank">CSPP+ Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
@@ -248,7 +248,8 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>3. Budget Breakdown Form
 <br>4. Application Checklist (for reference only)
 <br>5. CSPP+ Funding Guidelines</p>
-<p>Download the latest <a href="https://for.sg/csppplus-application" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
+<p></p>
+<p>Download the latest <a href="https://for.sg/cspp-plusapplicationpackage" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -262,16 +263,16 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>1. CSPP+ Variation Forms - Budget Variation, Unbudgeted Item, Change of
 Scope
 <br>2. CSPP+ Final Report Template
-<br>3. Annex for CSPP+ Final Report Template (Research Outcomes Tracking)
-<br>4. CSPP+ Funding Guidelines</p>
-<p>Download the <a href="https://for.sg/cspp-plus-forms-templates" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
+<br>3. CSPP+ Funding Guidelines</p>
+<p></p>
+<p>Download the <a href="https://for.sg/cspp-plusformsandtemplates" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSPP+ Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/cspp-plus-past-awardees" rel="noopener nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/cspp-pluspastawardees" rel="noopener nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the Secretariat:</p>
