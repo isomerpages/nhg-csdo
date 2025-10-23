@@ -280,7 +280,7 @@ Change of Research Scope
 <br>4. CSCS Research Protected Time Logsheet
 <br>5. Research Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscspostawardforms" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsformsandtemplates" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
 </div>
 </details>
