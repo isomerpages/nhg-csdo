@@ -107,4 +107,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>To source for potential research mentors, kindly refer to the ACSI mentor
+directory <a href="https://www.ntu.edu.sg/medicine/ACSI/mentorship" rel="noopener nofollow" target="_blank"><u>here</u></a>.</p>
