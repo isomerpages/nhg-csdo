@@ -32,7 +32,7 @@ Ms Nicole Yap (<strong><a rel="noopener noreferrer nofollow" target="_blank">Nic
 6038 3632)</p>
 </li>
 <li>
-<p><strong><a href="https://talentdev.gri.nhg.com.sg/cipp/" rel="noopener noreferrer nofollow" target="_blank">CiPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cipp-plus/" rel="noopener noreferrer nofollow" target="_blank">CiPP</a><a href="https://talentdev.gri.nhg.com.sg/cspp-plus/" rel="noopener noreferrer nofollow" target="_blank">+</a></strong> -
+<p><strong><a href="https://talentdev.gri.nhg.com.sg/cipp/" rel="noopener noreferrer nofollow" target="_blank">CiPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cipp-plus/" rel="noopener nofollow" target="_blank">CiPP+</a></strong> -
 Ms Adeline Chan (<strong><a rel="noopener noreferrer nofollow" target="_blank">Adeline.mx.chan@nhghealth.com.sg</a></strong> /
 6038 3631)</p>
 </li>
