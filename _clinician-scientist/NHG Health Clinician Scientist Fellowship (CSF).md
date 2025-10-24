@@ -23,7 +23,7 @@ under the NMRC RTF award.</p>
 Health Group Office’s contribution (Table 1). NHG Health Host Institution
 will need to top-up the difference if the salary cap is exceeded.
 <br>• Salary support will cover the total annual compensation, inclusive of
-salaries, CPF, fringe benefits, as well as bonus / incentive payments.<p></p>
+salaries, CPF, fringe benefits, as well as bonus / incentive payments.
 <table style="minWidth: 50px">
 <colgroup>
 <col>
