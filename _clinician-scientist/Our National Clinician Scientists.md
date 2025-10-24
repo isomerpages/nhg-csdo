@@ -189,30 +189,6 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Clinician Innovator Award (CIA-SI)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Eugene Fan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TTSH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Clinician Innovator Award (CIA-INV)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Violet Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TTSH</p>
-</td>
-</tr>
-<tr>
 <td rowspan="4" colspan="1">
 <p><strong>HPHSR Clinician </strong>
 <br><strong>Scientist Award</strong>
