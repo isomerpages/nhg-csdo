@@ -28,7 +28,22 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Clinician</strong>
+<br><strong>Innovator</strong>
+<br><strong>Award</strong>
+<br><strong>(CIA-SI)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Eugene Fan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7" colspan="1">
 <p><strong>Clinician</strong>
 <br><strong>Innovator</strong>
 <br><strong>Award</strong>
@@ -80,6 +95,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>NSC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Violet Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
 </td>
 </tr>
 </tbody>
