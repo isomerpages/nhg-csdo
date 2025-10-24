@@ -120,7 +120,7 @@ will not be considered.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Full Application Submission Deadline:</strong>
+<p><strong>Full Application Submission Deadline</strong>
 <br>a) Application Form;
 <br>b) Applicant's Curriculum Vitae (CV); and
 <br>c) Mentors' CVs.</p>
@@ -174,10 +174,8 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 Change of Scope
 <br>2. CSPP Interim Report Template
 <br>3. CSPP Final Report Template
-<br>4. Annex for CSPP Interim &amp; Final Report Template (Research Outcomes
-Tracking)
-<br>5. CSPP Funding Guidelines
-<br>6. CSPP Acknowledgement for Supplementary Readings</p>
+<br>4. CSPP Funding Guidelines
+<br>5. CSPP Acknowledgement for Supplementary Readings</p>
 <p>Download the latest <a href="https://for.sg/cspp-forms-templates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
 <p></p>
 </div>
