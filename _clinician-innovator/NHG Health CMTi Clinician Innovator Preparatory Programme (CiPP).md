@@ -1,7 +1,7 @@
 ---
 title: NHG Health CMTi Clinician Innovator Preparatory Programme (CiPP)
 permalink: /cipp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -31,31 +31,27 @@ with primary appointments at NHG Health institutions.
 degrees, such as nurses, pharmacists and other allied health professions
 with primary appointments at NHG Health institutions.</p>
 <p></p>
-<p>All applicants should also fulfil the following criteria:</p>
-<p>a) Demonstrate interest in HealthTech innovation and intention to develop
+<p>All applicants should also fulfil the following criteria:
+<br>a) Demonstrate interest in HealthTech innovation and intention to develop
 himself/herself as a Clinician Innovator (CI) but have little or no innovation
-experience;</p>
-<p>b) Able to commit time to complete the required courses under the CiPP
-training curriculum and project within the award period;</p>
-<p>c) Applicants are recommended to commit an estimated 0.1FTE to complete
+experience;
+<br>b) Able to commit time to complete the required courses under the CiPP
+training curriculum and project within the award period;
+<br>c) Applicants are recommended to commit an estimated 0.1FTE to complete
 their innovation project within the award period, with the approval from
 their Reporting Officer.</p>
 <p></p>
-<p>The proposed project:</p>
-<p>a) Must be a HealthTech product innovation project that aims to potentially
+<p>The proposed project:
+<br>a) Must be a HealthTech product innovation project that aims to potentially
 address unmet clinical needs relevant to a medical condition/ disease in
 healthcare
 <br><sup>Note: Scope of proposals pertaining to the development of new software (e.g. digital apps, artificial intelligence for diagnosis and/or intervention, etc.) shall be limited up to prototyping and pre-clinical testing (i.e. inclusion of clinical trials involving patient data is not allowed).</sup>
-</p>
-<p></p>
-<p>b) Must be a project with specific aims that can be achieved within the
-award quantum;</p>
-<p></p>
-<p>c) Should have a realistic timeline that ensures that applicable ethics
+<br>b) Must be a project with specific aims that can be achieved within the
+award quantum;
+<br>c) Should have a realistic timeline that ensures that applicable ethics
 approval(s), finalisation and execution of relevant agreements, and set
-deliverables can be completed within the award term;</p>
-<p></p>
-<p>d) Must specify the plans for obtaining follow-up grants for subsequent
+deliverables can be completed within the award term;
+<br>d) Must specify the plans for obtaining follow-up grants for subsequent
 Proof of Concept and/or Proof of Value.</p>
 <p></p>
 <p>Applicants are to ensure that the appropriate collaborator(s) essential
@@ -111,11 +107,11 @@ in the following areas:
 <br>d) Engagement in institution or NHG Health cluster level innovation activities
 and initiatives.</p>
 <p></p>
-<p>The mentor should be an established clinician innovator who:</p>
-<p>a) Is involved in innovation with significant impact on clinical care;</p>
-<p>b) Has had experience in a relevant area of innovation;</p>
-<p>c) Has strong foundation and knowledge in HealthTech innovation;</p>
-<p>d) Has had experience in supervising or providing innovation mentorship.</p>
+<p>The mentor should be an established clinician innovator who:
+<br>a) Is involved in innovation with significant impact on clinical care;
+<br>b) Has had experience in a relevant area of innovation;
+<br>c) Has strong foundation and knowledge in HealthTech innovation;
+<br>d) Has had experience in supervising or providing innovation mentorship.</p>
 <p></p>
 <p>Applicants may also nominate additional mentor(s) including subject matter
 experts from industry where relevant.</p>
