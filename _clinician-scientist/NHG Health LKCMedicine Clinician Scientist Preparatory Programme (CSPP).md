@@ -35,7 +35,7 @@ as Associate Consultants at NHG Health institutions.
 <br>OR
 <br>b) <strong>Health science / healthcare professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
+(as listed on <a href="https://www.caretogobeyond.sg/ahp/about-allied-health/know-your-ahps" rel="noopener nofollow" target="_blank">this website</a>)
 in clinical practice, with primary appointments at NHG Health institutions
 and at least 3 years of clinical or relevant experience. Others may contact
 the Secretariat for discussion on suitability of the programme. Applicants
