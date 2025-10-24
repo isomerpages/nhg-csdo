@@ -221,8 +221,8 @@ etc.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Each applicant is required to nominate a mentor from NHG Health for mentorship
-in the following areas:</p>
-<p>a) Guidance in their clinician innovator career development
+in the following areas
+<br>a) Guidance in their clinician innovator career development
 <br>b) Advice on their innovation project
 <br>c) Navigation to appropriate innovation resources
 <br>d) Engagement in institution or NHG cluster level innovation activities
