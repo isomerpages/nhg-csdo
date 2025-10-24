@@ -24,7 +24,7 @@ Health Group Office’s contribution (Table 1). NHG Health Host Institution
 will need to top-up the difference if the salary cap is exceeded.
 <br>• Salary support will cover the total annual compensation, inclusive of
 salaries, CPF, fringe benefits, as well as bonus / incentive payments.
-<table style="minWidth: 50px">
+<p><table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -87,7 +87,7 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.
 </tr>
 </tbody>
 </table>
-<p>The Clinician Scientist Review Committee (CSRC) could recommend exceptional
+</p><p>The Clinician Scientist Review Committee (CSRC) could recommend exceptional
 candidates for the prestigious <strong>NHG Health-LKCMedicine Academic Health System (AHS) Fellowship</strong> to
 be jointly supported by NHG Health and LKCMedicine. The AHS Fellowship
 could cover full tuition fees through the LKCMedicine PhD Scholarship,
