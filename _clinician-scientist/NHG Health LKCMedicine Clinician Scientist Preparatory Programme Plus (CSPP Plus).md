@@ -173,7 +173,7 @@ in identifying appropriate mentor(s) or refer to the <a href="https://www.ntu.ed
 <summary><strong>Application Period</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Applicants are required to submit all application documents (Table 1) <strong>in softcopy</strong> to
+<p>Applicants are required to submit all application documents (Table 2) <strong>in softcopy</strong> to
 the CSPP Secretariat at NHG Health Group Research and Innovation <u>through their Institution’s Clinical Research Unit (CRU) / Clinical Research and Innovation Office (CRIO)</u>.</p>
 <p>The Institution’s CRU / CRIO will set internal deadlines for the submissions
 and ensure that the respective documents reach the CSPP Secretariat by
@@ -285,7 +285,7 @@ Scope
 <p><strong>Ms Syarafina Hasan </strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
-<br>Tel: (65) 6038 3624
+<br>Tel: (65) 6038 3634
 <br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
 </p>
 <p></p>
