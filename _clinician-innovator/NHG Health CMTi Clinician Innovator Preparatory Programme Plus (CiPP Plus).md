@@ -1,7 +1,7 @@
 ---
 title: NHG Health CMTi Clinician Innovator Preparatory Programme Plus (CiPP Plus)
 permalink: /cipp-plus/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -225,15 +225,15 @@ in the following areas
 <br>a) Guidance in their clinician innovator career development
 <br>b) Advice on their innovation project
 <br>c) Navigation to appropriate innovation resources
-<br>d) Engagement in institution or NHG cluster level innovation activities
+<br>d) Engagement in institution or NHG Health cluster level innovation activities
 and initiatives.</p>
 <p></p>
 <p>The mentor should be an established clinician innovator who:
 <br>a) Is involved in innovation with significant impact on clinical care;
 <br>b) Has had experience in a relevant area of innovation;
 <br>c) Has strong foundation and knowledge in HealthTech innovation;
-<br>d) Has had experience in supervising or providing innovation mentorship.
-</p><p></p>
+<br>d) Has had experience in supervising or providing innovation mentorship.</p>
+<p></p>
 <p>Applicants may also nominate additional mentor(s) including subject matter
 experts from industry where relevant.</p>
 <p></p>
