@@ -125,7 +125,7 @@ first or co-author of research publications is preferred but not required.</p>
 <p>All applicants should also fulfil the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Have completed the <strong>NHG Health-LKCMedicine Clinician-Scientist Preparatory Programme (CSPP) with good outcomes</strong>;</p>
+<p>Have completed the <strong>NHG Health-LKCMedicine Clinician Scientist Preparatory Programme (CSPP) with good outcomes</strong>;</p>
 </li>
 <li>
 <p>Able to commit <strong>up to 0.3FTE</strong> to complete their research
