@@ -4,7 +4,8 @@ permalink: /ci-recipients/
 variant: tiptap
 description: ""
 ---
-<p>Here are the Recipients of the National Talent Development Award (Clinician-Innovators).</p>
+<p>Here are the Recipients of the National Talent Development Award (Clinician
+Innovators).</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
