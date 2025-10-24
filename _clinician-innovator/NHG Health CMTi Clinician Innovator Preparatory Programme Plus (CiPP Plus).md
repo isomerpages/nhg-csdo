@@ -228,12 +228,12 @@ in the following areas:</p>
 <br>d) Engagement in institution or NHG cluster level innovation activities
 and initiatives.</p>
 <p></p>
-<p>The mentor should be an established clinician innovator who:</p>
-<p>a) Is involved in innovation with significant impact on clinical care;</p>
-<p>b) Has had experience in a relevant area of innovation;</p>
-<p>c) Has strong foundation and knowledge in HealthTech innovation;</p>
-<p>d) Has had experience in supervising or providing innovation mentorship.</p>
-<p></p>
+<p>The mentor should be an established clinician innovator who:
+<br>a) Is involved in innovation with significant impact on clinical care;
+<br>b) Has had experience in a relevant area of innovation;
+<br>c) Has strong foundation and knowledge in HealthTech innovation;
+<br>d) Has had experience in supervising or providing innovation mentorship.
+</p><p></p>
 <p>Applicants may also nominate additional mentor(s) including subject matter
 experts from industry where relevant.</p>
 <p></p>
