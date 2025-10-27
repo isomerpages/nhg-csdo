@@ -1,5 +1,5 @@
 ---
-title: ACSI Evening at Woodlands Health Campus (20 Feb 2025)
+title: ACSI Evening at Woodlands Health
 permalink: /acsi-evening-at-woodlands-health-campus/
 date: 2025-01-02
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: ACSI Research Bootcamp (15 Apr 2025)
+title: ACSI Research Bootcamp
 permalink: /acsi-research-bootcamp/
 date: 2025-03-01
 layout: post

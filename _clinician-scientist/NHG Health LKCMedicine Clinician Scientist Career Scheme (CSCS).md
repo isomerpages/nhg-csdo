@@ -6,22 +6,22 @@ description: ""
 ---
 <h4><strong>Introduction</strong></h4>
 <p>The <strong>NHG Health-LKCMedicine Clinician Scientist Career Scheme (CSCS)</strong> is
-a research manpower development programme jointly offered by <strong>NHG Health</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
-<p>It aims to develop research capabilities of clinicians to transform patient
-care through competitive research and enable them to compete successfully
-for the<strong> </strong>National Medical Research Council (NMRC) Transition
-Award (TA)/Clinician Scientist Award (CSA) or equivalent within the next
-2-3 years and further build his/her research career.</p>
+a research talent development programme jointly offered by <strong>NHG Health</strong> and <strong>Lee Kong Chian School of Medicine (LKCMedicine)</strong>.</p>
+<p>It aims to develop a clinicians's research capabilities to improve patient
+care through competitive research by supporting applicants for the National
+Medical Research Council (NMRC) Transition Award (TA) /Clinician Scientist
+Award (CSA) or equivalent within the next 2-3 years and further build his/her
+research career.</p>
 <p>Awardees will be offered access to LKCMedicine’s library resources during
 the term of the award.</p>
 <p></p>
 <h4><strong>Award Components</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>Project funding quantum up to S$180,000, for up to 3 years; and</p>
+<p>Project funding quantum up to S$100,000, for up to 2 years; and</p>
 </li>
 <li>
-<p>Salary support of up to 0.4FTE for up to 3 years, with an applicable annual
+<p>Salary support of up to 0.4FTE for up to 2 years, with an applicable annual
 salary cap by clinician’s clinical designation (Table 1).
 <br>a) NHG Health Host institution will need to top up the difference if the
 awardee’s salary exceeds the applicable annual salary cap.
@@ -50,14 +50,6 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Annual Salary Cap</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Consultant</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S$300,000</p>
 </td>
 </tr>
 <tr>
@@ -98,12 +90,12 @@ of salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
 <li>
 <p>Applicants should be:
 <br>a)<strong> Doctors </strong>(i.e. clinically qualified with MBBS/MD/BDS)
-with primary appointments of at least Associate Consultant at NHG Health
+with primary appointments of Associate Consultant / Consultant at NHG Health
 institutions.
 <br>OR
 <br>b)<strong> Health Science/Healthcare Professionals</strong> with non-medical
 degrees, such as nurses, pharmacists and other allied health professions
-(as listed on <a href="https://hpp.moh.gov.sg/career-practice/allied-health-professions" rel="noopener nofollow" target="_blank">MOH's website</a>)
+(as listed on <a href="https://www.caretogobeyond.sg/ahp/about-allied-health/know-your-ahps" rel="noopener nofollow" target="_blank">this website</a>)
 in clinical practice, with primary appointments at NHG Health institutions
 and have at least 7 years of clinical or research experience. Clinical
 post-graduate qualification would be an advantage.</p>
@@ -131,6 +123,11 @@ the CSCS award period.</p>
 end of their CSCS award period, applicants should take note of the latest
 eligibility criteria for the respective national talent development scheme
 and ensure that he/she is able to meet them.</p>
+<p></p>
+</li>
+<li>
+<p>Past CSCS awardees who were unsuccessful TA/CSA or equivalent may reapply
+to CSCS on exceptional basis.</p>
 <p></p>
 </li>
 <li>
@@ -213,7 +210,7 @@ submitted after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 Apr 2025 (Tue)</strong>
+<p><strong>28 Oct 2025 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -227,7 +224,7 @@ submitted after the call closing date and time will not be considered.</p>
 <br>e) CVs of Research Team Members and Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 May 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -240,7 +237,7 @@ submitted after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSCS Information Sheet - FY2025</strong>
+<summary><strong>CSCS Information Sheet - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -248,14 +245,14 @@ scheme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsinfosheet" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsinformationsheet" rel="noopener nofollow" target="_blank">CSCS Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSCS Application Package - FY2025</strong>
+<summary><strong>CSCS Application Package - FY2025</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:
@@ -265,14 +262,14 @@ proceeding to apply.</p>
 <br>4. Application Checklist (For reference only); and
 <br>5. Research Funding Guidelines (For reference only).</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscsapplicationpackage" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsapplication-package" rel="noopener nofollow" target="_blank">CSCS Application Package</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>NHG Health-LKCMedicine CSCS Forms &amp; Templates</strong>
+<summary><strong>CSCS Forms &amp; Templates</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Forms &amp; Templates zip folder consists of the following documents:
@@ -280,32 +277,31 @@ proceeding to apply.</p>
 Change of Research Scope
 <br>2. CSCS Interim Report Template
 <br>3. CSCS Final Report Template
-<br>4. Annex for CSCS Interim &amp; Final Report Template
-<br>5. CSCS Research Protected Time Logsheet
-<br>6. Research Funding Guidelines</p>
+<br>4. CSCS Research Protected Time Logsheet
+<br>5. Research Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cscspostaward" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cscsformsandtemplates" rel="noopener nofollow" target="_blank">CSCS Forms &amp; Templates</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSCS Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/cscspastawardees" rel="noopener nofollow" target="_blank">past CSCS awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/pastcscsawardees" rel="noopener nofollow" target="_blank">past CSCS awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSCS Secretariat:</p>
 <p><strong>Ms Nicole Yap</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3632
-<br>Email: <a href="mailto:nicole_yx_yap@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank">nicole_yx_yap@nhg.com.sg</a>
+<br>Email: <a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nicole.yx.yap@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p><strong>Ms Adeline Chan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3631
-<br>Email: <a href="mailto:adeline_mx_chan@nhg.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>adeline_mx_chan@nhg.com.sg</u></a>
+<br>Email: <a href="mailto:adeline.mx.chan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">adeline.mx.chan@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
