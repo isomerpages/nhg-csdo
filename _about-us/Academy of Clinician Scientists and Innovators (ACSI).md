@@ -24,18 +24,8 @@ their development, ACSI is playing a key role in ensuring that Singapore
 remains at the forefront of medical research.</p>
 <p>Learn more about the<strong> </strong><a href="https://www.ntu.edu.sg/medicine/ACSI" rel="noopener nofollow" target="_blank">Academy of Clinician Scientists and Innovators (ACSI) here</a>.</p>
 <p>For any queries related to ACSI, please drop us an email at</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">lkc.nhg.ACSI@ntu.edu.sg</a>.</p>
-<p><strong><u>ACSI Mentor Onboarding Handbook (Preview)</u></strong>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lkc.nhg.ACSI@ntu.edu.sg</a>
 </p>
-<p>The ACSI Mentor Onboarding Handbook serves as comprehensive guide for
-newly appointed mentors in the ACSI. It outlines the Academy's mission,
-objectives and functions, key mentorship initiatives and activities to
-better engage our ACSI mentors.</p>
-<p>A copy of the handbook will be provided to our ACSI mentors. For the purpose
-of the 12 Aug mentor appreciation session, the handbook can be pre-viewed
-<a href="/files/Resources/1st_Edition___ACSI_mentor_onboarding_handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
-</p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
