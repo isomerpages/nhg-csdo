@@ -25,3 +25,7 @@ a partner that enhances clinical decision-making rather than replacing
 the irreplaceable human expertise of healthcare professionals.</p>
 <p>Through the workshop, we hope more collaborations and partnerships were
 fostered within the cluster to transform healthcare delivery!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
+</div>
+<p></p>
