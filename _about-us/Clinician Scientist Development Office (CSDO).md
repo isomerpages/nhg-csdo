@@ -35,7 +35,7 @@ resources, training and guidance from experts.</p>
 <summary><strong>Clinician Innovator (CI) Development</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Together with <strong>the Centre for Medical Technologies and Innovations (CMTi)</strong>,
+<p>Together with <strong>the Centre for MedTech and Innovations (CMTi)</strong>,
 CSDO administers and offers the Clinician Innovator (CI) Development Programmes
 comprising of foundational programmes designed to empower aspiring CIs
 with relevant knowledge and skills.</p>
