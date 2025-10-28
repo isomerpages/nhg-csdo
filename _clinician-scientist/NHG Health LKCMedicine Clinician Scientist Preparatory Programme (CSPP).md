@@ -15,6 +15,9 @@ the term of the award.</p>
 <h4><strong>Award Components</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_Award_Components.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_page_Award_Components.png">
 </div>
 <p>Awardees are required to complete the programme within <strong>2 years</strong>.</p>
