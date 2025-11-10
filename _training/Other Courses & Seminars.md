@@ -8,7 +8,7 @@ description: ""
 are organized.</p>
 <p>Do check our Course Calendar for the latest course and events listing.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Project Management for Clinical Research Professionals Workshop</strong>
 </summary>
@@ -33,6 +33,14 @@ manage projects on time and within budget.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this course is <strong>currently closed</strong>.</p>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Good Clinical Practice Online</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>As we no longer offer GCP Online, interested participants may consider
+<a href="https://about.citiprogram.org/course/good-clinical-practice-basic-ich/?h=ICH%20GCP" rel="noopener nofollow" target="_blank">GCP by Collaborative Institutional Training Initiative (CITI Program)</a>.</p>
 </div>
 </details>
 </div>
