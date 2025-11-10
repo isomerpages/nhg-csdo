@@ -15,10 +15,11 @@ analysis of prognostic studies, the construction and estimation of prediction
 rules, the various approaches to validation, and the generalization of
 research results.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Agenda__Prognostic_Model_Course_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Prognostic Modelling Course here.</a>
+<p>Download the <a href="/files/Training/Agenda_Prognostic_Model_Course_v2026_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Prognostic Modelling Course here</a>
+<a href="/files/Training/Agenda__Prognostic_Model_Course_NS.pdf" rel="noopener nofollow" target="_blank">.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is is <strong>pending rescheduled date</strong>.</p>
+<p>The next run of this course is on <strong>7 Jan 2026</strong>.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is <strong>open</strong>. <a href="https://form.gov.sg/67f7745ae01289775b37a93a" rel="noopener nofollow" target="_blank">Register for Prognostic Modelling course here.</a>
 </p>
