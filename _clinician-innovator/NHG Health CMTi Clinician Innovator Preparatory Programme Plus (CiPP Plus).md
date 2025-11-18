@@ -139,8 +139,8 @@ renewal is generally not allowable.</p>
 with primary appointments at NHG Health institutions;
 <br>OR
 <br>b)<strong> Health science / healthcare professionals</strong> with non-medical
-degrees, such as nurses, pharmacists and other allied health professions
-with primary appointments at NHG Health institutions.</p>
+degrees in clinical practice, such as nurses, pharmacists and other allied
+health professions with primary appointments at NHG Health institutions.</p>
 <p></p>
 </li>
 <li>
