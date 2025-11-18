@@ -28,8 +28,8 @@ the term of the award.</p>
 with primary appointments at NHG Health institutions.
 <br>OR
 <br>b)<strong> Health science / healthcare professionals</strong> with non-medical
-degrees, such as nurses, pharmacists and other allied health professions
-with primary appointments at NHG Health institutions.</p>
+degrees in clinical practice, such as nurses, pharmacists and other allied
+health professions with primary appointments at NHG Health institutions.</p>
 <p></p>
 <p>All applicants should also fulfil the following criteria:
 <br>a) Demonstrate interest in HealthTech innovation and intention to develop
