@@ -14,7 +14,7 @@ or grant proposal to increase your chances in research and grant application.</p
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (28 August 2025)</a>
+<p><a href="https://talentdev.gri.nhg.com.sg/prognostic-modelling/" rel="noopener nofollow" target="_blank">Prognostic Modelling (7 Jan 2026)</a>
 </p>
 </li>
 </ul>
