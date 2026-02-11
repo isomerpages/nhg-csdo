@@ -98,7 +98,7 @@ Advanced Practise Nursing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wound Care and Diabetic Foot Wound Care, Patient and Public Involvement
-Research, Self-care/management Intervention, Health Psychology, behavioural
+Research, Self-care/management Intervention, Health Psychology, Behavioural
 medicine</p>
 </td>
 </tr>
@@ -155,8 +155,8 @@ of processes to optimize manpower and high value work</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Care Transition, Chronic Disease Management and Multimorbidity, Healthcare
-Services Delivery, Digital Health, Digital Biomarkers</p>
+<p>Care Transition, Chronic Diseases and Multimorbidity, Healthcare Services
+Delivery, Digital Health, Digital Biomarkers</p>
 </td>
 </tr>
 <tr>
