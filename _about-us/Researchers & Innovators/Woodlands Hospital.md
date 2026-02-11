@@ -26,7 +26,8 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alexander Yap*</p>
+<p><a href="/files/Researcher Directory/WH/Alexander_Yap_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Alexander Yap</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced Visualisation; 3D Imaging; Additive Printing</p>
@@ -34,7 +35,16 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Benjamin_Ding_v1224.pdf" rel="noopener nofollow" target="_blank">Benjamin Ding</a>
+<p><a href="/files/Researcher Directory/WH/Alicia_Ang_Dec_25_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Alicia Ang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/WH/Benjamin_Ding__Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Benjamin Ding</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +53,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Bryan_Tan_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Bryan Tan</a>
+<p><a href="/files/Researcher Directory/WH/Bryan_Tan_Yijia__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Bryan Tan Yijia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +63,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Caroline_Hoong_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Caroline Hoong</a>
+<p><a href="/files/Researcher Directory/WH/Caroline_Hoong_Dec_25_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Caroline Hoong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +72,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Er_Chaozer_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Er Chaozer</a>
+<p><a href="/files/Researcher Directory/WH/Er_Chaozer__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Er Chaozer</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,7 +81,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Ernest_Kwek_v1224.pdf" rel="noopener nofollow" target="_blank">Ernest Kwek</a>
+<p><a href="/files/Researcher Directory/WH/Ernest_Kwek__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ernest Kwek</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,7 +90,7 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo</a>
+<p><a href="/files/Researcher Directory/WH/Gilbert_Yeo_Dec_25_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Gilbert Yeo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +100,7 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Joseph_Lo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Joseph Lo Zhiwen</a>
+<p><a href="/files/Researcher Directory/WH/Joseph_Lo_Zhiwen_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Joseph Lo Zhiwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +110,7 @@ and Iliac Vein Pathology, Open and Endovascular Renal Dialysis Access&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Louis_Lim__NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Louis Lim</a>
+<p><a href="/files/Researcher Directory/WH/Louis_Lim__Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Louis Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -109,16 +119,8 @@ and Iliac Vein Pathology, Open and Endovascular Renal Dialysis Access&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Nah_Chung_Yau_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Nah Chung Yau</a>
+<p><a href="/files/Researcher Directory/WH/N__Jonathan_Zhang_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">N. Jonathan Zhang</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Palliative Care in Advanced Cirrhosis, Health Services Delivery</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nasen Jonathan Zhang*</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Artificial intelligence in acute medicine, Augmented reality in hospital
@@ -128,7 +130,25 @@ for clinical prediction, AI enhancement of physician cognition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Raphael_Lee_Hsien_Xiong_v1223.pdf" rel="noopener nofollow" target="_blank">Raphael Lee</a>
+<p><a href="/files/Researcher Directory/WH/Nah_Chung_Yau_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Nah Chung Yau</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Palliative Care in Advanced Cirrhosis, Health Services Delivery</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/WH/Potturi_Upendranatha_Reddy__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Potturi Upendranatha Reddy</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/WH/Raphael_Lee_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Raphael Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +157,7 @@ for clinical prediction, AI enhancement of physician cognition</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Shum_Cheuk_Fan_v1224.pdf" rel="noopener nofollow" target="_blank">Shum Cheuk Fan</a>
+<p><a href="/files/Researcher Directory/WH/Shum_Cheuk_Fan_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Shum Cheuk Fan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +176,8 @@ Clinical Nutrition in Surgery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yang Su-Yin*</p>
+<p><a href="/files/Researcher Directory/WH/Yang_Su_Yin_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Yang Su-Yin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Psychology; Pain Management; Chronic Disease; Obesity &amp; Weight Management</p>
@@ -164,7 +185,7 @@ Clinical Nutrition in Surgery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Yong_Pay_Wen_v1224.pdf" rel="noopener nofollow" target="_blank">Yong Pay Wen</a>
+<p><a href="/files/Researcher Directory/WH/Yong_Pay_Wen_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Yong Pay Wen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
