@@ -43,7 +43,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Angela_Chow_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Angela Chow </a>
+<p><a href="/files/Researcher Directory/TTSH/Angela_Chow_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Angela Chow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Jeremy_Hu_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Jeremy Hu </a>
+<p><a href="/files/Researcher Directory/TTSH/Jeremy_Hu_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Jeremy Hu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,7 +249,7 @@ treatment, MedTech Innovations</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/John_Abisheganaden_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">John Abisheganaden </a>
+<p><a href="/files/Researcher Directory/TTSH/John_Abisheganaden_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">John Abisheganaden</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -260,7 +260,7 @@ AI &amp; Population Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Karen_Chua__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Karen Chua </a>
+<p><a href="/files/Researcher Directory/TTSH/Karen_Chua__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Karen Chua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,7 +348,7 @@ modelling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Michael_Yam_Gui_Jie_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Michael Yam </a>
+<p><a href="/files/Researcher Directory/TTSH/Michael_Yam_Gui_Jie_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Michael Yam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -358,7 +358,7 @@ Care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Ng_Tat_Ming__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ng Tat Ming </a>
+<p><a href="/files/Researcher Directory/TTSH/Ng_Tat_Ming__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ng Tat Ming</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
