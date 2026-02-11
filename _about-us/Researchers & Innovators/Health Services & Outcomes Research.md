@@ -31,7 +31,7 @@ third_nav_title: Researchers & Innovators
 </td>
 <td rowspan="1" colspan="1">
 <p>Healthcare Innovation, Health Economics, Diabetes and complications of
-diabetes, Use of large language models in healthcare, Workplace health</p>
+diabetes, Use of large language models in healthcare</p>
 </td>
 </tr>
 <tr>
