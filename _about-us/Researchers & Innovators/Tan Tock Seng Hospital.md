@@ -26,17 +26,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Ashton_Neoh_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Ashton Neoh Eng Chuan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rehabilitation, Orthopedic and Musculoskeletal, Digital Health Apps &amp;
-Telehealth, Innovation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Alvin_Tan_Wai_Kit_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Alvin Tan Wai Kit</a>
+<p><a href="/files/Researcher Directory/TTSH/Alvin_Tan_Wai_Kit__Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Alvin Tan Wai Kit</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,13 +43,23 @@ Telehealth, Innovation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Angela_Chow_Li_Ping_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Angela Chow Li Ping</a>
+<p><a href="/files/Researcher Directory/TTSH/Angela_Chow_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Angela Chow Li Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Antimicrobial resistance, Infection Prevention &amp; Control, Infectious
 disease surveillance and epidemiology, Socio-behavioural and Implementation
 Research</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/TTSH___Ashton_Neoh_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Ashton Neoh Eng Chuan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rehabilitation, Orthopedic andMusculoskeletal, Digital Health Apps &amp;
+Telehealth, Innovation</p>
 </td>
 </tr>
 <tr>
