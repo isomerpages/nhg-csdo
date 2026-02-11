@@ -30,7 +30,8 @@ third_nav_title: Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advanced Visualisation; 3D Imaging; Additive Printing</p>
+<p>Dual Enegrgy CT (Bone marrow Edema), Value Based Care in Radiology, DIXON
+MRI Imaging in MSK, 3D Advanced Visualisation, Mixed Reality, 3D printing</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,7 @@ third_nav_title: Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Diabetic Foot infections, Bone and Joint Infections, Diagnostic Stewardship</p>
 </td>
 </tr>
 <tr>
@@ -48,7 +49,8 @@ third_nav_title: Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Orthopaedic Surgery, Robotic Arthroplasty, Ambulatory Arthoplasty</p>
+<p>Orthopaedic Surgery, Hip and Knee Surgery, Robotic Arthroplasty, Ambulatory
+Arthoplasty</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +106,9 @@ Research</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Diabetic Limb Salvage, Wound Care, AI in Healthcare, Chronic Venous Insufficiency
-and Iliac Vein Pathology, Open and Endovascular Renal Dialysis Access&nbsp;</p>
+<p>Diabetic Limb Salvage and Wound Care, AI in Healthcare, Chronic Venous
+Insufficiency and Iliac Vein Pathology, Open and Endovascular Renal Dialysis
+Access&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -123,9 +126,8 @@ and Iliac Vein Pathology, Open and Endovascular Renal Dialysis Access&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artificial intelligence in acute medicine, Augmented reality in hospital
-medicine, AI-assisted medical documentation, Video-based machine learning
-for clinical prediction, AI enhancement of physician cognition</p>
+<p>Acute Medicine, Clinical Risk Prediction, Machine Learning/ AI, Electronic
+Health Records, Diagnostic Heuristics</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +145,9 @@ for clinical prediction, AI enhancement of physician cognition</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Stroke Rehabilitation, Community participation - evaluation and service
+development, Prevention of stroke and behavioural modifications, Technology
+in stroke rehabilitation, Ai in stroke rehabilitation</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +184,8 @@ Clinical Nutrition in Surgery</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychology; Pain Management; Chronic Disease; Obesity &amp; Weight Management</p>
+<p>Chronic Pain, Chronic Disease, Behavioural Health, Digital Health, Population
+Health and Health Promotion</p>
 </td>
 </tr>
 <tr>
