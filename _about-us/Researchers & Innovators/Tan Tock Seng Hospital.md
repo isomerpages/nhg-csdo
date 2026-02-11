@@ -26,7 +26,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Alvin_Tan_Wai_Kit__Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Alvin Tan Wai Kit</a>
+<p><a href="/files/Researcher Directory/TTSH/Alvin_Tan_Wai_Kit__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Alvin Tan Wai Kit</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Angela_Chow_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Angela Chow Li Ping</a>
+<p><a href="/files/Researcher Directory/TTSH/Angela_Chow_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Angela Chow </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Ashton_Neoh_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Ashton Neoh Eng Chuan</a>
+<p><a href="/files/Researcher Directory/TTSH/Ashton_Neoh_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ashton Neoh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +74,8 @@ in fields of eye gaze tracking and image processing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aung Myint Oo*</p>
+<p><a href="/files/Researcher Directory/TTSH/Aung_Myint_Oo__Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Aung Myint Oo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Minimally invasive surgery, Upper GI, Bariatric Surgery, Surgical innovations,
@@ -83,7 +84,8 @@ Medical informatics, Serious games, 3D printing, AI, EduTech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Ang*</p>
+<p><a href="/files/Researcher Directory/TTSH/Bryan_Ang_Chin_Hou_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Bryan Ang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Glaucoma Surgery, Minimally Invasive Glaucoma Surgery, Glaucoma Diagnostics,
@@ -92,7 +94,7 @@ Intraocular Pressure Monitoring</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Chan_Ee_Yuee_v1224.pdf" rel="noopener nofollow" target="_blank">Chan Ee Yuee</a>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Ee_Yuee_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Chan Ee Yuee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,7 +104,7 @@ Science, Population Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Chan_Lai_Gwen_v1224.pdf" rel="noopener nofollow" target="_blank">Chan Lai Gwen</a>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Lai_Gwen__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Chan Lai Gwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +114,8 @@ Neuropsychiatry of Parkinson’s Disease, Neuropsychiatry of HIV</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chan Yam Meng*</p>
+<p><a href="/files/Researcher Directory/TTSH/Chan_Yam_Meng__Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Chan Yam Meng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vascular conditions, Diabetic complications, Image recognition, Artificial
@@ -121,7 +124,8 @@ Intelligence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Kok Pun*</p>
+<p><a href="/files/Researcher Directory/TTSH/Chen_Kok_Pun_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Chen Kok Pun</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Medical devices, Gastroenterology, Liver, Endoscopy, Digital health, Sustainability</p>
@@ -129,7 +133,8 @@ Intelligence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chew Hui Sing*</p>
+<p><a href="/files/Researcher Directory/TTSH/Chew_Hui_Sing_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Chew Hui Sing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ENT, AI applications for Voice, MedTech Innovation</p>
@@ -137,7 +142,7 @@ Intelligence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Chin_Lay_Fong_v1224.pdf" rel="noopener nofollow" target="_blank">Chin Lay Fong</a>
+<p><a href="/files/Researcher Directory/TTSH/Chin_Lay_Fong_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Chin Lay Fong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +151,7 @@ Intelligence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Chloe_Chung_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Chloe Chung</a>
+<p><a href="/files/Researcher Directory/TTSH/Chloe_Chung_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Chloe Chung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,7 +161,8 @@ Stimulation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chng Pey Ling*</p>
+<p><a href="/files/Researcher Directory/TTSH/Chng_Pey_Ling_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Chng Pey Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurodebilitating disease, Parkinson disease, Technology innovation for
@@ -165,7 +171,8 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chok See San*</p>
+<p><a href="/files/Researcher Directory/TTSH/Chok_See_San_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Chok See San</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dysphagia, Adult communication disorders, Artificial intelligence</p>
@@ -173,7 +180,8 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Christopher Kuah*</p>
+<p><a href="/files/Researcher Directory/TTSH/Christopher_Kuah_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Christopher Kuah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neurorehabilitation, Upper limb robotics, Telerehabilitation</p>
@@ -181,7 +189,7 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Danson_Yeo_Xue_Wei_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Danson Yeo Xue Wei</a>
+<p><a href="/files/Researcher Directory/TTSH/Danson_Yeo_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Danson Yeo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,16 +198,7 @@ education, Food innovation and R&amp;D</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Delphine_Chen_Yu_Mei_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Delphine Chen Yu Mei</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rehabilitation Medicine, Chronic Disease Management, Telemedicine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Ding_Yew_Yoong_v2107.pdf" rel="noopener noreferrer nofollow" target="_blank">Ding Yew Yoong</a>
+<p><a href="/files/Researcher Directory/TTSH/Ding_Yew_Yoong_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ding Yew Yoong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,7 +208,7 @@ that Impacts Health Practice and Policy</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Fan_Bingwen_Eugene_v1224.pdf" rel="noopener nofollow" target="_blank">Eugene Fan</a>
+<p><a href="/files/Researcher Directory/TTSH/Fan_Bingwen_Eugene_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Eugene Fan Bingwen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,7 +218,7 @@ Thrombosis and Haemostasis, Sustainability in Healthcare, Art and Medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/George_Glass_v1224.pdf" rel="noopener nofollow" target="_blank">George Glass</a>
+<p><a href="/files/Researcher Directory/TTSH/George_Glass_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">George Glass</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +228,7 @@ Digitalization, Caregivers of Older persons</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Grace_Hoo_Si_Ru_v1224.pdf" rel="noopener nofollow" target="_blank">Grace Hoo</a>
+<p><a href="/files/Researcher Directory/TTSH/Grace_Hoo_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Grace Hoo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +239,7 @@ safety</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Jeremy_Hu_v1224.pdf" rel="noopener nofollow" target="_blank">Jeremy Hu</a>
+<p><a href="/files/Researcher Directory/TTSH/Jeremy_Hu_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Jeremy Hu </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,7 +249,7 @@ treatment, MedTech Innovations</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___John_Abisheganaden_Arputhan_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">John Abisheganaden Arputhan</a>
+<p><a href="/files/Researcher Directory/TTSH/John_Abisheganaden_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">John Abisheganaden </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +260,7 @@ AI &amp; Population Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Chua_Sui_Geok_Karen_v1224.pdf" rel="noopener nofollow" target="_blank">Karen Chua Sui Geok</a>
+<p><a href="/files/Researcher Directory/TTSH/Karen_Chua__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Karen Chua </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -272,7 +271,8 @@ Intelligence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kelvin Li*</p>
+<p><a href="/files/Researcher Directory/TTSH/Kelvin_Li_Zheng_Hao_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Kelvin Li</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Development and implementation of Artificial Intelligence in both medicine
@@ -281,7 +281,7 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Kong_Keng_He_v1224.pdf" rel="noopener nofollow" target="_blank">Kong Keng He</a>
+<p><a href="/files/Researcher Directory/TTSH/Kong_Keng_He_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Kong Keng He</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,7 +290,7 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Leong_Khai_Pang_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Leong Khai Pang</a>
+<p><a href="/files/Researcher Directory/TTSH/Leong_Khai_Pang_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Leong Khai Pang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -299,7 +299,8 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leong Kwong Ming*</p>
+<p><a href="/files/Researcher Directory/TTSH/Leong_Kwong_Ming_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Leong Kwong Ming</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Extended reality and medical devices for perioperative medicine, Chronic
@@ -308,7 +309,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Lee_Wee_Shiong_v1224.pdf" rel="noopener nofollow" target="_blank">Lim Wee Shiong</a>
+<p><a href="/files/Researcher Directory/TTSH/Lim_Wee_Shiong__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Lim Wee Shiong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,7 +319,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Loh_Yong_Joo_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Loh Yong Joo</a>
+<p><a href="/files/Researcher Directory/TTSH/Loh_Yong_Joo_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Loh Yong Joo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -327,7 +328,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Matthew_Tay_Rong_Jie_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Matthew Tay Rong Jie</a>
+<p><a href="/files/Researcher Directory/TTSH/Matthew_Tay_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Matthew Tay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,7 +338,7 @@ Cancer rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Melvin_Leow_v1224.pdf" rel="noopener nofollow" target="_blank">Melvin Leow</a>
+<p><a href="/files/Researcher Directory/TTSH/Melvin_Leow_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Melvin Leow</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -347,7 +348,7 @@ modelling</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Michael_Yam_Gui_Jie_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Michael Yam Gui Jie</a>
+<p><a href="/files/Researcher Directory/TTSH/Michael_Yam_Gui_Jie_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Michael Yam </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -357,7 +358,7 @@ Care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Ng_Tat_Ming_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ng Tat Ming</a>
+<p><a href="/files/Researcher Directory/TTSH/Ng_Tat_Ming__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ng Tat Ming </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -366,7 +367,8 @@ Care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Chin Ee*</p>
+<p><a href="/files/Researcher Directory/TTSH/Ong_Chin_Ee_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Chin Ee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Technology Solutions in Palliative Care, Multi-disciplinary Collaborations
@@ -375,7 +377,7 @@ in Palliative Care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Ong_Poo_Lee_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Poo Lee</a>
+<p><a href="/files/Researcher Directory/TTSH/Ong_Poo_Lee_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ong Poo Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,7 +396,7 @@ technology in rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Rupesh_Agrawal_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Rupesh Agrawal</a>
+<p><a href="/files/Researcher Directory/TTSH/Rupesh_Agrawal__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Rupesh Agrawal</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -414,7 +416,7 @@ Degeneration, Artificial Intelligence&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Sanjay_Chotirmall_v1224.pdf" rel="noopener nofollow" target="_blank">Sanjay Chotirmall</a>
+<p><a href="/files/Researcher Directory/TTSH/Sanjay_Chotirmall_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Sanjay Chotirmall</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,7 +425,8 @@ Degeneration, Artificial Intelligence&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Simon Tan*</p>
+<p><a href="/files/Researcher Directory/TTSH/Simon_Tan_Yong_Sheng_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Simon Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Extended reality and medical devices for perioperative medicine; Chronic
@@ -432,7 +435,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Tan_Cher_Heng_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Cher Heng</a>
+<p><a href="/files/Researcher Directory/TTSH/Tan_Cher_Heng_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tan Cher Heng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -441,7 +444,7 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Tan_Ern_Yu_v2202.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Ern Yu</a>
+<p><a href="/files/Researcher Directory/TTSH/Tan_Ern_Yu_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tan Ern Yu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,7 +453,8 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Xiu Ling*</p>
+<p><a href="/files/Researcher Directory/TTSH/Tan_Xiu_Ling_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Xiu Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Neuro-Ophthalmology; Low Vision Rehabilitation; Medical technology and
@@ -460,7 +464,7 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Tay_Hui_Lin_v1223.pdf" rel="noopener nofollow" target="_blank">Tay Hui Lin</a>
+<p><a href="/files/Researcher Directory/TTSH/Tay_Hui_Lin_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tay Hui Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -478,7 +482,8 @@ and adherence</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teo Wei Shan*</p>
+<p><a href="/files/Researcher Directory/TTSH/Teo_Wei_Shan_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Teo Wei Shan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adult Dysphagia; Communication and Dysphagia Rehabilitation in Head and
@@ -487,7 +492,7 @@ Neck Cancers; Modified food and beverage innovation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Timothy_Barkham_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Timothy Barkham</a>
+<p><a href="/files/Researcher Directory/TTSH/Timothy_Barkham_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Timothy Barkham</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -496,7 +501,7 @@ Neck Cancers; Modified food and beverage innovation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Trevor_Binedell_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Trevor Binedell</a>
+<p><a href="/files/Researcher Directory/TTSH/Trevor_Binedell_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Trevor Binedell</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -506,7 +511,8 @@ and Innovation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Violet Hoon*</p>
+<p><a href="/files/Researcher Directory/TTSH/Violet_Hoon_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Violet Hoon</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Heart failure, Cardiac rehabilitation, Preventive cardiology, Cardiac
@@ -515,7 +521,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/TTSH___Wee_Seng_Kwee_v2211.pdf" rel="noopener noreferrer nofollow" target="_blank">Wee Seng Kwee</a>
+<p><a href="/files/Researcher Directory/TTSH/Wee_Seng_Kwee_Dec_2025__NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Wee Seng Kwee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -525,7 +531,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Leong_Hui_Ling_Wendy_v1224.pdf" rel="noopener nofollow" target="_blank">Wendy Leong</a>
+<p><a href="/files/Researcher Directory/TTSH/Wendy_Leong_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Wendy Leong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -534,7 +540,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Yew_Kuo_Chao_v1224.pdf" rel="noopener nofollow" target="_blank">Yew Kuo Chao</a>
+<p><a href="/files/Researcher Directory/TTSH/Yew_Kuo_Chao_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Yew Kuo Chao</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -543,7 +549,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Yong_Enming_v1224.pdf" rel="noopener nofollow" target="_blank">Yong Enming</a>
+<p><a href="/files/Researcher Directory/TTSH/Yong_Enming_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Yong Enming</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -552,7 +558,7 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Zenne_Tng_v1224.pdf" rel="noopener nofollow" target="_blank">Zenne Tng</a>
+<p><a href="/files/Researcher Directory/TTSH/Zenne_Tng_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Zenne Tng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
