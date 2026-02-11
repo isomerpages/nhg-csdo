@@ -49,7 +49,7 @@ third_nav_title: Researchers & Innovators
 <td rowspan="1" colspan="1">
 <p>Antimicrobial resistance, Infection Prevention &amp; Control, Infectious
 disease surveillance and epidemiology, Socio-behavioural and Implementation
-Research</p>
+Research, Population health</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ Research</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rehabilitation, Orthopedic andMusculoskeletal, Digital Health Apps &amp;
+<p>Rehabilitation, Orthopedic and Musculoskeletal, Digital Health Apps &amp;
 Telehealth, Innovation</p>
 </td>
 </tr>
@@ -78,8 +78,9 @@ in fields of eye gaze tracking and image processing</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Minimally invasive surgery, Upper GI, Bariatric Surgery, Surgical innovations,
-Medical informatics, Serious games, 3D printing, AI, EduTech</p>
+<p>Minimally invasive surgery including robotic assisted surgeries (Upper
+GI - Benign, Malignant), Metabolic Bariatric Surgery, Hernia Surgery, Digital
+solutions including AI, Clinical informatics, MedTech and EduTech Solutions</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +100,7 @@ Intraocular Pressure Monitoring</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Caregiving and Aged Care, Health Activation, Digital Health, Implementation
-Science, Population Health</p>
+Science, Workforce transformation</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +129,8 @@ Intelligence</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medical devices, Gastroenterology, Liver, Endoscopy, Digital health, Sustainability</p>
+<p>Gastroenterology and Hepatology, Clinical Informatics, AI, Medical Devices
+and Digital Health, Healthcare Sustainability</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +139,7 @@ Intelligence</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ENT, AI applications for Voice, MedTech Innovation</p>
+<p>MedTech, ENT, Voice, QOL</p>
 </td>
 </tr>
 <tr>
@@ -165,8 +167,8 @@ Stimulation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurodebilitating disease, Parkinson disease, Technology innovation for
-education, Food innovation and R&amp;D</p>
+<p>Community Health, Food Innovation and Research, Neurology (Parkinsons
+Disease, Motor Neuron Disease)</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +177,7 @@ education, Food innovation and R&amp;D</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dysphagia, Adult communication disorders, Artificial intelligence</p>
+<p>Dysphagia, Speech and Language rehabilitation, AI and Innovation</p>
 </td>
 </tr>
 <tr>
@@ -184,7 +186,8 @@ education, Food innovation and R&amp;D</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurorehabilitation, Upper limb robotics, Telerehabilitation</p>
+<p>Neurorehabilitation, Upper limb robotics, Rehabilitation Technologies,
+Telerehabilitation</p>
 </td>
 </tr>
 <tr>
@@ -222,8 +225,8 @@ Thrombosis and Haemostasis, Sustainability in Healthcare, Art and Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Artificial Intelligence, Realist Evaluation, Implementation Science, Health
-Digitalization, Caregivers of Older persons</p>
+<p>Artificial Intelligence, Human-Computer Interaction, Health Digitalization,
+Implementation Science, Caregivers of Older persons</p>
 </td>
 </tr>
 <tr>
@@ -232,9 +235,8 @@ Digitalization, Caregivers of Older persons</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antimicrobial pharmacotherapy and resistance, Antiviral pharmacotherapy
-– including COVID-19, HIV, repurposed drugs, Quality improvement and medication
-safety</p>
+<p>Antimicrobial pharmacotherapy and resistance, Pharmacokinetics and pharmacodynamics,
+Quality improvement and medication safety</p>
 </td>
 </tr>
 <tr>
@@ -253,9 +255,9 @@ treatment, MedTech Innovations</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Obstructive Airways Disease (Asthma, COPD, Bronchiectasis), Lung Cancer,
-Pneumonia, Covid-19, Obstructive Sleep Apnoea, Respiratory Disease Management,
-AI &amp; Population Health</p>
+<p>Obstructive Airways Disease (Asthma, COPD, Bronchiectasis), Pneumonia,
+Climate Change Air quality and respiratory health Obstructive, Respiratory
+Disease Management, Value based care, AI &amp; Population Health</p>
 </td>
 </tr>
 <tr>
@@ -264,9 +266,8 @@ AI &amp; Population Health</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurorehabilitation, Brain injury rehabilitation, Rehabilitation robotics
-and technology, Brain computer interfaces, Tele rehabilitation, Artificial
-Intelligence</p>
+<p>Neurorehabilitation, Brain injury and stroke rehabilitation, Rehabilitation
+robotics and technology, Brain computer interfaces, Tele rehabilitation</p>
 </td>
 </tr>
 <tr>
@@ -275,8 +276,7 @@ Intelligence</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Development and implementation of Artificial Intelligence in both medicine
-and health systems, Tele-ophthalmology&nbsp;</p>
+<p>AI, Digital Health, Tele-Ophthalmology, Ocular Imaging</p>
 </td>
 </tr>
 <tr>
@@ -303,8 +303,8 @@ and health systems, Tele-ophthalmology&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Extended reality and medical devices for perioperative medicine, Chronic
-pain and regional anaesthesia</p>
+<p>Chronic pain, Neuromodulation, Regional Anaesthesia, Perioperative and
+pain innovation</p>
 </td>
 </tr>
 <tr>
@@ -323,7 +323,7 @@ pain and regional anaesthesia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurorehabilitation Technologies, §&nbsp; Serious Gaming in Healthcare</p>
+<p>Neurorehabilitation Technologies, Serious Gaming in Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,8 @@ Care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Antimicrobial stewardship, Antimicrobial pharmacokinetics, Pharmacy practice</p>
+<p>Infectious Disease Pharmacotherapy, Physiologically-based pharmacokinetics,
+3D printed pharmaceuticals</p>
 </td>
 </tr>
 <tr>
@@ -429,8 +430,8 @@ Degeneration, Artificial Intelligence&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Extended reality and medical devices for perioperative medicine; Chronic
-pain and regional anaesthesia</p>
+<p>Anaesthesiology, Regional Anaesthesia, Interventional pain medicine, Medical
+technology</p>
 </td>
 </tr>
 <tr>
@@ -453,13 +454,23 @@ pain and regional anaesthesia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/Tan_Lee_Huan_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tan Lee Huan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vestibular Rehabilitation, Rehabilitation Innovation/ Technology, Behavioural
+and implementation research</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/Tan_Xiu_Ling_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Xiu Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neuro-Ophthalmology; Low Vision Rehabilitation; Medical technology and
-innovation: virtual reality, tele-rehabilitation, tele-ophthalmology; Medical
-Education</p>
+<p>Neuro-Ophthalmology, Low Vision Rehabilitation and tele-rehabilitation,
+Serious gaming in healthcare, Medical technology and innovation, Medical
+education</p>
 </td>
 </tr>
 <tr>
@@ -473,21 +484,11 @@ Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tee Lee Huan*</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vestibular Rehabilitation, Innovation to improve therapeutic effectiveness
-and adherence</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/Teo_Wei_Shan_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Teo Wei Shan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adult Dysphagia; Communication and Dysphagia Rehabilitation in Head and
-Neck Cancers; Modified food and beverage innovation</p>
+<p>Dysphagia in head and neck population, Food innovation - modified consistencies</p>
 </td>
 </tr>
 <tr>
@@ -496,7 +497,8 @@ Neck Cancers; Modified food and beverage innovation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Foodborne Streptococcus agalactiae, Outbreaks, epidemiology, diagnostics</p>
+<p>Acinetobacter resistance, Foodborne Streptococcus agalactiae, Outbreaks,
+epidemiology, diagnostics, Drugs discovery</p>
 </td>
 </tr>
 <tr>
@@ -515,8 +517,8 @@ and Innovation</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Heart failure, Cardiac rehabilitation, Preventive cardiology, Cardiac
-hemodynamics, Medtech, Digital health and Point of care</p>
+<p>Heart failure, Cardiac rehabilitation, Preventive cardiology, Medtech/Digital
+health, Point of care diagnostics</p>
 </td>
 </tr>
 <tr>
@@ -525,8 +527,10 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurorehabilitation, Vestibular Rehabilitation, Rehabilitation Technology
-- Robotics, Virtual Reality, Brain-Computer Interface, Wearable Sensors</p>
+<p>Neurorehabilitation - Traumatic brain injury, stroke, spinal cord injury,
+Vestibular Rehabilitation, Rehabilitation Technology - Robotics, Virtual
+Reality, Brain-Computer Interface, Wearable Sensors, Neuromodulation, Regenerative
+Medicine and rehabilitation</p>
 </td>
 </tr>
 <tr>
@@ -544,7 +548,9 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hepatology, Healtcare Modelling, Healthcare information and analytics</p>
+<p>AI in Hepatology and smart toilet systems, Translational Medicine and
+Clinical Trials in MASLD/MASH, Liver Regeneration and Repair, Point-of-care
+diagnostics and hepatitis C elimination models</p>
 </td>
 </tr>
 <tr>
@@ -562,8 +568,8 @@ hemodynamics, Medtech, Digital health and Point of care</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Workforce Transformation, Healthcare Education, Artificial Intelligence
-and Telehealth, Dysphagia, Modified Consistencies Invention</p>
+<p>Workforce Transformation, Healthcare Education, AI and Telehealth, Dysphagia,
+Modified Consistencies Invention</p>
 </td>
 </tr>
 </tbody>
