@@ -56,8 +56,7 @@ third_nav_title: Researchers & Innovators
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Medtech and Healthcare Innovations in Breast Surgery, Breast cancer in
-older women, Frailty, Innovations in Patient and Medical education</p>
+<p>Digital Health, Medtech Innovation, Breast cancer in older women</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +65,8 @@ older women, Frailty, Innovations in Patient and Medical education</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bariatric Surgery, AI, Upper GI Surgery</p>
+<p>Bariatric Surgery, General Surgery, Clinical Innovations in Endoscopy,
+AI applications for Healthcare</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ageing, Dementia, Palliative Care, Long Term Care, Gerotechnology, Caregiving,
-Health Services Research</p>
+Health Services</p>
 </td>
 </tr>
 <tr>
@@ -212,9 +212,9 @@ Other Hyperlipidemia</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Peripheral Nerve Surgery &amp; Regeneration, Patient-Reported Outcome
-Measures (PROMs), Generative AI in Medical Education, AI-Driven Decision
-Support Systems, Digital Health &amp; Gerontological Optimisation</p>
+<p>Hand Surgery and Microsurgery, Medical Education and Instructional Design,
+Educational technology in Healthcare, Surgical Volunteerism and Global
+Health, AI in Healthcare and Medical Education</p>
 </td>
 </tr>
 <tr>
