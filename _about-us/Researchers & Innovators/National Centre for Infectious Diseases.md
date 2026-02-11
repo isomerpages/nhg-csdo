@@ -101,9 +101,9 @@ Disease, HIV Medicine</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vaccine-preventable Diseases, particularly in the Elderly and Children,
-Infections in the Elderly, Particularly Influenza, Emerging Infectious
-Diseases, Global Health and Travel Medicine, Clinical Trials, Sero-epidemiology,
+<p>Vaccine-preventable Diseases particularly in the Elderly and Children,
+Infections in the Elderly Particularly Influenza, Emerging Infectious Diseases,
+Global Health and Travel Medicine, Clinical Trials, Sero-epidemiology,
 Climate Change &amp; Environmental Health</p>
 </td>
 </tr>
