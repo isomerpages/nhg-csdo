@@ -26,7 +26,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/KTPH___Allen_Liu_Yan_Lun_v2210.pdf" rel="noopener nofollow" target="_blank">Allen Liu</a>
+<p><a href="/files/Researcher Directory/KTPH/Allen_Liu_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Allen Liu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/YHC___Clement_Chia_Luck_Khng__v1223.pdf" rel="noopener nofollow" target="_blank">Clement Chia</a>
+<p><a href="/files/Researcher Directory/KTPH/Clement_Chia_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Clement Chia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,8 @@ older women, Frailty, Innovations in Patient and Medical education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deborah Ng Chieh Yih*</p>
+<p><a href="/files/Researcher Directory/KTPH/Deborah_Ng__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Deborah Ng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bariatric Surgery, AI, Upper GI Surgery</p>
@@ -80,7 +81,7 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/YHC___Jeremy_Hoe_v1223.pdf" rel="noopener nofollow" target="_blank">Jeremy Hoe</a>
+<p><a href="/files/Researcher Directory/KTPH/Jeremy_Hoe__Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Jeremy Hoe</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,7 +111,7 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/KTPH___Justin_Tang_I_Shing_v2210.pdf" rel="noopener nofollow" target="_blank">Justin Tang</a>
+<p><a href="/files/Researcher Directory/KTPH/Justin_Tang_I_Shing_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Justin Tang I-Shing</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,7 +120,7 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/KTPH___Lee_Siok_Ying_v2103.pdf" rel="noopener nofollow" target="_blank">Lee Siok Ying</a>
+<p><a href="/files/Researcher Directory/KTPH/Lee_Siok_Ying_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Lee Siok Ying</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +168,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/KTPH___Philip_Yap_Lin_Kiat__v2210.pdf" rel="noopener nofollow" target="_blank">Philip Yap</a>
+<p><a href="/files/Researcher Directory/KTPH/Philip_Yap_Lin_Kiat_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Philip Yap</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -207,7 +208,8 @@ Other Hyperlipidemia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vaikunthan Rajaratnam*</p>
+<p><a href="/files/Researcher Directory/KTPH/Vaikunthan_Rajaratnam_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Vaikunthan Rajaratnam</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Peripheral Nerve Surgery &amp; Regeneration, Patient-Reported Outcome
@@ -217,7 +219,7 @@ Support Systems, Digital Health &amp; Gerontological Optimisation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/Wei_Shan_v1224.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
+<p><a href="/files/Researcher Directory/KTPH/Wei_Shan_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Wei Shan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
