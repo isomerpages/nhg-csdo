@@ -35,15 +35,6 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/KTPH___Benjamin_Lam_Chih_Chiang_v2210.pdf" rel="noopener nofollow" target="_blank">Benjamin Lam</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Obesity, Metabolic Medicine, Family Medicine</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chow Pek Yee*</p>
 </td>
 <td rowspan="1" colspan="1">
