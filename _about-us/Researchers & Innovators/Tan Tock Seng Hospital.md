@@ -173,7 +173,7 @@ Disease, Motor Neuron Disease)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Chok_See_San_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Chok See San</a>
+<p><a href="/files/Researcher Directory/TTSH/Chok_See_San_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Chok See San</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,32 +454,21 @@ technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Tan_Lee_Huan_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tan Lee Huan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vestibular Rehabilitation, Rehabilitation Innovation/ Technology, Behavioural
-and implementation research</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Tan_Xiu_Ling_Dec_2025_NHG_Edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Tan Xiu Ling</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neuro-Ophthalmology, Low Vision Rehabilitation and tele-rehabilitation,
-Serious gaming in healthcare, Medical technology and innovation, Medical
-education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/TTSH/Tay_Hui_Lin_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tay Hui Lin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Antimicrobial Stewardship, Gamification in healthcare (serious games)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/Tee_Lee_Huan_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tee Lee Huan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vestibular Rehabilitation, Rehabilitation Innovation/ Technology, Behavioural
+and implementation research</p>
 </td>
 </tr>
 <tr>
