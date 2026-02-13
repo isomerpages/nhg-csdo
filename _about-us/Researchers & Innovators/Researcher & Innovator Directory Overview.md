@@ -55,6 +55,6 @@ quality of life.&nbsp;</p>
 <p></p>
 <p>Last Updated: Dec 2025</p>
 <h4><strong>Contact&nbsp;Information</strong></h4>
-<p>For more information and further enquiries, please contact us at <a href="nhggroup.TRO@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nhggroup.TRO@nhghealth.com.sg</a>.</p>
+<p>For more information and further enquiries, please contact us at <a href="mailto:nhggroup.TRO@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nhggroup.TRO@nhghealth.com.sg</a>.</p>
 <p></p>
 <p></p>
