@@ -26,7 +26,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Dana_Koh_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Dana Koh</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Dana_Koh_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Dana Koh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ DM Foot care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Evonne_Oh_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Evonne Oh</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Evonne_Oh_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Evonne Oh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,7 +64,7 @@ Heath</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Fong_Qi_Wei_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Fong Qi Wei</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Fong_Qi_Wei_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Fong Qi Wei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ Heath</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Goh_Ling_Jia_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Goh Ling Jia</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Goh_Ling_Jia_Dec_25_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Goh Ling Jia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ Health and AI Integration, Workflow automation in nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Jacqueline_Giovanna_De_Roza_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Jacqueline Giovanna De Roza</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Jacqueline_Giovanna_De_Roza_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Jacqueline Giovanna De Roza</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,18 +93,18 @@ Advanced Practise Nursing</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Julia_Zhu_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Julia Zhu</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Julia_Zhu_Xiaoli_Dec_25_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Julia Zhu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wound Care and Diabetic Foot Wound Care, Patient and Public Involvement
-Research, Self-care/management Intervention, Health Psychology, behavioural
+Research, Self-care/management Intervention, Health Psychology, Behavioural
 medicine</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Ng_Xin_Rong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Ng Xin Rong</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Ng_Xin_Rong_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ng Xin Rong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,7 +113,7 @@ medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Richard_Low_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Richard Low</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Richard_Low_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Richard Low</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +122,7 @@ medicine</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Sabrina_Wong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sabrina Wong</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sabrina_Wong_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Sabrina Wong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +132,7 @@ Behavioural health, Frailty</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Sharon_Chen_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sharon Chen</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sharon_Chen__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Sharon Chen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +142,7 @@ of processes to optimize manpower and high value work</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Sim_Sai_Zhen_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Sim Sai Zhen</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Sim_Sai_Zhen_Dec_25_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Sim Sai Zhen</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,26 +151,17 @@ of processes to optimize manpower and high value work</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Shu_Yun_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tan Shu Yun</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Shu_Yun__Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Tan Shu Yun</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Care Transition, Chronic Disease Management and Multimorbidity, Healthcare
-Services Delivery, Digital Health, Digital Biomarkers</p>
+<p>Care Transition, Chronic Diseases and Multimorbidity, Healthcare Services
+Delivery, Digital Health, Digital Biomarkers</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Tang_Wern_Ee_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tang Wern Ee</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chronic Disease Management, Respiratory; Health Literacy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Yi_Rui_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tan Yi Rui</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tan_Yi_Rui_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Tan Yi Rui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -179,7 +170,16 @@ Services Delivery, Digital Health, Digital Biomarkers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Valerie_Teo_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Valerie Teo</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Tang_Wern_Ee_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tang Wern Ee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chronic Disease Management, Respiratory; Health Literacy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Valerie_Teo_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Valerie Teo</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +189,7 @@ Improving clinical efficiency</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Wendy_Ong_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Wendy Ong</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Wendy_Ong_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Wendy Ong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
