@@ -141,13 +141,13 @@ will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP Information Sheet - FY2025</strong>
+<summary><strong>CSPP Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/csppinfosheet" rel="noopener nofollow" target="_blank">CSPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/csppinfosheet1" rel="noopener nofollow" target="_blank">CSPP Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
