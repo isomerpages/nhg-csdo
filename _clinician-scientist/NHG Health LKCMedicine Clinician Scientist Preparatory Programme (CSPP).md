@@ -118,7 +118,7 @@ will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>28 Oct 2025 (Tue)</p>
+<p>14 April 2026 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ will not be considered.</p>
 <br>c) Mentors' CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
