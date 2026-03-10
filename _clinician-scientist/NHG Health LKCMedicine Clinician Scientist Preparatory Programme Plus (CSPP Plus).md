@@ -239,7 +239,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP+ Application Package - FY2025</strong>
+<summary><strong>CSPP+ Application Package - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP+ Application Package consists of the following documents:
@@ -249,7 +249,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>4. Application Checklist (for reference only)
 <br>5. CSPP+ Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cspp-plusapplicationpackage" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-plusapplication1" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
 <p></p>
 </div>
 </details>
