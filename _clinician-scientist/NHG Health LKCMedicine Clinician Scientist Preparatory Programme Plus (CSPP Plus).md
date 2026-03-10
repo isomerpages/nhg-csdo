@@ -276,12 +276,14 @@ Scope
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the Secretariat:</p>
-<p><strong>Ms Nicole Yap</strong>
+<p></p>
+<p><strong>Ms Christine Khoo</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
-<br>Tel: (65) 6038 3632
-<br>Email: <a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nicole.yx.yap@nhghealth.com.sg</a>
+<br>Tel: (65) 6038 3630
+<br>Email: <a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">christine.khoo.ml@nhghealth.com.sg</a>
 </p>
+<p></p>
 <p><strong>Ms Syarafina Hasan </strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
