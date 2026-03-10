@@ -190,6 +190,13 @@ Change of Scope
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
 <p></p>
+<p><strong>Ms Christine Khoo</strong>
+<br>Clinician Scientist Development Office
+<br>Group Research and Innovation, NHG Health
+<br>Tel: (65) 6038 3630
+<br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christine.khoo.ml@nhghealth.com.sg</u></a>
+</p>
+<p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
@@ -197,11 +204,5 @@ Change of Scope
 <br>Email: <a href="mailto:Syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
 </p>
 <p></p>
-<p><strong>Ms Valerie Yeo</strong>
-<br>Clinician Scientist Development Office
-<br>Group Research and Innovation, NHG Health
-<br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a>
-</p>
 <p></p>
 <p></p>
