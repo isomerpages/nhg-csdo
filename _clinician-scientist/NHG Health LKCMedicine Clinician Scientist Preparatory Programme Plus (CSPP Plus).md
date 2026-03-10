@@ -197,7 +197,7 @@ will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>28 Oct 2025 (Tue)</p>
+<p>14 April 2026 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ will not be considered.</p>
 certifications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -226,13 +226,13 @@ certifications)</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP+ Information Sheet - FY2025</strong>
+<summary><strong>CSPP+ Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/cspp-plusinformationsheet" rel="noopener nofollow" target="_blank">CSPP+ Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-plusinfosheet1" rel="noopener nofollow" target="_blank">CSPP+ Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
