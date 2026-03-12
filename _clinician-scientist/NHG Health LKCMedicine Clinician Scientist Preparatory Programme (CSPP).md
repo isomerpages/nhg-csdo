@@ -194,14 +194,14 @@ Change of Scope
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3630
-<br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christine.khoo.ml@nhghealth.com.sg</u></a>
+<br>Email: <a href="mailto:christine.khoo.ml@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christine.khoo.ml@nhghealth.com.sg</u></a>
 </p>
 <p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3634
-<br>Email: <a href="mailto:Syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
+<br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
