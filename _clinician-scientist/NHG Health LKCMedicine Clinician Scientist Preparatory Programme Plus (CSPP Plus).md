@@ -281,14 +281,14 @@ Scope
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
 <br>Tel: (65) 6038 3630
-<br>Email: <a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">christine.khoo.ml@nhghealth.com.sg</a>
+<br>Email: <a href="mailto:christine.khoo.ml@nhghealth.com.sg" rel="noopener nofollow" target="_blank">christine.khoo.ml@nhghealth.com.sg</a>
 </p>
 <p></p>
-<p><strong>Ms Syarafina Hasan </strong>
+<p><strong>Ms Valerie Yeo </strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
-<br>Tel: (65) 6038 3634
-<br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
+<br>Tel: (65) 6038 3628
+<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p></p>
