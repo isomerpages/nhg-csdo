@@ -210,7 +210,7 @@ submitted after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 Oct 2025 (Tue)</strong>
+<p><strong>14 Apr 2026 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -224,7 +224,7 @@ submitted after the call closing date and time will not be considered.</p>
 <br>e) CVs of Research Team Members and Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
