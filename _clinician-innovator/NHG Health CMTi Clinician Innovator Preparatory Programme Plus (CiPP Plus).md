@@ -164,7 +164,8 @@ himself/herself as a Clinician Innovator (CI).</p>
 <p>Awardees and applicants of NMRC Human Capital Awards and Talent Development
 Programmes such as Transition Award (TA), Clinician Innovator Award (CIA),
 Clinician Scientist Award (CSA), HPHSR CSA (HCSA) and Singapore Translational
-Research Investigator Award (STaR), will not be eligible for the CiPP+.</p>
+Research Investigator Award (STaR) may be considered for the CiPP+ on an
+exception basis.</p>
 <p></p>
 </li>
 <li>
