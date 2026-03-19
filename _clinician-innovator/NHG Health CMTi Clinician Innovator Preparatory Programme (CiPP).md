@@ -64,6 +64,9 @@ to technology development for their proposed project, are secured where
 required, before applying. Applicants may reach out to CMTi for assistance
 in matching of collaborator(s).</p>
 <p></p>
+<p>Any intellectual property (IP) developed in relation to the project would
+be managed in accordance with the prevailing NHG Health IP Policy.</p>
+<p></p>
 <p>Interested clinicians are strongly encouraged to contact the CiPP Secretariat
 for discussion on suitability of the programme prior to applying.</p>
 </div>
