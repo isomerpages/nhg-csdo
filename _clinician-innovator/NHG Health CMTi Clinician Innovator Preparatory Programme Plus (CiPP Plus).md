@@ -286,23 +286,11 @@ proceeding to apply.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Forms &amp; Templates zip folder consists of the following documents:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Variation Forms - Budget Variation, Unbudgeted Item, Time Extension</p>
-</li>
-<li>
-<p>Interim Report Template</p>
-</li>
-<li>
-<p>Final Report Template</p>
-</li>
-<li>
-<p>Funding Guidelines</p>
-</li>
-<li>
-<p>Protected Time Logsheet</p>
-</li>
-</ol>
+<p>1) Variation Forms - Budget Variation, Unbudgeted Item, Time Extension</p>
+<p>2) Interim Report Template</p>
+<p>3) Final Report Template</p>
+<p>4) Funding Guidelines</p>
+<p>5) Protected Time Logsheet</p>
 <p></p>
 <p>Download the latest CiPP+ Forms &amp; Templates.</p>
 </div>
