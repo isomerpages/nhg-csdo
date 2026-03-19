@@ -174,8 +174,7 @@ not be considered.</p>
 <br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development)</em>;
 and</p>
 <p>e) Supporting documents indicating continuation with NHG Health post-residency
-and support from Residency PD and HOD – <em>applicable for Residents only</em>
-</p>
+and support from Residency PD and HOD – <em>applicable for Residents only</em>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
