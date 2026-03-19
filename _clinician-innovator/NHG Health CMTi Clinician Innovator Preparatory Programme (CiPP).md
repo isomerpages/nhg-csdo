@@ -31,6 +31,11 @@ with primary appointments at NHG Health institutions.
 degrees in clinical practice, such as nurses, pharmacists and other allied
 health professions with primary appointments at NHG Health institutions.</p>
 <p></p>
+<p>Senior Residents enrolled in an NHG Health Residency Programme&nbsp; who
+are in their final two years of residency and intend to continue with NHG
+Health upon completion of residency may be considered on an exception basis.
+These applicants will be required to submit additional supporting documents.</p>
+<p></p>
 <p>All applicants should also fulfil the following criteria:
 <br>a) Demonstrate interest in HealthTech innovation and intention to develop
 himself/herself as a Clinician Innovator (CI) but have little or no innovation
