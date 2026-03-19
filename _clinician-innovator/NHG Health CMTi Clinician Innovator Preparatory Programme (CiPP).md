@@ -210,8 +210,9 @@ proceeding to apply.</p>
 <p>The CiPP Application Package consists of the following documents:
 <br>1) Information Sheet
 <br>2) Application Form
-<br>3) Application Checklist (for reference only)
-<br>4) Funding Guidelines (for reference only)</p>
+<br>3) Application Checklist <em>(for reference only)</em> 
+<br>4) Funding Guidelines <em>(for reference only)</em>
+</p>
 <p></p>
 <p>Download the latest <a href="https://for.sg/cippappoct25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
 <p></p>
