@@ -90,15 +90,6 @@ scan the QR code below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Pics/CiPP_Coaching_QR_code.png">
 </div>
-<p></p>
-<p>If the proposed project encompasses a software/digital technology component,
-applicants are required to complete the e-learn module on eLEARN prior
-to the coaching session for a more fruitful discussion.</p>
-<p>Please follow the steps to access the module:
-<br>1) Login to your <a href="https://elearn.sg/nhg/Login" rel="noopener nofollow" target="_blank">NHG Health eLEARN Account</a>
-<br>2) Select "Marketplace"
-<br>3) Search “Digital Health Applications (DHA) Clinic”
-<br>4) Select “Register” to enrol and complete the module.</p>
 </div>
 </details>
 </div>
