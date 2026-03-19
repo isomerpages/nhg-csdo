@@ -160,7 +160,7 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 Oct 2025 (Tue)</strong>
+<p><strong>14 Apr 2026 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -170,15 +170,15 @@ not be considered.</p>
 <br>a) Application Form
 <br>b) Applicant’s Curriculum Vitae (CV)
 <br>c) Mentor’s CV
-<br>d) Screenshot of completed e-learn module on Digital Health Applications
-(DHA) Clinic (<em>applicable only if project encompasses software/digital technology component)</em>;
-and
-<br>e) Written proof of intent to collaborate from Collaborator(s)
-<br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
+<br>d) Written proof of intent to collaborate from Collaborator(s)
+<br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development)</em>;
+and</p>
+<p>e) Supporting documents indicating continuation with NHG Health post-residency
+and support from Residency PD and HOD – <em>applicable for Residents only</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>09 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
