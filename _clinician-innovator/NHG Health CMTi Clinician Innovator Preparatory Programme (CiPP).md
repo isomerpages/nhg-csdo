@@ -1,7 +1,7 @@
 ---
 title: NHG Health CMTi Clinician Innovator Preparatory Programme (CiPP)
 permalink: /cipp/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -170,7 +170,9 @@ not be considered.</p>
 <br>a) Application Form
 <br>b) Applicant’s Curriculum Vitae (CV)
 <br>c) Mentor’s CV
-<br>d) Written proof of intent to collaborate from Collaborator(s) (i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development)</em>; and
+<br>d) Written proof of intent to collaborate from Collaborator(s) (i.e.,
+email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development)</em>;
+and
 <br>e) Supporting documents indicating continuation with NHG Health post-residency
 and support from Residency PD and HOD (<em>applicable for Residents only</em>).</p>
 </td>
@@ -188,7 +190,7 @@ and support from Residency PD and HOD (<em>applicable for Residents only</em>).<
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CiPP Information Sheet - FY2025</strong>
+<summary><strong>CiPP Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -202,7 +204,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CiPP Application Package - FY2025</strong>
+<summary><strong>CiPP Application Package - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Application Package consists of the following documents:
