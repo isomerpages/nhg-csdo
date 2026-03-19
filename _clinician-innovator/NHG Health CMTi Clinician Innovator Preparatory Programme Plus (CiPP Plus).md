@@ -275,15 +275,31 @@ for discussion on suitability of the programme prior to applying.</p>
 programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
+<p></p>
+<p>Download the latest <a href="https://for.sg/cippplusinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
 </div>
 </details>
 </div>
-<h4><strong>CiPP+ Information Sheet - FY2025</strong></h4>
-<p>This document contains important information about the objective of the
-programme, award components, eligibility, application procedure, evaluation
-criteria and expected deliverables etc., and should be read carefully before
-proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/cippplusinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CiPP+ Forms &amp; Templates</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The CiPP Forms &amp; Templates zip folder consists of the following documents:</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp; Variation Forms – Budget Variation, Unbudgeted Item,
+Time Extension</p>
+<p>2.&nbsp;&nbsp;&nbsp; Interim Report Template</p>
+<p>3.&nbsp;&nbsp;&nbsp; Final Report Template</p>
+<p>4.&nbsp;&nbsp;&nbsp; Funding Guidelines</p>
+<p>5.&nbsp;&nbsp;&nbsp; Protected Time Logsheet</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Download the latest CiPP+ Forms &amp; Templates.</p>
+</div>
+</details>
+</div>
 <h4><strong>Past CiPP+ Awardees</strong></h4>
 <p>Download the list of <a href="https://for.sg/cippplusawards" rel="noopener nofollow" target="_blank">past CiPP+ awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
