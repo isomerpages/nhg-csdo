@@ -265,6 +265,19 @@ for discussion on suitability of the programme prior to applying.</p>
 </div>
 </details>
 </div>
+<h4><strong>Resources</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CiPP+ Information Sheet - FY2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This document contains important information about the objective of the
+programme, award components, eligibility, application procedure, evaluation
+criteria and expected deliverables etc., and should be read carefully before
+proceeding to apply.</p>
+</div>
+</details>
+</div>
 <h4><strong>CiPP+ Information Sheet - FY2025</strong></h4>
 <p>This document contains important information about the objective of the
 programme, award components, eligibility, application procedure, evaluation
