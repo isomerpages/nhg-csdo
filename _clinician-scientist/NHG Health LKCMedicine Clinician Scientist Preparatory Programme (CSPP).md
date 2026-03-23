@@ -17,9 +17,6 @@ the term of the award.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_Award_Components.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_page_Award_Components.png">
-</div>
 <p>Awardees are required to complete the programme within <strong>2 years</strong>.</p>
 <p>Residents are also required to complete the programme within the duration
 of their Residency. They are recommended to discuss with their Residency
@@ -179,7 +176,7 @@ Change of Scope
 <br>3. CSPP Final Report Template
 <br>4. CSPP Funding Guidelines
 <br>5. CSPP Acknowledgement for Supplementary Readings</p>
-<p>Download the latest <a href="https://for.sg/cspp-forms-templates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-formsandtemplates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
 <p></p>
 </div>
 </details>
