@@ -198,7 +198,7 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippinfosheetapr26" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
 </div>
 </details>
 </div>
@@ -214,7 +214,7 @@ proceeding to apply.</p>
 <br>4) Funding Guidelines <em>(for reference only)</em>
 </p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippappoct25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippappapr26" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -231,7 +231,7 @@ Change of Project Scope
 <br>3) Final Report Template
 <br>4) Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippformsoct25" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippformsapr26" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates</a>.</p>
 </div>
 </details>
 </div>
