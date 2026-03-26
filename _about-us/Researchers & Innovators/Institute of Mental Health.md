@@ -26,7 +26,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___AshaRani_Pezhummoottil_Vasudevan_Nair_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">AshaRani Pezhummoottil Vasudevan Nair</a>
+<p><a href="/files/Researcher Directory/IMH/AshaRani_Pezhummoottil_Vasudevan_Nair_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">AshaRani Pezhummoottil Vasudevan Nair</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,7 +35,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Charmaine_Tang_Yu_Zheng__v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Charmaine Tang Yu Zheng</a>
+<p><a href="/files/Researcher Directory/IMH/Charmaine_Tang_Yu_Zheng__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Charmaine Tang Yu Zheng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -44,7 +44,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Chong_Siow_Ann_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Chong Siow Ann</a>
+<p><a href="/files/Researcher Directory/IMH/Chong_Siow_Ann_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Chong Siow Ann</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Christopher_Cheok_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Christopher Cheok</a>
+<p><a href="/files/Researcher Directory/IMH/Christopher_Cheok_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Christopher Cheok</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,7 +73,7 @@ Adolescent mental disorders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Edimansyah_Abdin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
+<p><a href="/files/Researcher Directory/IMH/Edimansyah_Abdin_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Edimansyah Abdin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ Research</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Geoffrey_Tan_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Geoffrey Tan</a>
+<p><a href="/files/Researcher Directory/IMH/Geoffrey_Tan_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Geoffrey Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ Health, Mood Disorders, Pharmacogenetics and Nutrigenomics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Goh_Tze_Jui_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Goh Tze Jui</a>
+<p><a href="/files/Researcher Directory/IMH/Goh_Tze_Jui__Dec_20265_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Goh Tze Jui</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ Personality Disorders, Suicide, Child and Adolescent</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Gurpreet_Rekhi_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Gurpreet Rekhi</a>
+<p><a href="/files/Researcher Directory/IMH/Gurpreet_Rekhi_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Gurpreet Rekhi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,7 +112,7 @@ Personality Disorders, Suicide, Child and Adolescent</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Janhavi_Ajit_Vaingankar_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Janhavi Ajit Vaingankar</a>
+<p><a href="/files/Researcher Directory/IMH/Janhavi_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Janhavi Ajit Vaingankar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +122,7 @@ Reported Outcome Measurement and Epidemiology, Psychiatric Epidemiology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Jimmy_Lee_Chee_Keong_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Jimmy Lee Chee Keong</a>
+<p><a href="/files/Researcher Directory/IMH/Jimmy_Lee_Dec_2025_NHG_edited.pdf" rel="noopener nofollow" target="_blank">Jimmy Lee Chee Keong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +132,7 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Lim_Choon_Guan_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Lim Choon Guan</a>
+<p><a href="/files/Researcher Directory/IMH/Lim_Choon_Guan_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Lim Choon Guan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,7 +142,7 @@ Mental Health</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Liu Jianlin</a>
+<p><a href="/files/Researcher Directory/IMH/Liu_Jianlin_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Liu Jianlin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +152,7 @@ Scalable &amp; Early Interventions for Mental Health, Clinical Health psychology
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Max_Lam__v1224.pdf" rel="noopener noreferrer nofollow" target="_blank">Max Lam</a>
+<p><a href="/files/Researcher Directory/IMH/Max_Lam_NHG_Edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Max Lam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Mythily_Subramaniam_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Mythily Subramaniam</a>
+<p><a href="/files/Researcher Directory/IMH/Mythily_Subramaniam_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Mythily Subramaniam</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +180,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Nisha_Chandwani_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Nisha Chandwani</a>
+<p><a href="/files/Researcher Directory/IMH/Nisha_Chandwani_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Nisha Chandwani</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +189,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Ong_Say_How__v1224.pdf" rel="noopener nofollow" target="_blank">Ong Say How</a>
+<p><a href="/files/Researcher Directory/IMH/Ong_Say_How_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Ong Say How</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,7 +199,7 @@ Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Ong_Xin_Ling_NHG_edited_Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Ong Xin Ling</a>
+<p><a href="/files/Researcher Directory/IMH/Ong_Xin_Ling_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Ong Xin Ling</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,7 +210,7 @@ for older adult, Older adult with mental health issues and frailty</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Sim_Kang_v2210.pdf" rel="noopener noreferrer nofollow" target="_blank">Sim Kang</a>
+<p><a href="/files/Researcher Directory/IMH/Sim_Kang_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Sim Kang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,7 +220,7 @@ and Mood Disorders, Health Professions Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Sung_Min_v2108.pdf" rel="noopener noreferrer nofollow" target="_blank">Sung Min</a>
+<p><a href="/files/Researcher Directory/IMH/Sung_Min_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Sung Min</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -229,7 +229,7 @@ and Mood Disorders, Health Professions Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Swapna_Kamal_Verma_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Swapna Kamal Verma</a>
+<p><a href="/files/Researcher Directory/IMH/Swapna_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Swapna Kamal Verma</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,7 +238,7 @@ and Mood Disorders, Health Professions Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Tan_Xiaowei_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Tan Xiaowei</a>
+<p><a href="/files/Researcher Directory/IMH/Tan_Xiaowei_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Tan Xiaowei</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,7 +247,7 @@ and Mood Disorders, Health Professions Education</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Yao_Fengyuan_NHG_edited__Jun_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Yao Feng Yuan</a>
+<p><a href="/files/Researcher Directory/IMH/Yao_Fengyuan_NHG_edited__Dec_2025.pdf" rel="noopener nofollow" target="_blank">Yao Feng Yuan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +258,7 @@ Screening for depression and dementia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/IMH___Ying_Jiangbo_John_v0624.pdf" rel="noopener noreferrer nofollow" target="_blank">Ying JiangBo John</a>
+<p><a href="/files/Researcher Directory/IMH/Ying_Jiangbo_John_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Ying JiangBo John</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,7 +267,7 @@ Screening for depression and dementia</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Yuan_Qi_v1224.pdf" rel="noopener nofollow" target="_blank">Yuan Qi</a>
+<p><a href="/files/Researcher Directory/IMH/Yuan_Qi_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Yuan Qi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
