@@ -42,7 +42,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-SI)</strong>
 <br>
@@ -93,6 +93,14 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Joanne Ngeow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LKCMedicine</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +197,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>HPHSR Clinician </strong>
 <br><strong>Scientist Award</strong>
 <br><strong>(HCSA-INV)</strong>
@@ -224,6 +232,22 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>WH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Mark Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst. Prof Lim Jue Tao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LKCMedicine</p>
 </td>
 </tr>
 </tbody>
