@@ -77,7 +77,7 @@ Adolescent mental disorders</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Psychiatric epidemiology and biostatistics, Psychometric, Health Services
+<p>Psychiatric epidemiology and biostatistics, Psychometrics, Health Services
 Research</p>
 </td>
 </tr>
@@ -98,7 +98,7 @@ Health, Mood Disorders, Pharmacogenetics and Nutrigenomics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Suicide, Mental Health Literacy, Neurodevelopmental disorders, Mood and
-Personality Disorders, Suicide, Child and Adolescent</p>
+Personality Disorders, Child and Adolescent</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ Genetics, Psychometrics and Behavioural Phenotyping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Family Therapy &amp; Interpersonal Therapy, Consultation Liaison Services,
-Psychotic &amp; Schizophrenia, Mood &amp; Anxiety Disorders in Childhood</p>
+Mood &amp; Anxiety Disorders in Childhood</p>
 </td>
 </tr>
 <tr>
@@ -242,7 +242,7 @@ and Mood Disorders, Health Professions Education</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neurostimulation, Transcranial magnetic stimulation, Psychiatric Disorder</p>
+<p>Neuromodulation, Transcranial magnetic stimulation, Psychiatric Disorder</p>
 </td>
 </tr>
 <tr>
