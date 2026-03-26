@@ -170,7 +170,7 @@ in stroke rehabilitation, Ai in stroke rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/WHC___Tay_Kon_Voi_v1223.pdf" rel="noopener noreferrer nofollow" target="_blank">Tay Kon Voi</a>
+<p><a href="/files/Researcher Directory/WH/Tay_Kon_Voi_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Tay Kon Voi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
