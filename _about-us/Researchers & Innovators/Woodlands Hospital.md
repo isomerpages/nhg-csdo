@@ -74,15 +74,6 @@ Science, Health Economics</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/WH/Er_Chaozer__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Er Chaozer</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Venous thromboembolism</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Researcher Directory/WH/Ernest_Kwek__Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Ernest Kwek</a>
 </p>
 </td>
