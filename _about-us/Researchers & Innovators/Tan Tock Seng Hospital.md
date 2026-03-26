@@ -388,7 +388,7 @@ technology in rehabilitation</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/TTSH/Rinkoo_Dalan_v1224.pdf" rel="noopener nofollow" target="_blank">Rinkoo Dalan</a>
+<p><a href="/files/Researcher Directory/TTSH/Rinkoo_Dalan_NHG_Edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Rinkoo Dalan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,6 +450,18 @@ technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Breast Cancer Biomarker Discovery, Novel therapeutics, Breast Image Analysis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Researcher Directory/TTSH/Tan_Xiu_Ling_Dec_2025_NHG_Edited.pdf" rel="noopener nofollow" target="_blank">Tan Xiu Ling</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neuro-ophthalmology,</p>
+<p>Low vision rehabilitation and tele-rehabilitation,</p>
+<p>Serious gaming in healthcare,</p>
+<p>Medical technology and innovation, Medical Education</p>
 </td>
 </tr>
 <tr>
