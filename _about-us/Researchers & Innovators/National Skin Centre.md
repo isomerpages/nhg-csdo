@@ -26,7 +26,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/Etienne_Wang_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Etienne Wang</a>
+<p><a href="/files/Researcher Directory/NSC/Etienne_Wang_NHG_edited__Dec_2025.pdf" rel="noopener nofollow" target="_blank">Etienne Wang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/NSC___Steven_Thng_Tien_Guan_v2103.pdf" rel="noopener noreferrer nofollow" target="_blank">Steven Thng Tien Guan</a>
+<p><a href="/files/Researcher Directory/NSC/Steven_Thng_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Steven Thng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -89,7 +89,7 @@ Formulations &amp; Delivery (esp. Dissolving Microneedles)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NSC/Yew_Yik_Weng_NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Yew Yik Weng</a>
+<p><a href="/files/Researcher Directory/NSC/Yew_Yik_Weng_NHG_edited__Dec_2025.pdf" rel="noopener nofollow" target="_blank">Yew Yik Weng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
