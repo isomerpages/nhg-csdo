@@ -1,7 +1,7 @@
 ---
 title: NHG Health CMTi Clinician Innovator Preparatory Programme Plus (CiPP Plus)
 permalink: /cipp-plus/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4><strong>Introduction</strong></h4>
@@ -276,7 +276,7 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippplusinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippplusinfosheetapr26" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
 </div>
 </details>
 </div>
@@ -290,9 +290,8 @@ proceeding to apply.</p>
 <br>2) Interim Report Template
 <br>3) Final Report Template
 <br>4) Funding Guidelines
-<br>5) Protected Time Logsheet
-
-</p><p>Download the latest CiPP+ Forms &amp; Templates.</p>
+<br>5) Protected Time Logsheet</p>
+<p>Download the latest <a href="https://for.sg/cippplusformsapr26" rel="noopener nofollow" target="_blank">CiPP+ Forms &amp; Templates</a>.</p>
 </div>
 </details>
 </div>
