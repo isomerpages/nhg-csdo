@@ -104,7 +104,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="11" colspan="1">
+<td rowspan="10" colspan="1">
 <p><strong>Clinician Scientist</strong>
 <br><strong>Award (CSA-INV)</strong>
 </p>
@@ -130,14 +130,6 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IMH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A/Prof Joanne Ngeow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LKCMedicine</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +236,7 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Prof Lim Jue Tao</p>
+<p>Asst Prof Lim Jue Tao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LKCMedicine</p>
