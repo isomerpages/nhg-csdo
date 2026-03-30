@@ -22,7 +22,7 @@ variant: tiptap
 webpage and/or contact the programme Secretariat.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://talentdev.gri.nhg.com.sg/cspp/" rel="noopener noreferrer nofollow" target="_blank">CSPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cspp-plus/" rel="noopener noreferrer nofollow" target="_blank">CSPP+</a></strong>-
+<p><strong><a href="https://talentdev.gri.nhg.com.sg/cspp/" rel="noopener noreferrer nofollow" target="_blank">CSPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cspp-plus/" rel="noopener noreferrer nofollow" target="_blank">CSPP+</a></strong> -
 Ms Christine Khoo (<strong><a rel="noopener noreferrer nofollow" target="_blank">Christine.khoo.ml@nhghealth.com.sg</a></strong> /
 6038 3630)</p>
 </li>
