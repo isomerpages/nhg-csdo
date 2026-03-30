@@ -23,17 +23,17 @@ webpage and/or contact the programme Secretariat.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="https://talentdev.gri.nhg.com.sg/cspp/" rel="noopener noreferrer nofollow" target="_blank">CSPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cspp-plus/" rel="noopener noreferrer nofollow" target="_blank">CSPP+</a></strong> -
-Ms Christine Khoo (<strong><a href="mailto:christine.khoo.ml@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">Christine.khoo.ml@nhghealth.com.sg</a></strong> /
+Ms Christine Khoo (<a href="mailto:Christine.khoo.ml@nhghealth.com.sg" rel="noopener nofollow" target="_blank">Christine.khoo.ml@nhghealth.com.sg</a> /
 6038 3630)</p>
 </li>
 <li>
 <p><strong><a href="https://talentdev.gri.nhg.com.sg/cscs/" rel="noopener noreferrer nofollow" target="_blank">CSCS</a></strong> -
-Ms Nicole Yap (<strong><a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">Nicole.yx.yap@nhghealth.com.sg</a></strong> /
+Ms Nicole Yap (<a href="mailto:Nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">Nicole.yx.yap@nhghealth.com.sg</a> /
 6038 3632)</p>
 </li>
 <li>
 <p><strong><a href="https://talentdev.gri.nhg.com.sg/cipp/" rel="noopener noreferrer nofollow" target="_blank">CiPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cipp-plus/" rel="noopener nofollow" target="_blank">CiPP+</a></strong> -
-Ms Adeline Chan (<strong><a href="mailto:adeline.mx.chan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">Adeline.mx.chan@nhghealth.com.sg</a></strong> /
+Ms Adeline Chan (<a href="mailto:Adeline.mx.chan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">Adeline.mx.chan@nhghealth.com.sg</a> /
 6038 3631)</p>
 </li>
 </ul>
