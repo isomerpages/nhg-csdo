@@ -214,7 +214,7 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 </div>
 <p></p>
 <h4><strong>Past CSF Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/csfawards" rel="noopener nofollow" target="_blank">past CSF awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/csfawardsapr26" rel="noopener nofollow" target="_blank">past CSF awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSF Secretariat:</p>
 <p><strong>Ms Adeline Chan</strong>
