@@ -32,10 +32,10 @@ journey.</p>
 information literacy and evidence-based medicine, the workshop addresses
 the evolving needs of healthcare practices in today's dynamic environment.</p>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Latest_Agenda__NHG_Workshop_Intro_to_Information_Literacy_in_Evidence_Care_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for Introduction to Information Literacy in Evidence Care.</a>
+<p>Download the <a href="/files/Training/Agenda__Intro_to_Information_Literacy_in_Evidence_Practice_NS.pdf" rel="noopener nofollow" target="_blank">Information Literacy and Evidence-Based Practice.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is to be updated.</p>
+<p>The next run of this course is on <strong>20 May 2026</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently closed.</strong>
+<p>Registration for this Course is <strong>currently open. </strong><a href="https://form.gov.sg/69d3657bc4e81b2eacacc34f" rel="noopener nofollow" target="_blank">Please click here to register</a>
 </p>
