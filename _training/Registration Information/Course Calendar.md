@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Registration Information
 ---
-<p>This is the current Research Training Calendar for FY2026</p>
+<p>The FY2026 Research Training Calendar will be provided when finalised.</p>
 <p></p>
 <p></p>
 <p></p>
