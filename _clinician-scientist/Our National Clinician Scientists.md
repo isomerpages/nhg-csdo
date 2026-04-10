@@ -189,7 +189,7 @@ Scientists).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>HPHSR Clinician </strong>
 <br><strong>Scientist Award</strong>
 <br><strong>(HCSA-INV)</strong>
@@ -240,6 +240,14 @@ Scientists).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LKCMedicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Tavintharan Subramaniam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KTPH</p>
 </td>
 </tr>
 </tbody>
