@@ -65,7 +65,7 @@ Scientists).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A/Prof Lim Su Chi</p>
+<p>Prof Lim Su Chi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>KTPH</p>
