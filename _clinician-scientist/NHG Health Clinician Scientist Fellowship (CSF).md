@@ -15,8 +15,7 @@ are adequately supported for the PhD.</p>
 to include necessary support such as tuition fees, salary support for research
 FTE committed to PhD, overseas conference, etc. The CSF provides <strong>top-up </strong>for
 the following fundable items after accounting for the support received
-under the NMRC RTF award.</p>
-<p>
+under the NMRC RTF award:
 <br>a) Tuition fees, for up to 4 years
 <br>b) Salary support for research FTE, for up to 3 years
 <br>• Clinical FTE will continue to be provided by NHG Health Host Institution.
