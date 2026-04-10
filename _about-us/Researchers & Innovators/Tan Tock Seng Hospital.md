@@ -458,10 +458,9 @@ technology</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Neuro-ophthalmology,</p>
-<p>Low vision rehabilitation and tele-rehabilitation,</p>
-<p>Serious gaming in healthcare,</p>
-<p>Medical technology and innovation, Medical Education</p>
+<p>Neuro-ophthalmology, Low vision rehabilitation and tele-rehabilitation,
+Serious gaming in healthcare, Medical technology and innovation, Medical
+Education</p>
 </td>
 </tr>
 <tr>
