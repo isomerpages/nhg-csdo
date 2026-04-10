@@ -81,7 +81,7 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/Jolie_Hwee__NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Jolie Hwee</a>
+<p><a href="/files/Researcher Directory/KTPH/Jolie_Hwee__NHG_edited__Dec_2025.pdf" rel="noopener nofollow" target="_blank">Jolie Hwee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
