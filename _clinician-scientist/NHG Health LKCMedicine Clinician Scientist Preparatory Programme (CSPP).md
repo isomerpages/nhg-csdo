@@ -17,9 +17,6 @@ the term of the award.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_Award_Components.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CS Clinician Scientist/CSPP Pics/CSPP_page_Award_Components.png">
-</div>
 <p>Awardees are required to complete the programme within <strong>2 years</strong>.</p>
 <p>Residents are also required to complete the programme within the duration
 of their Residency. They are recommended to discuss with their Residency
@@ -118,7 +115,7 @@ will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>28 Oct 2025 (Tue)</p>
+<p>14 April 2026 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -129,7 +126,7 @@ will not be considered.</p>
 <br>c) Mentors' CVs.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -141,20 +138,20 @@ will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP Information Sheet - FY2025</strong>
+<summary><strong>CSPP Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/csppinfosheet" rel="noopener nofollow" target="_blank">CSPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/csppinfosheet1" rel="noopener nofollow" target="_blank">CSPP Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP Application Package - FY2025</strong>
+<summary><strong>CSPP Application Package - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP Application package consists of the following documents:
@@ -162,7 +159,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>2. Application Form
 <br>3. Application Checklist (for reference only)
 <br>4. CSPP Funding Guidelines</p>
-<p>Download the latest <a href="https://for.sg/cspp-application" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-application1" rel="noopener nofollow" target="_blank">CSPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -179,29 +176,30 @@ Change of Scope
 <br>3. CSPP Final Report Template
 <br>4. CSPP Funding Guidelines
 <br>5. CSPP Acknowledgement for Supplementary Readings</p>
-<p>Download the latest <a href="https://for.sg/cspp-forms-templates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-formsandtemplates" rel="noopener nofollow" target="_blank">CSPP Forms &amp; Templates Package</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSPP Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/cspp-past-awardees" rel="noopener nofollow" target="_blank">past CSPP Awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/cspp-past-awardees1" rel="noopener nofollow" target="_blank">past CSPP Awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSPP Secretariat:</p>
+<p></p>
+<p><strong>Ms Christine Khoo</strong>
+<br>Clinician Scientist Development Office
+<br>Group Research and Innovation, NHG Health
+<br>Tel: (65) 6038 3630
+<br>Email: <a href="mailto:christine.khoo.ml@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>christine.khoo.ml@nhghealth.com.sg</u></a>
+</p>
 <p></p>
 <p><strong>Ms Syarafina Hasan</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research and Innovation, NHG Health
 <br>Tel: (65) 6038 3634
-<br>Email: <a href="mailto:Syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
+<br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
 </p>
 <p></p>
-<p><strong>Ms Valerie Yeo</strong>
-<br>Clinician Scientist Development Office
-<br>Group Research and Innovation, NHG Health
-<br>Tel: (65) 6038 3628
-<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a>
-</p>
 <p></p>
 <p></p>

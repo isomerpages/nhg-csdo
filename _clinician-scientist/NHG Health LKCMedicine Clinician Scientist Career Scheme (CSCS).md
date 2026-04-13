@@ -210,7 +210,7 @@ submitted after the call closing date and time will not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 Oct 2025 (Tue)</strong>
+<p><strong>14 Apr 2026 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -224,7 +224,7 @@ submitted after the call closing date and time will not be considered.</p>
 <br>e) CVs of Research Team Members and Mentors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -237,7 +237,7 @@ submitted after the call closing date and time will not be considered.</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSCS Information Sheet - FY2025</strong>
+<summary><strong>CSCS Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -252,7 +252,7 @@ proceeding to apply.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSCS Application Package - FY2025</strong>
+<summary><strong>CSCS Application Package - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSCS Application Package consists of templates for the following documents:

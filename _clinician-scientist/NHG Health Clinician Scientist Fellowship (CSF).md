@@ -15,7 +15,7 @@ are adequately supported for the PhD.</p>
 to include necessary support such as tuition fees, salary support for research
 FTE committed to PhD, overseas conference, etc. The CSF provides <strong>top-up </strong>for
 the following fundable items after accounting for the support received
-under the NMRC RTF award.</p>
+under the NMRC RTF award:
 <br>a) Tuition fees, for up to 4 years
 <br>b) Salary support for research FTE, for up to 3 years
 <br>• Clinical FTE will continue to be provided by NHG Health Host Institution.
@@ -23,8 +23,8 @@ under the NMRC RTF award.</p>
 Health Group Office’s contribution (Table 1). NHG Health Host Institution
 will need to top-up the difference if the salary cap is exceeded.
 <br>• Salary support will cover the total annual compensation, inclusive of
-salaries, CPF, fringe benefits, as well as bonus / incentive payments.
-<p><table style="minWidth: 50px">
+salaries, CPF, fringe benefits, as well as bonus / incentive payments.</p>
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -87,7 +87,8 @@ salaries, CPF, fringe benefits, as well as bonus / incentive payments.
 </tr>
 </tbody>
 </table>
-</p><p>The Clinician Scientist Review Committee (CSRC) could recommend exceptional
+<p></p>
+<p>The Clinician Scientist Review Committee (CSRC) could recommend exceptional
 candidates for the prestigious <strong>NHG Health-LKCMedicine Academic Health System (AHS) Fellowship</strong> to
 be jointly supported by NHG Health and LKCMedicine. The AHS Fellowship
 could cover full tuition fees through the LKCMedicine PhD Scholarship,
@@ -106,9 +107,10 @@ be required to submit additional documents indicating continuation in NHG
 Health.</p>
 <p></p>
 <p>All applicants should also fulfil the eligibility of the following:
-<br>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>; and
-<br> b) <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme#admission" rel="noopener nofollow" target="_blank">LKCMedicine PhD by Research Programme</a>.
-</p><p></p>
+<br>a) <a href="https://www.nmrc.sg/grants/talent-development/nmrc-rtf/" rel="noopener nofollow" target="_blank">NMRC Research Training Fellowship (RTF)</a>;
+and
+<br>b) <a href="https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme/admissions-applications" rel="noopener nofollow" target="_blank">LKCMedicine PhD by Research Programme</a>.</p>
+<p></p>
 <p>The applicant’s Department should be able to make provisions for the applicant’s
 research commitments during the course of PhD and continue to facilitate
 his/her career pathway as a clinician scientist beyond.</p>
@@ -124,27 +126,59 @@ his/her career pathway as a clinician scientist beyond.</p>
 PhD by Research programme aims to cultivate the next generation of pioneering
 researchers and leaders in medical science, by providing a transformative
 educational experience where cutting-edge research and medical knowledge
-advance. For more information, please visit the <a href="https://www.ntu.edu.sg/education/graduate-programme/lkcmedicine-phd-by-research-programme" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
+advance. For more information, please visit the <a href="https://www.ntu.edu.sg/medicine/education/graduate-programmes/phd-by-research-programme/admissions-applications" rel="noopener nofollow" target="_blank">School's webpage</a>.</p>
 <p></p>
 <p>Students are expected to commit approximately 0.5FTE - 0.8FTE towards
 the PhD to complete the programme in 4 years. The PhD candidature is a
 minimum of 3 years and a maximum of 5 years.</p>
-<p>Applicant must nominate a main supervisor and up to two co-supervisors
+<p></p>
+<p>Applicant must nominate a main supervisor and may nominate up to two co-supervisors
 who fulfil the criteria below.</p>
 <p></p>
 <p><u>Main supervisor</u>
-<br>• Main supervisor must hold a PhD;
-<br>• Main supervisor must hold primary appointment as a faculty of LKCMedicine
-(Full / Associate / Assistant Professor); and
-<br>• Main supervisor should possess a strong foundation and knowledge in
-research.</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A main PhD supervisor must hold a full-time primary faculty appointment
+at LKCMedicine (Full Professor, Associate Professor, or Assistant Professor);
+and</p>
+</li>
+<li>
+<p>A main PhD supervisor must have a PhD degree or an equivalent doctoral
+research degree; and</p>
+</li>
+<li>
+<p>A main PhD supervisor should possess a strong foundation and knowledge
+in research.</p>
+</li>
+</ul>
 <p></p>
 <p><u>Co-supervisor</u>
-<br>• A co-supervisor can be a faculty (full-time, joint, adjunct, visiting)
-from LKCMedicine, NTU or outside NTU.
-<br>• A co-supervisor should possess a strong foundation and knowledge in
-research.
-</p><p></p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A co-supervisor for a PhD student must have a PhD degree or equivalent
+doctoral research degree; and</p>
+</li>
+<li>
+<p>NTU faculty who are Full Professors, Associate Professors, or Assistant
+Professors, including those with joint, adjunct, or visiting appointments,
+qualify; or</p>
+</li>
+<li>
+<p>A co-supervisor may also be from another school or from outside NTU, provided
+they are a full-time faculty member.</p>
+</li>
+<li>
+<p>A co-supervisor should possess a strong foundation and knowledge in research.</p>
+</li>
+<li>
+<p>Appointments that do not fulfill the above criteria may be considered
+and approved by Dean, Graduate College in consultation with the Deans of
+Academic Colleges on a case-by-case basis.</p>
+</li>
+</ul>
+<p></p>
 <p>At least one supervisor (Main or Co-) should have PhD supervisory experience.</p>
 <p>Postdoctoral fellows do not qualify for appointment as co-supervisors.</p>
 </div>
@@ -179,7 +213,7 @@ the CSF Secretariat to indicate your interest in applying for the CSF.</p>
 </div>
 <p></p>
 <h4><strong>Past CSF Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/csfawards" rel="noopener nofollow" target="_blank">past CSF awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/csfawardsapr26" rel="noopener nofollow" target="_blank">past CSF awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the CSF Secretariat:</p>
 <p><strong>Ms Adeline Chan</strong>

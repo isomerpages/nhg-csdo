@@ -81,7 +81,7 @@ to Emergency Departments</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/Jolie_Hwee__NHG_edited__Jun_2025.pdf" rel="noopener nofollow" target="_blank">Jolie Hwee</a>
+<p><a href="/files/Researcher Directory/KTPH/Jolie_Hwee__NHG_edited__Dec_2025.pdf" rel="noopener nofollow" target="_blank">Jolie Hwee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ Skin care, Craniofacial Surgery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/Joshua_Decruz_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Joshua Decruz</a>
+<p><a href="/files/Researcher Directory/KTPH/Joshua_Decruz_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Joshua Decruz</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,7 +129,7 @@ in orthopaedic spine technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/YHC___Lim_Su_Chi_v1223.pdf" rel="noopener nofollow" target="_blank">Lim Su Chi</a>
+<p><a href="/files/Researcher Directory/KTPH/Lim_Su_Chi_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Lim Su Chi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,7 +140,7 @@ Metabolic changes associated with Bariatric Surgery</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/yhc___neelam_kumari_bhaskar_v1223.pdf" rel="noopener nofollow" target="_blank">Neelam Kumari Bhaskar</a>
+<p><a href="/files/Researcher Directory/KTPH/Neelam_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Neelam Kumari Bhaskar</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +150,7 @@ Degeneration, Age-related Macular Degeneration</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/KTPH/YHC___Ooi_Say_Tat_v1223.pdf" rel="noopener nofollow" target="_blank">Ooi Say Tat</a>
+<p><a href="/files/Researcher Directory/KTPH/Ooi_Say_Tat_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Ooi Say Tat</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -36,7 +36,7 @@ Chronic Disease Management, Wound Care</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/NHG Polyclinics/Darren_Seah_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Darren Seah</a>
+<p><a href="/files/Researcher Directory/NHG Polyclinics/Darren_Seah_NHG_edited_Dec_2025.pdf" rel="noopener nofollow" target="_blank">Darren Seah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

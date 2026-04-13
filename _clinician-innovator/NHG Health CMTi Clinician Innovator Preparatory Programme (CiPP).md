@@ -31,6 +31,11 @@ with primary appointments at NHG Health institutions.
 degrees in clinical practice, such as nurses, pharmacists and other allied
 health professions with primary appointments at NHG Health institutions.</p>
 <p></p>
+<p>Senior Residents enrolled in an NHG Health Residency Programme&nbsp; who
+are in their final two years of residency and intend to continue with NHG
+Health upon completion of residency may be considered on an exception basis.
+These applicants will be required to submit additional supporting documents.</p>
+<p></p>
 <p>All applicants should also fulfil the following criteria:
 <br>a) Demonstrate interest in HealthTech innovation and intention to develop
 himself/herself as a Clinician Innovator (CI) but have little or no innovation
@@ -59,6 +64,9 @@ to technology development for their proposed project, are secured where
 required, before applying. Applicants may reach out to CMTi for assistance
 in matching of collaborator(s).</p>
 <p></p>
+<p>Any intellectual property (IP) developed in relation to the project would
+be managed in accordance with the prevailing NHG Health IP Policy.</p>
+<p></p>
 <p>Interested clinicians are strongly encouraged to contact the CiPP Secretariat
 for discussion on suitability of the programme prior to applying.</p>
 </div>
@@ -82,15 +90,6 @@ scan the QR code below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/CI Clinician Innovator/CIPP Pics/CiPP_Coaching_QR_code.png">
 </div>
-<p></p>
-<p>If the proposed project encompasses a software/digital technology component,
-applicants are required to complete the e-learn module on eLEARN prior
-to the coaching session for a more fruitful discussion.</p>
-<p>Please follow the steps to access the module:
-<br>1) Login to your <a href="https://elearn.sg/nhg/Login" rel="noopener nofollow" target="_blank">NHG Health eLEARN Account</a>
-<br>2) Select "Marketplace"
-<br>3) Search “Digital Health Applications (DHA) Clinic”
-<br>4) Select “Register” to enrol and complete the module.</p>
 </div>
 </details>
 </div>
@@ -161,7 +160,7 @@ not be considered.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 Oct 2025 (Tue)</strong>
+<p><strong>14 Apr 2026 (Tue)</strong>
 </p>
 </td>
 </tr>
@@ -171,15 +170,14 @@ not be considered.</p>
 <br>a) Application Form
 <br>b) Applicant’s Curriculum Vitae (CV)
 <br>c) Mentor’s CV
-<br>d) Screenshot of completed e-learn module on Digital Health Applications
-(DHA) Clinic (<em>applicable only if project encompasses software/digital technology component)</em>;
+<br>d) Written proof of intent to collaborate from Collaborator(s) (i.e.,
+email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development)</em>;
 and
-<br>e) Written proof of intent to collaborate from Collaborator(s)
-<br>(i.e., email or letter of intent) (<em>applicable only if project requires collaborator(s) for technology development).</em>
-</p>
+<br>e) Supporting documents indicating continuation with NHG Health post-residency
+and support from Residency PD and HOD (<em>applicable for Residents only</em>).</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>09 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -192,7 +190,7 @@ and
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CiPP Information Sheet - FY2025</strong>
+<summary><strong>CiPP Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
@@ -200,22 +198,23 @@ programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippinfosheetapr26" rel="noopener nofollow" target="_blank">CiPP Information Sheet</a>.</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CiPP Application Package - FY2025</strong>
+<summary><strong>CiPP Application Package - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CiPP Application Package consists of the following documents:
 <br>1) Information Sheet
 <br>2) Application Form
-<br>3) Application Checklist (for reference only)
-<br>4) Funding Guidelines (for reference only)</p>
+<br>3) Application Checklist <em>(for reference only)</em> 
+<br>4) Funding Guidelines <em>(for reference only)</em>
+</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippappoct25" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippappapr26" rel="noopener nofollow" target="_blank">CiPP Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -232,7 +231,7 @@ Change of Project Scope
 <br>3) Final Report Template
 <br>4) Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cippformsoct25" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates</a>.</p>
+<p>Download the latest <a href="https://for.sg/cippformsapr26" rel="noopener nofollow" target="_blank">CiPP Forms &amp; Templates</a>.</p>
 </div>
 </details>
 </div>

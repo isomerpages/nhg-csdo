@@ -164,7 +164,8 @@ himself/herself as a Clinician Innovator (CI).</p>
 <p>Awardees and applicants of NMRC Human Capital Awards and Talent Development
 Programmes such as Transition Award (TA), Clinician Innovator Award (CIA),
 Clinician Scientist Award (CSA), HPHSR CSA (HCSA) and Singapore Translational
-Research Investigator Award (STaR), will not be eligible for the CiPP+.</p>
+Research Investigator Award (STaR) may be considered for the CiPP+ on an
+exception basis.</p>
 <p></p>
 </li>
 <li>
@@ -264,12 +265,36 @@ for discussion on suitability of the programme prior to applying.</p>
 </div>
 </details>
 </div>
-<h4><strong>CiPP+ Information Sheet - FY2025</strong></h4>
+<h4><strong>Resources</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CiPP+ Information Sheet - FY2026</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
 programme, award components, eligibility, application procedure, evaluation
 criteria and expected deliverables etc., and should be read carefully before
 proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/cippplusinfosheetoct25" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
+<p></p>
+<p>Download the latest <a href="https://for.sg/cippplusinfosheetapr26" rel="noopener nofollow" target="_blank">CiPP+ Information Sheet</a>.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>CiPP+ Forms &amp; Templates</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The CiPP Forms &amp; Templates zip folder consists of the following documents:
+<br>1) Variation Forms - Budget Variation, Unbudgeted Item, Time Extension
+<br>2) Interim Report Template
+<br>3) Final Report Template
+<br>4) Funding Guidelines
+<br>5) Protected Time Logsheet</p>
+<p>Download the latest <a href="https://for.sg/cippplusformsapr26" rel="noopener nofollow" target="_blank">CiPP+ Forms &amp; Templates</a>.</p>
+</div>
+</details>
+</div>
 <h4><strong>Past CiPP+ Awardees</strong></h4>
 <p>Download the list of <a href="https://for.sg/cippplusawards" rel="noopener nofollow" target="_blank">past CiPP+ awardees</a>.</p>
 <h4><strong>Contact information</strong></h4>

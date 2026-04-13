@@ -1,0 +1,40 @@
+---
+title: NHG Health Research and Innovation Talent Development Programmes FY2026
+  Call for Applications I
+permalink: /nhg-health-research-and-innovation-talent-development-programmes-fy2026-call-for-applications-i/
+date: 2026-03-30
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/CS.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement Images/CI.png">
+</div>
+<p><strong>Application Process &amp; Contact Information&nbsp;</strong>
+</p>
+<p>For more information and enquiries, please visit the respective programme’s
+webpage and/or contact the programme Secretariat.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://talentdev.gri.nhg.com.sg/cspp/" rel="noopener noreferrer nofollow" target="_blank">CSPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cspp-plus/" rel="noopener noreferrer nofollow" target="_blank">CSPP+</a></strong> -
+Ms Christine Khoo (<a href="mailto:Christine.khoo.ml@nhghealth.com.sg" rel="noopener nofollow" target="_blank">Christine.khoo.ml@nhghealth.com.sg</a> /
+6038 3630)</p>
+</li>
+<li>
+<p><strong><a href="https://talentdev.gri.nhg.com.sg/cscs/" rel="noopener noreferrer nofollow" target="_blank">CSCS</a></strong> -
+Ms Nicole Yap (<a href="mailto:Nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">Nicole.yx.yap@nhghealth.com.sg</a> /
+6038 3632)</p>
+</li>
+<li>
+<p><strong><a href="https://talentdev.gri.nhg.com.sg/cipp/" rel="noopener noreferrer nofollow" target="_blank">CiPP</a></strong> and <strong><a href="https://talentdev.gri.nhg.com.sg/cipp-plus/" rel="noopener nofollow" target="_blank">CiPP+</a></strong> -
+Ms Adeline Chan (<a href="mailto:Adeline.mx.chan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">Adeline.mx.chan@nhghealth.com.sg</a> /
+6038 3631)</p>
+</li>
+</ul>
+<p></p>

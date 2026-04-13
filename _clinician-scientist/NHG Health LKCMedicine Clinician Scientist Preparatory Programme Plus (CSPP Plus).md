@@ -197,7 +197,7 @@ will not be considered.</p>
 <p>Call Opening</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>28 Oct 2025 (Tue)</p>
+<p>14 April 2026 (Tue)</p>
 </th>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ will not be considered.</p>
 certifications)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 Dec 2025 (Tue), 12pm (SGT)</strong>
+<p><strong>26 May 2026 (Tue), 12pm (SGT)</strong>
 </p>
 </td>
 </tr>
@@ -226,20 +226,20 @@ certifications)</p>
 <h4><strong>Resources</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP+ Information Sheet - FY2025</strong>
+<summary><strong>CSPP+ Information Sheet - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This document contains important information about the objective of the
 scheme, award components, eligibility, application procedure, and evaluation
 criteria, etc., and should be read carefully before proceeding to apply.</p>
-<p>Download the latest <a href="https://for.sg/cspp-plusinformationsheet" rel="noopener nofollow" target="_blank">CSPP+ Information Sheet</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-plusinfosheet1" rel="noopener nofollow" target="_blank">CSPP+ Information Sheet</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>CSPP+ Application Package - FY2025</strong>
+<summary><strong>CSPP+ Application Package - FY2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CSPP+ Application Package consists of the following documents:
@@ -249,7 +249,7 @@ criteria, etc., and should be read carefully before proceeding to apply.</p>
 <br>4. Application Checklist (for reference only)
 <br>5. CSPP+ Funding Guidelines</p>
 <p></p>
-<p>Download the latest <a href="https://for.sg/cspp-plusapplicationpackage" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
+<p>Download the latest <a href="https://for.sg/cspp-plusapplication1" rel="noopener nofollow" target="_blank">CSPP+ Application Package</a>.</p>
 <p></p>
 </div>
 </details>
@@ -265,28 +265,30 @@ Scope
 <br>2. CSPP+ Final Report Template
 <br>3. CSPP+ Funding Guidelines</p>
 <p></p>
-<p>Download the <a href="https://for.sg/cspp-plusformsandtemplates" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
+<p>Download the <a href="https://for.sg/cspp-plus-formsandtemplates" rel="noopener nofollow" target="_blank">CSPP+ Forms &amp; Templates Package here</a>.</p>
 <p></p>
 </div>
 </details>
 </div>
 <p></p>
 <h4><strong>Past CSPP+ Awardees</strong></h4>
-<p>Download the list of <a href="https://for.sg/cspp-pluspastawardees" rel="noopener nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
+<p>Download the list of <a href="https://for.sg/cspp-plus-past-awardees1" rel="noopener nofollow" target="_blank">past CSPP+ Awardees</a>.</p>
 <p></p>
 <h4><strong>Contact information</strong></h4>
 <p>For more information and further enquiries, please contact the Secretariat:</p>
-<p><strong>Ms Nicole Yap</strong>
+<p></p>
+<p><strong>Ms Christine Khoo</strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
-<br>Tel: (65) 6038 3632
-<br>Email: <a href="mailto:nicole.yx.yap@nhghealth.com.sg" rel="noopener nofollow" target="_blank">nicole.yx.yap@nhghealth.com.sg</a>
+<br>Tel: (65) 6038 3630
+<br>Email: <a href="mailto:christine.khoo.ml@nhghealth.com.sg" rel="noopener nofollow" target="_blank">christine.khoo.ml@nhghealth.com.sg</a>
 </p>
-<p><strong>Ms Syarafina Hasan </strong>
+<p></p>
+<p><strong>Ms Valerie Yeo </strong>
 <br>Clinician Scientist Development Office
 <br>Group Research &amp; Innovation, NHG Health
-<br>Tel: (65) 6038 3634
-<br>Email: <a href="mailto:syarafina.hasan@nhghealth.com.sg" rel="noopener nofollow" target="_blank">syarafina.hasan@nhghealth.com.sg</a>
+<br>Tel: (65) 6038 3628
+<br>Email: <a href="mailto:valerie.mh.yeo@nhghealth.com.sg" rel="noopener nofollow" target="_blank">valerie.mh.yeo@nhghealth.com.sg</a>
 </p>
 <p></p>
 <p></p>

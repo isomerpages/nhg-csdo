@@ -44,7 +44,7 @@ Innovators).</p>
 </td>
 </tr>
 <tr>
-<td rowspan="6" colspan="1">
+<td rowspan="7" colspan="1">
 <p><strong>Clinician</strong>
 <br><strong>Innovator</strong>
 <br><strong>Award</strong>
@@ -96,6 +96,14 @@ Innovators).</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TTSH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Kaan Hung Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KTPH</p>
 </td>
 </tr>
 </tbody>
