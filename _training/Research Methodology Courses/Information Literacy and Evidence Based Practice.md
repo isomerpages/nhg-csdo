@@ -35,7 +35,7 @@ the evolving needs of healthcare practices in today's dynamic environment.</p>
 <p>Download the <a href="/files/Training/Agenda__Intro_to_Information_Literacy_in_Evidence_Practice_NS.pdf" rel="noopener nofollow" target="_blank">Information Literacy and Evidence-Based Practice.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is on <strong>20 May 2026</strong>.</p>
+<p>The next run of this course is on <strong>27 Jan 2027</strong>.</p>
 <h4><strong>Registration</strong></h4>
 <p>Registration for this Course is <strong>currently open. </strong><a href="https://form.gov.sg/69d3657bc4e81b2eacacc34f" rel="noopener nofollow" target="_blank">Please click here to register</a>
 </p>
