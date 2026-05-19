@@ -21,8 +21,9 @@ accurate responses and results of the respondents.</p>
 <p>Download the <a href="/files/Training/Agenda_Questionnaire_Design__NS_.pdf" rel="noopener nofollow" target="_blank">Agenda for the Questionnaire Design Workshop here.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is on <strong>28 August 2025, 9.00am - 5.00pm</strong>.</p>
+<p>The next run of this course is on <strong>27 October 2026.</strong>
+</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently open. </strong><a href="https://form.gov.sg/67f7720b990af072f0062302" rel="noopener nofollow" target="_blank">Register for Questionnaire Design Workshop here</a>
+<p>Registration for this Course is <strong>currently open. </strong><a href="https://form.gov.sg/69e7150b9aae206b402f304c" rel="noopener nofollow" target="_blank">Click here to register.</a>
 </p>
 <p></p>
