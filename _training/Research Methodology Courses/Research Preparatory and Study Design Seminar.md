@@ -17,9 +17,9 @@ different research studies.</p>
 <p>Download the <a href="/files/Training/Agenda__Research_Preparatory_and_Study_Design_NS.pdf" rel="noopener nofollow" target="_blank">Agenda for the Research Preparatory and Study Design Seminar here.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is to be updated.</p>
+<p>The next run of this course is on <strong>28 July 2026</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this course is currently <strong>closed</strong>.
+<p>Registration for this course is currently <strong>open</strong>. <a href="https://form.gov.sg/6a014509e5e02e5b6e674b13" rel="noopener nofollow" target="_blank">Click here to register.</a>.
 <br>
 <br>
 </p>
