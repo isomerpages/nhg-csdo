@@ -6,31 +6,40 @@ description: ""
 third_nav_title: Research Methodology Courses
 ---
 <h4><strong>Synopsis</strong></h4>
-<p>In the ever-evolving landscape of healthcare, researchers and clinicians
-grapple with unique questions pertinent to patient care, demanding the
-acquisition of expert skills for effective evidence search and evaluation.
-The contemporary healthcare arena necessitates advanced capabilities in
-information retrieval and assessment, making it imperative for both researchers
-and clinicians to cultivate proficiency in these areas.</p>
-<p></p>
-<p>This introductory workshop offers both clinicians and researchers a holistic
-approach, delving into expert search skills while incorporating advanced
-techniques in data collection, extraction, and screening to fortify the
-research methodology.</p>
-<p></p>
-<p>Proficient literature review not only enhances evidence-based care but
-also directly impacts positive patient outcomes. To further enrich the
-learning experience, an innovative smartphone delivered AI tool in the
-form of a chatbot is introduced; the <strong>Rileybot</strong>.</p>
-<p></p>
-<p>Developed collaboratively by the medical library and faculty from LKCMedicine, <strong>Rileybot</strong> serves
-as an unparalleled resource, complementing the workshop's objectives and
-providing invaluable assistance to learners on their information literacy
-journey.</p>
-<p></p>
-<p>By equipping both researchers and clinicians with essential skills in
-information literacy and evidence-based medicine, the workshop addresses
-the evolving needs of healthcare practices in today's dynamic environment.</p>
+<p>This workshop equips healthcare professionals with practical information
+literacy skills required to locate, evaluate, and apply evidence in clinical
+practice and research. Participants will learn how to formulate structured
+clinical questions, conduct effective literature searches using major biomedical
+databases, assess evidence quality, and synthesise findings for academic
+and clinical writing. The programme also introduces emerging AI-assisted
+tools for literature discovery, enabling participants to understand both
+their potential and limitations within responsible research workflows.&nbsp;</p>
+<p>Learning outcomes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Formulate well-structured clinical or research questions using the PICO
+framework.</p>
+</li>
+<li>
+<p>Conduct effective literature searches using keywords, Boolean operators,
+and MeSH terms.</p>
+</li>
+<li>
+<p>Develop systematic and reproducible search strategies across key medical
+databases.</p>
+</li>
+<li>
+<p>Apply AI-assisted tools responsibly to support literature discovery.</p>
+</li>
+<li>
+<p>Recognise basic principles of critical appraisal and evidence quality
+assessment.</p>
+</li>
+<li>
+<p>Synthesise evidence and apply appropriate citation practices in academic
+writing.</p>
+</li>
+</ul>
 <h4><strong>Agenda</strong></h4>
 <p>Download the <a href="/files/Training/Agenda__Intro_to_Information_Literacy_in_Evidence_Practice_NS.pdf" rel="noopener nofollow" target="_blank">Information Literacy and Evidence-Based Practice.</a>
 </p>
