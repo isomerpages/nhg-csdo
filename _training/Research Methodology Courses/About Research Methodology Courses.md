@@ -14,7 +14,23 @@ or grant proposal to increase your chances in research and grant application.</p
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://talentdev.gri.nhg.com.sg/info-literacy-workshop/" rel="noopener nofollow" target="_blank">Introduction to Information Literacy in Evidence Based Practice (20 May 2026)</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Introduction to Information Literacy in Evidence Based Practice (27 Jan 2027)</a>
+</p>
+</li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/manuscript-poster-seminar/" rel="noopener nofollow" target="_blank">Manuscript Writing &amp; Poster Presentation (14 Jul 2026)</a>
+</p>
+</li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/researchpreparatory-seminar/" rel="noopener nofollow" target="_blank">Research Preparatory &amp; Study Design (28 Jul 2026)</a>
+</p>
+</li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/prognostic-modelling/" rel="noopener nofollow" target="_blank">Prognostic Modelling (22 Sep 2026)</a>
+</p>
+</li>
+<li>
+<p><a href="https://talentdev.gri.nhg.com.sg/questionnaire-design/" rel="noopener nofollow" target="_blank">Questionnaire Design (27 Oct 2026)</a>
 </p>
 </li>
 </ul>
