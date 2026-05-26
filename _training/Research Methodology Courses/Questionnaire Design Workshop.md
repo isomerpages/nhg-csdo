@@ -24,6 +24,6 @@ accurate responses and results of the respondents.</p>
 <p>The next run of this course is on <strong>27 October 2026.</strong>
 </p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>currently open. </strong><a href="https://form.gov.sg/69e7150b9aae206b402f304c" rel="noopener nofollow" target="_blank">Click here to register.</a>
+<p>Registration for this Course is currently<strong> open. </strong><a href="https://form.gov.sg/69e7150b9aae206b402f304c" rel="noopener nofollow" target="_blank">Click here to register.</a>
 </p>
 <p></p>
