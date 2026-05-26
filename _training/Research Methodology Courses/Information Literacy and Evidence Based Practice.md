@@ -41,7 +41,7 @@ writing.</p>
 </li>
 </ul>
 <h4><strong>Agenda</strong></h4>
-<p>Download the <a href="/files/Training/Agenda__Intro_to_Information_Literacy_in_Evidence_Practice_NS.pdf" rel="noopener nofollow" target="_blank">Information Literacy and Evidence-Based Practice.</a>
+<p>Download the <a href="/files/Training/Agenda__Intro_to_Information_Literacy_in_Evidence_Practice_NS.pdf" rel="noopener nofollow" target="_blank">Introduction to Information Literacy and Evidence-Based Practice.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
 <p>The next run of this course is on <strong>27 Jan 2027</strong>.</p>
