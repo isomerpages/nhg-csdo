@@ -19,9 +19,9 @@ research results.</p>
 <a href="/files/Training/Agenda__Prognostic_Model_Course_NS.pdf" rel="noopener nofollow" target="_blank">.</a>
 </p>
 <h4><strong>Schedule</strong></h4>
-<p>The next run of this course is on <strong>7 Jan 2026</strong>.</p>
+<p>The next run of this course is on <strong>22 September 2026</strong>.</p>
 <h4><strong>Registration</strong></h4>
-<p>Registration for this Course is <strong>open</strong>. <a href="https://form.gov.sg/67f7745ae01289775b37a93a" rel="noopener nofollow" target="_blank">Register for Prognostic Modelling course here.</a>
+<p>Registration for this Course is <strong>open</strong>. <a href="https://form.gov.sg/69e085633d7a4337169a2e3c" rel="noopener nofollow" target="_blank">Click here to register.</a>
 </p>
 <p></p>
 <p></p>
