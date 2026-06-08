@@ -62,7 +62,7 @@ third_nav_title: Researchers & Innovators
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_NHG_edited_Jun_2025.pdf" rel="noopener nofollow" target="_blank">Daniel Fung</a>
+<p><a href="/files/Researcher Directory/IMH/Daniel_Fung_NHG_edited_Jun_2026.pdf" rel="noopener nofollow" target="_blank">Daniel Fung</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
